@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6ex", "6ex\6ex.csproj", "{3D3D9E4A-E4C5-4CE1-9723-5B1111D269DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D3D9E4A-E4C5-4CE1-9723-5B1111D269DF}.Debug|x86.ActiveCfg = Debug|x86
+		{3D3D9E4A-E4C5-4CE1-9723-5B1111D269DF}.Debug|x86.Build.0 = Debug|x86
+		{3D3D9E4A-E4C5-4CE1-9723-5B1111D269DF}.Release|x86.ActiveCfg = Release|x86
+		{3D3D9E4A-E4C5-4CE1-9723-5B1111D269DF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = 6ex\6ex.csproj
+	EndGlobalSection
+EndGlobal
