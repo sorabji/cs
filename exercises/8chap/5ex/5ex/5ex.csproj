@@ -37,7 +37,12 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AssemblyInfo.cs" />
-    <Compile Include="Patient.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <ProjectReference Include="..\Patient\Patient.csproj">
+      <Project>{6E571394-EA64-4096-BCC2-16992E4EAF68}</Project>
+      <Name>Patient</Name>
+    </ProjectReference>
+  </ItemGroup>
 </Project>

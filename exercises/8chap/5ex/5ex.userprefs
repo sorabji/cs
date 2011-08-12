@@ -1,10 +1,18 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" ctype="Workspace" />
-  <MonoDevelop.Ide.Workbench ctype="Workbench">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Patient/Patient.cs" ctype="Workbench">
+    <Files>
+      <File FileName="5ex/Main.cs" Line="20" Column="39" />
+      <File FileName="Patient/Patient.cs" Line="90" Column="37" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
           <Node name="5ex" expanded="True">
+            <Node name="References" expanded="True" />
+          </Node>
+          <Node name="Patient" expanded="True">
+            <Node name="References" expanded="True" />
             <Node name="Patient.cs" selected="True" />
           </Node>
         </State>
