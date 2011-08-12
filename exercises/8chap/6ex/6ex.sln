@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6ex", "6ex\6ex.csproj", "{E9534101-F903-4739-838B-F6C386337E57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "shapes\Shapes.csproj", "{326237A6-3650-45B3-8315-C86A6D009CDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{326237A6-3650-45B3-8315-C86A6D009CDB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{326237A6-3650-45B3-8315-C86A6D009CDB}.Debug|x86.Build.0 = Debug|Any CPU
+		{326237A6-3650-45B3-8315-C86A6D009CDB}.Release|x86.ActiveCfg = Release|Any CPU
+		{326237A6-3650-45B3-8315-C86A6D009CDB}.Release|x86.Build.0 = Release|Any CPU
+		{E9534101-F903-4739-838B-F6C386337E57}.Debug|x86.ActiveCfg = Debug|x86
+		{E9534101-F903-4739-838B-F6C386337E57}.Debug|x86.Build.0 = Debug|x86
+		{E9534101-F903-4739-838B-F6C386337E57}.Release|x86.ActiveCfg = Release|x86
+		{E9534101-F903-4739-838B-F6C386337E57}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = 6ex\6ex.csproj
+	EndGlobalSection
+EndGlobal

@@ -3,18 +3,18 @@ namespace PatientLib
 {
 	public class Patient : IComparable
 	{
-		private int id,age;
-		private double amountDue;
-		private string name;
+		protected int id,age;
+		protected double amountDue;
+		protected string name;
 		
 		public Patient (){}
 		
 		public Patient (int id, int age, double amountDue, string name)
 		{
-			this.id = id;
-			this.age = age;
-			this.amountDue = amountDue;
-			this.name = name;
+			this.Id = id;
+			this.Age = age;
+			this.AmountDue = amountDue;
+			this.Name = name;
 		}
 
 		public int Id {
@@ -35,7 +35,7 @@ namespace PatientLib
 			}
 		}
 
-		public double AmountDue {
+		public virtual double AmountDue {
 			get {
 				return this.amountDue;
 			}

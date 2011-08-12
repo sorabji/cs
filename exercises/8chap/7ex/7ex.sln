@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7ex", "7ex\7ex.csproj", "{74DBA1D9-0B8B-4E8C-BFE8-535018E049F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recoverable", "Recoverable\Recoverable.csproj", "{84D05E97-42D1-4FAD-85A2-77565F33EA74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74DBA1D9-0B8B-4E8C-BFE8-535018E049F9}.Debug|x86.ActiveCfg = Debug|x86
+		{74DBA1D9-0B8B-4E8C-BFE8-535018E049F9}.Debug|x86.Build.0 = Debug|x86
+		{74DBA1D9-0B8B-4E8C-BFE8-535018E049F9}.Release|x86.ActiveCfg = Release|x86
+		{74DBA1D9-0B8B-4E8C-BFE8-535018E049F9}.Release|x86.Build.0 = Release|x86
+		{84D05E97-42D1-4FAD-85A2-77565F33EA74}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{84D05E97-42D1-4FAD-85A2-77565F33EA74}.Debug|x86.Build.0 = Debug|Any CPU
+		{84D05E97-42D1-4FAD-85A2-77565F33EA74}.Release|x86.ActiveCfg = Release|Any CPU
+		{84D05E97-42D1-4FAD-85A2-77565F33EA74}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = 7ex\7ex.csproj
+	EndGlobalSection
+EndGlobal
