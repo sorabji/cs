@@ -8,7 +8,6 @@ namespace project_one
 		public static void Main (string[] args)
 		{
 			Book[] books = BookHandling.ReadBooksFromFile();
-			Console.Write(books.Length);
 			foreach (Book book in books) {
 				Console.Write(book);
 			}

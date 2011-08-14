@@ -18,13 +18,13 @@ import sys
 
 #outfile = "books.data"
 outfile = sys.argv[1]
-path = os.path.join(os.path.expanduser('~'),'bookLists')
+#path = os.path.join(os.path.expanduser('~'),'bookLists')
+path = os.path.join(os.path.curdir,'bookLists')
 #csvWriter = csv.writer(open(outfile,"w"),delimiter="|")
 outfile = open(outfile,'w')
 files = os.listdir(path)
 
 for infile in files:
-    print infile
     jsonData = json.load(open(os.path.join(path,infile)))
     for item in jsonData[u'items']:
         curData = []
@@ -59,12 +59,17 @@ for infile in files:
         curData.append(listPrice)
         curData.append(retailPrice)
         #csvWriter.writerow(curData)
+        i = 0
         for x in curData:
-            tmp = "|%(var)s"%{'var':x}
+            if i < 4:
+                tmp = "%(var)s|"%{'var':x}
+            else:
+                tmp = "%(var)s"%{'var':x}
+            i += 1
             try:
                 outfile.write(tmp)
             except UnicodeEncodeError:
-                outfile.write("|unicodeErrorHere")
-        outfile.write("|\n")
+                outfile.write("unicodeErrorHere|")
+        outfile.write("\n")
 
 outfile.close()

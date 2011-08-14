@@ -4,14 +4,15 @@ namespace Books
 	public class Book
 	{
 		private string title,author,isbn;
-		private double price;
+		private double listPrice,retailPrice;
 		
-		public Book (string title, string author, string isbn, double price)
+		public Book (string title, string author, string isbn, double listPrice,double retailPrice)
 		{
 			this.title = title;
 			this.author = author;
 			this.isbn = isbn;
-			this.price = price;
+			this.listPrice = listPrice;
+			this.retailPrice = retailPrice;
 		}
 
 		public string Title {
@@ -41,21 +42,28 @@ namespace Books
 			}
 		}
 
-		public double Price {
+		public double ListPrice {
 			get {
-				return this.price;
+				return this.listPrice;
 			}
 			set {
-				price = value;
+				listPrice = value;
+			}
+		}
+		
+		public double RetailPrice {
+			get {
+				return this.retailPrice;
+			}
+			set {
+				retailPrice = value;
 			}
 		}
 		
 		public override string ToString ()
 		{
-			/*return string.Format ("[Book: title={0}\nauthor={1}\nisbn={2}\nprice={3}]\n\n", 
-			                      title, author, isbn, price);
-			                      */
-			return "";
+			return string.Format ("[Book: title={0}\nauthor={1}\nisbn={2}\nlistPrice={3}]\nretailPrice={4}\n\n", 
+			                      title, author, isbn, listPrice.ToString("C"),retailPrice.ToString("C"));
 		}
 		
 

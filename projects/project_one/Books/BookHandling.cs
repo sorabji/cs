@@ -10,7 +10,7 @@ namespace Books
 		{
 			string title, author, isbn;
 			string[] tokens;
-			double price;
+			double listPrice,retailPrice;
 			
 			string path = System.Environment.CurrentDirectory;
 			string[] lines = System.IO.File.ReadAllLines (System.IO.Path.Combine (path, filename));
@@ -20,11 +20,15 @@ namespace Books
 				isbn = tokens[0];
 				title = tokens[1];
 				author = tokens[2];
-				if (!Double.TryParse ((tokens[3]), out price))
+				if (!Double.TryParse ((tokens[3]), out listPrice))
 				{
 					Console.WriteLine ("double parsing error on line: {0}", (i + 1));
 				}
-				b[i] = new Book(title,author,isbn,price);
+				if (!Double.TryParse ((tokens[4]), out retailPrice))
+				{
+					Console.WriteLine ("double parsing error on line: {0}", (i + 1));
+				}
+				b[i] = new Book(title,author,isbn,listPrice,retailPrice);
 			}
 			return b;
 		}
