@@ -1,0 +1,600 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "2Xhsv3Udk7AC",
+   "etag": "x4Nc4igu2mE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2Xhsv3Udk7AC",
+   "volumeInfo": {
+    "title": "On religion",
+    "authors": [
+     "John D. Caputo"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2001",
+    "description": "This is an accessible account of religion and religious thinking that addresses the problems it faces in contemporary culture.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "041523333X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415233330"
+     }
+    ],
+    "pageCount": 147,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 9,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d2Xhsv3Udk7AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d2Xhsv3Udk7AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2Xhsv3Udk7AC&printsec\u003dfrontcover&dq\u003dReligion&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2Xhsv3Udk7AC&dq\u003dReligion&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.17,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d2Xhsv3Udk7AC&dq\u003dReligion&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/On_religion-sample-epub.acsm?id\u003d2Xhsv3Udk7AC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/On_religion-sample-pdf.acsm?id\u003d2Xhsv3Udk7AC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "t0bzayPU9KgC",
+   "etag": "N+UubPWj1lQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/t0bzayPU9KgC",
+   "volumeInfo": {
+    "title": "Religion",
+    "authors": [
+     "Jacques Derrida",
+     "Gianni Vattimo"
+    ],
+    "publisher": "Stanford Univ Pr",
+    "publishedDate": "1998-09-01",
+    "description": "Three of the most important philosophers of our time—Jacques Derrida, Gianni Vattimo, and Hans-Georg Gadamer—together with other distinguished thinkers ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0804734879"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780804734875"
+     }
+    ],
+    "pageCount": 211,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dt0bzayPU9KgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dt0bzayPU9KgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dt0bzayPU9KgC&printsec\u003dfrontcover&dq\u003dReligion&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dt0bzayPU9KgC&dq\u003dReligion&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lH1AAAAAIAAJ",
+   "etag": "w/Cz4QOC5tI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lH1AAAAAIAAJ",
+   "volumeInfo": {
+    "title": "On religion",
+    "subtitle": "speeches to its cultured despisers",
+    "authors": [
+     "Friedrich Schleiermacher"
+    ],
+    "publishedDate": "1893",
+    "description": "At all times but few have discerned \u003cb\u003ereligion\u003c/b\u003e itself, while millions, in various \u003cbr\u003e\r\nways, have been satisfied to juggle with its trappings. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B107780"
+     }
+    ],
+    "pageCount": 287,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 5,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dlH1AAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dlH1AAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlH1AAAAAIAAJ&printsec\u003dfrontcover&dq\u003dReligion&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlH1AAAAAIAAJ&dq\u003dReligion&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/On_religion.epub?id\u003dlH1AAAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/On_religion.pdf?id\u003dlH1AAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1OV1E6S8W7BnTYyEnLV5Q2TBbVPA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "w-v6NgggfRgC",
+   "etag": "vwpRNOJmpw0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/w-v6NgggfRgC",
+   "volumeInfo": {
+    "title": "Religion",
+    "subtitle": "the basics",
+    "authors": [
+     "Malory Nye"
+    ],
+    "publisher": "Taylor & Francis",
+    "publishedDate": "2008-07-07",
+    "description": "The new edition includes updated discussions of: The psychology of religion Globalisation and multiculturalism Spirituality in the West New Religious Movements.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415449472"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415449472"
+     }
+    ],
+    "pageCount": 232,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dw-v6NgggfRgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dw-v6NgggfRgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dw-v6NgggfRgC&printsec\u003dfrontcover&dq\u003dReligion&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dw-v6NgggfRgC&dq\u003dReligion&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dw-v6NgggfRgC&dq\u003dReligion&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Religion-sample-epub.acsm?id\u003dw-v6NgggfRgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Religion-sample-pdf.acsm?id\u003dw-v6NgggfRgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0MTazZni9DQC",
+   "etag": "CPId7k4DnQg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0MTazZni9DQC",
+   "volumeInfo": {
+    "title": "The Religion",
+    "authors": [
+     "Tim Willocks"
+    ],
+    "publisher": "Tor Books",
+    "publishedDate": "2008-04-29",
+    "description": "Carla, a French countess, enlists the aid of a German sword-for-hire when she travels from her home to Malta in search of the boy she gave up at birth twelve ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0765357550"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780765357557"
+     }
+    ],
+    "pageCount": 688,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 100,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d0MTazZni9DQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d0MTazZni9DQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0MTazZni9DQC&printsec\u003dfrontcover&dq\u003dReligion&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0MTazZni9DQC&dq\u003dReligion&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d0MTazZni9DQC&dq\u003dReligion&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Religion-sample-epub.acsm?id\u003d0MTazZni9DQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Religion-sample-pdf.acsm?id\u003d0MTazZni9DQC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sDUbP8VhBvUC",
+   "etag": "Wcvsc8Yxy4c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sDUbP8VhBvUC",
+   "volumeInfo": {
+    "title": "Religion",
+    "subtitle": "beyond a concept",
+    "authors": [
+     "Hent de Vries"
+    ],
+    "publisher": "Fordham Univ Pr",
+    "publishedDate": "2008",
+    "description": "Has religion as an overarching concept lost all its currency, or does it ineluctably return--sometimes in unexpected ways--the moment we attempt to do without ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0823227243"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780823227242"
+     }
+    ],
+    "pageCount": 1006,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dsDUbP8VhBvUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dsDUbP8VhBvUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dsDUbP8VhBvUC&printsec\u003dfrontcover&dq\u003dReligion&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dsDUbP8VhBvUC&dq\u003dReligion&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 72.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 57.6,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dsDUbP8VhBvUC&dq\u003dReligion&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Religion-sample-epub.acsm?id\u003dsDUbP8VhBvUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Religion-sample-pdf.acsm?id\u003dsDUbP8VhBvUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wreF80OHTicC",
+   "etag": "f25XwdFmpls",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wreF80OHTicC",
+   "volumeInfo": {
+    "title": "Religion explained",
+    "subtitle": "the evolutionary origins of religious thought",
+    "authors": [
+     "Pascal Boyer"
+    ],
+    "publisher": "Egully.com",
+    "publishedDate": "2002-05-01",
+    "description": "Draws on research from anthropology, cognitive science, linguistics, and evolutionary biology to explain the origins of religion and human religious thought, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0465006965"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780465006960"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 34,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dwreF80OHTicC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dwreF80OHTicC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwreF80OHTicC&printsec\u003dfrontcover&dq\u003dReligion&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwreF80OHTicC&dq\u003dReligion&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "q9QNAAAAYAAJ",
+   "etag": "DvYhs/RDdqw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/q9QNAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Religion",
+    "subtitle": "a criticism and a forecast",
+    "authors": [
+     "Goldsworthy Lowes Dickinson"
+    ],
+    "publishedDate": "1905",
+    "description": "CHAPTER I ECCLESIASTICISM The practical importance of \u003cb\u003ereligion\u003c/b\u003e in the history of \u003cbr\u003e\r\nsociety, the profound influence it has exercised from the beginning upon \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HNQ3P2"
+     }
+    ],
+    "pageCount": 83,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dq9QNAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dq9QNAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dq9QNAAAAYAAJ&printsec\u003dfrontcover&dq\u003dReligion&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dq9QNAAAAYAAJ&dq\u003dReligion&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Religion.epub?id\u003dq9QNAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Religion.pdf?id\u003dq9QNAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3DaOQUXdobTjE5TWxL8vNxygbWeQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "u6LdsUAdwcwC",
+   "etag": "22I82XmA7h4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u6LdsUAdwcwC",
+   "volumeInfo": {
+    "title": "On religion",
+    "subtitle": "the revelation of God as the sublimation of religion",
+    "authors": [
+     "Karl Barth"
+    ],
+    "publisher": "Tamp;t Clark Ltd",
+    "publishedDate": "2007-01-01",
+    "description": "In On Religion, a fresh translation of [section]17 of Karl Barth&#39;s Church Dogmatics, Garrett Green challenges this misconception by correcting a number of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0567031098"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780567031099"
+     }
+    ],
+    "pageCount": 140,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003du6LdsUAdwcwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003du6LdsUAdwcwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003du6LdsUAdwcwC&printsec\u003dfrontcover&dq\u003dReligion&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003du6LdsUAdwcwC&dq\u003dReligion&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xKCDXIgphjQC",
+   "etag": "Kb03wqVILJI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xKCDXIgphjQC",
+   "volumeInfo": {
+    "title": "Religion",
+    "subtitle": "Judentum: allgemeines, palastinensisches Judentum",
+    "authors": [
+     "Wolfgang Haase",
+     "Hildegard Temporini"
+    ],
+    "publishedDate": "1979-12-31",
+    "description": "Da Qohelet al tempo di Gesü. Alcune linee del pensiero giudaico di PAOLO SACCHI, \u003cbr\u003e\r\nTorino Sommario I. Premessa 4 1. Difficolta di datazione delle opere \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3110079682"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783110079685"
+     }
+    ],
+    "pageCount": 875,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dxKCDXIgphjQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dxKCDXIgphjQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxKCDXIgphjQC&printsec\u003dfrontcover&dq\u003dReligion&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxKCDXIgphjQC&dq\u003dReligion&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 589
+}

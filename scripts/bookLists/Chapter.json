@@ -1,0 +1,614 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "aItYLFlMpEkC",
+   "etag": "oBThBt2FLB8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aItYLFlMpEkC",
+   "volumeInfo": {
+    "title": "How to File for Chapter 7 Bankruptcy",
+    "authors": [
+     "Stephen Elias",
+     "Albin Renauer",
+     "Robin Leonard"
+    ],
+    "publisher": "Nolo",
+    "publishedDate": "2009-11-02",
+    "description": "If you&#39;re considering bankruptcy, here are all the forms and practical advice you need to succeed.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1413310605"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781413310603"
+     }
+    ],
+    "pageCount": 555,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003daItYLFlMpEkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003daItYLFlMpEkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daItYLFlMpEkC&printsec\u003dfrontcover&dq\u003dChapter&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daItYLFlMpEkC&dq\u003dChapter&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003daItYLFlMpEkC&dq\u003dChapter&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/How_to_File_for_Chapter_7_Bankruptcy-sample-epub.acsm?id\u003daItYLFlMpEkC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/How_to_File_for_Chapter_7_Bankruptcy-sample-pdf.acsm?id\u003daItYLFlMpEkC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SqXj5uJ7wpQC",
+   "etag": "wnpuFbw8Ar8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SqXj5uJ7wpQC",
+   "volumeInfo": {
+    "title": "Chapter 13 Bankruptcy",
+    "subtitle": "Keep Your Property & Repay Debts Over Time",
+    "authors": [
+     "Stephen Elias",
+     "Robin Leonard"
+    ],
+    "publisher": "Nolo",
+    "publishedDate": "2009-11-02",
+    "description": "Are creditors threatening foreclosure or repossession? This book will show you how to save your house, car and other assets with &quot;Chapter 13 Bankruptcy.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1413310699"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781413310696"
+     }
+    ],
+    "pageCount": 486,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dSqXj5uJ7wpQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dSqXj5uJ7wpQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSqXj5uJ7wpQC&printsec\u003dfrontcover&dq\u003dChapter&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSqXj5uJ7wpQC&dq\u003dChapter&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dSqXj5uJ7wpQC&dq\u003dChapter&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Chapter_13_Bankruptcy-sample-epub.acsm?id\u003dSqXj5uJ7wpQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Chapter_13_Bankruptcy-sample-pdf.acsm?id\u003dSqXj5uJ7wpQC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "o2QZqse8Ff4C",
+   "etag": "zHdU/rsMqpA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o2QZqse8Ff4C",
+   "volumeInfo": {
+    "title": "The Third Chapter",
+    "subtitle": "Passion, Risk, and Adventure in the 25 Years After 50",
+    "authors": [
+     "Sara Lawrence-Lightfoot"
+    ],
+    "publisher": "Farrar Straus & Giroux",
+    "publishedDate": "2009-12-22",
+    "description": "Renowned sociologist Lawrence-Lightfoot challenges the still-prevailing and anachronistic images of aging by documenting and revealing how the years between 50 ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0374532214"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780374532215"
+     }
+    ],
+    "pageCount": 282,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 33,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003do2QZqse8Ff4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003do2QZqse8Ff4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003do2QZqse8Ff4C&printsec\u003dfrontcover&dq\u003dChapter&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003do2QZqse8Ff4C&dq\u003dChapter&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003do2QZqse8Ff4C&dq\u003dChapter&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Third_Chapter-sample-epub.acsm?id\u003do2QZqse8Ff4C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Third_Chapter-sample-pdf.acsm?id\u003do2QZqse8Ff4C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sW5w27ZLekoC",
+   "etag": "ZDnLUKti77c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sW5w27ZLekoC",
+   "volumeInfo": {
+    "title": "Chapter and Hearse",
+    "authors": [
+     "Lorna Barrett"
+    ],
+    "publisher": "Berkley Prime Crime",
+    "publishedDate": "2010-08-03",
+    "description": "Mystery bookstore owner Tricia Miles has been spending more time solving whodunits than reading them.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0425236013"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780425236017"
+     }
+    ],
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 54,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dsW5w27ZLekoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dsW5w27ZLekoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dsW5w27ZLekoC&printsec\u003dfrontcover&dq\u003dChapter&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dsW5w27ZLekoC&dq\u003dChapter&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dsW5w27ZLekoC&dq\u003dChapter&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Chapter_and_Hearse-sample-epub.acsm?id\u003dsW5w27ZLekoC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LsEw1CUwaIgC",
+   "etag": "MgunH+qFzlE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LsEw1CUwaIgC",
+   "volumeInfo": {
+    "title": "The Cartel 3: The Last Chapter",
+    "authors": [
+     "Ashley",
+     "Jaquavis"
+    ],
+    "publisher": "Urban Books",
+    "publishedDate": "2010-07-27",
+    "description": "In this shocking finale to the Cartel series, Carter and his right-hand man Zyir go after Miamor, who contributed to the deaths of the entire Diamond family, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1601622570"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781601622570"
+     }
+    ],
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 30,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dLsEw1CUwaIgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dLsEw1CUwaIgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLsEw1CUwaIgC&printsec\u003dfrontcover&dq\u003dChapter&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLsEw1CUwaIgC&dq\u003dChapter&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.39,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dLsEw1CUwaIgC&dq\u003dChapter&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Cartel_3_The_Last_Chapter-sample-epub.acsm?id\u003dLsEw1CUwaIgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Cartel_3_The_Last_Chapter-sample-pdf.acsm?id\u003dLsEw1CUwaIgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7SGU0Bl4SnkC",
+   "etag": "EqJ/NI4LYCI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7SGU0Bl4SnkC",
+   "volumeInfo": {
+    "title": "A Brief Chapter in My Impossible Life",
+    "authors": [
+     "Dana Reinhardt"
+    ],
+    "publisher": "Wendy Lamb Books",
+    "publishedDate": "2007-09-11",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0375846913"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780375846915"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 117,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d7SGU0Bl4SnkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d7SGU0Bl4SnkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7SGU0Bl4SnkC&dq\u003dChapter&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7SGU0Bl4SnkC&dq\u003dChapter&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s320QL2TlxAC",
+   "etag": "5xemHfnFGgQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s320QL2TlxAC",
+   "volumeInfo": {
+    "title": "Bloody Williamson",
+    "subtitle": "A Chapter in American Lawlessness",
+    "authors": [
+     "Paul M. Angle"
+    ],
+    "publisher": "Univ of Illinois Pr",
+    "publishedDate": "1992-12-01",
+    "description": "Williamson County in southern Illinois has been the scene of almost unparalleled violence, from the Bloody Vendetta between two families in the 1870s through ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0252062337"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780252062339"
+     }
+    ],
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003ds320QL2TlxAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003ds320QL2TlxAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ds320QL2TlxAC&printsec\u003dfrontcover&dq\u003dChapter&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ds320QL2TlxAC&dq\u003dChapter&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ffj03ghdnqwC",
+   "etag": "X/tkPWeKqAw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ffj03ghdnqwC",
+   "volumeInfo": {
+    "title": "How we die",
+    "subtitle": "reflections on life's final chapter",
+    "authors": [
+     "Sherwin B. Nuland"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "1995-01-15",
+    "description": "Presents a meditation and portrait of the experience of dying that elucidates the decisions that can be made to allow each person an understanding of death, as ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0679742441"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780679742449"
+     }
+    ],
+    "pageCount": 278,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 136,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dffj03ghdnqwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dffj03ghdnqwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dffj03ghdnqwC&printsec\u003dfrontcover&dq\u003dChapter&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dffj03ghdnqwC&dq\u003dChapter&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7n7wmMp8444C",
+   "etag": "Ymu2RDS7MeY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7n7wmMp8444C",
+   "volumeInfo": {
+    "title": "Naruto: Chapter Book",
+    "authors": [
+     "Tracey West",
+     "Masashi Kishimoto"
+    ],
+    "publisher": "VIZ Media LLC",
+    "publishedDate": "2008-10-07",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1421520567"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781421520568"
+     }
+    ],
+    "pageCount": 80,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d7n7wmMp8444C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d7n7wmMp8444C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7n7wmMp8444C&q\u003dChapter&dq\u003dChapter&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7n7wmMp8444C&dq\u003dChapter&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lJM7yHYod5gC",
+   "etag": "NIWq3XWPUk0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lJM7yHYod5gC",
+   "volumeInfo": {
+    "title": "America",
+    "subtitle": "Our Next Chapter: Tough Questions, Straight Answers",
+    "authors": [
+     "Chuck Hagel",
+     "Peter Kaminsky"
+    ],
+    "publisher": "HarperLuxe",
+    "publishedDate": "2008-04-17",
+    "description": "He decries the pervasive disease of third world poverty, arguing convincingly that this is where the real fight against terrorism must begin.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0061470333"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780061470332"
+     }
+    ],
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dlJM7yHYod5gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dlJM7yHYod5gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlJM7yHYod5gC&printsec\u003dfrontcover&dq\u003dChapter&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlJM7yHYod5gC&dq\u003dChapter&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 584
+}

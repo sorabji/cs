@@ -1,0 +1,589 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "E__5CaOqSuAC",
+   "etag": "EdiMWgXDmpY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/E__5CaOqSuAC",
+   "volumeInfo": {
+    "title": "Beginning XML",
+    "authors": [
+     "David Hunter",
+     "Jeff Rafter",
+     "Joe Fawcett",
+     "Eric van der Vlist",
+     "Danny Ayers"
+    ],
+    "publisher": "Wrox",
+    "publishedDate": "2007-05-04",
+    "description": "When the first edition of this book was written, XML was a relatively new language but already gaining ground fast and becoming more and more widely used in a ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0470114878"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470114872"
+     }
+    ],
+    "pageCount": 1039,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dE__5CaOqSuAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dE__5CaOqSuAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dE__5CaOqSuAC&printsec\u003dfrontcover&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dE__5CaOqSuAC&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 25.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 25.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dE__5CaOqSuAC&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Beginning_XML-sample-pdf.acsm?id\u003dE__5CaOqSuAC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_9892XHBt3sC",
+   "etag": "TVSWkHbZks8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_9892XHBt3sC",
+   "volumeInfo": {
+    "title": "Writing children's books for dummies",
+    "authors": [
+     "Lisa Rojany-Buccieri",
+     "Peter Economy"
+    ],
+    "publisher": "For Dummies",
+    "publishedDate": "2005-04-15",
+    "description": "Children&#39;s \u003cb\u003eBook Categories\u003c/b\u003e and Formats Children&#39;s \u003cb\u003ebooks\u003c/b\u003e can be grouped into \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e\r\nthey&#39;re buying a certain format, \u003cb\u003efind books\u003c/b\u003e presented to them in formats. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0764537288"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780764537288"
+     }
+    ],
+    "pageCount": 355,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d_9892XHBt3sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d_9892XHBt3sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_9892XHBt3sC&pg\u003dPT28&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_9892XHBt3sC&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d_9892XHBt3sC&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Writing_children_s_books_for_dummies-sample-epub.acsm?id\u003d_9892XHBt3sC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Writing_children_s_books_for_dummies-sample-pdf.acsm?id\u003d_9892XHBt3sC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2ucCAAAAMBAJ",
+   "etag": "E7OJ9lMELhc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2ucCAAAAMBAJ",
+   "volumeInfo": {
+    "title": "New York Magazine",
+    "publishedDate": "1982-09-13",
+    "description": "SPECIALTY BOOKSTORES \u003cb\u003eFinding\u003c/b\u003e That \u003cb\u003eBook\u003c/b\u003e Must Have A YOUNG WOMAN RECENTLY walked \u003cbr\u003e\r\ninto a \u003cb\u003e....\u003c/b\u003e COMICS BELONG to the ephemera, rather than \u003cb\u003ebooks\u003c/b\u003e, \u003cb\u003ecategory\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:7Z3GG15A9KX"
+     }
+    ],
+    "pageCount": 108,
+    "printType": "MAGAZINE",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d2ucCAAAAMBAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d2ucCAAAAMBAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2ucCAAAAMBAJ&pg\u003dPA41&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2ucCAAAAMBAJ&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4Wdz1_IpfS4C",
+   "etag": "qkJ9Fpr3ymk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4Wdz1_IpfS4C",
+   "volumeInfo": {
+    "title": "Starting strong",
+    "subtitle": "surviving and thriving as a new teacher",
+    "authors": [
+     "Kristen Nelson",
+     "Kim Bailey"
+    ],
+    "publisher": "Corwin Pr",
+    "publishedDate": "2007-08-14",
+    "description": "Keep \u003cb\u003ebooks\u003c/b\u003e looking nice, and place \u003cb\u003ecategory\u003c/b\u003e labels on shelves to make it easier \u003cbr\u003e\r\nfor students to \u003cb\u003efind books\u003c/b\u003e. Use beanbag chairs and throw rugs to make the \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1412955629"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781412955621"
+     }
+    ],
+    "pageCount": 219,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d4Wdz1_IpfS4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d4Wdz1_IpfS4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4Wdz1_IpfS4C&pg\u003dPA111&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4Wdz1_IpfS4C&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6V02XDYdyMIC",
+   "etag": "JyQzZPjepYM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6V02XDYdyMIC",
+   "volumeInfo": {
+    "title": "Beginning JavaScript",
+    "authors": [
+     "Paul Wilton",
+     "Jeremy McPeak"
+    ],
+    "publisher": "Wrox",
+    "publishedDate": "2011-01-21",
+    "description": "For example, if you visit the Wrox web site at www.wrox.com and then click one \u003cbr\u003e\r\nof the \u003cb\u003ebook categories\u003c/b\u003e, you&#39;ll \u003cb\u003efind\u003c/b\u003e that the path to the page navigated to is \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1118057384"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781118057384"
+     }
+    ],
+    "pageCount": 792,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 4,
+    "contentVersion": "1.2.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d6V02XDYdyMIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d6V02XDYdyMIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6V02XDYdyMIC&pg\u003dPT479&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6V02XDYdyMIC&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 25.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 25.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d6V02XDYdyMIC&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Beginning_JavaScript-sample-epub.acsm?id\u003d6V02XDYdyMIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Beginning_JavaScript-sample-pdf.acsm?id\u003d6V02XDYdyMIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tl7E8L3DHXUC",
+   "etag": "OuU9vSyul4I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tl7E8L3DHXUC",
+   "volumeInfo": {
+    "title": "From Cover to Cover",
+    "subtitle": "Evaluating and Reviewing Children's Books",
+    "authors": [
+     "Kathleen T. Horning"
+    ],
+    "publisher": "Collins",
+    "publishedDate": "2010-04-27",
+    "description": "We \u003cb\u003efind books\u003c/b\u003e that appeal to all ages from infancy up through the teen years. \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e Let&#39;s take a look at some of these \u003cb\u003ecategories\u003c/b\u003e, \u003cb\u003ebeginning\u003c/b\u003e with rhymes for \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0060777575"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780060777579"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 31,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dtl7E8L3DHXUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dtl7E8L3DHXUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtl7E8L3DHXUC&pg\u003dPA74&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtl7E8L3DHXUC&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dtl7E8L3DHXUC&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/From_Cover_to_Cover-sample-epub.acsm?id\u003dtl7E8L3DHXUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "x_PUOvc1M9kC",
+   "etag": "1+91mtyLP6E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/x_PUOvc1M9kC",
+   "volumeInfo": {
+    "title": "Fundraising For Dummies",
+    "authors": [
+     "John Mutz",
+     "Katherine Murray"
+    ],
+    "publisher": "For Dummies",
+    "publishedDate": "2011-03-08",
+    "description": "When you begin using foundation and corporation reference \u003cb\u003ebooks\u003c/b\u003e, you quickly \u003cbr\u003e\r\nrealize that grants are awarded in different \u003cb\u003ecategories\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1118054679"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781118054673"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dx_PUOvc1M9kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dx_PUOvc1M9kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dx_PUOvc1M9kC&pg\u003dPT130&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dx_PUOvc1M9kC&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Fundraising_For_Dummies-sample-epub.acsm?id\u003dx_PUOvc1M9kC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "D8yVAC8CtO4C",
+   "etag": "tAvL3SYZYW8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/D8yVAC8CtO4C",
+   "volumeInfo": {
+    "title": "Bartlett's Roget's Thesaurus",
+    "authors": [
+     "Little Brown & Company"
+    ],
+    "publisher": "Little Brown & Co",
+    "publishedDate": "2003-09-02",
+    "description": "Following many paragraphs are cross references to other \u003cb\u003ecategories\u003c/b\u003e; these are \u003cbr\u003e\r\ncited in \u003cb\u003ebook\u003c/b\u003e order with the \u003cb\u003ecategory\u003c/b\u003e title and number. The user will \u003cb\u003efind\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0316735876"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780316735872"
+     }
+    ],
+    "pageCount": 1456,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dD8yVAC8CtO4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dD8yVAC8CtO4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dD8yVAC8CtO4C&pg\u003dPR9&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dD8yVAC8CtO4C&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DW85M4Fli4IC",
+   "etag": "O3Wc2Rl9KcQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DW85M4Fli4IC",
+   "volumeInfo": {
+    "title": "Starting an EBay Business For Dummies",
+    "authors": [
+     "Marsha Collier"
+    ],
+    "publisher": "For Dummies",
+    "publishedDate": "2011-04-06",
+    "description": "\u003cb\u003eStarting\u003c/b\u003e an eBay Business For Dummies picks up where my eBay For Dummies leaves \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e In this \u003cb\u003ebook\u003c/b\u003e, you \u003cb\u003efind\u003c/b\u003e the answers to some important questions as I take \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "111806707X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781118067079"
+     }
+    ],
+    "pageCount": 408,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dDW85M4Fli4IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dDW85M4Fli4IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDW85M4Fli4IC&pg\u003dPA2&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDW85M4Fli4IC&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8vjfwJoOGXEC",
+   "etag": "s4gdyWgXt3w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8vjfwJoOGXEC",
+   "volumeInfo": {
+    "title": "How to Write a Children's Book and Get It Published",
+    "authors": [
+     "Barbara Seuling"
+    ],
+    "publisher": "Wiley",
+    "publishedDate": "2011-01-06",
+    "description": "NOVELTY \u003cb\u003eBOOKS\u003c/b\u003e This \u003cb\u003ecategory\u003c/b\u003e refers to \u003cb\u003ebooks\u003c/b\u003e that involve some unusual design, \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e many different \u003cb\u003ecategories\u003c/b\u003e of \u003cb\u003ebooks\u003c/b\u003e described in this chapter you can \u003cb\u003efind\u003c/b\u003e. \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1118045874"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781118045879"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d8vjfwJoOGXEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d8vjfwJoOGXEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8vjfwJoOGXEC&pg\u003dPT25&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8vjfwJoOGXEC&dq\u003dFind+book+categories+starting+with+H&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/How_to_Write_a_Children_s_Book_and_Get_I-sample-epub.acsm?id\u003d8vjfwJoOGXEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 599
+}

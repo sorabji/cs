@@ -1,0 +1,598 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Vt5YdgR4Rz0C",
+   "etag": "U7YRGgo4nPg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Vt5YdgR4Rz0C",
+   "volumeInfo": {
+    "title": "Fantasy",
+    "authors": [
+     "Sabrina Jeffries",
+     "Christine Feehan",
+     "Emma Holly",
+     "Elda Minger"
+    ],
+    "publisher": "Jove",
+    "publishedDate": "2002-03-26",
+    "description": "In four sensuous romance novellas, by popular authors Christine Feehan, Sabrina Jeffries, Emma Holly, and Elda Minger, a Victorian widow auctions herself off, a ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0515132764"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780515132762"
+     }
+    ],
+    "pageCount": 373,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 37,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dVt5YdgR4Rz0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dVt5YdgR4Rz0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVt5YdgR4Rz0C&printsec\u003dfrontcover&dq\u003dFantasy&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVt5YdgR4Rz0C&dq\u003dFantasy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dVt5YdgR4Rz0C&dq\u003dFantasy&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Fantasy-sample-epub.acsm?id\u003dVt5YdgR4Rz0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Fantasy-sample-pdf.acsm?id\u003dVt5YdgR4Rz0C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xg1jq-IxPBMC",
+   "etag": "MdbW67yyPVY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xg1jq-IxPBMC",
+   "volumeInfo": {
+    "title": "Fantasy",
+    "subtitle": "the liberation of imagination",
+    "authors": [
+     "Richard Mathews"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2002-01-02",
+    "description": "This text will be of inestimable value to anyone seeking to apprehend the nature and almost unlimited creative possibilities of a genre with a deep history and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415938902"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415938907"
+     }
+    ],
+    "pageCount": 223,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dxg1jq-IxPBMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dxg1jq-IxPBMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxg1jq-IxPBMC&printsec\u003dfrontcover&dq\u003dFantasy&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxg1jq-IxPBMC&dq\u003dFantasy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HTM8HQAACAAJ",
+   "etag": "v/vu6wAgd/k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HTM8HQAACAAJ",
+   "volumeInfo": {
+    "title": "Fantasy",
+    "subtitle": "The 100 Best Books",
+    "authors": [
+     "James Cawthorne",
+     "Michael Moorcock"
+    ],
+    "publisher": "Carroll & Graf",
+    "publishedDate": "1993-02-17",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0881847089"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780881847086"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dHTM8HQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dHTM8HQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHTM8HQAACAAJ&dq\u003dFantasy&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHTM8HQAACAAJ&dq\u003dFantasy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "k2aboboVP5MC",
+   "etag": "d/8HhQxhwWs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/k2aboboVP5MC",
+   "volumeInfo": {
+    "title": "Fantasy",
+    "subtitle": "the literature of subversion",
+    "authors": [
+     "Rosemary Jackson"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1981-03-10",
+    "description": "&quot;Dr Jackson has written a wide-ranging and frequently stimulating introduction to the subject of fantasy in modern literature.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415025621"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415025621"
+     }
+    ],
+    "pageCount": 211,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dk2aboboVP5MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dk2aboboVP5MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dk2aboboVP5MC&printsec\u003dfrontcover&dq\u003dFantasy&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dk2aboboVP5MC&dq\u003dFantasy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 30.36,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dk2aboboVP5MC&dq\u003dFantasy&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Fantasy-sample-pdf.acsm?id\u003dk2aboboVP5MC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mfjAjibERF0C",
+   "etag": "fm2Nfep4usg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mfjAjibERF0C",
+   "volumeInfo": {
+    "title": "The encyclopedia of fantasy",
+    "authors": [
+     "John Clute",
+     "John Grant"
+    ],
+    "publisher": "Griffin",
+    "publishedDate": "1999-03-15",
+    "description": "An important reference source offers a companion to the popular Encyclopedia of Science Fiction, containing more that four thousand entries touching on all ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0312198698"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780312198695"
+     }
+    ],
+    "pageCount": 1079,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 12,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dmfjAjibERF0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dmfjAjibERF0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmfjAjibERF0C&printsec\u003dfrontcover&dq\u003dFantasy&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmfjAjibERF0C&dq\u003dFantasy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wJF7Qh0v460C",
+   "etag": "obqRnF3+/g8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wJF7Qh0v460C",
+   "volumeInfo": {
+    "title": "Fantasy",
+    "subtitle": "An Artist's Realm",
+    "authors": [
+     "Ben Boos"
+    ],
+    "publisher": "Candlewick",
+    "publishedDate": "2010-10-26",
+    "description": "Readers are invited to immerse themselves in the sovereignty of New Perigord, brought to life through the artistry of the author and illustrator, Ben Boos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0763640565"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780763640569"
+     }
+    ],
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dwJF7Qh0v460C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dwJF7Qh0v460C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwJF7Qh0v460C&printsec\u003dfrontcover&dq\u003dFantasy&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwJF7Qh0v460C&dq\u003dFantasy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "P7wGQXTIhZgC",
+   "etag": "9L0HmQSe0I0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/P7wGQXTIhZgC",
+   "volumeInfo": {
+    "title": "The fantasy principle",
+    "subtitle": "psychoanalysis of the imagination",
+    "authors": [
+     "Michael Vannoy Adams"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2004-05-10",
+    "description": "All those who desire to give individuals an opportunity to become more imaginative will find this book fascinating reading.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1583918191"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781583918197"
+     }
+    ],
+    "pageCount": 252,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dP7wGQXTIhZgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dP7wGQXTIhZgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dP7wGQXTIhZgC&printsec\u003dfrontcover&dq\u003dFantasy&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dP7wGQXTIhZgC&dq\u003dFantasy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.16,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dP7wGQXTIhZgC&dq\u003dFantasy&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_fantasy_principle-sample-epub.acsm?id\u003dP7wGQXTIhZgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_fantasy_principle-sample-pdf.acsm?id\u003dP7wGQXTIhZgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "81gSBsBeiF8C",
+   "etag": "t8lEarkCvhs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/81gSBsBeiF8C",
+   "volumeInfo": {
+    "title": "Fantasy",
+    "authors": [
+     "Lori Foster"
+    ],
+    "publisher": "Harlequin Books",
+    "publishedDate": "2005-08-01",
+    "description": "Security consultant Sebastian Sinclair agrees to be sold at a bachelor auction.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0373836406"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780373836406"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 15,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d81gSBsBeiF8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d81gSBsBeiF8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d81gSBsBeiF8C&printsec\u003dfrontcover&dq\u003dFantasy&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d81gSBsBeiF8C&dq\u003dFantasy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 4.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 3.82,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d81gSBsBeiF8C&dq\u003dFantasy&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Fantasy-sample-epub.acsm?id\u003d81gSBsBeiF8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uevrskBBlUcC",
+   "etag": "3qrGgtaH75Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uevrskBBlUcC",
+   "volumeInfo": {
+    "title": "Fantasy Islands",
+    "subtitle": "A Man's Guide to Exotic Women and International Travel",
+    "authors": [
+     "Wade T. Wilson"
+    ],
+    "publisher": "Roam Publishing",
+    "publishedDate": "1998-12-31",
+    "description": "If you&#39;re an adventurer in search of romance or a wife from a distant land, Fantasy Islands: A Man&#39;s Guide to Exotic Women and International Travel, is for you.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0966536800"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780966536805"
+     }
+    ],
+    "pageCount": 166,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003duevrskBBlUcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003duevrskBBlUcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003duevrskBBlUcC&printsec\u003dfrontcover&dq\u003dFantasy&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003duevrskBBlUcC&dq\u003dFantasy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "f64VQ2jzDo0C",
+   "etag": "as2HCRVVnlA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f64VQ2jzDo0C",
+   "volumeInfo": {
+    "title": "Fantasy",
+    "subtitle": "The Best of the Year 2007",
+    "authors": [
+     "Rich Horton"
+    ],
+    "publishedDate": "2007-06-13",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0809562987"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780809562985"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003df64VQ2jzDo0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003df64VQ2jzDo0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003df64VQ2jzDo0C&q\u003dFantasy&dq\u003dFantasy&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003df64VQ2jzDo0C&dq\u003dFantasy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 587
+}

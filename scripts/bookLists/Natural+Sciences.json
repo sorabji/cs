@@ -1,0 +1,499 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "2Gh8AAAAIAAJ",
+   "etag": "55OVcAJp7sg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2Gh8AAAAIAAJ",
+   "volumeInfo": {
+    "title": "The natural sciences",
+    "subtitle": "an introduction to the scientific philosophy of to-day",
+    "authors": [
+     "Bernhard Bavink"
+    ],
+    "publishedDate": "1932",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B4534550"
+     }
+    ],
+    "pageCount": 683,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d2Gh8AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d2Gh8AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2Gh8AAAAIAAJ&q\u003dNatural+Sciences&dq\u003dNatural+Sciences&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2Gh8AAAAIAAJ&dq\u003dNatural+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "i1S-cQAACAAJ",
+   "etag": "U004Lu1xDcA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/i1S-cQAACAAJ",
+   "volumeInfo": {
+    "title": "Natural Sciences",
+    "subtitle": "Chemistry",
+    "authors": [
+     "Books Llc"
+    ],
+    "publisher": "Books LLC",
+    "publishedDate": "2010-09",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1156544769"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781156544761"
+     }
+    ],
+    "pageCount": 132,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003di1S-cQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003di1S-cQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003di1S-cQAACAAJ&dq\u003dNatural+Sciences&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003di1S-cQAACAAJ&dq\u003dNatural+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "S_rwHwAACAAJ",
+   "etag": "Gh7JrrNDPx0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/S_rwHwAACAAJ",
+   "volumeInfo": {
+    "title": "Natural sciences",
+    "subtitle": "agriculture, biological sciences, chemistry, computer and information sciences, earth, atmospheric, and marine sciences, health and medical sciences, mathematical sciences, physics and astronomy",
+    "publishedDate": "1993-10",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0446395471"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780446395472"
+     }
+    ],
+    "pageCount": 373,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dS_rwHwAACAAJ&dq\u003dNatural+Sciences&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dS_rwHwAACAAJ&dq\u003dNatural+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7lVCGwAACAAJ",
+   "etag": "ABatygqbgUc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7lVCGwAACAAJ",
+   "volumeInfo": {
+    "title": "Natural sciences",
+    "authors": [
+     "Missouri. Dept. of Education"
+    ],
+    "publishedDate": "1941",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:10138272"
+     }
+    ],
+    "pageCount": 486,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7lVCGwAACAAJ&dq\u003dNatural+Sciences&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7lVCGwAACAAJ&dq\u003dNatural+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rQSIZVOQfWYC",
+   "etag": "AjgdGVRCTHg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rQSIZVOQfWYC",
+   "volumeInfo": {
+    "title": "Critical phenomena in natural sciences",
+    "subtitle": "chaos, fractals, selforganization, and disorder : concepts and tools",
+    "authors": [
+     "Didier Sornette"
+    ],
+    "publisher": "Springer Verlag",
+    "publishedDate": "2004-02-12",
+    "description": "The emphasis of the book is on a clear understanding of concepts and methods, while it also provides the tools that can be of immediate use in applications.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3540407545"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540407546"
+     }
+    ],
+    "pageCount": 528,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003drQSIZVOQfWYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003drQSIZVOQfWYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003drQSIZVOQfWYC&printsec\u003dfrontcover&dq\u003dNatural+Sciences&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003drQSIZVOQfWYC&dq\u003dNatural+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Critical_phenomena_in_natural_sciences-sample-pdf.acsm?id\u003drQSIZVOQfWYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IkeaHAAACAAJ",
+   "etag": "ztus7IlpyFw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IkeaHAAACAAJ",
+   "volumeInfo": {
+    "title": "The natural sciences",
+    "subtitle": "and their place in the public schools and among the Industrial Arts",
+    "authors": [
+     "Jacob Ennis",
+     "Academy of Natural Sciences of Philadelphia",
+     "Teachers' Institute of Philadelphia"
+    ],
+    "publishedDate": "1876",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:8759366"
+     }
+    ],
+    "pageCount": 16,
+    "printType": "BOOK",
+    "categories": [
+     "Natural history"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIkeaHAAACAAJ&dq\u003dNatural+Sciences&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIkeaHAAACAAJ&dq\u003dNatural+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uCzPAAAAMAAJ",
+   "etag": "57YlHCdRRCc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uCzPAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Natural science",
+    "publishedDate": "1892",
+    "description": "\u003cb\u003eNATURAL SCIENCE\u003c/b\u003e A Monthly Review of Scientific Progress. No 1 VOL. I. MARCH 1892\u003cbr\u003e\r\n. INTRODUCTION. j]N a comparison of the position of Science to-day with that \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015077796228"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003duCzPAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003duCzPAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003duCzPAAAAMAAJ&printsec\u003dfrontcover&dq\u003dNatural+Sciences&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003duCzPAAAAMAAJ&dq\u003dNatural+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Natural_science.pdf?id\u003duCzPAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3h5qSQgmJWEiX01BdyWlIQk_itgA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4CB7v1uSAaAC",
+   "etag": "dobESQbdE68",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4CB7v1uSAaAC",
+   "volumeInfo": {
+    "title": "Metaphysical foundations of natural science",
+    "authors": [
+     "Immanuel Kant",
+     "Michael Friedman"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "2004",
+    "description": "A new translation of Kant&#39;s mature reflections on issues in the philosophy of natural science.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521544750"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521544757"
+     }
+    ],
+    "pageCount": 119,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d4CB7v1uSAaAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d4CB7v1uSAaAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4CB7v1uSAaAC&printsec\u003dfrontcover&dq\u003dNatural+Sciences&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4CB7v1uSAaAC&dq\u003dNatural+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IhNhiyzabhQC",
+   "etag": "hJaoNckt7Jk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IhNhiyzabhQC",
+   "volumeInfo": {
+    "title": "Toward a More Natural Science",
+    "authors": [
+     "Leon R. Kass"
+    ],
+    "publisher": "Free Pr",
+    "publishedDate": "1988",
+    "description": "The promise and the peril of our are inextricably linked with the promise and the peril of modern science.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0029170710"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780029170717"
+     }
+    ],
+    "pageCount": 388,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "0.2.2.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dIhNhiyzabhQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dIhNhiyzabhQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIhNhiyzabhQC&printsec\u003dfrontcover&dq\u003dNatural+Sciences&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIhNhiyzabhQC&dq\u003dNatural+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dIhNhiyzabhQC&dq\u003dNatural+Sciences&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Toward_a_More_Natural_Science-sample-epub.acsm?id\u003dIhNhiyzabhQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "G9fy_hS3vYMC",
+   "etag": "2xASx2shmwE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G9fy_hS3vYMC",
+   "volumeInfo": {
+    "title": "The Natural Science of the Human Species",
+    "subtitle": "An Introduction to Comparative Behavioral Research",
+    "authors": [
+     "Konrad Lorenz",
+     "Agnes Von Cranach"
+    ],
+    "publisher": "The MIT Press",
+    "publishedDate": "1997-08-01",
+    "description": "edited from the author&#39;s posthumous works by Agnes von Cranach Here Am I Where Are You?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0262621207"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780262621205"
+     }
+    ],
+    "pageCount": 381,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dG9fy_hS3vYMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dG9fy_hS3vYMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dG9fy_hS3vYMC&printsec\u003dfrontcover&dq\u003dNatural+Sciences&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dG9fy_hS3vYMC&dq\u003dNatural+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 569
+}

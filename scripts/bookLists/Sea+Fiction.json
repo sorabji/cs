@@ -1,0 +1,499 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "_CveeQeNlQcC",
+   "etag": "yETpoYScg4M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_CveeQeNlQcC",
+   "volumeInfo": {
+    "title": "Sea-Brothers",
+    "subtitle": "The Tradition of American Sea Fiction from Moby-Dick to the Present",
+    "authors": [
+     "Bert Bender"
+    ],
+    "publisher": "Univ of Pennsylvania Pr",
+    "publishedDate": "1990-10",
+    "description": "1 The Voyage in Ametican \u003cb\u003eSea Fiction\u003c/b\u003e after the Pilgrim, the Acushnet, and the \u003cbr\u003e\r\nBeagle You got to have confidence steeting. — Ernest Hemingway, To Have and \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0812213394"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780812213393"
+     }
+    ],
+    "pageCount": 267,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d_CveeQeNlQcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d_CveeQeNlQcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_CveeQeNlQcC&printsec\u003dfrontcover&dq\u003dSea+Fiction&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_CveeQeNlQcC&dq\u003dSea+Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Bm5aAAAAMAAJ",
+   "etag": "fGXcwq0C+lc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Bm5aAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Conrad's early sea fiction",
+    "subtitle": "the novelist as navigator",
+    "authors": [
+     "Paul Bruss"
+    ],
+    "publisher": "Associated Univ Pr",
+    "publishedDate": "1979",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015003464487"
+     }
+    ],
+    "pageCount": 185,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dBm5aAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dBm5aAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBm5aAAAAMAAJ&q\u003dSea+Fiction&dq\u003dSea+Fiction&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBm5aAAAAMAAJ&dq\u003dSea+Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0C_gAAAAMAAJ",
+   "etag": "RTEP5lCr8kg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0C_gAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Sea fiction guide",
+    "authors": [
+     "Myron J. Smith",
+     "Bob Weller"
+    ],
+    "publishedDate": "1976-09",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015061593375"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0C_gAAAAMAAJ&dq\u003dSea+Fiction&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0C_gAAAAMAAJ&dq\u003dSea+Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eKpaAAAAMAAJ",
+   "etag": "pyPupPzfr2k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eKpaAAAAMAAJ",
+   "volumeInfo": {
+    "title": "James Fenimore Cooper and the Development of American Sea Fiction",
+    "authors": [
+     "Thomas Philbrick"
+    ],
+    "publisher": "Not Avail",
+    "publishedDate": "1961-12",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015002257445"
+     }
+    ],
+    "pageCount": 340,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deKpaAAAAMAAJ&q\u003dSea+Fiction&dq\u003dSea+Fiction&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deKpaAAAAMAAJ&dq\u003dSea+Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rm1jtwAACAAJ",
+   "etag": "10g2OPK3qbU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rm1jtwAACAAJ",
+   "volumeInfo": {
+    "title": "Conrad's early sea fiction",
+    "subtitle": "a study in reputation, convention, and artistic achievement",
+    "authors": [
+     "William Edmund Messenger"
+    ],
+    "publishedDate": "1968",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:2479931"
+     }
+    ],
+    "pageCount": 412,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003drm1jtwAACAAJ&dq\u003dSea+Fiction&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003drm1jtwAACAAJ&dq\u003dSea+Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WWMyyHvajoEC",
+   "etag": "a3lDuLKOzMo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WWMyyHvajoEC",
+   "volumeInfo": {
+    "title": "Great world writers : twentieth century",
+    "authors": [
+     "Patrick M. O'Neil"
+    ],
+    "publisher": "Marshall Cavendish Corp",
+    "publishedDate": "2004-01",
+    "description": "In particular, Marryat and Hugo influenced Conrad&#39;s fiction. Conrad&#39;s lighter \u003cbr\u003e\r\n\u003cb\u003esea fiction\u003c/b\u003e as well as his Napoleonic fiction (&quot;The Duel,&quot; The Rover, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0761474692"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761474692"
+     }
+    ],
+    "pageCount": 1848,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dWWMyyHvajoEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dWWMyyHvajoEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWWMyyHvajoEC&pg\u003dPA262&dq\u003dSea+Fiction&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWWMyyHvajoEC&dq\u003dSea+Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1YsaUTUyiYMC",
+   "etag": "hLMXa0poi3U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1YsaUTUyiYMC",
+   "volumeInfo": {
+    "title": "A historical guide to Joseph Conrad",
+    "authors": [
+     "John Gerard Peters"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2009-12-11",
+    "description": "He has often been typecast as a writer of \u003cb\u003esea fiction\u003c/b\u003e or adventure fiction \u003cbr\u003e\r\ngeared toward a male audience. This resulted partly from the way his publishers \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0195332784"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195332780"
+     }
+    ],
+    "pageCount": 252,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d1YsaUTUyiYMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d1YsaUTUyiYMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1YsaUTUyiYMC&pg\u003dPA4&dq\u003dSea+Fiction&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1YsaUTUyiYMC&dq\u003dSea+Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/A_historical_guide_to_Joseph_Conrad-sample-epub.acsm?id\u003d1YsaUTUyiYMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lWuyTK_0eBsC",
+   "etag": "SllLKUzRV6s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lWuyTK_0eBsC",
+   "volumeInfo": {
+    "title": "The Facts on File companion to the American short story",
+    "authors": [
+     "James P. Werlock",
+     "Facts on File, Inc"
+    ],
+    "publishedDate": "2010",
+    "description": "Although now almost completely forgotten, Robertson made notable contributions \u003cbr\u003e\r\nto the development of \u003cb\u003esea fiction\u003c/b\u003e and probably had a significant influence on \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "081606895X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816068951"
+     }
+    ],
+    "pageCount": 842,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dlWuyTK_0eBsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dlWuyTK_0eBsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlWuyTK_0eBsC&pg\u003dPA562&dq\u003dSea+Fiction&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlWuyTK_0eBsC&dq\u003dSea+Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6ulEOQAACAAJ",
+   "etag": "OggPH+BREho",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6ulEOQAACAAJ",
+   "volumeInfo": {
+    "title": "The Norton Book of the Sea: Fiction",
+    "authors": [
+     "John O. Coote"
+    ],
+    "publisher": "W W Norton & Co Inc",
+    "publishedDate": "1993",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0393035026"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780393035025"
+     }
+    ],
+    "pageCount": 332,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6ulEOQAACAAJ&dq\u003dSea+Fiction&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6ulEOQAACAAJ&dq\u003dSea+Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5sTHSXlv5XAC",
+   "etag": "V2rbTWznB4I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5sTHSXlv5XAC",
+   "volumeInfo": {
+    "title": "Sea of glory",
+    "subtitle": "America's voyage of discovery : the U.S. Exploring Expedition, 1838-1842",
+    "authors": [
+     "Nathaniel Philbrick"
+    ],
+    "publisher": "Penguin Group USA",
+    "publishedDate": "2004-10-25",
+    "description": "I have inherited the concept of the sea as America&#39;s \u003cb\u003e...\u003c/b\u003e whose James Fenimore \u003cbr\u003e\r\nCooper and the Development of American \u003cb\u003eSea Fiction\u003c/b\u003e describes how the country&#39;s \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0142004839"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780142004838"
+     }
+    ],
+    "pageCount": 452,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 77,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d5sTHSXlv5XAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d5sTHSXlv5XAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5sTHSXlv5XAC&pg\u003dPT309&dq\u003dSea+Fiction&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5sTHSXlv5XAC&dq\u003dSea+Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d5sTHSXlv5XAC&dq\u003dSea+Fiction&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Sea_of_glory-sample-epub.acsm?id\u003d5sTHSXlv5XAC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 595
+}

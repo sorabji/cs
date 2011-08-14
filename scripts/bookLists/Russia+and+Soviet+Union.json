@@ -1,0 +1,598 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "hlNlhPf2fwcC",
+   "etag": "3HTU+8oXGnU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hlNlhPf2fwcC",
+   "volumeInfo": {
+    "title": "Russia and the Soviet Union",
+    "subtitle": "An Historical Introduction from the Kievan State to the Present",
+    "authors": [
+     "John M. Thompson"
+    ],
+    "publisher": "Perseus Books Group",
+    "publishedDate": "2008-07-28",
+    "description": "This balanced and succinct presentation covers the entire expanse of Russian history from the first Kievan states (800 a.d.) to the present day Putin era.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "081334395X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780813343952"
+     }
+    ],
+    "pageCount": 415,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dhlNlhPf2fwcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dhlNlhPf2fwcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhlNlhPf2fwcC&printsec\u003dfrontcover&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhlNlhPf2fwcC&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.02,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dhlNlhPf2fwcC&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Russia_and_the_Soviet_Union-sample-epub.acsm?id\u003dhlNlhPf2fwcC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Russia_and_the_Soviet_Union-sample-pdf.acsm?id\u003dhlNlhPf2fwcC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "m_wPpj64GqMC",
+   "etag": "GcMBeo+v9lQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/m_wPpj64GqMC",
+   "volumeInfo": {
+    "title": "Science in Russia and the Soviet Union",
+    "subtitle": "a short history",
+    "authors": [
+     "Loren R. Graham"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "1993",
+    "description": "Thoroughly up to date, the volume covers the Czarist period, the impact of the Russian Revolution, the relationship between science and Soviet society, the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521287898"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521287890"
+     }
+    ],
+    "pageCount": 321,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dm_wPpj64GqMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dm_wPpj64GqMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dm_wPpj64GqMC&printsec\u003dfrontcover&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dm_wPpj64GqMC&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "k652AAAAMAAJ",
+   "etag": "RU3pF8pIWDY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/k652AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Russia, the Soviet Union, and the United States",
+    "subtitle": "an interpretive history",
+    "authors": [
+     "John Lewis Gaddis"
+    ],
+    "publisher": "McGraw-Hill Humanities/Social Sciences/Languages",
+    "publishedDate": "1990",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015022047982"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dk652AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dk652AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dk652AAAAMAAJ&q\u003dRussia+and+Soviet+Union&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dk652AAAAMAAJ&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "k9HIHH8jrQUC",
+   "etag": "YYjayCUk2UE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/k9HIHH8jrQUC",
+   "volumeInfo": {
+    "title": "Leaders of Russia and the Soviet Union",
+    "subtitle": "from the Romanov dynasty to Vladimir Putin",
+    "authors": [
+     "John Paxton"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2004-06-28",
+    "description": "This reference work surveys the leaders of Russia and the Soviet Union- from Michael, the first Romanov tsar in 1613, through the creation and dissolution of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1579581323"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781579581329"
+     }
+    ],
+    "pageCount": 254,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dk9HIHH8jrQUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dk9HIHH8jrQUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dk9HIHH8jrQUC&printsec\u003dfrontcover&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dk9HIHH8jrQUC&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 130.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 104.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dk9HIHH8jrQUC&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Leaders_of_Russia_and_the_Soviet_Union-sample-epub.acsm?id\u003dk9HIHH8jrQUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Leaders_of_Russia_and_the_Soviet_Union-sample-pdf.acsm?id\u003dk9HIHH8jrQUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uHurUy22XPwC",
+   "etag": "jD0GUYltl68",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uHurUy22XPwC",
+   "volumeInfo": {
+    "title": "Russia, the Soviet Union, and Eastern Europe",
+    "subtitle": "a survey of holdings at the Hoover Institution on War, Revolution, and Peace",
+    "authors": [
+     "Hoover Institution on War, Revolution, and Peace",
+     "Joseph D. Dwyer"
+    ],
+    "publisher": "Hoover Press",
+    "publishedDate": "1980",
+    "description": "The Albanian Collection, the smallest of the East European collections at the \u003cbr\u003e\r\nHoover Institution, contains approximately 1200 books and pamphlets, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0817950117"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780817950118"
+     }
+    ],
+    "pageCount": 233,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003duHurUy22XPwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003duHurUy22XPwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003duHurUy22XPwC&printsec\u003dfrontcover&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003duHurUy22XPwC&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 10.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 8.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003duHurUy22XPwC&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LAj-h9c30tEC",
+   "etag": "aKWWpMtxYLE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LAj-h9c30tEC",
+   "volumeInfo": {
+    "title": "Women and society in Russia and the Soviet Union",
+    "authors": [
+     "Linda Harriet Edmondson"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "1992",
+    "description": "This volume offers an interdisciplinary insight into the study of women and gender relations in Russian and Soviet society.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521413885"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521413886"
+     }
+    ],
+    "pageCount": 233,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dLAj-h9c30tEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dLAj-h9c30tEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLAj-h9c30tEC&printsec\u003dfrontcover&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLAj-h9c30tEC&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vsR8UBhsltYC",
+   "etag": "fSbwJ2SzPdI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vsR8UBhsltYC",
+   "volumeInfo": {
+    "title": "Historical narratives in the Soviet Union and post-Soviet Russia",
+    "subtitle": "destroying the settled past, creating an uncertain future",
+    "authors": [
+     "Thomas D. Sherlock"
+    ],
+    "publisher": "Palgrave MacMillan",
+    "publishedDate": "2007",
+    "description": "Establishing a causal link between historical discourse and political change, this book describes the role of historical discourse in establishing, maintaining, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1403974500"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781403974501"
+     }
+    ],
+    "pageCount": 271,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dvsR8UBhsltYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dvsR8UBhsltYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvsR8UBhsltYC&pg\u003dPA1&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvsR8UBhsltYC&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vpZhLS5QQjEC",
+   "etag": "C4ibAhfHFco",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vpZhLS5QQjEC",
+   "volumeInfo": {
+    "title": "Russian and Soviet history",
+    "subtitle": "from the Time of Troubles to the collapse of the Soviet Union",
+    "authors": [
+     "Steven A. Usitalo",
+     "William Benton Whisenhunt"
+    ],
+    "publisher": "Rowman & Littlefield",
+    "publishedDate": "2008",
+    "description": "Informed by both archival work and published sources, this text introduces students to Russian history in an accessible and provocative format, and its eclectic ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0742555917"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780742555914"
+     }
+    ],
+    "pageCount": 292,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dvpZhLS5QQjEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dvpZhLS5QQjEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvpZhLS5QQjEC&printsec\u003dfrontcover&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvpZhLS5QQjEC&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.16,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dvpZhLS5QQjEC&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Russian_and_Soviet_history-sample-epub.acsm?id\u003dvpZhLS5QQjEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Russian_and_Soviet_history-sample-pdf.acsm?id\u003dvpZhLS5QQjEC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "glNkIvdjIWAC",
+   "etag": "d3bOcGq7ccY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/glNkIvdjIWAC",
+   "volumeInfo": {
+    "title": "Rural Women in the Soviet Union and Post-Soviet Russia",
+    "authors": [
+     "Liubov Denisova",
+     "Irina Mukhina"
+    ],
+    "publisher": "Taylor & Francis",
+    "publishedDate": "2010-10-11",
+    "description": "This is the first full-length history of Russian peasant women in the 20th century in English.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415551129"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415551120"
+     }
+    ],
+    "pageCount": 219,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dglNkIvdjIWAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dglNkIvdjIWAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dglNkIvdjIWAC&printsec\u003dfrontcover&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dglNkIvdjIWAC&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 140.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 112.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dglNkIvdjIWAC&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Rural_Women_in_the_Soviet_Union_and_Post-sample-epub.acsm?id\u003dglNkIvdjIWAC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Rural_Women_in_the_Soviet_Union_and_Post-sample-pdf.acsm?id\u003dglNkIvdjIWAC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bJBH5pxzSyMC",
+   "etag": "c3f+bWtdzb0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bJBH5pxzSyMC",
+   "volumeInfo": {
+    "title": "Jews and Jewish life in Russia and the Soviet Union",
+    "authors": [
+     "Yaacov Ro'i"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "1995",
+    "description": "The main focus of this book is Jewish life under the Soviet regime.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0714646199"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780714646190"
+     }
+    ],
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dbJBH5pxzSyMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dbJBH5pxzSyMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbJBH5pxzSyMC&printsec\u003dfrontcover&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbJBH5pxzSyMC&dq\u003dRussia+and+Soviet+Union&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 588
+}

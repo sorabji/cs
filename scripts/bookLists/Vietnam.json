@@ -1,0 +1,580 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Wmhv70_iaIgC",
+   "etag": "OeFYXYg7g2Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Wmhv70_iaIgC",
+   "volumeInfo": {
+    "title": "Vietnam",
+    "authors": [
+     "Nick Ray",
+     "Peter Dragicevich",
+     "Regis St. Louis"
+    ],
+    "publishedDate": "2007-08-15",
+    "description": "Written by a new team of Vientnam specialists.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1741043069"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781741043068"
+     }
+    ],
+    "pageCount": 540,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 8,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dWmhv70_iaIgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dWmhv70_iaIgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWmhv70_iaIgC&printsec\u003dfrontcover&dq\u003dVietnam&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWmhv70_iaIgC&dq\u003dVietnam&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WZry2NaH2_sC",
+   "etag": "eMCFhboni/U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WZry2NaH2_sC",
+   "volumeInfo": {
+    "title": "Vietnam",
+    "authors": [
+     "Spencer Tucker"
+    ],
+    "publisher": "Univ Pr of Kentucky",
+    "publishedDate": "1999-02",
+    "description": "Vietnam provides an overview of the causes, course, and effects of the numerous wars in Vietnamese history, many of them not generally known to Westerners, such ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0813109663"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780813109664"
+     }
+    ],
+    "pageCount": 244,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dWZry2NaH2_sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dWZry2NaH2_sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWZry2NaH2_sC&printsec\u003dfrontcover&dq\u003dVietnam&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWZry2NaH2_sC&dq\u003dVietnam&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dWZry2NaH2_sC&dq\u003dVietnam&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZqOLmYD-0l4C",
+   "etag": "81iG6oll/Ic",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZqOLmYD-0l4C",
+   "volumeInfo": {
+    "title": "Vietnam",
+    "authors": [
+     "Lonely Planet Publications (Firm)"
+    ],
+    "publishedDate": "1991",
+    "description": "I crossed the border from Laos into \u003cb\u003eVietnam\u003c/b\u003e at Bo Y and headed north. The \u003cbr\u003e\r\nscenery is sublime with jagged peaks, raging rivers and little oases of green \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1741791596"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781741791594"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dZqOLmYD-0l4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dZqOLmYD-0l4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZqOLmYD-0l4C&printsec\u003dfrontcover&dq\u003dVietnam&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZqOLmYD-0l4C&dq\u003dVietnam&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dZqOLmYD-0l4C&dq\u003dVietnam&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Vietnam-sample-epub.acsm?id\u003dZqOLmYD-0l4C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0MlVNRBKNEUC",
+   "etag": "PTql/CJhHcY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0MlVNRBKNEUC",
+   "volumeInfo": {
+    "title": "Vietnam",
+    "authors": [
+     "Audrey Seah",
+     "Charissa M. Nair"
+    ],
+    "publisher": "Benchmark Books (NY)",
+    "publishedDate": "2004",
+    "description": "Presents the history, geography, government, economy, people, and social life and customs of Vietnam.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0761417893"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761417897"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d0MlVNRBKNEUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d0MlVNRBKNEUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0MlVNRBKNEUC&printsec\u003dfrontcover&dq\u003dVietnam&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0MlVNRBKNEUC&dq\u003dVietnam&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KAXFjbOZriUC",
+   "etag": "aMOxgmaV6Xo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KAXFjbOZriUC",
+   "volumeInfo": {
+    "title": "Vietnam",
+    "subtitle": "four American perspectives : lectures",
+    "authors": [
+     "George Stanley McGovern"
+    ],
+    "publisher": "Purdue Univ Pr",
+    "publishedDate": "1990",
+    "description": "This collection of speeches delivered in 1987 presents the widely diverging opinions of four influenza] men: an eminent politician, a professional soldier, a ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1557530033"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781557530035"
+     }
+    ],
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dKAXFjbOZriUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dKAXFjbOZriUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKAXFjbOZriUC&printsec\u003dfrontcover&dq\u003dVietnam&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKAXFjbOZriUC&dq\u003dVietnam&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.96,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dKAXFjbOZriUC&dq\u003dVietnam&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Vietnam-sample-epub.acsm?id\u003dKAXFjbOZriUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Vietnam-sample-pdf.acsm?id\u003dKAXFjbOZriUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "phRUwv9IibYC",
+   "etag": "rMZt2NDx+SI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/phRUwv9IibYC",
+   "volumeInfo": {
+    "title": "Vietnam",
+    "subtitle": "The Heartland Remembers",
+    "authors": [
+     "Stanley W. Beesley"
+    ],
+    "publisher": "Univ of Oklahoma Pr",
+    "publishedDate": "1988-08-01",
+    "description": "Men and women from all economic backgrounds and of all races present their own narratives concerning time served in the Vietnam War, detailing the combat, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0806121629"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780806121628"
+     }
+    ],
+    "pageCount": 194,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dphRUwv9IibYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dphRUwv9IibYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dphRUwv9IibYC&printsec\u003dfrontcover&dq\u003dVietnam&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dphRUwv9IibYC&dq\u003dVietnam&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FLEupYPwv_8C",
+   "etag": "JAKZiWDFVkU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FLEupYPwv_8C",
+   "volumeInfo": {
+    "title": "Vietnam",
+    "subtitle": "The Logic of Withdrawal",
+    "authors": [
+     "Howard Zinn"
+    ],
+    "publisher": "South End Pr",
+    "publishedDate": "2002",
+    "description": "Zinn&#39;s compelling case against the Vietnam War, now with a new introduction.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "089608681X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780896086814"
+     }
+    ],
+    "pageCount": 131,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dFLEupYPwv_8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dFLEupYPwv_8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFLEupYPwv_8C&printsec\u003dfrontcover&dq\u003dVietnam&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFLEupYPwv_8C&dq\u003dVietnam&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8lxXUbY_JJ0C",
+   "etag": "kcRMo2UTG5A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8lxXUbY_JJ0C",
+   "volumeInfo": {
+    "title": "Vietnam",
+    "authors": [
+     "Karen O'Connor"
+    ],
+    "publisher": "Lerner Publications",
+    "publishedDate": "2008-09-01",
+    "description": "Offers an introduction to Vietnam, including its geography, people, culture, and history.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0822594153"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780822594154"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d8lxXUbY_JJ0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d8lxXUbY_JJ0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8lxXUbY_JJ0C&printsec\u003dfrontcover&dq\u003dVietnam&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8lxXUbY_JJ0C&dq\u003dVietnam&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YdG00yrWUFcC",
+   "etag": "20qhb3pdkCk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YdG00yrWUFcC",
+   "volumeInfo": {
+    "title": "Vietnam",
+    "subtitle": "a history",
+    "authors": [
+     "Stanley Karnow"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "1994",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "071265965X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780712659659"
+     }
+    ],
+    "pageCount": 768,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dYdG00yrWUFcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dYdG00yrWUFcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYdG00yrWUFcC&dq\u003dVietnam&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYdG00yrWUFcC&dq\u003dVietnam&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wJC2QlBFkB8C",
+   "etag": "6nt7rBk9nEw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wJC2QlBFkB8C",
+   "volumeInfo": {
+    "title": "Vietnam",
+    "subtitle": "current issues and historical background",
+    "authors": [
+     "V. Largo"
+    ],
+    "publisher": "Nova Publishers",
+    "publishedDate": "2002-06",
+    "description": "This book present issues important to understanding Vietnam today as well as a historical background on the country.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1590333683"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781590333686"
+     }
+    ],
+    "pageCount": 194,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dwJC2QlBFkB8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dwJC2QlBFkB8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwJC2QlBFkB8C&printsec\u003dfrontcover&dq\u003dVietnam&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwJC2QlBFkB8C&dq\u003dVietnam&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 59.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 46.61,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dwJC2QlBFkB8C&dq\u003dVietnam&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Vietnam-sample-epub.acsm?id\u003dwJC2QlBFkB8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Vietnam-sample-pdf.acsm?id\u003dwJC2QlBFkB8C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 589
+}

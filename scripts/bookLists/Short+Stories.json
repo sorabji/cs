@@ -1,0 +1,551 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "BZYqAAAAMAAJ",
+   "etag": "sVWMLunjB4A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BZYqAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Short stories",
+    "authors": [
+     "Leonard Bowdoin Moulton"
+    ],
+    "publishedDate": "1915",
+    "description": "\u003cb\u003eSHORT STORIES\u003c/b\u003e RIDING THE RIM ROCK BY DALLAS LORE SHARP FROM P Ranch to \u003cbr\u003e\r\nWinnemucca is a seventeen-day drive through a desert of rim rock and greasewood \u003cbr\u003e\r\nand \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015030764669"
+     }
+    ],
+    "pageCount": 246,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dBZYqAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dBZYqAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBZYqAAAAMAAJ&printsec\u003dfrontcover&dq\u003dShort+Stories&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBZYqAAAAMAAJ&dq\u003dShort+Stories&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Short_stories.epub?id\u003dBZYqAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Short_stories.pdf?id\u003dBZYqAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0N99trX3JegNp6_PWbR6mgTazMWA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vG5y2B6OO5UC",
+   "etag": "9TDrPJkASok",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vG5y2B6OO5UC",
+   "volumeInfo": {
+    "title": "Short stories",
+    "authors": [
+     "Langston Hughes",
+     "Akiba Sullivan Harper",
+     "Donna Sullivan Harper",
+     "Arnold Rampersad"
+    ],
+    "publisher": "Hill & Wang",
+    "publishedDate": "1997",
+    "description": "Offers a collection of stories written between 1919 and 1963 that follow Hughes&#39; literary development and the growth of his personal and political concerns",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0809016036"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780809016037"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 11,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dvG5y2B6OO5UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dvG5y2B6OO5UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvG5y2B6OO5UC&printsec\u003dfrontcover&dq\u003dShort+Stories&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvG5y2B6OO5UC&dq\u003dShort+Stories&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dvG5y2B6OO5UC&dq\u003dShort+Stories&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Short_stories-sample-epub.acsm?id\u003dvG5y2B6OO5UC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MBjPbrWzBDwC",
+   "etag": "yLzxhfRALr8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MBjPbrWzBDwC",
+   "volumeInfo": {
+    "title": "Short stories",
+    "authors": [
+     "Louisa May Alcott"
+    ],
+    "publisher": "Dover Pubns",
+    "publishedDate": "1996",
+    "description": "Five poignant tales based in part on the author&#39;s experiences as a nurse during the Civil War: &quot;Obtaining Supplies,&quot; &quot;A Night,&quot; &quot;My Contraband,&quot; &quot;Happy Women,&quot; ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0486290638"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486290638"
+     }
+    ],
+    "pageCount": 55,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dMBjPbrWzBDwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dMBjPbrWzBDwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMBjPbrWzBDwC&printsec\u003dfrontcover&dq\u003dShort+Stories&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMBjPbrWzBDwC&dq\u003dShort+Stories&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "e36fg8o-eeQC",
+   "etag": "MgOS8XFXPUg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/e36fg8o-eeQC",
+   "volumeInfo": {
+    "title": "Short stories",
+    "subtitle": "Thou art the man, the purloined letter, Von Kempelen and his discovery and fifteen other stories",
+    "authors": [
+     "Edgar Allan Poe"
+    ],
+    "publishedDate": "1908",
+    "description": "THE THOUSAND-AND-SECOND TALE OF SCHEHERAZADE Truth is stranger than fiction. — \u003cbr\u003e\r\nOld Saying. Having had occasion, lately, in the course of some Oriental \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044009860297"
+     }
+    ],
+    "pageCount": 339,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003de36fg8o-eeQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003de36fg8o-eeQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003de36fg8o-eeQC&printsec\u003dfrontcover&dq\u003dShort+Stories&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003de36fg8o-eeQC&dq\u003dShort+Stories&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Short_stories.epub?id\u003de36fg8o-eeQC&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Short_stories.pdf?id\u003de36fg8o-eeQC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2hFEwlr5gnKEW7NYDM6WJwmDDtrQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SlXe-Ku0G_kC",
+   "etag": "C7ylqZUHuOA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SlXe-Ku0G_kC",
+   "volumeInfo": {
+    "title": "Short Stories",
+    "authors": [
+     "Edith Wharton"
+    ],
+    "publisher": "Dover Pubns",
+    "publishedDate": "1994",
+    "description": "Described by literary critic Robert Morss Lovett as &#39;a novelist of civilization, absorbed in the somewhat mechanical operations of culture, preoccupied with the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "048628235X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486282350"
+     }
+    ],
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dSlXe-Ku0G_kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dSlXe-Ku0G_kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSlXe-Ku0G_kC&printsec\u003dfrontcover&dq\u003dShort+Stories&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSlXe-Ku0G_kC&dq\u003dShort+Stories&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "COErAQAAIAAJ",
+   "etag": "A+IDy5HSPho",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/COErAQAAIAAJ",
+   "volumeInfo": {
+    "title": "The short stories",
+    "authors": [
+     "Ernest Hemingway"
+    ],
+    "publisher": "Scribner",
+    "publishedDate": "1995",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105113454974"
+     }
+    ],
+    "pageCount": 499,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 49,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dCOErAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dCOErAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCOErAQAAIAAJ&q\u003dShort+Stories&dq\u003dShort+Stories&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCOErAQAAIAAJ&dq\u003dShort+Stories&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KtZEAAAAIAAJ",
+   "etag": "CyAWyhQmIWo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KtZEAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Short stories",
+    "subtitle": "old and new",
+    "authors": [
+     "Charles Alphonso Smith"
+    ],
+    "publishedDate": "1916",
+    "description": "\u003cb\u003eSHORT STORIES\u003c/b\u003e I. ESTHER1 Author Unknown [Setting. The events take place in Susa, \u003cbr\u003e\r\nthe capital of Persia, in the reign of Ahasuerus, or Xerxes (485-465 BC). \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B308252"
+     }
+    ],
+    "pageCount": 292,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dKtZEAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dKtZEAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKtZEAAAAIAAJ&printsec\u003dfrontcover&dq\u003dShort+Stories&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKtZEAAAAIAAJ&dq\u003dShort+Stories&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Short_stories.epub?id\u003dKtZEAAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Short_stories.pdf?id\u003dKtZEAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0agJwhpyw6fwrn4Dirjssgycmv-g&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gG76AAgNYkYC",
+   "etag": "aU6gyJ6lado",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gG76AAgNYkYC",
+   "volumeInfo": {
+    "title": "Short Stories",
+    "authors": [
+     "Nasser Abuhamda"
+    ],
+    "publisher": "Dog Ear Pub Llc",
+    "publishedDate": "2008-04",
+    "description": "The author of this book Nasser Abuhamda grow up reading all types of books from novels to science fiction and many other types of books.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1598585819"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781598585810"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dgG76AAgNYkYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dgG76AAgNYkYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgG76AAgNYkYC&printsec\u003dfrontcover&dq\u003dShort+Stories&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgG76AAgNYkYC&dq\u003dShort+Stories&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.96,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.57,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dgG76AAgNYkYC&dq\u003dShort+Stories&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Short_Stories-sample-epub.acsm?id\u003dgG76AAgNYkYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Short_Stories-sample-pdf.acsm?id\u003dgG76AAgNYkYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5FMCAAAAYAAJ",
+   "etag": "qlgL07BTF/s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5FMCAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Short stories",
+    "publishedDate": "1903",
+    "description": "\u003cb\u003eSHORT STORIES\u003c/b\u003e THE GRAY CHAMPION HERE was once a time when New England groaned \u003cbr\u003e\r\nunder the actual pressure of heavier wrongs than those threatened ones which \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433082527072"
+     }
+    ],
+    "pageCount": 516,
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d5FMCAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d5FMCAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5FMCAAAAYAAJ&printsec\u003dfrontcover&dq\u003dShort+Stories&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5FMCAAAAYAAJ&dq\u003dShort+Stories&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Short_stories.epub?id\u003d5FMCAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Short_stories.pdf?id\u003d5FMCAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3WyRaOoit6ObtCbt3V_uedyKQf4g&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aww4YTtbbXgC",
+   "etag": "+jm5xieloq8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aww4YTtbbXgC",
+   "volumeInfo": {
+    "title": "Short Stories",
+    "authors": [
+     "Theodore Dreiser"
+    ],
+    "publisher": "Dover Pubns",
+    "publishedDate": "1994",
+    "description": "Five powerful and original stories: &quot;Free,&quot; &quot;The Second Choice,&quot; &quot;Married,&quot; &quot;Nigger Jeff,&quot; and &quot;The Lost Phoebe.&quot;",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0486282155"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486282152"
+     }
+    ],
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003daww4YTtbbXgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003daww4YTtbbXgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daww4YTtbbXgC&printsec\u003dfrontcover&dq\u003dShort+Stories&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daww4YTtbbXgC&dq\u003dShort+Stories&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 547
+}

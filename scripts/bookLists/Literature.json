@@ -1,0 +1,551 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "SUTeD7u18lsC",
+   "etag": "xy1nhmBHS58",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SUTeD7u18lsC",
+   "volumeInfo": {
+    "title": "\"What is literature?\" and other essays",
+    "authors": [
+     "Jean-Paul Sartre"
+    ],
+    "publishedDate": "1988-10-15",
+    "description": "This new edition of &quot;What is Literature?&quot; also collects three other crucial essays of Sartre&#39;s for the first time in a volume of his.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0674950844"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780674950849"
+     }
+    ],
+    "pageCount": 361,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dSUTeD7u18lsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dSUTeD7u18lsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSUTeD7u18lsC&printsec\u003dfrontcover&dq\u003dLiterature&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSUTeD7u18lsC&dq\u003dLiterature&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cPlHN9myID4C",
+   "etag": "w+xWwMCCQxk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cPlHN9myID4C",
+   "volumeInfo": {
+    "title": "Literature",
+    "subtitle": "an introduction to fiction, poetry, drama, and writing",
+    "authors": [
+     "X. J. Kennedy",
+     "Dana Gioia"
+    ],
+    "publisher": "Longman",
+    "publishedDate": "2007",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0321428501"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780321428509"
+     }
+    ],
+    "pageCount": 2221,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 7,
+    "contentVersion": "0.2.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dcPlHN9myID4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dcPlHN9myID4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcPlHN9myID4C&q\u003dLiterature&dq\u003dLiterature&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcPlHN9myID4C&dq\u003dLiterature&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2KMix7Q64HMC",
+   "etag": "jaxVQAmtz24",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2KMix7Q64HMC",
+   "volumeInfo": {
+    "title": "On literature",
+    "authors": [
+     "Joseph Hillis Miller"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2002",
+    "description": "How do we read literature? These are some of the important questions J. Hillis Miller answers in this beautifully written and passionate book.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415261252"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415261258"
+     }
+    ],
+    "pageCount": 164,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d2KMix7Q64HMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d2KMix7Q64HMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2KMix7Q64HMC&printsec\u003dfrontcover&dq\u003dLiterature&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2KMix7Q64HMC&dq\u003dLiterature&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.17,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d2KMix7Q64HMC&dq\u003dLiterature&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/On_literature-sample-epub.acsm?id\u003d2KMix7Q64HMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/On_literature-sample-pdf.acsm?id\u003d2KMix7Q64HMC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "__psMmeX2TIC",
+   "etag": "i2+yJ2F+jJc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/__psMmeX2TIC",
+   "volumeInfo": {
+    "title": "Literature",
+    "authors": [
+     "Peter Widdowson"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1999",
+    "description": "Literature,the latest volume in the highly successfulNew Critical Idiomseries, is at once a compact mine of information about the development and more recent ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415169143"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415169141"
+     }
+    ],
+    "pageCount": 229,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d__psMmeX2TIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d__psMmeX2TIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d__psMmeX2TIC&printsec\u003dfrontcover&dq\u003dLiterature&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d__psMmeX2TIC&dq\u003dLiterature&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.77,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d__psMmeX2TIC&dq\u003dLiterature&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Literature-sample-epub.acsm?id\u003d__psMmeX2TIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Literature-sample-pdf.acsm?id\u003d__psMmeX2TIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GFpiYgEACAAJ",
+   "etag": "wUxJV4r3kG8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GFpiYgEACAAJ",
+   "volumeInfo": {
+    "title": "Literature",
+    "subtitle": "An Introduction to Reading and Writing",
+    "authors": [
+     "Edgar V. Roberts",
+     "Robert Zweig"
+    ],
+    "publisher": "Longman",
+    "publishedDate": "2011-01-27",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0205000347"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780205000340"
+     }
+    ],
+    "pageCount": 1471,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dGFpiYgEACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dGFpiYgEACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGFpiYgEACAAJ&dq\u003dLiterature&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGFpiYgEACAAJ&dq\u003dLiterature&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yGp1PRIcKMIC",
+   "etag": "5NKD2LJKChk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yGp1PRIcKMIC",
+   "volumeInfo": {
+    "title": "Literature",
+    "subtitle": "an embattled profession",
+    "authors": [
+     "Carl Woodring"
+    ],
+    "publisher": "Columbia Univ Pr",
+    "publishedDate": "1999",
+    "description": "In the tradition of Ruskin and Arnold, here&#39;s a witty, elegant essay on the contemporary academy by a renowned teacher, scholar, and former administrator.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0231115229"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780231115223"
+     }
+    ],
+    "pageCount": 220,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dyGp1PRIcKMIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dyGp1PRIcKMIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyGp1PRIcKMIC&printsec\u003dfrontcover&dq\u003dLiterature&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyGp1PRIcKMIC&dq\u003dLiterature&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "X3ZPAAAAYAAJ",
+   "etag": "r44fY3NNAMs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/X3ZPAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Literature",
+    "authors": [
+     "Henry Duff Traill"
+    ],
+    "publishedDate": "1898",
+    "description": "If the power to appreciate \u003cb\u003eliterature\u003c/b\u003e were spreading with the same rapidity, \u003cbr\u003e\r\nthere would be little reason to look with suspicion on the increase of hook \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433087362939"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dX3ZPAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dX3ZPAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dX3ZPAAAAYAAJ&printsec\u003dfrontcover&dq\u003dLiterature&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dX3ZPAAAAYAAJ&dq\u003dLiterature&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Literature.pdf?id\u003dX3ZPAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0tfxyweEkSFTXH9zuJjGLQX1Un-Q&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oybZAAAAMAAJ",
+   "etag": "jlUIMx88wAw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oybZAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Literature",
+    "subtitle": "a comedy",
+    "authors": [
+     "Arthur Schnitzler"
+    ],
+    "publishedDate": "1917",
+    "description": "M»waTM, PT A Comedy [Scene: Moderately well, but quite inexpensively furnished \u003cbr\u003e\r\napartments occupied by Margaret. A small fireplace, a table, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "WISC:89008654675"
+     }
+    ],
+    "pageCount": 26,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003doybZAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003doybZAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doybZAAAAMAAJ&printsec\u003dfrontcover&dq\u003dLiterature&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doybZAAAAMAAJ&dq\u003dLiterature&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Literature.pdf?id\u003doybZAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0TZ2ah-FFMadzTGLOudS-mQDdP4w&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1L0XWgfRJ0UC",
+   "etag": "hue1YY9UE7w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1L0XWgfRJ0UC",
+   "volumeInfo": {
+    "title": "Literature",
+    "subtitle": "Reading, Reacting, Writing",
+    "authors": [
+     "Laurie G. Kirszner",
+     "Stephen R. Mandell"
+    ],
+    "publisher": "Heinle",
+    "publishedDate": "2006-03-08",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1413019382"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781413019384"
+     }
+    ],
+    "pageCount": 2108,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "0.4.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d1L0XWgfRJ0UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d1L0XWgfRJ0UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1L0XWgfRJ0UC&q\u003dLiterature&dq\u003dLiterature&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1L0XWgfRJ0UC&dq\u003dLiterature&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZQof_p1ZZTYC",
+   "etag": "FE51/yHzfHE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZQof_p1ZZTYC",
+   "volumeInfo": {
+    "title": "Literature",
+    "subtitle": "A Prentice Hall Pocket Reader",
+    "authors": [
+     "Mary McAleer Balkun"
+    ],
+    "publishedDate": "2005-08-26",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "013134448X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780131344488"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dZQof_p1ZZTYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dZQof_p1ZZTYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZQof_p1ZZTYC&q\u003dLiterature&dq\u003dLiterature&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZQof_p1ZZTYC&dq\u003dLiterature&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 568
+}

@@ -1,0 +1,568 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "_0fa2vCBHd0C",
+   "etag": "glTpsxVl7Is",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_0fa2vCBHd0C",
+   "volumeInfo": {
+    "title": "The elements of teaching",
+    "authors": [
+     "James M. Banner",
+     "Harold C. Cannon"
+    ],
+    "publisher": "Yale Univ Pr",
+    "publishedDate": "1999-03-11",
+    "description": "Two distinguished educators describe the intellectual, moral, and emotional qualities of successful teachers and encourage those who teach to understand the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0300078552"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780300078558"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d_0fa2vCBHd0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d_0fa2vCBHd0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_0fa2vCBHd0C&printsec\u003dfrontcover&dq\u003dTeaching&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_0fa2vCBHd0C&dq\u003dTeaching&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dKq7GGi9RIMC",
+   "etag": "BOyIQWyKxpk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dKq7GGi9RIMC",
+   "volumeInfo": {
+    "title": "Tools for Teaching",
+    "authors": [
+     "Barbara Gross Davis"
+    ],
+    "publisher": "Jossey-Bass",
+    "publishedDate": "2009-07-17",
+    "description": "This is the long-awaited update on the bestselling book that offers a practical, accessible reference manual for faculty in any discipline.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "047056945X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470569450"
+     }
+    ],
+    "pageCount": 608,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003ddKq7GGi9RIMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003ddKq7GGi9RIMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddKq7GGi9RIMC&printsec\u003dfrontcover&dq\u003dTeaching&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddKq7GGi9RIMC&dq\u003dTeaching&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Tools_for_Teaching-sample-epub.acsm?id\u003ddKq7GGi9RIMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OGVf5ZHCo7wC",
+   "etag": "C/vU5GOzJlc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OGVf5ZHCo7wC",
+   "volumeInfo": {
+    "title": "The Seven Laws of Teaching",
+    "authors": [
+     "John Milton Gregory"
+    ],
+    "publisher": "Fq Pub",
+    "publishedDate": "2007-09-19",
+    "description": "This is an essential title for all educators to read, and is filled with practical advice for not just those who are in the common and most obvious role of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1599867559"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781599867557"
+     }
+    ],
+    "pageCount": 120,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 16,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dOGVf5ZHCo7wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dOGVf5ZHCo7wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOGVf5ZHCo7wC&printsec\u003dfrontcover&dq\u003dTeaching&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOGVf5ZHCo7wC&dq\u003dTeaching&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Seven_Laws_of_Teaching-sample-epub.acsm?id\u003dOGVf5ZHCo7wC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Y535J63QV1kC",
+   "etag": "DWcbx2GcdSQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Y535J63QV1kC",
+   "volumeInfo": {
+    "title": "Effective teaching strategies",
+    "authors": [
+     "Roy Killen"
+    ],
+    "publisher": "Social Science Press",
+    "publishedDate": "2006-10",
+    "description": "This text describes teaching strategies that can be used by teachers and trainers in all instructional settings: primary, secondary and vocational as well as ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0170132773"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780170132770"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dY535J63QV1kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dY535J63QV1kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dY535J63QV1kC&printsec\u003dfrontcover&dq\u003dTeaching&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dY535J63QV1kC&dq\u003dTeaching&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "32UK0OiZrskC",
+   "etag": "ese77O8PTqI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/32UK0OiZrskC",
+   "volumeInfo": {
+    "title": "Teaching and the case method",
+    "subtitle": "text, cases, and readings",
+    "authors": [
+     "Louis B. Barnes",
+     "Carl Roland Christensen",
+     "Abby J. Hansen"
+    ],
+    "publisher": "Harvard Business Press",
+    "publishedDate": "1994-09-01",
+    "description": "This third edition of Teaching and the Case Method is a further response to increased national and international interest in teaching, teachers, and learning, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0875844030"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780875844039"
+     }
+    ],
+    "pageCount": 333,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d32UK0OiZrskC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d32UK0OiZrskC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d32UK0OiZrskC&printsec\u003dfrontcover&dq\u003dTeaching&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d32UK0OiZrskC&dq\u003dTeaching&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NC5P8z-u-H0C",
+   "etag": "f8T0/G1WZGE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NC5P8z-u-H0C",
+   "volumeInfo": {
+    "title": "Teaching at Its Best",
+    "subtitle": "A Research-Based Resource for College Instructors",
+    "authors": [
+     "Linda B. Nilson"
+    ],
+    "publisher": "Jossey-Bass",
+    "publishedDate": "2010-04-20",
+    "description": "Teaching at Its Best This third edition of the best-selling handbook offers faculty at all levels an essential toolbox of hundreds of practical teaching ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0470612363"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470612361"
+     }
+    ],
+    "pageCount": 624,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dNC5P8z-u-H0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dNC5P8z-u-H0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNC5P8z-u-H0C&printsec\u003dfrontcover&dq\u003dTeaching&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNC5P8z-u-H0C&dq\u003dTeaching&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Teaching_at_Its_Best-sample-epub.acsm?id\u003dNC5P8z-u-H0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NTjpvFoxGrQC",
+   "etag": "ZEMUM+LQb/Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NTjpvFoxGrQC",
+   "volumeInfo": {
+    "title": "Teaching",
+    "subtitle": "Excellence Or Survival",
+    "authors": [
+     "Chuck Benigno"
+    ],
+    "publisher": "Wheatmark Inc",
+    "publishedDate": "2006-08-15",
+    "description": "As educators, we are truly &quot;saving lives&quot; every day. Teaching is an awesome task that requires a missionary zeal that can drain the best of educators.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1587366576"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781587366574"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dNTjpvFoxGrQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dNTjpvFoxGrQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNTjpvFoxGrQC&printsec\u003dfrontcover&dq\u003dTeaching&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNTjpvFoxGrQC&dq\u003dTeaching&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Teaching-sample-epub.acsm?id\u003dNTjpvFoxGrQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dQxjoyEZqCEC",
+   "etag": "R6c0JOA/ndQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dQxjoyEZqCEC",
+   "volumeInfo": {
+    "title": "Teaching with intention",
+    "subtitle": "defining beliefs, aligning practice, taking action, K-5",
+    "authors": [
+     "Debbie Miller"
+    ],
+    "publisher": "Stenhouse Pub",
+    "publishedDate": "2008-08",
+    "description": "As Peter Johnston writes, &quot;Through this book we have Debbie&#39;s teaching mind on loan.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1571103872"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781571103871"
+     }
+    ],
+    "pageCount": 149,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 14,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003ddQxjoyEZqCEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003ddQxjoyEZqCEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddQxjoyEZqCEC&printsec\u003dfrontcover&dq\u003dTeaching&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddQxjoyEZqCEC&dq\u003dTeaching&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Teaching_with_intention-sample-epub.acsm?id\u003ddQxjoyEZqCEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zA9SWebE85QC",
+   "etag": "m8iCCD3nScU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zA9SWebE85QC",
+   "volumeInfo": {
+    "title": "Teaching",
+    "authors": [
+     "Trotman Publishing"
+    ],
+    "publisher": "Trotman & Company, Limited",
+    "publishedDate": "2001-03-01",
+    "description": "What about working in \u003cb\u003eteaching\u003c/b\u003e? \u003cb\u003eTeaching\u003c/b\u003e is not the 9-3 job some people believe \u003cbr\u003e\r\nit to be. lt&#39;s usually more like 8-5, 6, 7pm. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0856606650"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780856606656"
+     }
+    ],
+    "pageCount": 44,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dzA9SWebE85QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dzA9SWebE85QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzA9SWebE85QC&printsec\u003dfrontcover&dq\u003dTeaching&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzA9SWebE85QC&dq\u003dTeaching&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XYIjZ4r3r8kC",
+   "etag": "6uiejSe18Zs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XYIjZ4r3r8kC",
+   "volumeInfo": {
+    "title": "Learner-centered teaching",
+    "subtitle": "five key changes to practice",
+    "authors": [
+     "Maryellen Weimer"
+    ],
+    "publisher": "Jossey-Bass Inc Pub",
+    "publishedDate": "2002-06-24",
+    "description": "Learner-Centered Teaching also offers well researched advice for educators who want to transition to a learner-centered approach in their classrooms and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0787956465"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780787956462"
+     }
+    ],
+    "pageCount": 258,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dXYIjZ4r3r8kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dXYIjZ4r3r8kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXYIjZ4r3r8kC&printsec\u003dfrontcover&dq\u003dTeaching&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXYIjZ4r3r8kC&dq\u003dTeaching&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 38.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 38.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dXYIjZ4r3r8kC&dq\u003dTeaching&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Learner_centered_teaching-sample-pdf.acsm?id\u003dXYIjZ4r3r8kC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 594
+}

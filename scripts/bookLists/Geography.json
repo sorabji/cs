@@ -1,0 +1,569 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "VHcC72_6l0sC",
+   "etag": "4hf/giMDcZ4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VHcC72_6l0sC",
+   "volumeInfo": {
+    "title": "Geography",
+    "subtitle": "history and concepts : a student's guide",
+    "authors": [
+     "Arild Holt-Jensen"
+    ],
+    "publisher": "Sage Publications Ltd",
+    "publishedDate": "2009-10-18",
+    "description": "This introduction to the history, philosophy and methodology of human geography explores complex ideas in an intelligible and accessible style.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1412946506"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781412946506"
+     }
+    ],
+    "pageCount": 264,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dVHcC72_6l0sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dVHcC72_6l0sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVHcC72_6l0sC&printsec\u003dfrontcover&dq\u003dGeography&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVHcC72_6l0sC&dq\u003dGeography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Geography-sample-epub.acsm?id\u003dVHcC72_6l0sC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Geography-sample-pdf.acsm?id\u003dVHcC72_6l0sC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aVwP7aOVmh0C",
+   "etag": "lSgWED0AvgI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aVwP7aOVmh0C",
+   "volumeInfo": {
+    "title": "Geography",
+    "subtitle": "a global synthesis",
+    "authors": [
+     "Peter Haggett"
+    ],
+    "publisher": "Prentice Hall",
+    "publishedDate": "2001",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0582320305"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780582320307"
+     }
+    ],
+    "pageCount": 833,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003daVwP7aOVmh0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003daVwP7aOVmh0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daVwP7aOVmh0C&dq\u003dGeography&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daVwP7aOVmh0C&dq\u003dGeography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0-GxowMfwlkC",
+   "etag": "MJJU1Q2qFWY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0-GxowMfwlkC",
+   "volumeInfo": {
+    "title": "The dictionary of human geography",
+    "authors": [
+     "Ronald John Johnston"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "2000",
+    "description": "This path-breaking guide to the concepts, terms and theories used in human geography has now been fully revised to reflect and to advance changes in the nature ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0631205616"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780631205616"
+     }
+    ],
+    "pageCount": 958,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 12,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d0-GxowMfwlkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d0-GxowMfwlkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0-GxowMfwlkC&printsec\u003dfrontcover&dq\u003dGeography&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0-GxowMfwlkC&dq\u003dGeography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XlSUOsIHmIcC",
+   "etag": "ZUns/RsJthg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XlSUOsIHmIcC",
+   "volumeInfo": {
+    "title": "Geography",
+    "subtitle": "journal of the Geographical Association",
+    "authors": [
+     "Geographical Association",
+     "London Geographical Institute"
+    ],
+    "publisher": "Ardent Media",
+    "publishedDate": "2006",
+    "description": "Geologic and \u003cb\u003egeographical\u003c/b\u003e considerations may, under many circumstances, \u003cbr\u003e\r\ndetermine resource values. Coal which is located in deep and badly fractured \u003cbr\u003e\r\nseams, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:AD48CYNGLK9"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dXlSUOsIHmIcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dXlSUOsIHmIcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXlSUOsIHmIcC&printsec\u003dfrontcover&dq\u003dGeography&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXlSUOsIHmIcC&dq\u003dGeography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "W_XrQQAACAAJ",
+   "etag": "JJs3i8RoP88",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/W_XrQQAACAAJ",
+   "volumeInfo": {
+    "title": "Geography",
+    "subtitle": "Realms, Regions and Concepts",
+    "authors": [
+     "H. J. de Blij",
+     "Peter O. Muller"
+    ],
+    "publisher": "Wiley",
+    "publishedDate": "2009-09-14",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0470462426"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470462423"
+     }
+    ],
+    "pageCount": 688,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dW_XrQQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dW_XrQQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dW_XrQQAACAAJ&dq\u003dGeography&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dW_XrQQAACAAJ&dq\u003dGeography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xxQIyrsyE8gC",
+   "etag": "hBEkPQRIeqE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xxQIyrsyE8gC",
+   "volumeInfo": {
+    "title": "Geography",
+    "subtitle": "realms, regions, and concepts",
+    "authors": [
+     "Harm J. De Blij",
+     "Peter O. Muller"
+    ],
+    "publisher": "Wiley",
+    "publishedDate": "2004",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0471152242"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780471152248"
+     }
+    ],
+    "pageCount": 566,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "0.4.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dxxQIyrsyE8gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dxxQIyrsyE8gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxxQIyrsyE8gC&q\u003dGeography&dq\u003dGeography&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxxQIyrsyE8gC&dq\u003dGeography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tE5xovXhSH8C",
+   "etag": "Xi144Oaf6H0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tE5xovXhSH8C",
+   "volumeInfo": {
+    "title": "Geography",
+    "authors": [
+     "Minnie Ashcroft"
+    ],
+    "publisher": "Teaching Resources",
+    "publishedDate": "2003-07-01",
+    "description": "Help kids succeed in class and on tests with these fun, super-quick daily exercises that provide essential practice in math, reading and writting, social ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0439271789"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780439271783"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dtE5xovXhSH8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dtE5xovXhSH8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtE5xovXhSH8C&printsec\u003dfrontcover&dq\u003dGeography&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtE5xovXhSH8C&dq\u003dGeography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SEcAAAAAYAAJ",
+   "etag": "siB3o4TKREE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SEcAAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Geography",
+    "subtitle": "or, A description of the world. In three parts. Part I.--Geographical orthography, divided and accented. Part II. A grammar of geography, to be committed to memory. Part III.--A description of the earth...Accompanied with an atlas. To which is added, an esay method of constructing maps",
+    "authors": [
+     "Daniel Adams"
+    ],
+    "publishedDate": "1821",
+    "description": "\u003cb\u003eGeographical\u003c/b\u003e Orthography. A DIFFICULT word occurring in a lesson, of which &amp; \u003cbr\u003e\r\nchild does not know the just pronunciation, or the sound of which is not \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044097022008"
+     }
+    ],
+    "pageCount": 337,
+    "printType": "BOOK",
+    "categories": [
+     "Geography"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dSEcAAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dSEcAAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSEcAAAAAYAAJ&printsec\u003dfrontcover&dq\u003dGeography&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSEcAAAAAYAAJ&dq\u003dGeography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Geography.epub?id\u003dSEcAAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Geography.pdf?id\u003dSEcAAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2Dg2sdX7tJy96dmS1P1GnSIXepSg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6HDvRWo1DN8C",
+   "etag": "uKcyE2gArtI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6HDvRWo1DN8C",
+   "volumeInfo": {
+    "title": "Geography",
+    "subtitle": "a very short introduction",
+    "authors": [
+     "John Anthony Matthews",
+     "David T. Herbert"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2008-08-13",
+    "description": "Using wide-ranging examples, the book paints a broad picture of the current state of Geography, its subject matter, concepts and methods, how it developed, and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0199211280"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780199211289"
+     }
+    ],
+    "pageCount": 181,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d6HDvRWo1DN8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d6HDvRWo1DN8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6HDvRWo1DN8C&printsec\u003dfrontcover&dq\u003dGeography&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6HDvRWo1DN8C&dq\u003dGeography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 8.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.52,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d6HDvRWo1DN8C&dq\u003dGeography&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Geography-sample-epub.acsm?id\u003d6HDvRWo1DN8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Geography-sample-pdf.acsm?id\u003d6HDvRWo1DN8C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cdKdjqnbnRgC",
+   "etag": "R2yKgVeGMPI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cdKdjqnbnRgC",
+   "volumeInfo": {
+    "title": "Geography",
+    "subtitle": "discipline, profession, and subject since 1870 : an international survey",
+    "authors": [
+     "Gary S. Dunbar"
+    ],
+    "publisher": "Springer Netherlands",
+    "publishedDate": "2001",
+    "description": "This book is a comprehensive treatment of the professionalization and institutionalization of the academic discipline of geography in Europe and North America, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1402000197"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781402000195"
+     }
+    ],
+    "pageCount": 331,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dcdKdjqnbnRgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dcdKdjqnbnRgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcdKdjqnbnRgC&printsec\u003dfrontcover&dq\u003dGeography&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcdKdjqnbnRgC&dq\u003dGeography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 179.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 143.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dcdKdjqnbnRgC&dq\u003dGeography&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Geography-sample-epub.acsm?id\u003dcdKdjqnbnRgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Geography-sample-pdf.acsm?id\u003dcdKdjqnbnRgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 576
+}

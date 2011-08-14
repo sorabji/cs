@@ -1,0 +1,576 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "oNsvckixi0IC",
+   "etag": "unjHVtX2qRA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oNsvckixi0IC",
+   "volumeInfo": {
+    "title": "Information technology",
+    "subtitle": "a luddite analysis",
+    "authors": [
+     "Frank Webster",
+     "Kevin Robins"
+    ],
+    "publisher": "Ablex Publishing Corporation",
+    "publishedDate": "1986",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "089391343X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780893913434"
+     }
+    ],
+    "pageCount": 387,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003doNsvckixi0IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003doNsvckixi0IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doNsvckixi0IC&q\u003dInformation+Technology&dq\u003dInformation+Technology&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doNsvckixi0IC&dq\u003dInformation+Technology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "t7r2TG-_OrkC",
+   "etag": "EJguRDbYBCo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/t7r2TG-_OrkC",
+   "volumeInfo": {
+    "title": "Information Technology",
+    "authors": [
+     "Jonathan Shearman"
+    ],
+    "publishedDate": "2006-04",
+    "description": "I like dealing with new situations, learning new things, handling new challenges\u003cbr\u003e\r\n, and using my analytical ability. Raymond Allo, Senior Database \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1921106131"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781921106132"
+     }
+    ],
+    "pageCount": 164,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dt7r2TG-_OrkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dt7r2TG-_OrkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dt7r2TG-_OrkC&printsec\u003dfrontcover&dq\u003dInformation+Technology&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dt7r2TG-_OrkC&dq\u003dInformation+Technology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "O9U2qRiKwaYC",
+   "etag": "uoJyzb3chPU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/O9U2qRiKwaYC",
+   "volumeInfo": {
+    "title": "Information technology",
+    "subtitle": "selected tutorials : IFIP 18th World Computer Congress tutorials, 22-27 August 2004, Toulouse, France",
+    "authors": [
+     "Ricardo Reis"
+    ],
+    "publisher": "Kluwer Academic Pub",
+    "publishedDate": "2004-07-27",
+    "description": "This volume reports on several important and state-of-the-art topics in information technology, including: a?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1402081588"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781402081583"
+     }
+    ],
+    "pageCount": 331,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dO9U2qRiKwaYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dO9U2qRiKwaYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dO9U2qRiKwaYC&printsec\u003dfrontcover&dq\u003dInformation+Technology&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dO9U2qRiKwaYC&dq\u003dInformation+Technology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 185.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 148.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dO9U2qRiKwaYC&dq\u003dInformation+Technology&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Information_technology-sample-pdf.acsm?id\u003dO9U2qRiKwaYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_rnzWEda3cMC",
+   "etag": "H+eUr9B89g4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_rnzWEda3cMC",
+   "volumeInfo": {
+    "title": "Information technology",
+    "subtitle": "supporting change through teacher education : IFIP TC3 WG 3.1/3.5 Joint Working Conference on Information Technology : Supporting Change Through Teacher Education, 30th June - 5th July 1996, Kiryat Anavim, Israel",
+    "authors": [
+     "International Federation for Information Processing"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "1997",
+    "description": "This book considers how the fundamental issues relating to the use of information technology in education, are being tackled across the world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0412797607"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780412797606"
+     }
+    ],
+    "pageCount": 382,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d_rnzWEda3cMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d_rnzWEda3cMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_rnzWEda3cMC&printsec\u003dfrontcover&dq\u003dInformation+Technology&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_rnzWEda3cMC&dq\u003dInformation+Technology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 207.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 165.6,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d_rnzWEda3cMC&dq\u003dInformation+Technology&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Information_technology-sample-pdf.acsm?id\u003d_rnzWEda3cMC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Q89zv-LVQNIC",
+   "etag": "jjLPp2Hrwpk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Q89zv-LVQNIC",
+   "volumeInfo": {
+    "title": "The Information technology revolution",
+    "authors": [
+     "Tom Forester"
+    ],
+    "publisher": "The MIT Press",
+    "publishedDate": "1985-04-04",
+    "description": "Essays discuss software, supercomputers, artificial intelligence, telecommunications, videotext, personal computers, factory automation, computer crime, and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "026256033X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780262560337"
+     }
+    ],
+    "pageCount": 674,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dQ89zv-LVQNIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dQ89zv-LVQNIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQ89zv-LVQNIC&printsec\u003dfrontcover&dq\u003dInformation+Technology&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQ89zv-LVQNIC&dq\u003dInformation+Technology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FYBIbCJJdYwC",
+   "etag": "DJrNic5tm88",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FYBIbCJJdYwC",
+   "volumeInfo": {
+    "title": "Information Technology",
+    "authors": [
+     "Amanda Kirk"
+    ],
+    "publisher": "Ferguson Publishing Company",
+    "publishedDate": "2009-05-30",
+    "description": "Describes the responsibilities, educational requirements, and outlook for a variety of information technology jobs.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0816076014"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816076017"
+     }
+    ],
+    "pageCount": 130,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dFYBIbCJJdYwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dFYBIbCJJdYwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFYBIbCJJdYwC&printsec\u003dfrontcover&dq\u003dInformation+Technology&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFYBIbCJJdYwC&dq\u003dInformation+Technology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.16,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dFYBIbCJJdYwC&dq\u003dInformation+Technology&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Information_Technology-sample-epub.acsm?id\u003dFYBIbCJJdYwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Information_Technology-sample-pdf.acsm?id\u003dFYBIbCJJdYwC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ie7bAAAAMAAJ",
+   "etag": "XoQs5gIikqA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ie7bAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Information technology",
+    "subtitle": "an introduction",
+    "authors": [
+     "Peter Zorkoczy"
+    ],
+    "publishedDate": "1985-02",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015010365990"
+     }
+    ],
+    "pageCount": 164,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003die7bAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003die7bAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003die7bAAAAMAAJ&q\u003dInformation+Technology&dq\u003dInformation+Technology&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003die7bAAAAMAAJ&dq\u003dInformation+Technology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dMVyUTg5EDcC",
+   "etag": "OZYjRTKuAwQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dMVyUTg5EDcC",
+   "volumeInfo": {
+    "title": "Information technology",
+    "subtitle": "management improvements needed on Immigration and Customs Enforcement's infrastructure moderization program : report to congessional committees",
+    "authors": [
+     "United States. Government Accountability Office"
+    ],
+    "publisher": "DIANE Publishing",
+    "publishedDate": "2005",
+    "description": "\u003cb\u003e...\u003c/b\u003e to modernize its \u003cb\u003einformation technology\u003c/b\u003e (IT) infrastructure.2 The goals of \u003cbr\u003e\r\nthe program—which ICE refers to as “Atlas”—are to, among other things, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1428933352"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781428933354"
+     }
+    ],
+    "pageCount": 63,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003ddMVyUTg5EDcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003ddMVyUTg5EDcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddMVyUTg5EDcC&printsec\u003dfrontcover&dq\u003dInformation+Technology&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddMVyUTg5EDcC&dq\u003dInformation+Technology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003ddMVyUTg5EDcC&dq\u003dInformation+Technology&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MPS_fT3diqAC",
+   "etag": "aXB/0G3l630",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MPS_fT3diqAC",
+   "volumeInfo": {
+    "title": "Information Technology Project Management",
+    "authors": [
+     "Kathy Schwalbe"
+    ],
+    "publisher": "Course Technology Ptr",
+    "publishedDate": "2009-03-24",
+    "description": "This text provides up-to-date information on how good project management and effective use of software can help you manage projects, especially information ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0324786921"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780324786927"
+     }
+    ],
+    "pageCount": 490,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dMPS_fT3diqAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dMPS_fT3diqAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMPS_fT3diqAC&printsec\u003dfrontcover&dq\u003dInformation+Technology&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMPS_fT3diqAC&dq\u003dInformation+Technology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oCOdm_66vCMC",
+   "etag": "74JOERwtxp4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oCOdm_66vCMC",
+   "volumeInfo": {
+    "title": "Information Technology",
+    "subtitle": "Federal Laws, Regulations, and Mandatory Standards for Securing Private Sector IT Systems and Data in Critical Infrastructure Sectors",
+    "authors": [
+     "David A. Powner"
+    ],
+    "publisher": "DIANE Publishing",
+    "publishedDate": "2009-03-01",
+    "description": "Fed. policy identifies 18 infrastructure sectors -- such as banking and finance, energy, public health and healthcare and telecomm. -- that are critical to the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "143790999X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781437909999"
+     }
+    ],
+    "pageCount": 72,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003doCOdm_66vCMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003doCOdm_66vCMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doCOdm_66vCMC&printsec\u003dfrontcover&dq\u003dInformation+Technology&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doCOdm_66vCMC&dq\u003dInformation+Technology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003doCOdm_66vCMC&dq\u003dInformation+Technology&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 563
+}

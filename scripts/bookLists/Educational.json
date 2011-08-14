@@ -1,0 +1,592 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "2elEAAAAYAAJ",
+   "etag": "tXadUMiJcBM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2elEAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Educational Psychology",
+    "authors": [
+     "Anita E. Woolfolk"
+    ],
+    "publisher": "Allyn & Bacon",
+    "publishedDate": "2006-02-08",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0205493831"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780205493838"
+     }
+    ],
+    "pageCount": 692,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 8,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d2elEAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d2elEAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2elEAAAAYAAJ&q\u003dEducational&dq\u003dEducational&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2elEAAAAYAAJ&dq\u003dEducational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bqo5A2nBwHYC",
+   "etag": "NHw/SnL1Skw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bqo5A2nBwHYC",
+   "volumeInfo": {
+    "title": "Educational psychology",
+    "subtitle": "a century of contributions",
+    "authors": [
+     "Barry J. Zimmerman",
+     "Dale H. Schunk"
+    ],
+    "publisher": "Lawrence Erlbaum",
+    "publishedDate": "2003",
+    "description": "Educational Psychology: A Century of Contributions--the first comprehensive book-length treatment of this topic--looks at the historic contributions of 16 ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0805836829"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780805836820"
+     }
+    ],
+    "pageCount": 490,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dbqo5A2nBwHYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dbqo5A2nBwHYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbqo5A2nBwHYC&printsec\u003dfrontcover&dq\u003dEducational&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbqo5A2nBwHYC&dq\u003dEducational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 79.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 63.96,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dbqo5A2nBwHYC&dq\u003dEducational&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Educational_psychology-sample-epub.acsm?id\u003dbqo5A2nBwHYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Educational_psychology-sample-pdf.acsm?id\u003dbqo5A2nBwHYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ir1IJA8NzdYC",
+   "etag": "BGYVnUVmYa0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ir1IJA8NzdYC",
+   "volumeInfo": {
+    "title": "Educational environments",
+    "authors": [
+     "Roger Yee"
+    ],
+    "publisher": "Visual Reference Pub Inc",
+    "publishedDate": "2007-03",
+    "description": "The range of facilities illustrated in this volume&#39;s meticulously reproduced, four-color pages reflects the broad scope of today&#39;s educational activities.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1584711027"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781584711025"
+     }
+    ],
+    "pageCount": 239,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dIr1IJA8NzdYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dIr1IJA8NzdYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIr1IJA8NzdYC&printsec\u003dfrontcover&dq\u003dEducational&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIr1IJA8NzdYC&dq\u003dEducational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "J5_j-tip3DwC",
+   "etag": "qHyBw0qR2pI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/J5_j-tip3DwC",
+   "volumeInfo": {
+    "title": "Educational Foundations",
+    "subtitle": "Diverse Histories, Diverse Perspectives",
+    "authors": [
+     "Grace Huerta"
+    ],
+    "publisher": "Wadsworth",
+    "publishedDate": "2007-12-28",
+    "description": "Providing students with this important background information, this text&#39;s goal is to enable teachers to help every child fulfill his or her potential.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0618562559"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780618562558"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dJ5_j-tip3DwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dJ5_j-tip3DwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJ5_j-tip3DwC&printsec\u003dfrontcover&dq\u003dEducational&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJ5_j-tip3DwC&dq\u003dEducational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7Wk9fDcBl9EC",
+   "etag": "sVmIWzCZJiA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7Wk9fDcBl9EC",
+   "volumeInfo": {
+    "title": "International handbook of educational change",
+    "authors": [
+     "Andy Hargreaves"
+    ],
+    "publisher": "Kluwer Academic Pub",
+    "publishedDate": "1998",
+    "description": "The International Handbook of Educational Change is a state of the art collection of the most important ideas and evidence of educational change.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0792335341"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780792335344"
+     }
+    ],
+    "pageCount": 1360,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d7Wk9fDcBl9EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d7Wk9fDcBl9EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7Wk9fDcBl9EC&printsec\u003dfrontcover&dq\u003dEducational&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7Wk9fDcBl9EC&dq\u003dEducational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 549.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 439.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d7Wk9fDcBl9EC&dq\u003dEducational&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/International_handbook_of_educational_ch-sample-epub.acsm?id\u003d7Wk9fDcBl9EC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/International_handbook_of_educational_ch-sample-pdf.acsm?id\u003d7Wk9fDcBl9EC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8nc6nRRbMSQC",
+   "etag": "7ljfi/9uclE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8nc6nRRbMSQC",
+   "volumeInfo": {
+    "title": "The Handbook of Educational Linguistics",
+    "authors": [
+     "Bernard Spolsky",
+     "Francis M. Hult"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "2010-02-08",
+    "description": "The Handbook of Educational Linguistics is a dynamic, scientifically grounded overview revealing the complexity of this growing field while remaining accessible ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1444331043"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781444331042"
+     }
+    ],
+    "pageCount": 704,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d8nc6nRRbMSQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d8nc6nRRbMSQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8nc6nRRbMSQC&printsec\u003dfrontcover&dq\u003dEducational&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8nc6nRRbMSQC&dq\u003dEducational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ek1NfukcnvUC",
+   "etag": "zZ47QbfGpjY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ek1NfukcnvUC",
+   "volumeInfo": {
+    "title": "Extending educational change",
+    "authors": [
+     "Andy Hargreaves"
+    ],
+    "publisher": "Kluwer Academic Pub",
+    "publishedDate": "2005-10-14",
+    "description": "This volume deals with the idea and necessity of extending educational change - conceptually and in action.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1402032919"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781402032912"
+     }
+    ],
+    "pageCount": 395,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "1.0.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dek1NfukcnvUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dek1NfukcnvUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dek1NfukcnvUC&printsec\u003dfrontcover&dq\u003dEducational&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dek1NfukcnvUC&dq\u003dEducational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 52.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 42.36,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dek1NfukcnvUC&dq\u003dEducational&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Extending_educational_change-sample-epub.acsm?id\u003dek1NfukcnvUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Extending_educational_change-sample-pdf.acsm?id\u003dek1NfukcnvUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YbkhT_3yGvQC",
+   "etag": "mwuCg803qgc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YbkhT_3yGvQC",
+   "volumeInfo": {
+    "title": "Methods in educational research",
+    "subtitle": "from theory to practice",
+    "authors": [
+     "Marguerite G. Lodico",
+     "Dean T. Spaulding",
+     "Katherine H. Voegtle"
+    ],
+    "publisher": "Jossey-Bass Inc Pub",
+    "publishedDate": "2006-04-07",
+    "description": "Designed for the real world of educational research, the book&#39;s approach focuses on the types of problems likely to be encountered in professional experiences.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0787979627"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780787979621"
+     }
+    ],
+    "pageCount": 413,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dYbkhT_3yGvQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dYbkhT_3yGvQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYbkhT_3yGvQC&printsec\u003dfrontcover&dq\u003dEducational&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYbkhT_3yGvQC&dq\u003dEducational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 69.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 69.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dYbkhT_3yGvQC&dq\u003dEducational&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Methods_in_educational_research-sample-pdf.acsm?id\u003dYbkhT_3yGvQC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RP6IsTESEq4C",
+   "etag": "GtNOxSN/vHg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RP6IsTESEq4C",
+   "volumeInfo": {
+    "title": "Educational audiology handbook",
+    "authors": [
+     "Cheryl DeConde Johnson",
+     "Peggy V. Benson",
+     "Jane B. Seaton"
+    ],
+    "publisher": "Singular Pub Group",
+    "publishedDate": "1997",
+    "description": "Written by recognized leaders in educational audiology, this text has become the standard for all courses that train audiology students on their roles and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1565938232"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781565938236"
+     }
+    ],
+    "pageCount": 532,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dRP6IsTESEq4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dRP6IsTESEq4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRP6IsTESEq4C&printsec\u003dfrontcover&dq\u003dEducational&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRP6IsTESEq4C&dq\u003dEducational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MJD3QiUBrSoC",
+   "etag": "8xQTZMp2yuA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MJD3QiUBrSoC",
+   "volumeInfo": {
+    "title": "Educational leadership",
+    "subtitle": "culture and diversity",
+    "authors": [
+     "Clive A. J. Dimmock",
+     "Allan Walker"
+    ],
+    "publisher": "Sage Publications Ltd",
+    "publishedDate": "2005-07-12",
+    "description": "This is a useful and important book because citizenship, globalization and the tensions with nationality should be the concern of all who lead any school; even ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "076197170X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761971702"
+     }
+    ],
+    "pageCount": 218,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dMJD3QiUBrSoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dMJD3QiUBrSoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMJD3QiUBrSoC&printsec\u003dfrontcover&dq\u003dEducational&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMJD3QiUBrSoC&dq\u003dEducational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Educational_leadership-sample-pdf.acsm?id\u003dMJD3QiUBrSoC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 597
+}

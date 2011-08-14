@@ -1,0 +1,554 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "f2Xjzu0qR7IC",
+   "etag": "t7KLU5SYI18",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f2Xjzu0qR7IC",
+   "volumeInfo": {
+    "title": "Astronomy",
+    "subtitle": "the evolving universe",
+    "authors": [
+     "Michael Zeilik"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "2002",
+    "description": "The ninth edition of this successful textbook describes the full range of the astronomical universe and how astronomers think about the cosmos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521800900"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521800907"
+     }
+    ],
+    "pageCount": 552,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003df2Xjzu0qR7IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003df2Xjzu0qR7IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003df2Xjzu0qR7IC&printsec\u003dfrontcover&dq\u003dAstronomy&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003df2Xjzu0qR7IC&dq\u003dAstronomy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6N6t5MXXaIsC",
+   "etag": "U3gzjFwhxrc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6N6t5MXXaIsC",
+   "volumeInfo": {
+    "title": "Astronomy",
+    "subtitle": "A Self-Teaching Guide",
+    "authors": [
+     "Dinah L. Moché"
+    ],
+    "publisher": "Wiley",
+    "publishedDate": "2009-08-05",
+    "description": "Discover the wonders of the night sky with this bestselling astronomy guide For a generation, Astronomy: A Self-Teaching Guide has introduced hundreds of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0470230835"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470230831"
+     }
+    ],
+    "pageCount": 388,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d6N6t5MXXaIsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d6N6t5MXXaIsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6N6t5MXXaIsC&printsec\u003dfrontcover&dq\u003dAstronomy&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6N6t5MXXaIsC&dq\u003dAstronomy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d6N6t5MXXaIsC&dq\u003dAstronomy&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Astronomy-sample-epub.acsm?id\u003d6N6t5MXXaIsC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Astronomy-sample-pdf.acsm?id\u003d6N6t5MXXaIsC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2QVmiMW0O0MC",
+   "etag": "ipH5gXinI/I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2QVmiMW0O0MC",
+   "volumeInfo": {
+    "title": "Astronomy",
+    "subtitle": "a physical perspective",
+    "authors": [
+     "Marc Leslie Kutner"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "2003",
+    "description": "It will be suitable for undergraduate students taking a first course in astronomy, and assumes a basic knowledge of physics with calculus.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521529271"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521529273"
+     }
+    ],
+    "pageCount": 582,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d2QVmiMW0O0MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d2QVmiMW0O0MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2QVmiMW0O0MC&printsec\u003dfrontcover&dq\u003dAstronomy&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2QVmiMW0O0MC&dq\u003dAstronomy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qw-tyfZ8OIYC",
+   "etag": "zKoOEHht4E8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qw-tyfZ8OIYC",
+   "volumeInfo": {
+    "title": "Astronomy",
+    "subtitle": "Looking at the Stars",
+    "authors": [
+     "Susan Wills",
+     "Steven R. Wills"
+    ],
+    "publisher": "The Oliver Press, Inc.",
+    "publishedDate": "2001-08",
+    "description": "Traces the development of astronomy through the lives and accomplishments of seven notable innovators in the field--Claudius Ptolemy, Copernicus, Tycho Brahe, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1881508765"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781881508762"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dqw-tyfZ8OIYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dqw-tyfZ8OIYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dqw-tyfZ8OIYC&printsec\u003dfrontcover&dq\u003dAstronomy&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dqw-tyfZ8OIYC&dq\u003dAstronomy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jeIMAAAAYAAJ",
+   "etag": "tyqD7u6zBG0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jeIMAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Astronomy",
+    "authors": [
+     "Sir Norman Lockyer"
+    ],
+    "publishedDate": "1876",
+    "description": "\u003cb\u003eASTRONOMY\u003c/b\u003e. INTRODUCTION. 1. Everyone who is going to read this book knows what a \u003cbr\u003e\r\nschool-room or school-house is. Now suppose it had windows that you could \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044091904029"
+     }
+    ],
+    "pageCount": 120,
+    "printType": "BOOK",
+    "categories": [
+     "Astronomy"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003djeIMAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003djeIMAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djeIMAAAAYAAJ&printsec\u003dfrontcover&dq\u003dAstronomy&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djeIMAAAAYAAJ&dq\u003dAstronomy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Astronomy.pdf?id\u003djeIMAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U390kog6dUzsdE38oWz9n-qm8UsAQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DajpkyXS-NUC",
+   "etag": "nqfiIuXj6r4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DajpkyXS-NUC",
+   "volumeInfo": {
+    "title": "Astronomy",
+    "subtitle": "The Solar System and Beyond",
+    "authors": [
+     "Michael A. Seeds",
+     "Dana E. Backman"
+    ],
+    "publisher": "Brooks/Cole Pub Co",
+    "publishedDate": "2009-01-05",
+    "description": "Fascinating and engaging, this text illustrates the scientific method and guides students to these fundamental questions: &quot;What are we?&quot; and &quot;How do we know?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0495562033"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780495562030"
+     }
+    ],
+    "pageCount": 487,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dDajpkyXS-NUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dDajpkyXS-NUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDajpkyXS-NUC&printsec\u003dfrontcover&dq\u003dAstronomy&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDajpkyXS-NUC&dq\u003dAstronomy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KjLRtgAACAAJ",
+   "etag": "iG4edyqX7DE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KjLRtgAACAAJ",
+   "volumeInfo": {
+    "title": "Astronomy",
+    "authors": [
+     "Dan Green"
+    ],
+    "publishedDate": "2010-10-22",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "075343248X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780753432488"
+     }
+    ],
+    "pageCount": 128,
+    "printType": "BOOK",
+    "averageRating": 4.5,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dKjLRtgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dKjLRtgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKjLRtgAACAAJ&dq\u003dAstronomy&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKjLRtgAACAAJ&dq\u003dAstronomy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "v2S6XV8dsIAC",
+   "etag": "C79G4StHM9w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/v2S6XV8dsIAC",
+   "volumeInfo": {
+    "title": "Astronomy",
+    "subtitle": "principles and practice",
+    "authors": [
+     "Archie E. Roy",
+     "David Clarke"
+    ],
+    "publisher": "Taylor & Francis",
+    "publishedDate": "2003",
+    "description": "This fourth edition of Roy and Clarke&#39;s classic textbook has been updated and expanded to include the many exciting developments in modern astronomy and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0750309172"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780750309172"
+     }
+    ],
+    "pageCount": 475,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dv2S6XV8dsIAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dv2S6XV8dsIAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dv2S6XV8dsIAC&printsec\u003dfrontcover&dq\u003dAstronomy&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dv2S6XV8dsIAC&dq\u003dAstronomy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Astronomy-sample-pdf.acsm?id\u003dv2S6XV8dsIAC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "POUMAAAAYAAJ",
+   "etag": "W1PSaA7n9eA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/POUMAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Astronomy",
+    "subtitle": "the science of the heavenly bodies",
+    "authors": [
+     "David Peck Todd"
+    ],
+    "publishedDate": "1922",
+    "description": "LIST OF ILLUSTRATIONS ^Active Prominence of the Sun, 140000 Miles High \u003cbr\u003e\r\nFrontispiece FACING PAGE &quot;&#39;Nicholas Copernicus 64 &quot;Galileo Galilei 64 - Johann \u003cbr\u003e\r\nKepler \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044074410390"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Astronomy"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dPOUMAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dPOUMAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPOUMAAAAYAAJ&printsec\u003dfrontcover&dq\u003dAstronomy&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPOUMAAAAYAAJ&dq\u003dAstronomy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Astronomy.epub?id\u003dPOUMAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Astronomy.pdf?id\u003dPOUMAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2ZEzkwVj6FqmnvNGtgspRLZ0oreg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "K4I-AAAAYAAJ",
+   "etag": "pRhXDLlzSXc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/K4I-AAAAYAAJ",
+   "volumeInfo": {
+    "title": "Astronomy",
+    "authors": [
+     "Agnes Mary Clerke",
+     "Alfred Fowler",
+     "John Ellard Gore"
+    ],
+    "publishedDate": "1898",
+    "description": "\u003cb\u003eASTRONOMY\u003c/b\u003e SECTION I.— HISTORY. BY AGNES M. CLERKE. CHAPTER I. FROM HIPPARCHUS TO \u003cbr\u003e\r\nLAPLACE. IN the year 134 BC, a temporary star blazed out in the \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PRNC:32101007018136"
+     }
+    ],
+    "pageCount": 581,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dK4I-AAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dK4I-AAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dK4I-AAAAYAAJ&printsec\u003dfrontcover&dq\u003dAstronomy&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dK4I-AAAAYAAJ&dq\u003dAstronomy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Astronomy.epub?id\u003dK4I-AAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Astronomy.pdf?id\u003dK4I-AAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2CcprFPw5M3AKe4b7iBFHExytw5g&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 586
+}

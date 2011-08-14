@@ -1,0 +1,519 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "8Bndfmwa9_YC",
+   "etag": "mtlatcjJueA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8Bndfmwa9_YC",
+   "volumeInfo": {
+    "title": "Political Science",
+    "authors": [
+     "Robert A. Heineman"
+    ],
+    "publisher": "Schaum's Outline Series",
+    "publishedDate": "1995-07-01",
+    "description": "Confusing Textbooks?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "007028203X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780070282032"
+     }
+    ],
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d8Bndfmwa9_YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d8Bndfmwa9_YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8Bndfmwa9_YC&printsec\u003dfrontcover&dq\u003dPolitical+Science&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8Bndfmwa9_YC&dq\u003dPolitical+Science&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8UVRtwAACAAJ",
+   "etag": "X1BGFYkWMNo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8UVRtwAACAAJ",
+   "volumeInfo": {
+    "title": "Political Science",
+    "subtitle": "An Introduction",
+    "authors": [
+     "Michael G. Roskin"
+    ],
+    "publisher": "Pearson Educacion",
+    "publishedDate": "2011-02-25",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0205006272"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780205006274"
+     }
+    ],
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d8UVRtwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d8UVRtwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8UVRtwAACAAJ&dq\u003dPolitical+Science&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8UVRtwAACAAJ&dq\u003dPolitical+Science&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "t04KAAAAIAAJ",
+   "etag": "XU+EEL8sb0k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/t04KAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Political science",
+    "authors": [
+     "Victoria University College (Wellington, N.Z.). School of Political Science and Public Administration",
+     "Victoria University College (Wellington, N.Z.) Political Science Society",
+     "Victoria University of Wellington. School of Political Science and Public Administration"
+    ],
+    "publishedDate": "1972",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015039293744"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dt04KAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dt04KAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dt04KAAAAIAAJ&q\u003dPolitical+Science&dq\u003dPolitical+Science&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dt04KAAAAIAAJ&dq\u003dPolitical+Science&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "i1uJHsIdulkC",
+   "etag": "14QF2kaHyh8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/i1uJHsIdulkC",
+   "volumeInfo": {
+    "title": "Political Science Volume 3",
+    "subtitle": "Political Behavior",
+    "authors": [
+     "William Crotty",
+     "William J. Crotty"
+    ],
+    "publisher": "Northwestern Univ Pr",
+    "publishedDate": "1991-08",
+    "description": "Introduction: Setting the Stage William Crotty \u003cb\u003ePolitical science\u003c/b\u003e, like much of \u003cbr\u003e\r\nacademia, is at a crossroads.1 The causes are many. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0810109522"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780810109520"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003di1uJHsIdulkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003di1uJHsIdulkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003di1uJHsIdulkC&printsec\u003dfrontcover&dq\u003dPolitical+Science&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003di1uJHsIdulkC&dq\u003dPolitical+Science&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8Xgxs9ScUrUC",
+   "etag": "Oit4mpCivVY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8Xgxs9ScUrUC",
+   "volumeInfo": {
+    "title": "Political science",
+    "subtitle": "the science of politics",
+    "authors": [
+     "Herbert F. Weisberg",
+     "American Political Science Association. Meeting"
+    ],
+    "publisher": "Agathon Pr",
+    "publishedDate": "1986",
+    "description": "Twelve essays adapted from papers originally given at the Lasswell Symposium at the annual meeting of the American Political Association.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0875860753"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780875860756"
+     }
+    ],
+    "pageCount": 307,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d8Xgxs9ScUrUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d8Xgxs9ScUrUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8Xgxs9ScUrUC&printsec\u003dfrontcover&dq\u003dPolitical+Science&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8Xgxs9ScUrUC&dq\u003dPolitical+Science&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.16,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d8Xgxs9ScUrUC&dq\u003dPolitical+Science&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Political_science-sample-pdf.acsm?id\u003d8Xgxs9ScUrUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EKqKnkUrUGEC",
+   "etag": "KTVtE7h4ovU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EKqKnkUrUGEC",
+   "volumeInfo": {
+    "title": "Great jobs for political science majors",
+    "authors": [
+     "Mark Rowh"
+    ],
+    "publisher": "McGraw-Hill Professional",
+    "publishedDate": "2004",
+    "description": "In this updated edition, you&#39;ll find: Thorough explanations of job-search basics such as crafting resumes, writing cover letters, and interviewing dos and don ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0071411593"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071411592"
+     }
+    ],
+    "pageCount": 148,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dEKqKnkUrUGEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dEKqKnkUrUGEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEKqKnkUrUGEC&printsec\u003dfrontcover&dq\u003dPolitical+Science&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEKqKnkUrUGEC&dq\u003dPolitical+Science&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1tjZAAAAMAAJ",
+   "etag": "L8B6FTYZtvs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1tjZAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Political science",
+    "authors": [
+     "Gertrude Ann Jacobson",
+     "Miriam H. Lipman"
+    ],
+    "publishedDate": "1968",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PSU:000016726833"
+     }
+    ],
+    "pageCount": 244,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d1tjZAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d1tjZAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1tjZAAAAMAAJ&q\u003dPolitical+Science&dq\u003dPolitical+Science&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1tjZAAAAMAAJ&dq\u003dPolitical+Science&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SvtQWCp3uJ0C",
+   "etag": "XUkS43Bu9Ec",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SvtQWCp3uJ0C",
+   "volumeInfo": {
+    "title": "Political science",
+    "subtitle": "looking to the future",
+    "authors": [
+     "William Crotty"
+    ],
+    "publishedDate": "1991-08",
+    "description": "Introduction: Setting the Stage William Grotty \u003cb\u003ePolitical science\u003c/b\u003e, like much of \u003cbr\u003e\r\nacademia, is at a crossroads.1 The causes are many. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0810109506"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780810109506"
+     }
+    ],
+    "pageCount": 294,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dSvtQWCp3uJ0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dSvtQWCp3uJ0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSvtQWCp3uJ0C&printsec\u003dfrontcover&dq\u003dPolitical+Science&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSvtQWCp3uJ0C&dq\u003dPolitical+Science&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OmXgAAAAMAAJ",
+   "etag": "08jJPWGXHbw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OmXgAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Political science",
+    "subtitle": "a guide to reference and information sources",
+    "authors": [
+     "Henry E. York"
+    ],
+    "publisher": "Libraries Unltd Inc",
+    "publishedDate": "1990",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015019825754"
+     }
+    ],
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dOmXgAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dOmXgAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOmXgAAAAMAAJ&q\u003dPolitical+Science&dq\u003dPolitical+Science&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOmXgAAAAMAAJ&dq\u003dPolitical+Science&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sSHzAAAAMAAJ",
+   "etag": "0xehszETzqE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sSHzAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Political science",
+    "subtitle": "foundations for a fifth millennium",
+    "authors": [
+     "Gregory M. Scott"
+    ],
+    "publishedDate": "1997",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0132075725"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780132075725"
+     }
+    ],
+    "pageCount": 425,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dsSHzAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dsSHzAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dsSHzAAAAMAAJ&q\u003dPolitical+Science&dq\u003dPolitical+Science&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dsSHzAAAAMAAJ&dq\u003dPolitical+Science&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 459
+}

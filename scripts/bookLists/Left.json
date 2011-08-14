@@ -1,0 +1,595 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "poKnuATl3DsC",
+   "etag": "M9CbUMmFnmI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/poKnuATl3DsC",
+   "volumeInfo": {
+    "title": "Left behind",
+    "subtitle": "a novel of the earth's last days",
+    "authors": [
+     "Tim F. LaHaye",
+     "Jerry B. Jenkins"
+    ],
+    "publisher": "Tyndale House Pub",
+    "publishedDate": "1995",
+    "description": "After millions of people around the world vanish in one moment, in what many claim to be the Rapture, Rayford Steele begins a search for the truth amidst global ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0842329129"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780842329125"
+     }
+    ],
+    "pageCount": 468,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 58,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dpoKnuATl3DsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dpoKnuATl3DsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpoKnuATl3DsC&printsec\u003dfrontcover&dq\u003dLeft&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpoKnuATl3DsC&dq\u003dLeft&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 8.57,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dpoKnuATl3DsC&dq\u003dLeft&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Left_behind-sample-epub.acsm?id\u003dpoKnuATl3DsC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Left_behind-sample-pdf.acsm?id\u003dpoKnuATl3DsC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9rxdQUCY6Z4C",
+   "etag": "xhFBM9uaFKg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9rxdQUCY6Z4C",
+   "volumeInfo": {
+    "title": "What should the Left propose?",
+    "authors": [
+     "Roberto Mangabeira Unger"
+    ],
+    "publisher": "Verso Books",
+    "publishedDate": "2005",
+    "description": "What Shouldthe Left Propose? is a manifesto that engages a vital issue of ourtime: the program for which Leftists should stand, now that the ideological ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1844670481"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781844670482"
+     }
+    ],
+    "pageCount": 179,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d9rxdQUCY6Z4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d9rxdQUCY6Z4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9rxdQUCY6Z4C&printsec\u003dfrontcover&dq\u003dLeft&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9rxdQUCY6Z4C&dq\u003dLeft&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "b0WNLLkcFzYC",
+   "etag": "baYYZsEYlOA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/b0WNLLkcFzYC",
+   "volumeInfo": {
+    "title": "Left to Tell",
+    "subtitle": "Discovering God Amidst the Rwandan Holocaust",
+    "authors": [
+     "Ilibagiza, Immaculée",
+     "Steve Erwin"
+    ],
+    "publisher": "Readhowyouwant",
+    "publishedDate": "2009-09-17",
+    "description": "A portion of the proceeds from the sale of this book is going to the LEFT TO TELL Charitable Fund, which helps the children of Africa build better lives.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1458724050"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781458724052"
+     }
+    ],
+    "pageCount": 363,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2512,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003db0WNLLkcFzYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003db0WNLLkcFzYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003db0WNLLkcFzYC&printsec\u003dfrontcover&dq\u003dLeft&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003db0WNLLkcFzYC&dq\u003dLeft&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XIdrVDRgdpMC",
+   "etag": "MaMH8s2iYnc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XIdrVDRgdpMC",
+   "volumeInfo": {
+    "title": "Left Neglected",
+    "authors": [
+     "Lisa Genova"
+    ],
+    "publisher": "Gallery",
+    "publishedDate": "2011-01-04",
+    "description": "A poignant novel about a busy, vibrant woman in her 30s who has a car accident, leaving her to deal with a crippling disorder called left neglect.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1439164630"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781439164631"
+     }
+    ],
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 280,
+    "contentVersion": "2.3.0.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dXIdrVDRgdpMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dXIdrVDRgdpMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXIdrVDRgdpMC&printsec\u003dfrontcover&dq\u003dLeft&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXIdrVDRgdpMC&dq\u003dLeft&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dXIdrVDRgdpMC&dq\u003dLeft&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Left_Neglected-sample-epub.acsm?id\u003dXIdrVDRgdpMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PwFNdb6wYD0C",
+   "etag": "XcAh21LCOXQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PwFNdb6wYD0C",
+   "volumeInfo": {
+    "title": "A Darwinian Left",
+    "subtitle": "politics, evolution and cooperation",
+    "authors": [
+     "Peter Singer"
+    ],
+    "publisher": "Yale Univ Pr",
+    "publishedDate": "2000",
+    "description": "In this book, a renowned bioethicist argues that the political left must radically revise its outdated view of human nature.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0300083238"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780300083231"
+     }
+    ],
+    "pageCount": 70,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dPwFNdb6wYD0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dPwFNdb6wYD0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPwFNdb6wYD0C&printsec\u003dfrontcover&dq\u003dLeft&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPwFNdb6wYD0C&dq\u003dLeft&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/A_Darwinian_Left-sample-epub.acsm?id\u003dPwFNdb6wYD0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "k9PNjwEACAAJ",
+   "etag": "ObRyPoFQs1w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/k9PNjwEACAAJ",
+   "volumeInfo": {
+    "title": "Left",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:38811635"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Socialism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dk9PNjwEACAAJ&dq\u003dLeft&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dk9PNjwEACAAJ&dq\u003dLeft&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "20oza63ZuG4C",
+   "etag": "e9+tna3V5Mc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/20oza63ZuG4C",
+   "volumeInfo": {
+    "title": "Right Hand, Left Hand",
+    "subtitle": "The Origins of Asymmetry in Brains, Bodies, Atoms and Cultures",
+    "authors": [
+     "Chris McManus"
+    ],
+    "publisher": "Harvard Univ Pr",
+    "publishedDate": "2004-06-15",
+    "description": "A labor of love and enthusiasm as well as deep scientific knowledge, Right Hand, Left Hand takes the reader on a trip through history, around the world, and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0674016130"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780674016132"
+     }
+    ],
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d20oza63ZuG4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d20oza63ZuG4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d20oza63ZuG4C&printsec\u003dfrontcover&dq\u003dLeft&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d20oza63ZuG4C&dq\u003dLeft&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zYJtKISzFqcC",
+   "etag": "1It/3Pf/6BI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zYJtKISzFqcC",
+   "volumeInfo": {
+    "title": "Many children left behind",
+    "subtitle": "how the No Child Left Behind Act is damaging our children and our schools",
+    "authors": [
+     "Deborah Meier",
+     "George Harrison Wood"
+    ],
+    "publisher": "Beacon Pr",
+    "publishedDate": "2004-08-30",
+    "description": "Discusses the negative effects of No Child Left Behind (NCLB) Act and explains how this act punishes rather than helps poor and minority kids and their schools.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0807004596"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780807004593"
+     }
+    ],
+    "pageCount": 132,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 8,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dzYJtKISzFqcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dzYJtKISzFqcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzYJtKISzFqcC&printsec\u003dfrontcover&dq\u003dLeft&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzYJtKISzFqcC&dq\u003dLeft&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.56,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dzYJtKISzFqcC&dq\u003dLeft&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Many_children_left_behind-sample-epub.acsm?id\u003dzYJtKISzFqcC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "C5FaTz5UIJ8C",
+   "etag": "v8c7xkTYlXM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/C5FaTz5UIJ8C",
+   "volumeInfo": {
+    "title": "Left to Die",
+    "authors": [
+     "Lisa Jackson"
+    ],
+    "publisher": "Zebra Books",
+    "publishedDate": "2008-07-29",
+    "description": "When a career-making case falls into their laps, detectives Selena Alvarez and Regan Pescoli must race against time to save the life of Jillian Rivers, who has ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1420102761"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781420102765"
+     }
+    ],
+    "pageCount": 505,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 101,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dC5FaTz5UIJ8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dC5FaTz5UIJ8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dC5FaTz5UIJ8C&printsec\u003dfrontcover&dq\u003dLeft&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dC5FaTz5UIJ8C&dq\u003dLeft&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 6.39,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 4.92,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dC5FaTz5UIJ8C&dq\u003dLeft&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Left_to_Die-sample-epub.acsm?id\u003dC5FaTz5UIJ8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Left_to_Die-sample-pdf.acsm?id\u003dC5FaTz5UIJ8C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "t_pmdoRTuOwC",
+   "etag": "pYqP0SFRdrE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/t_pmdoRTuOwC",
+   "volumeInfo": {
+    "title": "The left at war",
+    "authors": [
+     "Michael Bérubé"
+    ],
+    "publisher": "NYU Press",
+    "publishedDate": "2009-11-16",
+    "description": "&quot; At a time when America finds itself at a critical crossroads, The Left at Waris an indispensable guide to the divisions that have created a left at war with ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0814799841"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780814799840"
+     }
+    ],
+    "pageCount": 341,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "0.1.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dt_pmdoRTuOwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dt_pmdoRTuOwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dt_pmdoRTuOwC&printsec\u003dfrontcover&dq\u003dLeft&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dt_pmdoRTuOwC&dq\u003dLeft&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dt_pmdoRTuOwC&dq\u003dLeft&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_left_at_war-sample-epub.acsm?id\u003dt_pmdoRTuOwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 583
+}

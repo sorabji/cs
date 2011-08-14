@@ -1,0 +1,517 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ELMUAAAAYAAJ",
+   "etag": "sQCkXKSKTmE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ELMUAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Hunting in the Arctic and Alaska",
+    "authors": [
+     "Edward Marshall Scull"
+    ],
+    "publishedDate": "1914",
+    "description": "Account of author&#39;s hunting trips up the Yukon River, and to Chukotsk Peninsula; bear and walrus hunting in arctic seas; and trips up the Alaska and Kenai ...",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HN5S3K"
+     }
+    ],
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Hunting"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dELMUAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dELMUAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dELMUAAAAYAAJ&printsec\u003dfrontcover&dq\u003dArctic+and+Alaska&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dELMUAAAAYAAJ&dq\u003dArctic+and+Alaska&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Hunting_in_the_Arctic_and_Alaska.epub?id\u003dELMUAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Hunting_in_the_Arctic_and_Alaska.pdf?id\u003dELMUAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0PidioBGDkkvrmAeDiKzHTHc_yjw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "psS1YLsot4YC",
+   "etag": "JayA/afPJZo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/psS1YLsot4YC",
+   "volumeInfo": {
+    "title": "Far North in the Arctic",
+    "subtitle": "Counting Alaska's Animals",
+    "authors": [
+     "Cory Hansen",
+     "Kathryn Kunz Finney"
+    ],
+    "publisher": "Sasquatch Books/Paws IV Children's Books",
+    "publishedDate": "2004-03-30",
+    "description": "Rhyming text describes the activities of young Arctic animals and their mothers, and includes notes on animals of Alaska and other Arctic areas. Original.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1570613710"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781570613715"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dpsS1YLsot4YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dpsS1YLsot4YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpsS1YLsot4YC&printsec\u003dfrontcover&dq\u003dArctic+and+Alaska&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpsS1YLsot4YC&dq\u003dArctic+and+Alaska&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iIM6QwAACAAJ",
+   "etag": "TrXLygnRWYA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iIM6QwAACAAJ",
+   "volumeInfo": {
+    "title": "Proposed Arctic Wilderness, Alaska",
+    "authors": [
+     "U.S. Fish and Wildlife Service"
+    ],
+    "publishedDate": "1978",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:429248516"
+     }
+    ],
+    "pageCount": 88,
+    "printType": "BOOK",
+    "categories": [
+     "Wilderness areas"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003diIM6QwAACAAJ&dq\u003dArctic+and+Alaska&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003diIM6QwAACAAJ&dq\u003dArctic+and+Alaska&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZD2_7LRxGwsC",
+   "etag": "Zgp3qyKPfjo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZD2_7LRxGwsC",
+   "volumeInfo": {
+    "title": "Arctic clothing of North America--Alaska, Canada, Greenland",
+    "authors": [
+     "J. C. H. King",
+     "Birgit Pauksztat",
+     "Robert Storrie"
+    ],
+    "publisher": "McGill Queens Univ Pr",
+    "publishedDate": "2005",
+    "description": "Arising from a conference held at the British Museum in 2001, Arctic Clothing of North America - Alaska, Canada, Greenland is a wide-ranging and authoritative ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0773530088"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780773530089"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Design"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dZD2_7LRxGwsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dZD2_7LRxGwsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZD2_7LRxGwsC&printsec\u003dfrontcover&dq\u003dArctic+and+Alaska&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZD2_7LRxGwsC&dq\u003dArctic+and+Alaska&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-xhQl1WDWa0C",
+   "etag": "/kkSTw9kqfo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-xhQl1WDWa0C",
+   "volumeInfo": {
+    "title": "Alaska",
+    "subtitle": "A History of the 49th State",
+    "authors": [
+     "Claus-M Naske",
+     "Herman E. Slotnick"
+    ],
+    "publisher": "Univ of Oklahoma Pr",
+    "publishedDate": "1994",
+    "description": "Reaching back to Siberia, it crystallized in \u003cb\u003eAlaska\u003c/b\u003e and spread across the \u003cb\u003eArctic\u003c/b\u003e \u003cbr\u003e\r\nfrom \u003cb\u003eAlaska\u003c/b\u003e to Greenland about 4000 years ago. Proto-Eskimo is the ancestor \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "080612573X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780806125732"
+     }
+    ],
+    "pageCount": 349,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d-xhQl1WDWa0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d-xhQl1WDWa0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-xhQl1WDWa0C&pg\u003dPA18&dq\u003dArctic+and+Alaska&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-xhQl1WDWa0C&dq\u003dArctic+and+Alaska&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UkDsQwAACAAJ",
+   "etag": "83yr3Js0Rao",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UkDsQwAACAAJ",
+   "volumeInfo": {
+    "title": "Proposed natural landmark site evaluation, Arctic lowlands, Alaska",
+    "subtitle": "Arctic Foothills Ridges, National Petroleum Reserve - Alaska",
+    "authors": [
+     "Charles H. Racine",
+     "Center for Northern Studies"
+    ],
+    "publishedDate": "1979",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:22304326"
+     }
+    ],
+    "pageCount": 10,
+    "printType": "BOOK",
+    "categories": [
+     "Natural monuments"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUkDsQwAACAAJ&dq\u003dArctic+and+Alaska&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUkDsQwAACAAJ&dq\u003dArctic+and+Alaska&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kN1WITmkfWwC",
+   "etag": "1NDLcIPgCEk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kN1WITmkfWwC",
+   "volumeInfo": {
+    "title": "Dawn in Arctic Alaska",
+    "authors": [
+     "Diamond Jenness"
+    ],
+    "publisher": "University Of Chicago Press",
+    "publishedDate": "1957",
+    "description": "In 1913 a young ethnologist from New Zealand boarded a ship for the Arctic, beginning a personal journey that was to make Diamond Jenness one of the twentieth ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0226397416"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780226397412"
+     }
+    ],
+    "pageCount": 220,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dkN1WITmkfWwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dkN1WITmkfWwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkN1WITmkfWwC&printsec\u003dfrontcover&dq\u003dArctic+and+Alaska&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkN1WITmkfWwC&dq\u003dArctic+and+Alaska&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Dawn_in_Arctic_Alaska-sample-epub.acsm?id\u003dkN1WITmkfWwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MCUunz7gXUkC",
+   "etag": "dLQ3j+LBNm0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MCUunz7gXUkC",
+   "volumeInfo": {
+    "title": "Arctic Homestead",
+    "subtitle": "The True Story of One Family's Survival and Courage in the Alaskan Wilds",
+    "authors": [
+     "Norma Cobb",
+     "Charles W. Sasser"
+    ],
+    "publisher": "St. Martin's Griffin",
+    "publishedDate": "2003-02-01",
+    "description": "A chronicle of a family&#39;s efforts to build a home near the Arctic Circle in Alaska depicts their moving discovery of love and courage in a land of modern-day ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0312283792"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780312283797"
+     }
+    ],
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 18,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dMCUunz7gXUkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dMCUunz7gXUkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMCUunz7gXUkC&printsec\u003dfrontcover&dq\u003dArctic+and+Alaska&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMCUunz7gXUkC&dq\u003dArctic+and+Alaska&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bUgrAAAAYAAJ",
+   "etag": "SOT+aAznlEI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bUgrAAAAYAAJ",
+   "volumeInfo": {
+    "title": "NOAA's Arctic Research Initiative",
+    "subtitle": "proceedings of a workshop",
+    "authors": [
+     "National Research Council (U.S.). Polar Research Board",
+     "Polar Research Board",
+     "National Research Council"
+    ],
+    "publisher": "National Academies Press",
+    "publishedDate": "1997",
+    "description": "Key Research Issues Related to \u003cb\u003eArctic\u003c/b\u003e Contaminant Inputs• Transport• and Effects \u003cbr\u003e\r\nfrom Natural \u003cb\u003e...\u003c/b\u003e Because \u003cb\u003eAlaska\u003c/b\u003e is warming, which causes the tundra to die, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NAP:00075"
+     }
+    ],
+    "pageCount": 190,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dbUgrAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dbUgrAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbUgrAAAAYAAJ&pg\u003dPA69&dq\u003dArctic+and+Alaska&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbUgrAAAAYAAJ&dq\u003dArctic+and+Alaska&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": false,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/NOAA_s_Arctic_Research_Initiative.pdf?id\u003dbUgrAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2aTN8p25X-KFrpjTG6S1ELEgNCAA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2r8FtwAACAAJ",
+   "etag": "ZKEAWX57vAA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2r8FtwAACAAJ",
+   "volumeInfo": {
+    "title": "Our Arctic Province. Alaska and the Seal Islands. with Drawings and Maps.",
+    "authors": [
+     "Henry Wood Elliott"
+    ],
+    "publishedDate": "2011-03-25",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1241420165"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781241420161"
+     }
+    ],
+    "pageCount": 642,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d2r8FtwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d2r8FtwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2r8FtwAACAAJ&dq\u003dArctic+and+Alaska&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2r8FtwAACAAJ&dq\u003dArctic+and+Alaska&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 595
+}

@@ -1,0 +1,529 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "dLLWcYFRqYMC",
+   "etag": "JHKLgdH6/iQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dLLWcYFRqYMC",
+   "volumeInfo": {
+    "title": "Allen Peck's Wwi Letters Home 1917-1919",
+    "subtitle": "U.s. Army Ww I Pilot Assigned to France",
+    "authors": [
+     "Charles Peck"
+    ],
+    "publisher": "iUniverse",
+    "publishedDate": "2005-08",
+    "description": "These letters, written by a young, patriotic WW I American pilot flying with a French Escadrille give insights about how young men feel going into War.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0595362230"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780595362233"
+     }
+    ],
+    "pageCount": 276,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003ddLLWcYFRqYMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003ddLLWcYFRqYMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddLLWcYFRqYMC&printsec\u003dfrontcover&dq\u003dWWI&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddLLWcYFRqYMC&dq\u003dWWI&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nwWUMoQmeCkC",
+   "etag": "4RiwPDJIfU0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nwWUMoQmeCkC",
+   "volumeInfo": {
+    "title": "The Great War and modern memory",
+    "authors": [
+     "Paul Fussell"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2000",
+    "description": "As this classic work draws upon several disciplines--among them literary studies, military history, cultural criticism, and historical inquiry--it will continue ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0195133323"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195133325"
+     }
+    ],
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 62,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dnwWUMoQmeCkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dnwWUMoQmeCkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnwWUMoQmeCkC&printsec\u003dfrontcover&dq\u003dWWI&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnwWUMoQmeCkC&dq\u003dWWI&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Great_War_and_modern_memory-sample-epub.acsm?id\u003dnwWUMoQmeCkC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tNYUNQQVV98C",
+   "etag": "MRBv++X1SC4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tNYUNQQVV98C",
+   "volumeInfo": {
+    "title": "Diary of a WWI pilot",
+    "subtitle": "ambulances, planes, and friends : Harvey Conover's adventures in France, 1917-1918",
+    "authors": [
+     "Frances Conover Church"
+    ],
+    "publisher": "Conover-Patterson Pub",
+    "publishedDate": "2004-03-31",
+    "description": "He wrote two diaries about his experiences in \u003cb\u003eWorld War I\u003c/b\u003e during the years of \u003cbr\u003e\r\n1917 and 1918. The 1917 diary is a small maroon, leather-bound book worn thin \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0965307131"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780965307130"
+     }
+    ],
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dtNYUNQQVV98C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dtNYUNQQVV98C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtNYUNQQVV98C&printsec\u003dfrontcover&dq\u003dWWI&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtNYUNQQVV98C&dq\u003dWWI&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eQcLfAEACAAJ",
+   "etag": "61k0i3jaH1Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eQcLfAEACAAJ",
+   "volumeInfo": {
+    "title": "WWI",
+    "subtitle": "the war that shaped a nation",
+    "authors": [
+     "Tim Cook"
+    ],
+    "publishedDate": "2011",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:722367680"
+     }
+    ],
+    "pageCount": 95,
+    "printType": "BOOK",
+    "categories": [
+     "World War, 1914-1918"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deQcLfAEACAAJ&dq\u003dWWI&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deQcLfAEACAAJ&dq\u003dWWI&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ov7qrHtESbcC",
+   "etag": "0fd9DtXrnBE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ov7qrHtESbcC",
+   "volumeInfo": {
+    "title": "A morning after war",
+    "subtitle": "C.S. Lewis and WWI",
+    "authors": [
+     "K. J. Gilchrist"
+    ],
+    "publisher": "Peter Lang Pub Inc",
+    "publishedDate": "2005-01",
+    "description": "Probing war&#39;s traumatic destruction upon Lewis&#39;s romantic expectations of tranquil life, this book surpasses literary analyses of Lewis&#39;s work by asserting a ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0820476129"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780820476124"
+     }
+    ],
+    "pageCount": 225,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dOv7qrHtESbcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dOv7qrHtESbcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOv7qrHtESbcC&printsec\u003dfrontcover&dq\u003dWWI&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOv7qrHtESbcC&dq\u003dWWI&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TBvHWos3W2YC",
+   "etag": "RB2kUXFEDc4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TBvHWos3W2YC",
+   "volumeInfo": {
+    "title": "Britain Was Responsible for WWI, WWII & the Holocaust",
+    "subtitle": "Aided and Abetted by the USA and the Vatican",
+    "authors": [
+     "Peter Williamson Campbell"
+    ],
+    "publisher": "Red Lead Pr",
+    "publishedDate": "2010-06-09",
+    "description": "THINGS REMEMBERING THEMSELVES There are pictures that I remember and the words \u003cbr\u003e\r\nthat went with them, for nothing I have seen with my eyes was so clear and \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1434964140"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781434964144"
+     }
+    ],
+    "pageCount": 146,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dTBvHWos3W2YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dTBvHWos3W2YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTBvHWos3W2YC&printsec\u003dfrontcover&dq\u003dWWI&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTBvHWos3W2YC&dq\u003dWWI&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 8.8,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dTBvHWos3W2YC&dq\u003dWWI&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mq0fbe7Fuu4C",
+   "etag": "X8R1vDQHjho",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mq0fbe7Fuu4C",
+   "volumeInfo": {
+    "title": "Military Aircraft of WWI",
+    "authors": [
+     "Ole Steen Hansen"
+    ],
+    "publisher": "Crabtree Pub Co",
+    "publishedDate": "2003-03",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0778712176"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780778712176"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dmq0fbe7Fuu4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dmq0fbe7Fuu4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmq0fbe7Fuu4C&q\u003dWWI&dq\u003dWWI&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmq0fbe7Fuu4C&dq\u003dWWI&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jc34PesmlxUC",
+   "etag": "MI/eiY2MEE8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jc34PesmlxUC",
+   "volumeInfo": {
+    "title": "World War I",
+    "subtitle": "A Cataloging Reference Guide",
+    "authors": [
+     "Buckley Barry Barrett"
+    ],
+    "publisher": "Borgo Pr",
+    "publishedDate": "2007-09-30",
+    "description": "Barrett provides a complete guide to the Dewey Decimal and Library of Congress classification of subjects relating to the First World War.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0893708240"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780893708245"
+     }
+    ],
+    "pageCount": 380,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003djc34PesmlxUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003djc34PesmlxUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djc34PesmlxUC&printsec\u003dfrontcover&dq\u003dWWI&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djc34PesmlxUC&dq\u003dWWI&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nLk_ZYeQXXEC",
+   "etag": "wkEFcESLJhk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nLk_ZYeQXXEC",
+   "volumeInfo": {
+    "title": "Nebraska Farm Life WWI to WWII",
+    "authors": [
+     "Richard C. McCall"
+    ],
+    "publisher": "Writer's Showcase Press",
+    "publishedDate": "2002-05-31",
+    "description": "A true story of a family growing up on a Nebraska farm. A story of drought, dust storms, floods, grasshoppers and a lot of fun.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0595227600"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780595227600"
+     }
+    ],
+    "pageCount": 132,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dnLk_ZYeQXXEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dnLk_ZYeQXXEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnLk_ZYeQXXEC&printsec\u003dfrontcover&dq\u003dWWI&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnLk_ZYeQXXEC&dq\u003dWWI&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jD7zNwAACAAJ",
+   "etag": "qHd4DjKUjhc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jD7zNwAACAAJ",
+   "volumeInfo": {
+    "title": "Fighter Heroes of WWI",
+    "subtitle": "The Extraordinary Story of the Pioneering Airmen of the Great War",
+    "authors": [
+     "Joshua Levine"
+    ],
+    "publisher": "Harper Uk",
+    "publishedDate": "2009-05-15",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0007274947"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780007274949"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003djD7zNwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003djD7zNwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djD7zNwAACAAJ&dq\u003dWWI&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djD7zNwAACAAJ&dq\u003dWWI&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 585
+}

@@ -1,0 +1,580 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "NbeDWhtJCOQC",
+   "etag": "zgB3N2oFPdc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NbeDWhtJCOQC",
+   "volumeInfo": {
+    "title": "Games",
+    "authors": [
+     "Youth Specialties"
+    ],
+    "publisher": "Zondervan/Youth Specialties",
+    "publishedDate": "2010-05-18",
+    "description": "- Indoor Games for Large Groups . . .Reserve your church&#39;s gym or fellowship hall for the night, and turn to page 35 for this collection of games!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0310872421"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780310872429"
+     }
+    ],
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dNbeDWhtJCOQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dNbeDWhtJCOQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNbeDWhtJCOQC&printsec\u003dfrontcover&dq\u003dGames&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNbeDWhtJCOQC&dq\u003dGames&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dNbeDWhtJCOQC&dq\u003dGames&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Games-sample-epub.acsm?id\u003dNbeDWhtJCOQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "x7GpIanvLn0C",
+   "etag": "1UAZYydnQi0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/x7GpIanvLn0C",
+   "volumeInfo": {
+    "title": "Games",
+    "authors": [
+     "Carol Gorman"
+    ],
+    "publisher": "HarperCollins",
+    "publishedDate": "2007-01-04",
+    "description": "Worn out by all the fighting between them, two school rivals are sentenced to quality time playing board games as punishment and rehabilitation for their ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "006057027X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780060570279"
+     }
+    ],
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 30,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dx7GpIanvLn0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dx7GpIanvLn0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dx7GpIanvLn0C&printsec\u003dfrontcover&dq\u003dGames&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dx7GpIanvLn0C&dq\u003dGames&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1zHj4haWwyQC",
+   "etag": "a0gyOs9JLeI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1zHj4haWwyQC",
+   "volumeInfo": {
+    "title": "Games",
+    "authors": [
+     "Jessie H. Bancroft"
+    ],
+    "publisher": "Furnas Pr",
+    "publishedDate": "2007-03",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1406707554"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781406707557"
+     }
+    ],
+    "pageCount": 692,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d1zHj4haWwyQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d1zHj4haWwyQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1zHj4haWwyQC&dq\u003dGames&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1zHj4haWwyQC&dq\u003dGames&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "krq9IjYSX0EC",
+   "etag": "EwgC6WK/VeQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/krq9IjYSX0EC",
+   "volumeInfo": {
+    "title": "Games",
+    "subtitle": "purpose and potential in education",
+    "authors": [
+     "Christopher Thomas Miller"
+    ],
+    "publisher": "Springer Verlag",
+    "publishedDate": "2008-11-26",
+    "description": "This unique text focuses on how games can fit into education and instructional design, touching on such fundamental topics as identity development, gender ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0387097740"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780387097749"
+     }
+    ],
+    "pageCount": 259,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dkrq9IjYSX0EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dkrq9IjYSX0EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkrq9IjYSX0EC&printsec\u003dfrontcover&dq\u003dGames&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkrq9IjYSX0EC&dq\u003dGames&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 99.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 79.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dkrq9IjYSX0EC&dq\u003dGames&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Games-sample-epub.acsm?id\u003dkrq9IjYSX0EC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Games-sample-pdf.acsm?id\u003dkrq9IjYSX0EC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YpapeMndsDIC",
+   "etag": "7hFeuN6an0Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YpapeMndsDIC",
+   "volumeInfo": {
+    "title": "Games",
+    "subtitle": "110 Out-Of-This-World Games Kids Love",
+    "authors": [
+     "Group Publishing"
+    ],
+    "publisher": "Group",
+    "publishedDate": "2006-12",
+    "description": "# Readers who use this collection of games will enjoy. . .",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0764434381"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780764434389"
+     }
+    ],
+    "pageCount": 126,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dYpapeMndsDIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dYpapeMndsDIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYpapeMndsDIC&printsec\u003dfrontcover&dq\u003dGames&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYpapeMndsDIC&dq\u003dGames&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rjhPKb0b0R0C",
+   "etag": "DWkfSAx5ZYc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rjhPKb0b0R0C",
+   "volumeInfo": {
+    "title": "Games",
+    "authors": [
+     "Lisa Easterling"
+    ],
+    "publisher": "Heinemann/Raintree",
+    "publishedDate": "2007-06",
+    "description": "Looks at the various types of games found around the world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1403494037"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781403494030"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003drjhPKb0b0R0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003drjhPKb0b0R0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003drjhPKb0b0R0C&printsec\u003dfrontcover&dq\u003dGames&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003drjhPKb0b0R0C&dq\u003dGames&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "t07vg18kHU8C",
+   "etag": "i/wFbBBDtvk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/t07vg18kHU8C",
+   "volumeInfo": {
+    "title": "Games",
+    "subtitle": "unifying logic, language, and philosophy",
+    "authors": [
+     "Ondrej Majer",
+     "Ahti-Veikko Pietarinen",
+     "Tero Tulenheimo"
+    ],
+    "publisher": "Springer Verlag",
+    "publishedDate": "2009",
+    "description": "This volume presents mathematical game theory as an interface between logic and philosophy.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "140209373X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781402093739"
+     }
+    ],
+    "pageCount": 378,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dt07vg18kHU8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dt07vg18kHU8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dt07vg18kHU8C&printsec\u003dfrontcover&dq\u003dGames&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dt07vg18kHU8C&dq\u003dGames&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 249.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 199.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dt07vg18kHU8C&dq\u003dGames&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Games-sample-pdf.acsm?id\u003dt07vg18kHU8C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hlb_sM1AN0gC",
+   "etag": "Aj4mRnLhy3Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hlb_sM1AN0gC",
+   "volumeInfo": {
+    "title": "The Hunger Games",
+    "authors": [
+     "Suzanne Collins"
+    ],
+    "publisher": "Scholastic Press",
+    "publishedDate": "2010-07-03",
+    "description": "The acclaimed author of the &quot;New York Times&quot;-bestselling Underland Chronicles series delivers equal parts suspense and philosophy, adventure and romance, in a ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0439023521"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780439023528"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 30418,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dhlb_sM1AN0gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dhlb_sM1AN0gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhlb_sM1AN0gC&printsec\u003dfrontcover&dq\u003dGames&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhlb_sM1AN0gC&dq\u003dGames&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "28MUXNgphHwC",
+   "etag": "9cnfFFwgUnc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/28MUXNgphHwC",
+   "volumeInfo": {
+    "title": "Games",
+    "subtitle": "From Dice to Gaming",
+    "authors": [
+     "Liz Miles"
+    ],
+    "publisher": "NA-h",
+    "publishedDate": "2010",
+    "description": "This book follows the development of games through the centuries, from ancient times to today.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "143293807X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781432938079"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d28MUXNgphHwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d28MUXNgphHwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d28MUXNgphHwC&printsec\u003dfrontcover&dq\u003dGames&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d28MUXNgphHwC&dq\u003dGames&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "axUs9HA-hF8C",
+   "etag": "Uf96ynDOG7M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/axUs9HA-hF8C",
+   "volumeInfo": {
+    "title": "Serious Games",
+    "authors": [
+     "Clark C. Abt"
+    ],
+    "publisher": "Univ Pr of Amer",
+    "publishedDate": "1987-05",
+    "description": "The author explores the ways in which games can be used to instruct and inform as well as provide pleasure.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0819161489"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780819161482"
+     }
+    ],
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003daxUs9HA-hF8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003daxUs9HA-hF8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daxUs9HA-hF8C&printsec\u003dfrontcover&dq\u003dGames&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daxUs9HA-hF8C&dq\u003dGames&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 46.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 36.34,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003daxUs9HA-hF8C&dq\u003dGames&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Serious_Games-sample-epub.acsm?id\u003daxUs9HA-hF8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Serious_Games-sample-pdf.acsm?id\u003daxUs9HA-hF8C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 591
+}

@@ -1,0 +1,547 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "pymXZf5fu5EC",
+   "etag": "6iFyq6p/dhI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pymXZf5fu5EC",
+   "volumeInfo": {
+    "title": "Fish!",
+    "subtitle": "a remarkable way to boost morale and improve results",
+    "authors": [
+     "Stephen C. Lundin",
+     "Harry Paul",
+     "John Christensen"
+    ],
+    "publisher": "Hyperion Books",
+    "publishedDate": "2000-03-08",
+    "description": "Applies the simple but effective lessons of the Pike Place fishmongers to the corporate environment as it explains how to transform the workplace into an ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0786866020"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786866021"
+     }
+    ],
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 200,
+    "contentVersion": "2.2.0.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dpymXZf5fu5EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dpymXZf5fu5EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpymXZf5fu5EC&printsec\u003dfrontcover&dq\u003dFish&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpymXZf5fu5EC&dq\u003dFish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dpymXZf5fu5EC&dq\u003dFish&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Fish-sample-epub.acsm?id\u003dpymXZf5fu5EC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gKA8CTH0fEIC",
+   "etag": "WUYx4E9JVHs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gKA8CTH0fEIC",
+   "volumeInfo": {
+    "title": "Fish",
+    "authors": [
+     "Adele Richardson"
+    ],
+    "publisher": "Capstone Press",
+    "publishedDate": "2006-01-01",
+    "description": "Discusses the characteristics, eating habits, and offspring of fish, one of the main groups in the animal kingdom.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0736849424"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780736849425"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dgKA8CTH0fEIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dgKA8CTH0fEIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgKA8CTH0fEIC&printsec\u003dfrontcover&dq\u003dFish&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgKA8CTH0fEIC&dq\u003dFish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WRQs-BAg0jcC",
+   "etag": "9/SlcKgAhq4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WRQs-BAg0jcC",
+   "volumeInfo": {
+    "title": "Fish",
+    "authors": [
+     "L. S. Matthews"
+    ],
+    "publisher": "Yearling",
+    "publishedDate": "2006-06-13",
+    "description": "As fighting closes in on the village where Tiger&#39;s parents have been working, the three of them and a mysterious guide set out on a difficult journey to safety.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0440420210"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780440420217"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 35,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dWRQs-BAg0jcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dWRQs-BAg0jcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWRQs-BAg0jcC&printsec\u003dfrontcover&dq\u003dFish&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWRQs-BAg0jcC&dq\u003dFish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 5.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 5.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dWRQs-BAg0jcC&dq\u003dFish&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Fish-sample-epub.acsm?id\u003dWRQs-BAg0jcC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Fish-sample-pdf.acsm?id\u003dWRQs-BAg0jcC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BfuyDljnjxwC",
+   "etag": "iAxbGG1zpLw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BfuyDljnjxwC",
+   "volumeInfo": {
+    "title": "Fish",
+    "authors": [
+     "Gregory Mone"
+    ],
+    "publisher": "Scholastic Press",
+    "publishedDate": "2010-06-01",
+    "description": "Eleven-year-old Fish, seeking a way to help his family financially, becomes a reluctant cabin boy on a pirate ship, where he soon makes friends--and enemies- ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0545116325"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780545116329"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 28,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dBfuyDljnjxwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dBfuyDljnjxwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBfuyDljnjxwC&printsec\u003dfrontcover&dq\u003dFish&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBfuyDljnjxwC&dq\u003dFish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jx9J7OTZBVYC",
+   "etag": "YXHyVQSzi2E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jx9J7OTZBVYC",
+   "volumeInfo": {
+    "title": "Fish",
+    "authors": [
+     "Sally Morgan"
+    ],
+    "publisher": "Heinemann/Raintree",
+    "publishedDate": "2004-08",
+    "description": "There are a myriad of fish species in the Earth&#39;s underwater habitats.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1410913457"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781410913456"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003djx9J7OTZBVYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003djx9J7OTZBVYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djx9J7OTZBVYC&printsec\u003dfrontcover&dq\u003dFish&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djx9J7OTZBVYC&dq\u003dFish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FQzYRmYhD0MC",
+   "etag": "KE/7RT39mdU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FQzYRmYhD0MC",
+   "volumeInfo": {
+    "title": "Fish",
+    "authors": [
+     "Helen Frost"
+    ],
+    "publisher": "Capstone Press",
+    "publishedDate": "2001-08",
+    "description": "Simple text and photographs present the features and care of fish that can be kept as pets.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0736887857"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780736887854"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dFQzYRmYhD0MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dFQzYRmYhD0MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFQzYRmYhD0MC&printsec\u003dfrontcover&dq\u003dFish&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFQzYRmYhD0MC&dq\u003dFish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7EjBdjVVC7AC",
+   "etag": "znqLJEaRFDk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7EjBdjVVC7AC",
+   "volumeInfo": {
+    "title": "Fish",
+    "authors": [
+     "Rod Theodorou"
+    ],
+    "publisher": "Heinemann/Raintree",
+    "publishedDate": "2007-01-15",
+    "description": "Introduces the birth, development, care, feeding, and characteristics of baby fish.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1403492433"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781403492432"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d7EjBdjVVC7AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d7EjBdjVVC7AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7EjBdjVVC7AC&printsec\u003dfrontcover&dq\u003dFish&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7EjBdjVVC7AC&dq\u003dFish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HOI-AAAAYAAJ",
+   "etag": "NHccWe9Lo3Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HOI-AAAAYAAJ",
+   "volumeInfo": {
+    "title": "The Fish",
+    "publishedDate": "1842",
+    "description": "THE \u003cb\u003eFISH\u003c/b\u003e. THE PLYINC-\u003cb\u003eFISH\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HWAT1F"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dHOI-AAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dHOI-AAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHOI-AAAAYAAJ&printsec\u003dfrontcover&dq\u003dFish&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHOI-AAAAYAAJ&dq\u003dFish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Fish.pdf?id\u003dHOI-AAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1HHq1WhmyOE8jP1vDNge2RyOYBkQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fX-WCbUX-RoC",
+   "etag": "Zavu8zN0dbc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fX-WCbUX-RoC",
+   "volumeInfo": {
+    "title": "Fish",
+    "authors": [
+     "Clare Hibbert"
+    ],
+    "publisher": "Black Rabbit Books",
+    "publishedDate": "2004-08",
+    "description": "This book tells you all you need to know about your fish and how to look after them.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "158340435X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781583404355"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dfX-WCbUX-RoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dfX-WCbUX-RoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfX-WCbUX-RoC&printsec\u003dfrontcover&dq\u003dFish&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfX-WCbUX-RoC&dq\u003dFish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "V_8EAAAAYAAJ",
+   "etag": "82roPHUSEks",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/V_8EAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Fish",
+    "authors": [
+     "S. Beaty-Pownall"
+    ],
+    "publishedDate": "1903",
+    "description": "COLD \u003cb\u003eFISH\u003c/b\u003e. CHAPTER I. LARGE \u003cb\u003eFISH\u003c/b\u003e, WHOLE. Abroad the appearance of a whole large \u003cbr\u003e\r\n\u003cb\u003efish\u003c/b\u003e in jelly, or en chaufroix, is far more common than it is with us, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:RSL5UZ"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Cookery (Fish)"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dV_8EAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dV_8EAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dV_8EAAAAYAAJ&printsec\u003dfrontcover&dq\u003dFish&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dV_8EAAAAYAAJ&dq\u003dFish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Fish.epub?id\u003dV_8EAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Fish.pdf?id\u003dV_8EAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3ukVwv4KETmuT6C8dQUM6r7LEVbg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 591
+}

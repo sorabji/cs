@@ -1,0 +1,570 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "8ryqiIB0C1UC",
+   "etag": "7mIU0XarEcw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8ryqiIB0C1UC",
+   "volumeInfo": {
+    "title": "Tarot",
+    "subtitle": "mirror of the soul : handbook for the Aleister Crowley tarot",
+    "authors": [
+     "Gerd Ziegler"
+    ],
+    "publisher": "Weiser Books",
+    "publishedDate": "1988-01-01",
+    "description": "Using the Crowley Thoth deck, you learn that the tarot cards symbolize your inner reality.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0877286833"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780877286837"
+     }
+    ],
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d8ryqiIB0C1UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d8ryqiIB0C1UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8ryqiIB0C1UC&printsec\u003dfrontcover&dq\u003dTarot&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8ryqiIB0C1UC&dq\u003dTarot&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LxMm7h7uhrUC",
+   "etag": "46dcuOA4CSA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LxMm7h7uhrUC",
+   "volumeInfo": {
+    "title": "The tarot",
+    "subtitle": "history, symbolism, and divination",
+    "authors": [
+     "Robert Michael Place"
+    ],
+    "publisher": "Jeremy P. Tarcher",
+    "publishedDate": "2005-03-17",
+    "description": "A comprehensive guide to the Tarot offers insight into its history, symbolism, and practical applications, discussing the cultural influences that shaped its ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1585423491"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781585423491"
+     }
+    ],
+    "pageCount": 321,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dLxMm7h7uhrUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dLxMm7h7uhrUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLxMm7h7uhrUC&printsec\u003dfrontcover&dq\u003dTarot&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLxMm7h7uhrUC&dq\u003dTarot&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "he3J6UYYPakC",
+   "etag": "8vr+U/JAc+M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/he3J6UYYPakC",
+   "volumeInfo": {
+    "title": "Learning the Tarot",
+    "subtitle": "A Tarot Book for Beginners",
+    "authors": [
+     "Joan Bunning"
+    ],
+    "publisher": "Red Wheel/Weiser",
+    "publishedDate": "1998-10-01",
+    "description": "Lessons cover topics such as how to consider one card by itself, how to look for card pairs, and how to create the &quot;story&quot; of a reading.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1578630487"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781578630486"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 10,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dhe3J6UYYPakC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dhe3J6UYYPakC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhe3J6UYYPakC&printsec\u003dfrontcover&dq\u003dTarot&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhe3J6UYYPakC&dq\u003dTarot&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dhe3J6UYYPakC&dq\u003dTarot&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Learning_the_Tarot-sample-epub.acsm?id\u003dhe3J6UYYPakC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Learning_the_Tarot-sample-pdf.acsm?id\u003dhe3J6UYYPakC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9vPaaC4jUWYC",
+   "etag": "GlOwsAaJh8E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9vPaaC4jUWYC",
+   "volumeInfo": {
+    "title": "Tarot",
+    "subtitle": "get the whole story : use, create & interpret tarot spreads",
+    "authors": [
+     "James Ricklef"
+    ],
+    "publisher": "Llewellyn Worldwide",
+    "publishedDate": "2004-12-01",
+    "description": "Teaches how to create Tarot spreads and how to customize new spreads for specific concerns by discussing positional meanings and dynamics between the cards, and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0738703451"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780738703459"
+     }
+    ],
+    "pageCount": 226,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d9vPaaC4jUWYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d9vPaaC4jUWYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9vPaaC4jUWYC&printsec\u003dfrontcover&dq\u003dTarot&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9vPaaC4jUWYC&dq\u003dTarot&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-ycJ_HLkaRwC",
+   "etag": "KKuHt3/cl5A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-ycJ_HLkaRwC",
+   "volumeInfo": {
+    "title": "The tarot",
+    "subtitle": "its occult signification, use in fortune-telling, and method of play, etc",
+    "authors": [
+     "Samuel Liddell MacGregor Mathers"
+    ],
+    "publisher": "Forgotten Books",
+    "publishedDate": "1969",
+    "description": "T The term &quot;\u003cb\u003eTarot\u003c/b\u003e&quot;, or &quot;Tarocchi&quot;, is applied to a pack of 78 cards, consisting \u003cbr\u003e\r\nof four suits of 14 cards each (there being one more court card than in the \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1605065366"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781605065366"
+     }
+    ],
+    "pageCount": 35,
+    "printType": "BOOK",
+    "categories": [
+     "Tarot"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d-ycJ_HLkaRwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d-ycJ_HLkaRwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-ycJ_HLkaRwC&printsec\u003dfrontcover&dq\u003dTarot&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-ycJ_HLkaRwC&dq\u003dTarot&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "M_AGWOcHgrcC",
+   "etag": "Nsr6pGQlRW8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/M_AGWOcHgrcC",
+   "volumeInfo": {
+    "title": "Tarot",
+    "subtitle": "Tips of the Trade",
+    "authors": [
+     "Raven Willowmagic"
+    ],
+    "publisher": "Raven Willowmagic",
+    "publishedDate": "2010-07-15",
+    "description": "An easy to understand book filled with unique insights.Raven Willowmagic a veteran psychic reader teaches ushow to tie all the cards together to read the  ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1453648550"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781453648551"
+     }
+    ],
+    "pageCount": 188,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dM_AGWOcHgrcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dM_AGWOcHgrcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dM_AGWOcHgrcC&printsec\u003dfrontcover&dq\u003dTarot&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dM_AGWOcHgrcC&dq\u003dTarot&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dM_AGWOcHgrcC&dq\u003dTarot&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Tarot-sample-epub.acsm?id\u003dM_AGWOcHgrcC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Tarot-sample-pdf.acsm?id\u003dM_AGWOcHgrcC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BomDnbugzTwC",
+   "etag": "J4HUt+9ws4I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BomDnbugzTwC",
+   "volumeInfo": {
+    "title": "The Tarot",
+    "subtitle": "History, Mystery and Lore",
+    "authors": [
+     "Cynthia Elizabeth Giles"
+    ],
+    "publisher": "Fireside",
+    "publishedDate": "1994-10-01",
+    "description": "A guide to the origin and meaning of Tarot cards traces the Tarot&#39;s history, demonstrates how the Tarot works from a scientific and metaphysical viewpoint, and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0671891014"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780671891015"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dBomDnbugzTwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dBomDnbugzTwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBomDnbugzTwC&printsec\u003dfrontcover&dq\u003dTarot&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBomDnbugzTwC&dq\u003dTarot&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VjzSqXqqTaUC",
+   "etag": "toIyg+a4kco",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VjzSqXqqTaUC",
+   "volumeInfo": {
+    "title": "Tarot",
+    "subtitle": "Intuition Through Interpretation",
+    "authors": [
+     "Virginia Santini"
+    ],
+    "publisher": "AuthorHouse",
+    "publishedDate": "2006-09-12",
+    "description": "This book is written as a companion book to The Spiritual Flower, which shows you how to prepare your cards and gives the complete individual interpretation of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1420805320"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781420805321"
+     }
+    ],
+    "pageCount": 420,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dVjzSqXqqTaUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dVjzSqXqqTaUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVjzSqXqqTaUC&printsec\u003dfrontcover&dq\u003dTarot&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVjzSqXqqTaUC&dq\u003dTarot&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Tarot-sample-epub.acsm?id\u003dVjzSqXqqTaUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YJD93CFeDIAC",
+   "etag": "X4kzUbVd8cs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YJD93CFeDIAC",
+   "volumeInfo": {
+    "title": "Tarot for Your Self",
+    "subtitle": "A Workbook for Personal Transformation",
+    "authors": [
+     "Mary K. Greer"
+    ],
+    "publisher": "Career Press",
+    "publishedDate": "2002-03-01",
+    "description": "This classic is the first book to explore and promote the concept of reading the cards for personal insight -- for your self -- with detailed instructions how ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1564145883"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781564145888"
+     }
+    ],
+    "pageCount": 299,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 18,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dYJD93CFeDIAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dYJD93CFeDIAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYJD93CFeDIAC&printsec\u003dfrontcover&dq\u003dTarot&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYJD93CFeDIAC&dq\u003dTarot&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IRhhXPUZaf4C",
+   "etag": "Ib/HQvf+4lU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IRhhXPUZaf4C",
+   "volumeInfo": {
+    "title": "The Tarot",
+    "authors": [
+     "S. L. MacGregor Mathers"
+    ],
+    "publisher": "Kessinger Publishing",
+    "publishedDate": "2004-10-15",
+    "description": "This scarce antiquarian book is a selection from Kessinger Publishings Legacy Reprint Series.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1417978937"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781417978939"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dIRhhXPUZaf4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dIRhhXPUZaf4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIRhhXPUZaf4C&printsec\u003dfrontcover&dq\u003dTarot&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIRhhXPUZaf4C&dq\u003dTarot&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 592
+}

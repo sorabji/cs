@@ -1,0 +1,562 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "SllUfLfBAjoC",
+   "etag": "Jatef+i1qKI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SllUfLfBAjoC",
+   "volumeInfo": {
+    "title": "Vermont",
+    "authors": [
+     "Ann Heinrichs"
+    ],
+    "publishedDate": "2003-08",
+    "description": "Describes the history, geography, government, economics, and people of Vermont.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0756503450"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780756503451"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dSllUfLfBAjoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dSllUfLfBAjoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSllUfLfBAjoC&printsec\u003dfrontcover&dq\u003dVermont&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSllUfLfBAjoC&dq\u003dVermont&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SO0_2k0KDQwC",
+   "etag": "5Xt4tn2yZiY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SO0_2k0KDQwC",
+   "volumeInfo": {
+    "title": "Vermont",
+    "authors": [
+     "Kathy Pelta"
+    ],
+    "publisher": "Lerner Publications",
+    "publishedDate": "1994-11",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0822527294"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780822527299"
+     }
+    ],
+    "pageCount": 72,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dSO0_2k0KDQwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dSO0_2k0KDQwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSO0_2k0KDQwC&dq\u003dVermont&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSO0_2k0KDQwC&dq\u003dVermont&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Sf-mP-zVSnQC",
+   "etag": "yJhtsaHUkB8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Sf-mP-zVSnQC",
+   "volumeInfo": {
+    "title": "Vermont",
+    "authors": [
+     "Dan Elish"
+    ],
+    "publisher": "Benchmark Books",
+    "publishedDate": "2005-09",
+    "description": "&quot;Provides comprehensive information on the geography, history, governmental structure, economy, cultural diversity, and landmarks of Vermont&quot;--Provided by ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0761420185"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761420187"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dSf-mP-zVSnQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dSf-mP-zVSnQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSf-mP-zVSnQC&printsec\u003dfrontcover&dq\u003dVermont&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSf-mP-zVSnQC&dq\u003dVermont&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Nw4wi4igtLAC",
+   "etag": "TRrFDZuZmwI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Nw4wi4igtLAC",
+   "volumeInfo": {
+    "title": "Vermont",
+    "subtitle": "the Green mountain state",
+    "authors": [
+     "Walter Hill Crockett"
+    ],
+    "publishedDate": "1921",
+    "description": "THE first chapter of \u003cb\u003eVermont\u003c/b\u003e history was written unnumbered centuries ago, in \u003cbr\u003e\r\nthe rocks that form the foundations of the Green Mountains. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105013729764"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Judges"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dNw4wi4igtLAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dNw4wi4igtLAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNw4wi4igtLAC&printsec\u003dfrontcover&dq\u003dVermont&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNw4wi4igtLAC&dq\u003dVermont&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Vermont.epub?id\u003dNw4wi4igtLAC&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Vermont.pdf?id\u003dNw4wi4igtLAC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1JTaHXnBdoEb50m8EfAj1uvrOn3w&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DrE9HMDXq-oC",
+   "etag": "azB/YK7IXuE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DrE9HMDXq-oC",
+   "volumeInfo": {
+    "title": "Vermont",
+    "authors": [
+     "Jonatha A. Brown"
+    ],
+    "publisher": "Gareth Stevens Pub Learning library",
+    "publishedDate": "2006-07",
+    "description": "Provides an in-depth and comprehensive portrait of the state of Vermont, including its history, people, land, economy, attractions, and government.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0836847105"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780836847109"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dDrE9HMDXq-oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dDrE9HMDXq-oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDrE9HMDXq-oC&printsec\u003dfrontcover&dq\u003dVermont&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDrE9HMDXq-oC&dq\u003dVermont&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cMXOKkQ0p90C",
+   "etag": "9R9TxadRA30",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cMXOKkQ0p90C",
+   "volumeInfo": {
+    "title": "Vermont",
+    "subtitle": "a glimpse of its scenery and industries",
+    "authors": [
+     "Victor Ira Spear"
+    ],
+    "publishedDate": "1893",
+    "description": "\u003cb\u003eVERMONT\u003c/b\u003e &quot;&#39; Tis a rough land of rock and stone and tree. Where breathes no \u003cbr\u003e\r\ncastled lord nor cabined slave. Where thoughts and hands and tongues are free. \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044086345139"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dcMXOKkQ0p90C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dcMXOKkQ0p90C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcMXOKkQ0p90C&printsec\u003dfrontcover&dq\u003dVermont&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcMXOKkQ0p90C&dq\u003dVermont&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Vermont.pdf?id\u003dcMXOKkQ0p90C&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1ktSF1YT3j9CNv7a8quAm1aV8AmQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HIlO6m0mZPIC",
+   "etag": "pZc49jghHRk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HIlO6m0mZPIC",
+   "volumeInfo": {
+    "title": "Vermont",
+    "subtitle": "an atlas of Vermont's greatest off-road bicycle rides",
+    "authors": [
+     "Jen Mynter"
+    ],
+    "publisher": "Falcon",
+    "publishedDate": "2003-03-13",
+    "description": "Forever, Vermont and its Green Mountains have been synonymous with outdoor recreation, Victorian landscapes, scenic beauty, and unrivaled adventure.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1882997077"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781882997077"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dHIlO6m0mZPIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dHIlO6m0mZPIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHIlO6m0mZPIC&printsec\u003dfrontcover&dq\u003dVermont&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHIlO6m0mZPIC&dq\u003dVermont&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5tnlWFnW70cC",
+   "etag": "N1j/KRFuqiw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5tnlWFnW70cC",
+   "volumeInfo": {
+    "title": "Vermont",
+    "subtitle": "a guide to the Green Mountain State",
+    "authors": [
+     "Vermont Development Commission"
+    ],
+    "publisher": "Scholarly Pr",
+    "publishedDate": "1973-06",
+    "description": "Are there, we wonder, as the volume goes to press, any general remarks about \u003cbr\u003e\r\n\u003cb\u003eVermont\u003c/b\u003e which might help visitors to understand, and hence better to enjoy \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0403021944"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780403021949"
+     }
+    ],
+    "pageCount": 392,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d5tnlWFnW70cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d5tnlWFnW70cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5tnlWFnW70cC&printsec\u003dfrontcover&dq\u003dVermont&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5tnlWFnW70cC&dq\u003dVermont&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 75.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 60.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d5tnlWFnW70cC&dq\u003dVermont&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Vermont-sample-epub.acsm?id\u003d5tnlWFnW70cC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Vermont-sample-pdf.acsm?id\u003d5tnlWFnW70cC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "grJD-f9Vfx0C",
+   "etag": "C9zfwE4GDsU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/grJD-f9Vfx0C",
+   "volumeInfo": {
+    "title": "Vermont",
+    "authors": [
+     "Niels R. Jensen"
+    ],
+    "publisher": "Checkerboard Library",
+    "publishedDate": "2009-08-15",
+    "description": "Presents an introduction to the New England state, discussing its history, natural features, climate, plants, animals, industries, cities, sports, and cultural ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1604536810"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781604536812"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dgrJD-f9Vfx0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dgrJD-f9Vfx0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgrJD-f9Vfx0C&printsec\u003dfrontcover&dq\u003dVermont&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgrJD-f9Vfx0C&dq\u003dVermont&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.66,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dgrJD-f9Vfx0C&dq\u003dVermont&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Vermont-sample-epub.acsm?id\u003dgrJD-f9Vfx0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Vermont-sample-pdf.acsm?id\u003dgrJD-f9Vfx0C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9nwzmgw7TuEC",
+   "etag": "tjLe26S6XwA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9nwzmgw7TuEC",
+   "volumeInfo": {
+    "title": "Vermont",
+    "subtitle": "Past and Present",
+    "authors": [
+     "Michael Sommers"
+    ],
+    "publisher": "Rosen Central",
+    "publishedDate": "2010-08-15",
+    "description": "Provides comprehensive information on the geography, history, wildlife, governmental structure, industries, and key figures of Vermont.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1435894987"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781435894983"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d9nwzmgw7TuEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d9nwzmgw7TuEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9nwzmgw7TuEC&printsec\u003dfrontcover&dq\u003dVermont&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9nwzmgw7TuEC&dq\u003dVermont&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d9nwzmgw7TuEC&dq\u003dVermont&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Vermont-sample-pdf.acsm?id\u003d9nwzmgw7TuEC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 590
+}

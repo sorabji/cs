@@ -1,0 +1,503 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "a3oawSKRpugC",
+   "etag": "cX/Tvzhc+/8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a3oawSKRpugC",
+   "volumeInfo": {
+    "title": "Non-Fiction",
+    "authors": [
+     "Wendy Wren"
+    ],
+    "publisher": "Nelson Thornes",
+    "publishedDate": "2000-02-18",
+    "description": "Sections of structured lesson plans on all the main non-fiction genres 59 linked copymasters On-going and end-of-section assessments Special National Literacy ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "074874374X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780748743742"
+     }
+    ],
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003da3oawSKRpugC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003da3oawSKRpugC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003da3oawSKRpugC&printsec\u003dfrontcover&dq\u003dNon-Fiction&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003da3oawSKRpugC&dq\u003dNon-Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rUwAAQAACAAJ",
+   "etag": "W+3S3GLxanE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rUwAAQAACAAJ",
+   "volumeInfo": {
+    "title": "Non-fiction (true stories)",
+    "authors": [
+     "Chuck Palahniuk"
+    ],
+    "publisher": "Vintage Books",
+    "publishedDate": "2005-04-08",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "009943797X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780099437970"
+     }
+    ],
+    "pageCount": 233,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003drUwAAQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003drUwAAQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003drUwAAQAACAAJ&dq\u003dNon-Fiction&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003drUwAAQAACAAJ&dq\u003dNon-Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nuh4AAAACAAJ",
+   "etag": "7LVJPjUSVt8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nuh4AAAACAAJ",
+   "volumeInfo": {
+    "title": "Non fiction",
+    "authors": [
+     "David Orme"
+    ],
+    "publisher": "Evans Brothers, Limited",
+    "publishedDate": "2000-03",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0237520923"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780237520922"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dnuh4AAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dnuh4AAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnuh4AAAACAAJ&dq\u003dNon-Fiction&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnuh4AAAACAAJ&dq\u003dNon-Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "keRGGQAACAAJ",
+   "etag": "1RwyKKy2aDQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/keRGGQAACAAJ",
+   "volumeInfo": {
+    "title": "Non/fiction",
+    "authors": [
+     "Dan Gutstein"
+    ],
+    "publishedDate": "2010-04-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1890311251"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781890311254"
+     }
+    ],
+    "pageCount": 140,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dkeRGGQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dkeRGGQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkeRGGQAACAAJ&dq\u003dNon-Fiction&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkeRGGQAACAAJ&dq\u003dNon-Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gjMeAQAAMAAJ",
+   "etag": "RScvvtQmiNI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gjMeAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Non-fiction",
+    "authors": [
+     "Yuejiao Zhang"
+    ],
+    "publishedDate": "2005",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "IND:30000094868969"
+     }
+    ],
+    "pageCount": 34,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dgjMeAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dgjMeAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgjMeAQAAMAAJ&q\u003dNon-Fiction&dq\u003dNon-Fiction&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgjMeAQAAMAAJ&dq\u003dNon-Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0h2_PwAACAAJ",
+   "etag": "l4uvyEwXxpo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0h2_PwAACAAJ",
+   "volumeInfo": {
+    "title": "Non-Fiction",
+    "subtitle": "Reading and Writing Activities for the Literacy Hour",
+    "authors": [
+     "Christine Moorcroft"
+    ],
+    "publishedDate": "2002-03-31",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0713660678"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780713660678"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d0h2_PwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d0h2_PwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0h2_PwAACAAJ&dq\u003dNon-Fiction&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0h2_PwAACAAJ&dq\u003dNon-Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "81i6bwAACAAJ",
+   "etag": "kzmftXwswp4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/81i6bwAACAAJ",
+   "volumeInfo": {
+    "title": "Non-Fiction",
+    "subtitle": "Back-Story, the Undutchables, Ordinary Heroes, Non-Fictional Character",
+    "authors": [
+     "Books Llc"
+    ],
+    "publisher": "Books LLC",
+    "publishedDate": "2010-09",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1157410820"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781157410829"
+     }
+    ],
+    "pageCount": 22,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d81i6bwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d81i6bwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d81i6bwAACAAJ&dq\u003dNon-Fiction&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d81i6bwAACAAJ&dq\u003dNon-Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "veDzQgAACAAJ",
+   "etag": "7zFGwq8WWjw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/veDzQgAACAAJ",
+   "volumeInfo": {
+    "title": "Non-Fiction",
+    "authors": [
+     "Angela Redfern",
+     "Frances Mackay"
+    ],
+    "publishedDate": "1998-09-30",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1902239032"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781902239033"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "English language"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dveDzQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dveDzQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dveDzQgAACAAJ&dq\u003dNon-Fiction&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dveDzQgAACAAJ&dq\u003dNon-Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nUJBAgAACAAJ",
+   "etag": "h6rjzZFy6aU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nUJBAgAACAAJ",
+   "volumeInfo": {
+    "title": "Non-fiction",
+    "authors": [
+     "Jim Taylor",
+     "Louis Fidge"
+    ],
+    "publishedDate": "2002-05-16",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1840857080"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781840857085"
+     }
+    ],
+    "pageCount": 114,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dnUJBAgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dnUJBAgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnUJBAgAACAAJ&dq\u003dNon-Fiction&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnUJBAgAACAAJ&dq\u003dNon-Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kDDQAAAACAAJ",
+   "etag": "NI3qtU3bs1M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kDDQAAAACAAJ",
+   "volumeInfo": {
+    "title": "Non-Fiction",
+    "publisher": "Instructional Fair",
+    "publishedDate": "2004-02-02",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0769633978"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780769633978"
+     }
+    ],
+    "pageCount": 80,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dkDDQAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dkDDQAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkDDQAAAACAAJ&dq\u003dNon-Fiction&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkDDQAAAACAAJ&dq\u003dNon-Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 596
+}

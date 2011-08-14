@@ -1,0 +1,528 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "GvZEAQAAIAAJ",
+   "etag": "EM86T3qdk3s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GvZEAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Environment",
+    "authors": [
+     "Peter H. Raven",
+     "Linda R. Berg",
+     "David M. Hassenzahl"
+    ],
+    "publisher": "John Wiley & Sons Inc",
+    "publishedDate": "2008",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0470119268"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470119266"
+     }
+    ],
+    "pageCount": 672,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dGvZEAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dGvZEAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGvZEAQAAIAAJ&q\u003dEnvironment&dq\u003dEnvironment&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGvZEAQAAIAAJ&dq\u003dEnvironment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SmBNJhxVYE4C",
+   "etag": "V2wUWQAPvv4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SmBNJhxVYE4C",
+   "volumeInfo": {
+    "title": "The environment",
+    "subtitle": "principles and applications",
+    "authors": [
+     "Chris C. Park"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2001",
+    "description": "Building on the resounding success of the first edition, this introductory text provides a comprehensive account of modern environmental issues and the physical ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415217709"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415217705"
+     }
+    ],
+    "pageCount": 660,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dSmBNJhxVYE4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dSmBNJhxVYE4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSmBNJhxVYE4C&printsec\u003dfrontcover&dq\u003dEnvironment&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSmBNJhxVYE4C&dq\u003dEnvironment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 71.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 57.56,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dSmBNJhxVYE4C&dq\u003dEnvironment&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_environment-sample-pdf.acsm?id\u003dSmBNJhxVYE4C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4YKwTux1HgAC",
+   "etag": "gFZsvoY6xeo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4YKwTux1HgAC",
+   "volumeInfo": {
+    "title": "The environment",
+    "subtitle": "challenges for the chemical sciences in the 21st century",
+    "authors": [
+     "National Research Council (U.S.). Committee on Challenges for the Chemical Sciences in the 21st Century. Organizing Committee for the Workshop on the Environment"
+    ],
+    "publisher": "National Academies Press",
+    "publishedDate": "2003-12",
+    "description": "need more sustained funding for instruments and instrumentation; mission \u003cbr\u003e\r\nalignment — pressure on regulators to declare problems solved; need for \u003cbr\u003e\r\ncontinuity \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0309087198"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780309087193"
+     }
+    ],
+    "pageCount": 178,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d4YKwTux1HgAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d4YKwTux1HgAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4YKwTux1HgAC&printsec\u003dfrontcover&dq\u003dEnvironment&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4YKwTux1HgAC&dq\u003dEnvironment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rq5v_NcTeqYC",
+   "etag": "pmphG2GdB2k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rq5v_NcTeqYC",
+   "volumeInfo": {
+    "title": "Environment",
+    "subtitle": "the international challenge : essays",
+    "authors": [
+     "Geoffrey W. R. Palmer"
+    ],
+    "publishedDate": "1995",
+    "description": "Following three years as New Zealand&#39;s Minister for the \u003cb\u003eEnvironment\u003c/b\u003e, ending in \u003cbr\u003e\r\n1990, I was invited to teach International Environmental Law at the \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0864732627"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780864732620"
+     }
+    ],
+    "pageCount": 191,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003drq5v_NcTeqYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003drq5v_NcTeqYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003drq5v_NcTeqYC&printsec\u003dfrontcover&dq\u003dEnvironment&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003drq5v_NcTeqYC&dq\u003dEnvironment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yL2n4geYTNYC",
+   "etag": "yYNxNAvg41s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yL2n4geYTNYC",
+   "volumeInfo": {
+    "title": "The environment",
+    "subtitle": "a sociological introduction",
+    "authors": [
+     "Philip W. Sutton"
+    ],
+    "publisher": "Polity Pr",
+    "publishedDate": "2007-03-27",
+    "description": "Is our experience of nature changing? This book shows how questions about the environment cannot be properly answered without taking a sociological approach.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0745634338"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780745634333"
+     }
+    ],
+    "pageCount": 187,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dyL2n4geYTNYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dyL2n4geYTNYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyL2n4geYTNYC&printsec\u003dfrontcover&dq\u003dEnvironment&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyL2n4geYTNYC&dq\u003dEnvironment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nYg-AQAAIAAJ",
+   "etag": "c3/VHglIR6M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nYg-AQAAIAAJ",
+   "volumeInfo": {
+    "title": "Environment",
+    "subtitle": "the science behind the stories",
+    "authors": [
+     "Jay Withgott",
+     "Scott R. Brennan"
+    ],
+    "publisher": "Prentice Hall",
+    "publishedDate": "2008",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0805395733"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780805395730"
+     }
+    ],
+    "pageCount": 681,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dnYg-AQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dnYg-AQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnYg-AQAAIAAJ&q\u003dEnvironment&dq\u003dEnvironment&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnYg-AQAAIAAJ&dq\u003dEnvironment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "A9COLGGouYwC",
+   "etag": "KJNEvqrZzXk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/A9COLGGouYwC",
+   "volumeInfo": {
+    "title": "The environment",
+    "subtitle": "its role in psychosocial functioning and psychotherapy",
+    "authors": [
+     "Carolyn Saari"
+    ],
+    "publisher": "Columbia Univ Pr",
+    "publishedDate": "2002-02",
+    "description": "Saari posits that human beings may first construct a picture of their immediate environment and then construct their identity within that environment.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0231121962"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780231121965"
+     }
+    ],
+    "pageCount": 186,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dA9COLGGouYwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dA9COLGGouYwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dA9COLGGouYwC&printsec\u003dfrontcover&dq\u003dEnvironment&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dA9COLGGouYwC&dq\u003dEnvironment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vwAKAQAAMAAJ",
+   "etag": "ICKDSN42+E8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vwAKAQAAMAAJ",
+   "volumeInfo": {
+    "title": "The environment",
+    "subtitle": "opposing viewpoints",
+    "authors": [
+     "William Dudley"
+    ],
+    "publisher": "Greenhaven Pr",
+    "publishedDate": "2001-03-27",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "IND:30000086177148"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dvwAKAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dvwAKAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvwAKAQAAMAAJ&q\u003dEnvironment&dq\u003dEnvironment&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvwAKAQAAMAAJ&dq\u003dEnvironment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tdA4UJPjvygC",
+   "etag": "tgQOE9W/KYI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tdA4UJPjvygC",
+   "volumeInfo": {
+    "title": "The environment",
+    "authors": [
+     "Laura K. Egendorf"
+    ],
+    "publisher": "Greenhaven",
+    "publishedDate": "2004-03",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0737712511"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780737712513"
+     }
+    ],
+    "pageCount": 74,
+    "printType": "BOOK",
+    "categories": [
+     "Humor"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dtdA4UJPjvygC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dtdA4UJPjvygC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtdA4UJPjvygC&q\u003dEnvironment&dq\u003dEnvironment&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtdA4UJPjvygC&dq\u003dEnvironment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "09R-AAAAMAAJ",
+   "etag": "lkauMT7u4zs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/09R-AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Environment",
+    "subtitle": "resources, pollution and society",
+    "authors": [
+     "William W. Murdoch"
+    ],
+    "publishedDate": "1975",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015000690274"
+     }
+    ],
+    "pageCount": 488,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d09R-AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d09R-AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d09R-AAAAMAAJ&q\u003dEnvironment&dq\u003dEnvironment&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d09R-AAAAMAAJ&dq\u003dEnvironment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 586
+}

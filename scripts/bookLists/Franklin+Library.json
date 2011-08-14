@@ -1,0 +1,534 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ibgiSlbMDPUC",
+   "etag": "FaWqNo9/TxY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ibgiSlbMDPUC",
+   "volumeInfo": {
+    "title": "The library of Benjamin Franklin",
+    "authors": [
+     "Edwin Wolf",
+     "Kevin J. Hayes"
+    ],
+    "publisher": "American Philosophical Society",
+    "publishedDate": "2006",
+    "description": "INTRODUCTION THE story of Benjamin \u003cb\u003eFranklin&#39;s library\u003c/b\u003e can be told in three parts\u003cbr\u003e\r\n. The first part tells of his lifelong love of books and his continuous \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0871692570"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780871692573"
+     }
+    ],
+    "pageCount": 966,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "contentVersion": "1.0.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dibgiSlbMDPUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dibgiSlbMDPUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dibgiSlbMDPUC&printsec\u003dfrontcover&dq\u003dFranklin+Library&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dibgiSlbMDPUC&dq\u003dFranklin+Library&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dibgiSlbMDPUC&dq\u003dFranklin+Library&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_library_of_Benjamin_Franklin-sample-epub.acsm?id\u003dibgiSlbMDPUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_library_of_Benjamin_Franklin-sample-pdf.acsm?id\u003dibgiSlbMDPUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xOK4GQAACAAJ",
+   "etag": "UHhXFYgylgM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xOK4GQAACAAJ",
+   "volumeInfo": {
+    "title": "Franklin's Library Book",
+    "authors": [
+     "Sharon Jennings"
+    ],
+    "publishedDate": "2007-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1424211727"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781424211722"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dxOK4GQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dxOK4GQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxOK4GQAACAAJ&dq\u003dFranklin+Library&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxOK4GQAACAAJ&dq\u003dFranklin+Library&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "K-oAtzBl59AC",
+   "etag": "Qy6//YXdl5c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/K-oAtzBl59AC",
+   "volumeInfo": {
+    "title": "Franklin D. Roosevelt Library and Museum",
+    "authors": [
+     "Amy Margaret"
+    ],
+    "publisher": "Powerkids Pr",
+    "publishedDate": "2003-07-30",
+    "description": "A member of New Yorks upper class, Franklin Delano Roosevelt lived a privileged life.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0823962687"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780823962686"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dK-oAtzBl59AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dK-oAtzBl59AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dK-oAtzBl59AC&printsec\u003dfrontcover&dq\u003dFranklin+Library&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dK-oAtzBl59AC&dq\u003dFranklin+Library&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ala1GfdG42YC",
+   "etag": "6owj1CxiFaY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ala1GfdG42YC",
+   "volumeInfo": {
+    "title": "Calendar of the papers of Benjamin Franklin in the library of the University of Pennsylvania",
+    "subtitle": "Being the appendix to the \"Calendar of the papers of Benjamin Franklin in the library of the American philosophical society\"",
+    "authors": [
+     "University of Pennsylvania. Library",
+     "Arthur Clinton Boggess",
+     "Mrs. Lightner Witmer",
+     "American Philosophical Society. Library"
+    ],
+    "publishedDate": "1908",
+    "description": "\u003cb\u003e...\u003c/b\u003e \u003cb\u003eLIBRARY\u003c/b\u003e A. \u003d Autogragh. D. \u003d Document. Diss. \u003d Dissertation. Dr. \u003d Draft. E. \u003cbr\u003e\r\n\u003d Endorsement. FR s. \u003d Fellow of the Royal Society, of London. L. \u003d Letter. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044086259694"
+     }
+    ],
+    "pageCount": 5,
+    "printType": "BOOK",
+    "categories": [
+     "Manuscripts"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dAla1GfdG42YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dAla1GfdG42YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAla1GfdG42YC&printsec\u003dfrontcover&dq\u003dFranklin+Library&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAla1GfdG42YC&dq\u003dFranklin+Library&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Calendar_of_the_papers_of_Benjamin_Frank.epub?id\u003dAla1GfdG42YC&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Calendar_of_the_papers_of_Benjamin_Frank.pdf?id\u003dAla1GfdG42YC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U32aqRbPtF3e0ivW8hWjnwqkiubJw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B7QRAAAAIAAJ",
+   "etag": "xN65er/c3/M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B7QRAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Catalogue of the Franklin Institute Library, Syracuse, July 1, 1857",
+    "authors": [
+     "Franklin Institute (Syracuse, N.Y.). Library"
+    ],
+    "publishedDate": "1857",
+    "description": "208 William the Conqueror, 209 King Charles First 210 Second, 211 Queen \u003cbr\u003e\r\nElizabeth, 212 Nero, 213 Julius Csesar, 214 Pyrrhus,. 215 Darius the Great, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433074374681"
+     }
+    ],
+    "pageCount": 74,
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dB7QRAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dB7QRAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dB7QRAAAAIAAJ&printsec\u003dfrontcover&dq\u003dFranklin+Library&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dB7QRAAAAIAAJ&dq\u003dFranklin+Library&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Catalogue_of_the_Franklin_Institute_Libr.epub?id\u003dB7QRAAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Catalogue_of_the_Franklin_Institute_Libr.pdf?id\u003dB7QRAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0hXj33KBmmric-kzkTtuINE-8aPQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7hkWAAAAYAAJ",
+   "etag": "YNCdZlZ+A6E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7hkWAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Haverholme",
+    "subtitle": "or, The apotheosis of Jingo; a satire",
+    "authors": [
+     "Edward Jenkins"
+    ],
+    "publishedDate": "1878",
+    "description": "\u003cb\u003eFRANKLIN\u003c/b\u003e SQUAEE \u003cb\u003eLIBRARY\u003c/b\u003e. If we had in this country a body like the French \u003cbr\u003e\r\nAcademy to award some honorable distinction to the most meritorious literary \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HN6RPP"
+     }
+    ],
+    "pageCount": 21,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d7hkWAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d7hkWAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7hkWAAAAYAAJ&pg\u003dPA22&dq\u003dFranklin+Library&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7hkWAAAAYAAJ&dq\u003dFranklin+Library&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Haverholme.pdf?id\u003d7hkWAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1czHJ5I2oxFYthGA9Wbs0DysJ3WA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3LctAAAAYAAJ",
+   "etag": "Y/sKgzeKNCw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3LctAAAAYAAJ",
+   "volumeInfo": {
+    "title": "The development of printing as an art",
+    "subtitle": "a handbook of the exhibiton in honor of the bi-centenary of Franklin's birth held at the Boston Public Library under the auspices of the Society of Printers",
+    "authors": [
+     "Society of Printers (Boston, Mass.)",
+     "Boston Public Library",
+     "Benjamin Franklin Collection (Library of Congress)",
+     "Shapiro Bruce Rogers Collection (Library of Congress)"
+    ],
+    "publishedDate": "1906",
+    "description": "\u003cb\u003e...\u003c/b\u003e Boston, in connection with the celebration of the two hundredth anniversary \u003cbr\u003e\r\nof the birth of Benjamin \u003cb\u003eFranklin\u003c/b\u003e. It is planned on lines differing from any \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HNKUJP"
+     }
+    ],
+    "pageCount": 94,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d3LctAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d3LctAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3LctAAAAYAAJ&printsec\u003dfrontcover&dq\u003dFranklin+Library&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3LctAAAAYAAJ&dq\u003dFranklin+Library&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/The_development_of_printing_as_an_art.epub?id\u003d3LctAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_development_of_printing_as_an_art.pdf?id\u003d3LctAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U28S0eeylrLGn_8NArTz7PGXxtOBw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s9rMn0Gu-J0C",
+   "etag": "we2caOitTmk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s9rMn0Gu-J0C",
+   "volumeInfo": {
+    "title": "Benjamin Franklin in American thought and culture, 1790-1990",
+    "authors": [
+     "Nian-Sheng Huang"
+    ],
+    "publisher": "Amer Philosophical Society",
+    "publishedDate": "1994",
+    "description": "\u003cb\u003e...\u003c/b\u003e Olin Research \u003cb\u003eLibrary\u003c/b\u003e, not only ensured a fruitful study but also made my \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e \u003cb\u003eLibrary\u003c/b\u003e, University of Southern California; \u003cb\u003eFranklin\u003c/b\u003e Public \u003cb\u003eLibrary\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0871692112"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780871692115"
+     }
+    ],
+    "pageCount": 270,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003ds9rMn0Gu-J0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003ds9rMn0Gu-J0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ds9rMn0Gu-J0C&pg\u003dPR12&dq\u003dFranklin+Library&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ds9rMn0Gu-J0C&dq\u003dFranklin+Library&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Benjamin_Franklin_in_American_thought_an-sample-pdf.acsm?id\u003ds9rMn0Gu-J0C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3gZbQQAACAAJ",
+   "etag": "XKaUhK1BZL0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3gZbQQAACAAJ",
+   "volumeInfo": {
+    "title": "Franklin Library Association",
+    "subtitle": "Cambridgeport, [blank] 185[blank]. Dear Sir, The Franklin Library Association, an incorporated literary society for mutual improvement, has existed in this city for a period of thriteen years. ...",
+    "authors": [
+     "Franklin Library Association (Cambridge, Mass.).",
+     "Hamlin Rand Harding"
+    ],
+    "publishedDate": "185?",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:78032239"
+     }
+    ],
+    "pageCount": 4,
+    "printType": "BOOK",
+    "categories": [
+     "Libraries, Subscription"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3gZbQQAACAAJ&dq\u003dFranklin+Library&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3gZbQQAACAAJ&dq\u003dFranklin+Library&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0JsjAQAAIAAJ",
+   "etag": "QdmaizC/P3s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0JsjAQAAIAAJ",
+   "volumeInfo": {
+    "title": "List of the Benjamin Franklin Papers in the Library of Congress",
+    "authors": [
+     "Library of Congress. Manuscript division"
+    ],
+    "publishedDate": "1905",
+    "description": "\u003cb\u003eLIBRARY\u003c/b\u003e OF CONGRESS LIST OF THE BENJAMIN \u003cb\u003eFRANKLIN\u003c/b\u003e PAPEES IN THE \u003cb\u003eLIBRARY\u003c/b\u003e OF \u003cbr\u003e\r\nCONGRESS COMPILED UNDER THE DIRECTION OF WORTHINGTON CHAUNCEY FORD CHIEF, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105040118544"
+     }
+    ],
+    "pageCount": 332,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d0JsjAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d0JsjAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0JsjAQAAIAAJ&printsec\u003dfrontcover&dq\u003dFranklin+Library&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0JsjAQAAIAAJ&dq\u003dFranklin+Library&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/List_of_the_Benjamin_Franklin_Papers_in.pdf?id\u003d0JsjAQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3MewNL8RpD8rq_w3OJGff_nk3oag&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 594
+}

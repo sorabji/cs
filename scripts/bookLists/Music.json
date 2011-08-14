@@ -1,0 +1,558 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "VTA9-kdiz8YC",
+   "etag": "kx7p7dbcTcA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VTA9-kdiz8YC",
+   "volumeInfo": {
+    "title": "Music",
+    "authors": [
+     "Ferguson"
+    ],
+    "publisher": "Ferguson Publishing Company",
+    "publishedDate": "2009-09",
+    "description": "Discusses the job duties, requirements and training, potential employment situations, salary, advancement, work environment, and future outlook for twenty-one ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0816073058"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816073054"
+     }
+    ],
+    "pageCount": 220,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dVTA9-kdiz8YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dVTA9-kdiz8YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVTA9-kdiz8YC&printsec\u003dfrontcover&dq\u003dMusic&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVTA9-kdiz8YC&dq\u003dMusic&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Music-sample-epub.acsm?id\u003dVTA9-kdiz8YC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Dl2gvBIKvpEC",
+   "etag": "VfiE635W+pA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Dl2gvBIKvpEC",
+   "volumeInfo": {
+    "title": "Music",
+    "subtitle": "a very short introduction",
+    "authors": [
+     "Nicholas Cook"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2000-02-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0192853821"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780192853820"
+     }
+    ],
+    "pageCount": 152,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dDl2gvBIKvpEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dDl2gvBIKvpEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDl2gvBIKvpEC&dq\u003dMusic&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDl2gvBIKvpEC&dq\u003dMusic&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LdgqAAAAYAAJ",
+   "etag": "i+WCyqfw8OQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LdgqAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Music",
+    "subtitle": "a monthly magazine, devoted to the art, science, technic and literature of music",
+    "publishedDate": "1892",
+    "description": "\u003cb\u003eMUSIC\u003c/b\u003e. NOVEMBER, 1891. A NEW DEPARTURE. With the present issue, the editor \u003cbr\u003e\r\nbegins the realization of an idea long cherished, and often contemplated at near \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433082187943"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "contentVersion": "0.1.0.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dLdgqAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dLdgqAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLdgqAAAAYAAJ&printsec\u003dfrontcover&dq\u003dMusic&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLdgqAAAAYAAJ&dq\u003dMusic&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Music.pdf?id\u003dLdgqAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2idlX11y8E1kQG-kyNdjsa42tLWA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8cfbq9ZS96cC",
+   "etag": "xWdyTRlLJ78",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8cfbq9ZS96cC",
+   "volumeInfo": {
+    "title": "What is music?",
+    "subtitle": "an introduction to the philosophy of music",
+    "authors": [
+     "Philip Alperson"
+    ],
+    "publisher": "Pennsylvania State Univ Pr",
+    "publishedDate": "1987",
+    "description": "Contributors to this volume are Philip Alperson, Francis Sparshott, Nicholas Wolterstorff, Edward T. Cone, Peter Kivy, Jenefer Robinson, Joseph Margolis, Arnold ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0271013184"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780271013183"
+     }
+    ],
+    "pageCount": 422,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d8cfbq9ZS96cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d8cfbq9ZS96cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8cfbq9ZS96cC&printsec\u003dfrontcover&dq\u003dMusic&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8cfbq9ZS96cC&dq\u003dMusic&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d8cfbq9ZS96cC&dq\u003dMusic&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/What_is_music-sample-epub.acsm?id\u003d8cfbq9ZS96cC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/What_is_music-sample-pdf.acsm?id\u003d8cfbq9ZS96cC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "58UYAQAAIAAJ",
+   "etag": "HHwqcuNeUhE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/58UYAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Music",
+    "subtitle": "an appreciation",
+    "authors": [
+     "Roger Kamien"
+    ],
+    "publisher": "McGraw-Hill Humanities/Social Sciences/Languages",
+    "publishedDate": "2006-11-06",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0073526568"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780073526560"
+     }
+    ],
+    "pageCount": 704,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d58UYAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d58UYAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d58UYAQAAIAAJ&dq\u003dMusic&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d58UYAQAAIAAJ&dq\u003dMusic&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7TLp2KLjGf0C",
+   "etag": "3+wQhyQzUIg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7TLp2KLjGf0C",
+   "volumeInfo": {
+    "title": "Music",
+    "subtitle": "Healing The Rift",
+    "authors": [
+     "Ivan Hewett"
+    ],
+    "publisher": "Continuum Intl Pub Group",
+    "publishedDate": "2005-05-15",
+    "description": "In this book Ivan Hewett argues that, far from being an irrelevance, these distinctions matter more than ever.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0826476090"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780826476098"
+     }
+    ],
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d7TLp2KLjGf0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d7TLp2KLjGf0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7TLp2KLjGf0C&printsec\u003dfrontcover&dq\u003dMusic&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7TLp2KLjGf0C&dq\u003dMusic&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FuBqkwrtNn4C",
+   "etag": "ZU0C1TW73u0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FuBqkwrtNn4C",
+   "volumeInfo": {
+    "title": "Music",
+    "authors": [
+     "Neil Ardley"
+    ],
+    "publisher": "DK Publishing (Dorling Kindersley)",
+    "publishedDate": "2002",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0789458292"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780789458292"
+     }
+    ],
+    "pageCount": 63,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dFuBqkwrtNn4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dFuBqkwrtNn4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFuBqkwrtNn4C&q\u003dMusic&dq\u003dMusic&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFuBqkwrtNn4C&dq\u003dMusic&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XWc1OHWSpdoC",
+   "etag": "pXgu7iAdRck",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XWc1OHWSpdoC",
+   "volumeInfo": {
+    "title": "Music theory",
+    "authors": [
+     "Tom Kolb"
+    ],
+    "publisher": "Hal Leonard Corp",
+    "publishedDate": "2005-01-05",
+    "description": "Guitarists of all levels will find a wealth of practical music knowledge in this special book and CD package.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "063406651X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780634066511"
+     }
+    ],
+    "pageCount": 104,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dXWc1OHWSpdoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dXWc1OHWSpdoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXWc1OHWSpdoC&printsec\u003dfrontcover&dq\u003dMusic&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXWc1OHWSpdoC&dq\u003dMusic&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dXWc1OHWSpdoC&dq\u003dMusic&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Music_theory-sample-pdf.acsm?id\u003dXWc1OHWSpdoC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TGarYDew6HgC",
+   "etag": "U9bbxxxopdc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TGarYDew6HgC",
+   "volumeInfo": {
+    "title": "Music",
+    "subtitle": "Black, white & blue : a sociological survey of the use and misuse of Afro-American music",
+    "authors": [
+     "Ortiz Walton"
+    ],
+    "publisher": "Quill Books",
+    "publishedDate": "1980-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0688050255"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780688050252"
+     }
+    ],
+    "pageCount": 180,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dTGarYDew6HgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dTGarYDew6HgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTGarYDew6HgC&q\u003dMusic&dq\u003dMusic&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTGarYDew6HgC&dq\u003dMusic&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1N5X2QQMuAIC",
+   "etag": "TLGLbqAGBdU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1N5X2QQMuAIC",
+   "volumeInfo": {
+    "title": "This business of music",
+    "subtitle": "the definitive guide to the music industry",
+    "authors": [
+     "M. William Krasilovsky",
+     "Sidney Shemel",
+     "John M. Gross",
+     "Jonathan Feinstein"
+    ],
+    "publisher": "Billboard Books",
+    "publishedDate": "2007-06-26",
+    "description": "A complete and up-to-date guide to the music industry covers such topics as record industry trends, copyright law, sources of publishing income, buying and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0823077233"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780823077236"
+     }
+    ],
+    "pageCount": 510,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d1N5X2QQMuAIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d1N5X2QQMuAIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1N5X2QQMuAIC&printsec\u003dfrontcover&dq\u003dMusic&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1N5X2QQMuAIC&dq\u003dMusic&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 582
+}

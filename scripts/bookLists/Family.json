@@ -1,0 +1,593 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "20n2VPmoiQoC",
+   "etag": "RLJ9Oi92oI4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/20n2VPmoiQoC",
+   "volumeInfo": {
+    "title": "The family",
+    "authors": [
+     "Ed Sanders"
+    ],
+    "publisher": "Da Capo Press",
+    "publishedDate": "2002-11-07",
+    "description": "A chilling study of the 1969 Tate-Labianca murders offers a close-up profile of Charles Manson and his followers, discussing the origins and influence of Manson ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1560253967"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781560253969"
+     }
+    ],
+    "pageCount": 540,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 31,
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d20n2VPmoiQoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d20n2VPmoiQoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d20n2VPmoiQoC&printsec\u003dfrontcover&dq\u003dFamily&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d20n2VPmoiQoC&dq\u003dFamily&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bp82rrmaD4QC",
+   "etag": "wEvIxjK80Gg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bp82rrmaD4QC",
+   "volumeInfo": {
+    "title": "The Family",
+    "authors": [
+     "Mario Puzo",
+     "Carol Gino"
+    ],
+    "publisher": "Avon",
+    "publishedDate": "2002-08-15",
+    "description": "The author of The Godfather takes readers back four hundred years to a fifteenth-century Italy populated by corrupt popes and despotic families to introduce the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0061032425"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780061032424"
+     }
+    ],
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 96,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dbp82rrmaD4QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dbp82rrmaD4QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbp82rrmaD4QC&printsec\u003dfrontcover&dq\u003dFamily&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbp82rrmaD4QC&dq\u003dFamily&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lVtxauKJvqwC",
+   "etag": "KacbOZmMTPI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lVtxauKJvqwC",
+   "volumeInfo": {
+    "title": "Family",
+    "authors": [
+     "J. California Cooper"
+    ],
+    "publisher": "Anchor",
+    "publishedDate": "1992",
+    "description": "Spanning the years just before and after the Civil War, this saga of an African-American family centers on Always, a resourceful woman born into slavery, and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0385411723"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780385411721"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 41,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dlVtxauKJvqwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dlVtxauKJvqwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlVtxauKJvqwC&printsec\u003dfrontcover&dq\u003dFamily&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlVtxauKJvqwC&dq\u003dFamily&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dlVtxauKJvqwC&dq\u003dFamily&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Family-sample-epub.acsm?id\u003dlVtxauKJvqwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kKRqGHWEeHwC",
+   "etag": "SIbpLLYPHHI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kKRqGHWEeHwC",
+   "volumeInfo": {
+    "title": "The family",
+    "subtitle": "a Christian perspective on the contemporary home",
+    "authors": [
+     "Jack O. Balswick",
+     "Judith K. Balswick"
+    ],
+    "publisher": "Baker Publishing Group",
+    "publishedDate": "2007-06-01",
+    "description": "&quot;--&quot;Theological Educator&quot; &quot;This is a rare book in its synthesis of rich sources in family scientific theory with a theological version of the meaning and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0801032490"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780801032493"
+     }
+    ],
+    "pageCount": 398,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dkKRqGHWEeHwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dkKRqGHWEeHwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkKRqGHWEeHwC&printsec\u003dfrontcover&dq\u003dFamily&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkKRqGHWEeHwC&dq\u003dFamily&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.57,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dkKRqGHWEeHwC&dq\u003dFamily&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_family-sample-epub.acsm?id\u003dkKRqGHWEeHwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_L12jqumWf4C",
+   "etag": "i+/3LKGpjno",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_L12jqumWf4C",
+   "volumeInfo": {
+    "title": "Family",
+    "authors": [
+     "Ian Frazier"
+    ],
+    "publisher": "Picador USA",
+    "publishedDate": "2002-02-09",
+    "description": "The author recounts the history of his family in America from early colonial times to the present using letters and family documents, visiting towns they lived ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0312420595"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780312420598"
+     }
+    ],
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d_L12jqumWf4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d_L12jqumWf4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_L12jqumWf4C&printsec\u003dfrontcover&dq\u003dFamily&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_L12jqumWf4C&dq\u003dFamily&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7eRAAAAAIAAJ",
+   "etag": "+1eu/sREvp8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7eRAAAAAIAAJ",
+   "volumeInfo": {
+    "title": "The family",
+    "authors": [
+     "Helen Dendy Bosanquet"
+    ],
+    "publishedDate": "1906",
+    "description": "INTRODUCTORY What is a \u003cb\u003eFamily\u003c/b\u003e, and what is its purpose ? No one will feel \u003cbr\u003e\r\nhimself at a loss in answering the question ; man, woman, and child, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B98303"
+     }
+    ],
+    "pageCount": 344,
+    "printType": "BOOK",
+    "categories": [
+     "Families"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d7eRAAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d7eRAAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7eRAAAAAIAAJ&printsec\u003dfrontcover&dq\u003dFamily&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7eRAAAAAIAAJ&dq\u003dFamily&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/The_family.epub?id\u003d7eRAAAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_family.pdf?id\u003d7eRAAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0lzfo1GXQWKQA3S2oYPGhvUavWYQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ioA0HzQzopYC",
+   "etag": "1A0qOfCBrhs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ioA0HzQzopYC",
+   "volumeInfo": {
+    "title": "The family",
+    "subtitle": "the secret fundamentalism at the heart of American power",
+    "authors": [
+     "Jeff Sharlet"
+    ],
+    "publisher": "Harper Perennial",
+    "publishedDate": "2009-05-22",
+    "description": "Draws on the author&#39;s experiences living undercover within the ranks of &quot;the Family&quot; theocratic group in Arlington, Virginia, to explore fundamentalism in ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0060560053"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780060560058"
+     }
+    ],
+    "pageCount": 454,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 224,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dioA0HzQzopYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dioA0HzQzopYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dioA0HzQzopYC&printsec\u003dfrontcover&dq\u003dFamily&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dioA0HzQzopYC&dq\u003dFamily&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dioA0HzQzopYC&dq\u003dFamily&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_family-sample-epub.acsm?id\u003dioA0HzQzopYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HpnbgSvd2vEC",
+   "etag": "QbikQgGRtPA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HpnbgSvd2vEC",
+   "volumeInfo": {
+    "title": "Family",
+    "authors": [
+     "Isabell Monk",
+     "Janice Lee Porter"
+    ],
+    "publisher": "Carolrhoda Books",
+    "publishedDate": "2005-05-16",
+    "description": "Hope&#39;s new and unusual dessert blends well with the traditional dishes prepared by her cousins and Aunt Poogee at their annual summer get-together.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1575059177"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781575059174"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dHpnbgSvd2vEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dHpnbgSvd2vEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHpnbgSvd2vEC&printsec\u003dfrontcover&dq\u003dFamily&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHpnbgSvd2vEC&dq\u003dFamily&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.71,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 6.95,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dHpnbgSvd2vEC&dq\u003dFamily&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Family-sample-pdf.acsm?id\u003dHpnbgSvd2vEC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "phGFgLWckOwC",
+   "etag": "80cBDQQPjCY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/phGFgLWckOwC",
+   "volumeInfo": {
+    "title": "Family",
+    "subtitle": "the ties that bind-- and gag!",
+    "authors": [
+     "Erma Bombeck"
+    ],
+    "publisher": "Fawcett",
+    "publishedDate": "1988-10-31",
+    "description": "The well-known humorist takes a witty, compassionate, poignant, and nostalgic look at the small and large triumphs of American family life in the 80s",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0449215296"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780449215296"
+     }
+    ],
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Humor"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 24,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dphGFgLWckOwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dphGFgLWckOwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dphGFgLWckOwC&printsec\u003dfrontcover&dq\u003dFamily&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dphGFgLWckOwC&dq\u003dFamily&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LXepvNAosc8C",
+   "etag": "Az7eYUqRnbg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LXepvNAosc8C",
+   "volumeInfo": {
+    "title": "Family theories",
+    "authors": [
+     "James M. White",
+     "David M. Klein"
+    ],
+    "publisher": "Sage Publications, Inc",
+    "publishedDate": "2008",
+    "description": "Intended Audience This text is designed for advanced undergraduate and graduate courses such as Family Theories, Family Systems &amp; Theory, and Sociology of the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1412937485"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781412937481"
+     }
+    ],
+    "pageCount": 333,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dLXepvNAosc8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dLXepvNAosc8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLXepvNAosc8C&printsec\u003dfrontcover&dq\u003dFamily&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLXepvNAosc8C&dq\u003dFamily&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Family_theories-sample-epub.acsm?id\u003dLXepvNAosc8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 586
+}

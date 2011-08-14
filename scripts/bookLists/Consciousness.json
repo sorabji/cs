@@ -1,0 +1,615 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "TN4Lo7LjsG8C",
+   "etag": "5Yx1AKWndAg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TN4Lo7LjsG8C",
+   "volumeInfo": {
+    "title": "Consciousness",
+    "subtitle": "a very short introduction",
+    "authors": [
+     "Susan J. Blackmore"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2005-06-01",
+    "description": "This book clarifies the potentially confusing arguments and clearly describes the major theories, with illustrations and lively cartoons to help explain the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0192805851"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780192805850"
+     }
+    ],
+    "pageCount": 146,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 13,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dTN4Lo7LjsG8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dTN4Lo7LjsG8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTN4Lo7LjsG8C&printsec\u003dfrontcover&dq\u003dConsciousness&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTN4Lo7LjsG8C&dq\u003dConsciousness&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 8.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.52,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dTN4Lo7LjsG8C&dq\u003dConsciousness&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Consciousness-sample-epub.acsm?id\u003dTN4Lo7LjsG8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Consciousness-sample-pdf.acsm?id\u003dTN4Lo7LjsG8C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lDoGn5nC8scC",
+   "etag": "AIMueRSLa/Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lDoGn5nC8scC",
+   "volumeInfo": {
+    "title": "Consciousness",
+    "authors": [
+     "William G. Lycan"
+    ],
+    "publisher": "The MIT Press",
+    "publishedDate": "1995-03-02",
+    "description": "In this book, William Lycan reviews the diverse philosophical views on consciousness--including those of Kripke, Block, Campbell, Sellars, and Casteneda--and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0262620960"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780262620963"
+     }
+    ],
+    "pageCount": 165,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dlDoGn5nC8scC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dlDoGn5nC8scC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlDoGn5nC8scC&printsec\u003dfrontcover&dq\u003dConsciousness&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlDoGn5nC8scC&dq\u003dConsciousness&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "adzFQgAACAAJ",
+   "etag": "GtIJeDuUZ9o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/adzFQgAACAAJ",
+   "volumeInfo": {
+    "title": "Consciousness",
+    "subtitle": "an introduction",
+    "authors": [
+     "Susan J. Blackmore"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2004",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0195153421"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195153422"
+     }
+    ],
+    "pageCount": 460,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 12,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dadzFQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dadzFQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dadzFQgAACAAJ&dq\u003dConsciousness&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dadzFQgAACAAJ&dq\u003dConsciousness&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OwoUgex_tmkC",
+   "etag": "1zupG2qcZ7k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OwoUgex_tmkC",
+   "volumeInfo": {
+    "title": "Consciousness",
+    "subtitle": "A User's Guide",
+    "authors": [
+     "Adam Zeman"
+    ],
+    "publisher": "Yale Univ Pr",
+    "publishedDate": "2004-09-10",
+    "description": "In this thought-provoking book, neurologist Adam Zeman offers an enlightening view of consciousness seen through the lenses of science and philosophy, enhancing ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0300104979"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780300104974"
+     }
+    ],
+    "pageCount": 416,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dOwoUgex_tmkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dOwoUgex_tmkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOwoUgex_tmkC&printsec\u003dfrontcover&dq\u003dConsciousness&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOwoUgex_tmkC&dq\u003dConsciousness&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Consciousness-sample-epub.acsm?id\u003dOwoUgex_tmkC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YIHFiQjye5UC",
+   "etag": "sEiDoItTrmg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YIHFiQjye5UC",
+   "volumeInfo": {
+    "title": "The quest for consciousness",
+    "subtitle": "a neurobiological approach",
+    "authors": [
+     "Christof Koch"
+    ],
+    "publisher": "Roberts & Company Publishers",
+    "publishedDate": "2004-01",
+    "description": "In &quot;The Quest for Consciousness,&quot; Caltech neuroscientist Christof Koch explores the biological basis of consciousness.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0974707708"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780974707709"
+     }
+    ],
+    "pageCount": 429,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 14,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dYIHFiQjye5UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dYIHFiQjye5UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYIHFiQjye5UC&printsec\u003dfrontcover&dq\u003dConsciousness&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYIHFiQjye5UC&dq\u003dConsciousness&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8AHDK62jPSgC",
+   "etag": "fTSN8Zlo988",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8AHDK62jPSgC",
+   "volumeInfo": {
+    "title": "Consciousness",
+    "subtitle": "new philosophical perspectives",
+    "authors": [
+     "Quentin Smith"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2003",
+    "description": "Consciousness is perhaps the most puzzling problem we humans face in trying to understand ourselves.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0199241287"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780199241286"
+     }
+    ],
+    "pageCount": 532,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d8AHDK62jPSgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d8AHDK62jPSgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8AHDK62jPSgC&printsec\u003dfrontcover&dq\u003dConsciousness&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8AHDK62jPSgC&dq\u003dConsciousness&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 60.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 48.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d8AHDK62jPSgC&dq\u003dConsciousness&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Consciousness-sample-epub.acsm?id\u003d8AHDK62jPSgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Consciousness-sample-pdf.acsm?id\u003d8AHDK62jPSgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-SYS-XGnlnAC",
+   "etag": "zkXZ25sJdkI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-SYS-XGnlnAC",
+   "volumeInfo": {
+    "title": "Consciousness",
+    "subtitle": "a guide to the debates",
+    "authors": [
+     "Anthony Freeman"
+    ],
+    "publisher": "Abc-Clio Inc",
+    "publishedDate": "2003-10-10",
+    "description": "An exciting introduction to consciousness research and its applications to our waking and sleeping moments.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1576077918"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781576077917"
+     }
+    ],
+    "pageCount": 338,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d-SYS-XGnlnAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d-SYS-XGnlnAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-SYS-XGnlnAC&printsec\u003dfrontcover&dq\u003dConsciousness&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-SYS-XGnlnAC&dq\u003dConsciousness&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 85.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 68.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d-SYS-XGnlnAC&dq\u003dConsciousness&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Consciousness-sample-epub.acsm?id\u003d-SYS-XGnlnAC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Consciousness-sample-pdf.acsm?id\u003d-SYS-XGnlnAC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kB-42nW4AwAC",
+   "etag": "uIRscYiMd+k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kB-42nW4AwAC",
+   "volumeInfo": {
+    "title": "Consciousness",
+    "subtitle": "Indian and western perspectives : Śaṅkara, Kant, Hegel, Lyotard, Derrida and Habermas",
+    "authors": [
+     "Raghwendra Pratap Singh"
+    ],
+    "publisher": "Atlantic Publishers & Dist",
+    "publishedDate": "2008-01-01",
+    "description": "Sankara&#39;s Notion of Absolute \u003cb\u003eConsciousness\u003c/b\u003e: The Ultimate Principles of Knowledge\u003cbr\u003e\r\n, Validity and the Limits of Pmmanas Lifework of Sankara1 Sahkara was born \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8126909773"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788126909773"
+     }
+    ],
+    "pageCount": 543,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dkB-42nW4AwAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dkB-42nW4AwAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkB-42nW4AwAC&printsec\u003dfrontcover&dq\u003dConsciousness&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkB-42nW4AwAC&dq\u003dConsciousness&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yeZkEoY2i70C",
+   "etag": "E0bWIxgQ/p0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yeZkEoY2i70C",
+   "volumeInfo": {
+    "title": "Consciousness",
+    "subtitle": "separation and integration",
+    "authors": [
+     "Neil Rossman"
+    ],
+    "publisher": "State Univ of New York Pr",
+    "publishedDate": "1991-03-01",
+    "description": "\u003cb\u003e...\u003c/b\u003e to say that since the writings of Descartes, mentality or \u003cb\u003econsciousness\u003c/b\u003e has \u003cbr\u003e\r\nbecome the central area of philosophical attention and investigation. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0791404072"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780791404072"
+     }
+    ],
+    "pageCount": 213,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dyeZkEoY2i70C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dyeZkEoY2i70C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyeZkEoY2i70C&printsec\u003dfrontcover&dq\u003dConsciousness&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyeZkEoY2i70C&dq\u003dConsciousness&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.17,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dyeZkEoY2i70C&dq\u003dConsciousness&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Consciousness-sample-epub.acsm?id\u003dyeZkEoY2i70C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Consciousness-sample-pdf.acsm?id\u003dyeZkEoY2i70C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "N6-dTUPKGwwC",
+   "etag": "JVH/jL0/yy0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/N6-dTUPKGwwC",
+   "volumeInfo": {
+    "title": "Consciousness",
+    "subtitle": "from perception to reflection in the history of philosophy",
+    "authors": [
+     "Sara Heinämaa",
+     "Vili Lähteenmäki",
+     "Pauliina Remes"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2007",
+    "description": "This collection represents the first historical survey focusing on the notion of consciousness.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1402060815"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781402060816"
+     }
+    ],
+    "pageCount": 366,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dN6-dTUPKGwwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dN6-dTUPKGwwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dN6-dTUPKGwwC&printsec\u003dfrontcover&dq\u003dConsciousness&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dN6-dTUPKGwwC&dq\u003dConsciousness&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 259.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 207.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dN6-dTUPKGwwC&dq\u003dConsciousness&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Consciousness-sample-epub.acsm?id\u003dN6-dTUPKGwwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Consciousness-sample-pdf.acsm?id\u003dN6-dTUPKGwwC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 588
+}

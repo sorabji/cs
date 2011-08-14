@@ -1,0 +1,562 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "UVNIzshNA4wC",
+   "etag": "ZDUqwDsHV/U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UVNIzshNA4wC",
+   "volumeInfo": {
+    "title": "Alternative health care",
+    "subtitle": "medicine, miracle, or mirage?",
+    "authors": [
+     "Michael S. Goldstein"
+    ],
+    "publisher": "Temple Univ Pr",
+    "publishedDate": "1999-02-17",
+    "description": "According to survey results reported in the journal, 83 million Americans used some form of alternative medicine to preserve and maintain their health in 1997, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1566396786"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781566396783"
+     }
+    ],
+    "pageCount": 278,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dUVNIzshNA4wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dUVNIzshNA4wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUVNIzshNA4wC&printsec\u003dfrontcover&dq\u003dAlternative+Health&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUVNIzshNA4wC&dq\u003dAlternative+Health&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 15.37,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dUVNIzshNA4wC&dq\u003dAlternative+Health&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Alternative_health_care-sample-epub.acsm?id\u003dUVNIzshNA4wC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Alternative_health_care-sample-pdf.acsm?id\u003dUVNIzshNA4wC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PvTiAgAACAAJ",
+   "etag": "WTKaBPEOzuE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PvTiAgAACAAJ",
+   "volumeInfo": {
+    "title": "Alternative Health",
+    "subtitle": "Reflexology Shiatsu Yoga: A Step-By-Step Guide",
+    "authors": [
+     "Element Books, Incorporated"
+    ],
+    "publisher": "Element Books Ltd",
+    "publishedDate": "1999-02",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1862043590"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781862043596"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dPvTiAgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dPvTiAgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPvTiAgAACAAJ&dq\u003dAlternative+Health&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPvTiAgAACAAJ&dq\u003dAlternative+Health&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vd3MYgEACAAJ",
+   "etag": "EenHQWdd00E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vd3MYgEACAAJ",
+   "volumeInfo": {
+    "title": "Alternative health",
+    "subtitle": "herbal medicine",
+    "authors": [
+     "Anne MCINTYRE"
+    ],
+    "publishedDate": "1987",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:656110641"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvd3MYgEACAAJ&dq\u003dAlternative+Health&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvd3MYgEACAAJ&dq\u003dAlternative+Health&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9qgxVfI1Tk0C",
+   "etag": "l7gUHOxmxNE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9qgxVfI1Tk0C",
+   "volumeInfo": {
+    "title": "Alternative health practices for livestock",
+    "authors": [
+     "Thomas F. Morris",
+     "Michael T. Keilty"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "2006-01-03",
+    "description": "This book provides information that will advance a form of livestock production that meets the long- and short-term goals of human food production, minimizing ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0813817641"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780813817644"
+     }
+    ],
+    "pageCount": 211,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d9qgxVfI1Tk0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d9qgxVfI1Tk0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9qgxVfI1Tk0C&printsec\u003dfrontcover&dq\u003dAlternative+Health&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9qgxVfI1Tk0C&dq\u003dAlternative+Health&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 99.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 99.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d9qgxVfI1Tk0C&dq\u003dAlternative+Health&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Alternative_health_practices_for_livesto-sample-pdf.acsm?id\u003d9qgxVfI1Tk0C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tk8_cZ0zu3QC",
+   "etag": "MxomY23pNqk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tk8_cZ0zu3QC",
+   "volumeInfo": {
+    "title": "Complementary and Alternative Health Care",
+    "authors": [
+     "David Strelecky"
+    ],
+    "publisher": "Ferguson Pub",
+    "publishedDate": "2009-07-30",
+    "description": "Defines the top twenty careers in complementary and alternative medicine, discussing the nature of the work, educational or training requirements, getting ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0816073023"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816073023"
+     }
+    ],
+    "pageCount": 241,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dtk8_cZ0zu3QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dtk8_cZ0zu3QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtk8_cZ0zu3QC&printsec\u003dfrontcover&dq\u003dAlternative+Health&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtk8_cZ0zu3QC&dq\u003dAlternative+Health&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Complementary_and_Alternative_Health_Car-sample-epub.acsm?id\u003dtk8_cZ0zu3QC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hrh6nq3NjbAC",
+   "etag": "nJSyCe/4eos",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hrh6nq3NjbAC",
+   "volumeInfo": {
+    "title": "The New York Times guide to alternative health",
+    "subtitle": "a consumer reference",
+    "authors": [
+     "Jane E. Brody",
+     "Denise Grady"
+    ],
+    "publisher": "Times Books",
+    "publishedDate": "2001-07-03",
+    "description": "A resource for anyone interested in alternative healing covers herbal remedies, acupuncture, homeopathy, massage therapy, Chinese medicine, and much more.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0805067434"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780805067439"
+     }
+    ],
+    "pageCount": 394,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dhrh6nq3NjbAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dhrh6nq3NjbAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhrh6nq3NjbAC&printsec\u003dfrontcover&dq\u003dAlternative+Health&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhrh6nq3NjbAC&dq\u003dAlternative+Health&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NMICtzfJET8C",
+   "etag": "0I6bci2eY0k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NMICtzfJET8C",
+   "volumeInfo": {
+    "title": "The Sensitive Person's Survival Guide",
+    "subtitle": "An Alternative Health Answer to Emotional Sensitivity & Depression",
+    "authors": [
+     "Kyra Mesich"
+    ],
+    "publisher": "Iuniverse Star",
+    "publishedDate": "2000-11",
+    "description": "Heal your suffering from depression and emotional sensitivity with a radically new alternative health approach.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0595098002"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780595098002"
+     }
+    ],
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "1.1.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dNMICtzfJET8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dNMICtzfJET8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNMICtzfJET8C&printsec\u003dfrontcover&dq\u003dAlternative+Health&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNMICtzfJET8C&dq\u003dAlternative+Health&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dNMICtzfJET8C&dq\u003dAlternative+Health&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Sensitive_Person_s_Survival_Guide-sample-epub.acsm?id\u003dNMICtzfJET8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Sensitive_Person_s_Survival_Guide-sample-pdf.acsm?id\u003dNMICtzfJET8C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zsY8dwHl54YC",
+   "etag": "dk8U9KelSkI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zsY8dwHl54YC",
+   "volumeInfo": {
+    "title": "Chiropractic",
+    "subtitle": "a philosophy for alternative health care",
+    "authors": [
+     "Ian D. Coulter"
+    ],
+    "publisher": "Butterworth-Heinemann Medical",
+    "publishedDate": "1999-09-07",
+    "description": "An introductory text on the philosophy of chiropractic, for both chiropractic students and practitioners and those interested in the practice and philosophy of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0750640065"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780750640060"
+     }
+    ],
+    "pageCount": 117,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dzsY8dwHl54YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dzsY8dwHl54YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzsY8dwHl54YC&printsec\u003dfrontcover&dq\u003dAlternative+Health&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzsY8dwHl54YC&dq\u003dAlternative+Health&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "07t8xUFZdOQC",
+   "etag": "nJ/z5lKuFbY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/07t8xUFZdOQC",
+   "volumeInfo": {
+    "title": "Collins Alternative Health Guide",
+    "authors": [
+     "Steven Bratman"
+    ],
+    "publisher": "Collins Reference",
+    "publishedDate": "2007-04-12",
+    "description": "An up-to-date, comprehensive compendium provides coverage of the use of herbs and supplements as well as drug interactions, in an A-to-Z reference that features ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0061120189"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780061120183"
+     }
+    ],
+    "pageCount": 976,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d07t8xUFZdOQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d07t8xUFZdOQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d07t8xUFZdOQC&printsec\u003dfrontcover&dq\u003dAlternative+Health&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d07t8xUFZdOQC&dq\u003dAlternative+Health&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Aii2PRFfYQAC",
+   "etag": "2knjtCx9ong",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Aii2PRFfYQAC",
+   "volumeInfo": {
+    "title": "Alternative Health Maintenance and Healing Systems for Families",
+    "authors": [
+     "Doris Y. Wilkinson",
+     "Marvin B. Sussman"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "1988-02-22",
+    "description": "This important book offers timely discussions of movements in modern medicine that have had great impact upon the family--the hospice movement and the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0866567011"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780866567015"
+     }
+    ],
+    "pageCount": 171,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dAii2PRFfYQAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dAii2PRFfYQAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAii2PRFfYQAC&printsec\u003dfrontcover&dq\u003dAlternative+Health&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAii2PRFfYQAC&dq\u003dAlternative+Health&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 598
+}

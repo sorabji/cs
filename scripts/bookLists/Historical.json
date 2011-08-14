@@ -1,0 +1,578 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "zDqVjuGblG4C",
+   "etag": "A11o63SfWOY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zDqVjuGblG4C",
+   "volumeInfo": {
+    "title": "Historical economics",
+    "subtitle": "art or science?",
+    "authors": [
+     "Charles Poor Kindleberger"
+    ],
+    "publisher": "Univ of California Pr",
+    "publishedDate": "1990-11-21",
+    "description": "The essays cover a range of historical periods and in addition to his well known writing on financial issues also include European history and explorations of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520073436"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520073432"
+     }
+    ],
+    "pageCount": 371,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dzDqVjuGblG4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dzDqVjuGblG4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzDqVjuGblG4C&printsec\u003dfrontcover&dq\u003dHistorical&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzDqVjuGblG4C&dq\u003dHistorical&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kiBqpLqBHnsC",
+   "etag": "MCXW3vKNhUg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kiBqpLqBHnsC",
+   "volumeInfo": {
+    "title": "Historical Ontology",
+    "authors": [
+     "Ian Hacking"
+    ],
+    "publisher": "Harvard Univ Pr",
+    "publishedDate": "2004-09-15",
+    "description": "The focus of this volume, which collects both recent and now-classic essays, is the historical emergence of concepts and objects, through new uses of words and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0674016076"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780674016071"
+     }
+    ],
+    "pageCount": 279,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "contentVersion": "1.0.0.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dkiBqpLqBHnsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dkiBqpLqBHnsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkiBqpLqBHnsC&printsec\u003dfrontcover&dq\u003dHistorical&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkiBqpLqBHnsC&dq\u003dHistorical&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Historical_Ontology-sample-epub.acsm?id\u003dkiBqpLqBHnsC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DtRhzgAACAAJ",
+   "etag": "ptt7J1iH7Ig",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DtRhzgAACAAJ",
+   "volumeInfo": {
+    "title": "The Historical Jesus",
+    "subtitle": "Five Views",
+    "authors": [
+     "James K. Beilby",
+     "Paul R. Eddy"
+    ],
+    "publishedDate": "2010-02-18",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "028106329X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780281063291"
+     }
+    ],
+    "pageCount": 304,
+    "printType": "BOOK",
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dDtRhzgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dDtRhzgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDtRhzgAACAAJ&dq\u003dHistorical&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDtRhzgAACAAJ&dq\u003dHistorical&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uqXmHADjKVAC",
+   "etag": "vItjBNskny0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uqXmHADjKVAC",
+   "volumeInfo": {
+    "title": "Historical geology",
+    "subtitle": "evolution of earth and life through time",
+    "authors": [
+     "Reed Wicander",
+     "James S. Monroe"
+    ],
+    "publisher": "Brooks/Cole Pub Co",
+    "publishedDate": "2009-02-24",
+    "description": "The sixth edition has been thoroughly updated to include the formation of the Earth-Moon system, information about the evolution of populations as a whole, and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0495560073"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780495560074"
+     }
+    ],
+    "pageCount": 444,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003duqXmHADjKVAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003duqXmHADjKVAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003duqXmHADjKVAC&printsec\u003dfrontcover&dq\u003dHistorical&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003duqXmHADjKVAC&dq\u003dHistorical&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pMMeqKHZIDkC",
+   "etag": "qemmwmOYS1s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pMMeqKHZIDkC",
+   "volumeInfo": {
+    "title": "The historical Jesus",
+    "subtitle": "ancient evidence for the life of Christ",
+    "authors": [
+     "Gary R. Habermas"
+    ],
+    "publisher": "College Press",
+    "publishedDate": "1996-05",
+    "description": "Gary Habermas has researched and compiled the information for you in this fascinating book.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0899007325"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780899007328"
+     }
+    ],
+    "pageCount": 298,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dpMMeqKHZIDkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dpMMeqKHZIDkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpMMeqKHZIDkC&printsec\u003dfrontcover&dq\u003dHistorical&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpMMeqKHZIDkC&dq\u003dHistorical&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "R5_n4834AgYC",
+   "etag": "h+og+syxsFc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/R5_n4834AgYC",
+   "volumeInfo": {
+    "title": "Reconstructing American historical cinema",
+    "subtitle": "from Cimarron to Citizen Kane",
+    "authors": [
+     "J. E. Smyth"
+    ],
+    "publisher": "The University Press of Kentucky",
+    "publishedDate": "2006-10",
+    "description": "Uncovering Hollywood&#39;s diverse and conflicted attitudes toward American history, this text is a fundamental challenge to the prevailing scholarship in film, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0813124069"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780813124063"
+     }
+    ],
+    "pageCount": 447,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "contentVersion": "1.2.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dR5_n4834AgYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dR5_n4834AgYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dR5_n4834AgYC&printsec\u003dfrontcover&dq\u003dHistorical&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dR5_n4834AgYC&dq\u003dHistorical&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 50.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 40.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dR5_n4834AgYC&dq\u003dHistorical&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AsPHR4-7Wc8C",
+   "etag": "1YaDeA23Ue4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AsPHR4-7Wc8C",
+   "volumeInfo": {
+    "title": "The historical Jesus",
+    "subtitle": "the life of a Mediterranean Jewish peasant",
+    "authors": [
+     "John Dominic Crossan"
+    ],
+    "publisher": "HarperOne",
+    "publishedDate": "1992",
+    "description": "Offers a historical look at the life of Jesus Christ, portraying him as a courageous Jewish Mediterranean peasant and a radical social revolutionary",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0060616296"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780060616298"
+     }
+    ],
+    "pageCount": 507,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 16,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dAsPHR4-7Wc8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dAsPHR4-7Wc8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAsPHR4-7Wc8C&printsec\u003dfrontcover&dq\u003dHistorical&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAsPHR4-7Wc8C&dq\u003dHistorical&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dAsPHR4-7Wc8C&dq\u003dHistorical&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_historical_Jesus-sample-epub.acsm?id\u003dAsPHR4-7Wc8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ONY_EVd9zNYC",
+   "etag": "wyPj/KjPuyg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ONY_EVd9zNYC",
+   "volumeInfo": {
+    "title": "Historical linguistics",
+    "subtitle": "an introduction",
+    "authors": [
+     "Winfred Philipp Lehmann"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1992",
+    "description": "This third edition has been thoroughly revised by Lehmann to include these and other recent developments in linguistic and archeological research.Historical ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415072425"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415072427"
+     }
+    ],
+    "pageCount": 338,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dONY_EVd9zNYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dONY_EVd9zNYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dONY_EVd9zNYC&printsec\u003dfrontcover&dq\u003dHistorical&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dONY_EVd9zNYC&dq\u003dHistorical&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EjXrrOJhex8C",
+   "etag": "LXbOpD4Th+w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EjXrrOJhex8C",
+   "volumeInfo": {
+    "title": "Historical linguistics",
+    "subtitle": "an introduction",
+    "authors": [
+     "Lyle Campbell"
+    ],
+    "publisher": "The MIT Press",
+    "publishedDate": "1998",
+    "description": "A comprehensive text that not only introduces students to the important topics in historical linguistics but also shows them how to apply the methods described.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0262532670"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780262532679"
+     }
+    ],
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dEjXrrOJhex8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dEjXrrOJhex8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEjXrrOJhex8C&printsec\u003dfrontcover&dq\u003dHistorical&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEjXrrOJhex8C&dq\u003dHistorical&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3ZU97DQMH6UC",
+   "etag": "zt6GBGjR3iM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3ZU97DQMH6UC",
+   "volumeInfo": {
+    "title": "The historical Jesus",
+    "subtitle": "a comprehensive guide",
+    "authors": [
+     "Gerd Theissen",
+     "Annette Merz"
+    ],
+    "publisher": "Fortress Pr",
+    "publishedDate": "1998",
+    "description": "Comprehensively detailing the sources for our knowledge of Jesus, Theissen and Merz fully explore the historical and social context of Jesus and his activity.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0800631226"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780800631222"
+     }
+    ],
+    "pageCount": 642,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d3ZU97DQMH6UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d3ZU97DQMH6UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3ZU97DQMH6UC&printsec\u003dfrontcover&dq\u003dHistorical&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3ZU97DQMH6UC&dq\u003dHistorical&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 31.2,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.85,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d3ZU97DQMH6UC&dq\u003dHistorical&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_historical_Jesus-sample-pdf.acsm?id\u003d3ZU97DQMH6UC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 600
+}

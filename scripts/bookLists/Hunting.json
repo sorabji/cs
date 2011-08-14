@@ -1,0 +1,541 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "s14MAAAAYAAJ",
+   "etag": "N/AkaL3vUBM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s14MAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Hunting",
+    "authors": [
+     "Henry Charles FitzRoy Somerset Beaufort (Duke of)",
+     "Mowbray Morris"
+    ],
+    "publishedDate": "1885",
+    "description": "CHAPTER I. OF THE HISTORY AND LITERATURE OF \u003cb\u003eHUNTING\u003c/b\u003e. 1 • N that most copious and \u003cbr\u003e\r\nuseful work, Blaine&#39;s &#39; Encyclopaedia of Ru- &#39; ral Sports,&#39; we are reminded \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HN35I5"
+     }
+    ],
+    "pageCount": 401,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003ds14MAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003ds14MAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ds14MAAAAYAAJ&printsec\u003dfrontcover&dq\u003dHunting&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ds14MAAAAYAAJ&dq\u003dHunting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Hunting.pdf?id\u003ds14MAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2a-Xv5woMcUwpWzHLAJHOFO1ZRuA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7LPOuGvCwJAC",
+   "etag": "K6jW9kmiyEY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7LPOuGvCwJAC",
+   "volumeInfo": {
+    "title": "Deer & Deer Hunting: The serious hunter's guide",
+    "authors": [
+     "Robert Wegner"
+    ],
+    "publishedDate": "1992-05",
+    "description": "Offers profiles of famous deer hunters, discusses deer habits and behavior, and looks at bow hunting, deer camps, and hunting ethics",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0811725855"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780811725859"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d7LPOuGvCwJAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d7LPOuGvCwJAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7LPOuGvCwJAC&printsec\u003dfrontcover&dq\u003dHunting&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7LPOuGvCwJAC&dq\u003dHunting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d7LPOuGvCwJAC&dq\u003dHunting&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Deer_Deer_Hunting_The_serious_hunter_s_g-sample-pdf.acsm?id\u003d7LPOuGvCwJAC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "k7NsU1UYW_AC",
+   "etag": "ypgxlTQIKmo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/k7NsU1UYW_AC",
+   "volumeInfo": {
+    "title": "Hunting",
+    "authors": [
+     "Joan Lewis"
+    ],
+    "publisher": "Heinemann/Raintree",
+    "publishedDate": "2004-09",
+    "description": "Hunting is seeking, tracking, stalking, or calling a wild animal with the intention of killing it.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "140346118X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781403461186"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dk7NsU1UYW_AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dk7NsU1UYW_AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dk7NsU1UYW_AC&printsec\u003dfrontcover&dq\u003dHunting&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dk7NsU1UYW_AC&dq\u003dHunting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Oio5UjxI1u8C",
+   "etag": "Hw5EeB17cms",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Oio5UjxI1u8C",
+   "volumeInfo": {
+    "title": "Hunting",
+    "description": "The \u003cb\u003ehunting\u003c/b\u003e enthusiast is never tired of talking of the subject he loves, and I \u003cbr\u003e\r\nonly hope the reader may not grow weary of reading long before I have \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1440050074"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781440050077"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dOio5UjxI1u8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dOio5UjxI1u8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOio5UjxI1u8C&printsec\u003dfrontcover&dq\u003dHunting&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOio5UjxI1u8C&dq\u003dHunting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "682KQaaRZzsC",
+   "etag": "EpERWor5fDY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/682KQaaRZzsC",
+   "volumeInfo": {
+    "title": "Hunting",
+    "authors": [
+     "Adam G. Klein"
+    ],
+    "publisher": "Checkerboard Library",
+    "publishedDate": "2008-04",
+    "description": "A first look at hunting.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1599289601"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781599289601"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d682KQaaRZzsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d682KQaaRZzsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d682KQaaRZzsC&printsec\u003dfrontcover&dq\u003dHunting&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d682KQaaRZzsC&dq\u003dHunting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.52,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d682KQaaRZzsC&dq\u003dHunting&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Hunting-sample-epub.acsm?id\u003d682KQaaRZzsC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Hunting-sample-pdf.acsm?id\u003d682KQaaRZzsC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5oj3iIK1yuMC",
+   "etag": "ppfffCmLGDo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5oj3iIK1yuMC",
+   "volumeInfo": {
+    "title": "Hunting",
+    "subtitle": "Have Fun, Be Smart",
+    "authors": [
+     "Jack Weaver",
+     "Sara Coppin"
+    ],
+    "publisher": "Rosen Publishing Group",
+    "publishedDate": "2002-08",
+    "description": "For the teen who is interested in hunting and wants to know more, this book will lay out the fundamentals: deciding whether or not to hunt, respecting hunting ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0823937607"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780823937608"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d5oj3iIK1yuMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d5oj3iIK1yuMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5oj3iIK1yuMC&printsec\u003dfrontcover&dq\u003dHunting&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5oj3iIK1yuMC&dq\u003dHunting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_uh8b_CMGJQC",
+   "etag": "C/o3RizekQY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_uh8b_CMGJQC",
+   "volumeInfo": {
+    "title": "Hunting, Fishing and Camping",
+    "authors": [
+     "Leon Leonwood Bean"
+    ],
+    "publishedDate": "1993-05-01",
+    "description": "L.L.Bean. In 1942, L.L. Bean, founder of the giant catalog company, wrote and published this guide.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1557092060"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781557092069"
+     }
+    ],
+    "pageCount": 104,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d_uh8b_CMGJQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d_uh8b_CMGJQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_uh8b_CMGJQC&printsec\u003dfrontcover&dq\u003dHunting&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_uh8b_CMGJQC&dq\u003dHunting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YjIPAAAAYAAJ",
+   "etag": "wwIqb55yYU8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YjIPAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Hunting",
+    "authors": [
+     "John Otho Paget"
+    ],
+    "publishedDate": "1900",
+    "description": "The \u003cb\u003ehunting\u003c/b\u003e enthusiast is never tired of talking of the subject he loves, and I \u003cbr\u003e\r\nonly hope the reader may not grow weary of reading long before I have \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HN4U5F"
+     }
+    ],
+    "pageCount": 287,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dYjIPAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dYjIPAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYjIPAAAAYAAJ&printsec\u003dfrontcover&dq\u003dHunting&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYjIPAAAAYAAJ&dq\u003dHunting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Hunting.epub?id\u003dYjIPAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Hunting.pdf?id\u003dYjIPAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2qELrsE6mICJjQ7efCL6N2cm9lWA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jjcCAAAAQAAJ",
+   "etag": "k5zUB9Ld8XE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jjcCAAAAQAAJ",
+   "volumeInfo": {
+    "title": "Hunting sketches",
+    "authors": [
+     "Anthony Trollope"
+    ],
+    "publishedDate": "1865",
+    "description": "\u003cb\u003eHUNTING\u003c/b\u003e SKETCHES, THE MAN WHO HUNTS AND DOESN&#39;T LIKE IT. It seems to be odd, at \u003cbr\u003e\r\nfirst sight, that there should be any such men as these ; but their name and \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:600076455"
+     }
+    ],
+    "printType": "BOOK",
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003djjcCAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003djjcCAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djjcCAAAAQAAJ&printsec\u003dfrontcover&dq\u003dHunting&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djjcCAAAAQAAJ&dq\u003dHunting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Hunting_sketches.epub?id\u003djjcCAAAAQAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Hunting_sketches.pdf?id\u003djjcCAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1lShEmoyRUjMSMb2CMIY8SYI4_XA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZWYuQJeLAbgC",
+   "etag": "UWQ1A97g/xo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZWYuQJeLAbgC",
+   "volumeInfo": {
+    "title": "Deer Hunting 101",
+    "authors": [
+     "David B. Pruet"
+    ],
+    "publisher": "AuthorHouse",
+    "publishedDate": "2006-05",
+    "description": "From choosing a weapon to placing the meat on your plate, this book covers every basic element of deer hunting that you should need to be successful in your ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1425938183"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781425938185"
+     }
+    ],
+    "pageCount": 172,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dZWYuQJeLAbgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dZWYuQJeLAbgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZWYuQJeLAbgC&printsec\u003dfrontcover&dq\u003dHunting&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZWYuQJeLAbgC&dq\u003dHunting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Deer_Hunting_101-sample-epub.acsm?id\u003dZWYuQJeLAbgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 588
+}

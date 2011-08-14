@@ -1,0 +1,519 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "7H__CwtH5XgC",
+   "etag": "oV7vNelL15c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7H__CwtH5XgC",
+   "volumeInfo": {
+    "title": "Inspirational",
+    "authors": [
+     "James Gadson"
+    ],
+    "publishedDate": "2007-08",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1434306674"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781434306678"
+     }
+    ],
+    "pageCount": 84,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d7H__CwtH5XgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d7H__CwtH5XgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7H__CwtH5XgC&dq\u003dInspirational&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7H__CwtH5XgC&dq\u003dInspirational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "01iodvG1vJ8C",
+   "etag": "b5NP7Wq9n5A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/01iodvG1vJ8C",
+   "volumeInfo": {
+    "title": "Chicken Soup for the Unsinkable Soul",
+    "subtitle": "101 Inspirational Stories of Overcoming Life's Challenges",
+    "authors": [
+     "Jack Canfield",
+     "Mark Victor Hansen",
+     "Heather McNamara"
+    ],
+    "publisher": "Hci",
+    "publishedDate": "1999-09-01",
+    "description": "Collects life stories celebrating the power of love, courage and determination, taking a challenge, and living one&#39;s dream",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1558746994"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781558746992"
+     }
+    ],
+    "pageCount": 350,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 13,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d01iodvG1vJ8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d01iodvG1vJ8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d01iodvG1vJ8C&printsec\u003dfrontcover&dq\u003dInspirational&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d01iodvG1vJ8C&dq\u003dInspirational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SVq-36BgWxMC",
+   "etag": "dMSzXMvmCxc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SVq-36BgWxMC",
+   "volumeInfo": {
+    "title": "The inspirational leader",
+    "subtitle": "how to motivate, encourage & achieve success",
+    "authors": [
+     "John Eric Adair"
+    ],
+    "publisher": "Kogan Page Ltd",
+    "publishedDate": "2005-10",
+    "description": "John Adair looks at the nature of leadership and how to encourage and inspire others to achieve results.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0749444568"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780749444563"
+     }
+    ],
+    "pageCount": 202,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dSVq-36BgWxMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dSVq-36BgWxMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSVq-36BgWxMC&printsec\u003dfrontcover&dq\u003dInspirational&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSVq-36BgWxMC&dq\u003dInspirational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sJMgplHGwtgC",
+   "etag": "8nwOek294KU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sJMgplHGwtgC",
+   "volumeInfo": {
+    "title": "Inspirational Presence",
+    "subtitle": "The Art of Transformational Leadership",
+    "authors": [
+     "Jeff Evans"
+    ],
+    "publisher": "Morgan James Pub",
+    "publishedDate": "2009-06-01",
+    "description": "Inspirational Presence is an invitation to create a new generation of leaders who are willing to challenge their ways of seeing the world and the people within ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1600375715"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781600375712"
+     }
+    ],
+    "pageCount": 188,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dsJMgplHGwtgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dsJMgplHGwtgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dsJMgplHGwtgC&printsec\u003dfrontcover&dq\u003dInspirational&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dsJMgplHGwtgC&dq\u003dInspirational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Inspirational_Presence-sample-epub.acsm?id\u003dsJMgplHGwtgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "g9G1xtXi0NMC",
+   "etag": "BNRoeMtwQSg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/g9G1xtXi0NMC",
+   "volumeInfo": {
+    "title": "Inspirational",
+    "authors": [
+     "John Bertelsmeier"
+    ],
+    "publisher": "Dorrance Publishing",
+    "publishedDate": "2010-12-15",
+    "description": "The contents of this work including, but not limited to, the accuracy of events, \u003cbr\u003e\r\npeople, and places depicted; opinions ex- pressed; permission to use \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1434908984"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781434908988"
+     }
+    ],
+    "pageCount": 40,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dg9G1xtXi0NMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dg9G1xtXi0NMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dg9G1xtXi0NMC&printsec\u003dfrontcover&dq\u003dInspirational&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dg9G1xtXi0NMC&dq\u003dInspirational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PfTTpipSY4cC",
+   "etag": "9yHFTJz3lIU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PfTTpipSY4cC",
+   "volumeInfo": {
+    "title": "The Inspirational Teacher",
+    "authors": [
+     "Gary McGuey",
+     "Lonnie Moore"
+    ],
+    "publisher": "Eye on Education",
+    "publishedDate": "2007-12",
+    "description": "With memorable quotes, poems, and exercises, this book provides a practical step-by-step process to help you become an inspirational teacher.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1596670657"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781596670655"
+     }
+    ],
+    "pageCount": 116,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dPfTTpipSY4cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dPfTTpipSY4cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPfTTpipSY4cC&printsec\u003dfrontcover&dq\u003dInspirational&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPfTTpipSY4cC&dq\u003dInspirational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eo_rAAAAMAAJ",
+   "etag": "qQBjYkc6JXs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eo_rAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Inspirational",
+    "subtitle": "the collection of H.S. Southam",
+    "authors": [
+     "Alicia Boutilier"
+    ],
+    "publishedDate": "2009",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015080858239"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003deo_rAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003deo_rAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deo_rAAAAMAAJ&q\u003dInspirational&dq\u003dInspirational&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deo_rAAAAMAAJ&dq\u003dInspirational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4K6_NwAACAAJ",
+   "etag": "/Pjq9KiI4hg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4K6_NwAACAAJ",
+   "volumeInfo": {
+    "title": "Inspirational",
+    "subtitle": "The Best of Contemporary Christian Music",
+    "authors": [
+     "Hal Leonard Publishing Corporation"
+    ],
+    "publisher": "Hal Leonard Corp",
+    "publishedDate": "2008-10",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1423456351"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781423456353"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d4K6_NwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d4K6_NwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4K6_NwAACAAJ&dq\u003dInspirational&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4K6_NwAACAAJ&dq\u003dInspirational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "D4K9Enhj4bYC",
+   "etag": "THWExiTVSMA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/D4K9Enhj4bYC",
+   "volumeInfo": {
+    "title": "Materials for inspirational design",
+    "authors": [
+     "Chris Lefteri"
+    ],
+    "publisher": "Rotovision",
+    "publishedDate": "2006",
+    "description": "The book covers a wide range of areas, exploring the application of materials in architecture, interior design, product design, furniture design, fashion and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "2940361509"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9782940361502"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dD4K9Enhj4bYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dD4K9Enhj4bYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dD4K9Enhj4bYC&printsec\u003dfrontcover&dq\u003dInspirational&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dD4K9Enhj4bYC&dq\u003dInspirational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bMiIBAAACAAJ",
+   "etag": "5vK85tdZ9/0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bMiIBAAACAAJ",
+   "volumeInfo": {
+    "title": "The Inspirational",
+    "authors": [
+     "Applewood Books",
+     "TAUNTON PRESS"
+    ],
+    "publishedDate": "2001-09-15",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1557099065"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781557099068"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbMiIBAAACAAJ&dq\u003dInspirational&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbMiIBAAACAAJ&dq\u003dInspirational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 595
+}

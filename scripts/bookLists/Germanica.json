@@ -1,0 +1,512 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "MYICAAAAQAAJ",
+   "etag": "Tk3PSNPuMAU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MYICAAAAQAAJ",
+   "volumeInfo": {
+    "title": "'Germanica', exercises in German composition for the use of Wellington college",
+    "authors": [
+     "Joseph Dunn Lester"
+    ],
+    "publishedDate": "1872",
+    "description": "1. Declensions 1 — S. Minor Syntax Rules 1 — 4. 1. The summer will come, and the \u003cbr\u003e\r\nwinter will go, but the stream will flow for ever. 2. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:600084395"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dMYICAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dMYICAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMYICAAAAQAAJ&printsec\u003dfrontcover&dq\u003dGermanica&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMYICAAAAQAAJ&dq\u003dGermanica&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Germanica_exercises_in_German_compositio.pdf?id\u003dMYICAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3ZFw9cLkwrpClBDDb3LKV3ab1n8Q&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UZ0Fm9NvCpUC",
+   "etag": "ycOyRilfJyY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UZ0Fm9NvCpUC",
+   "volumeInfo": {
+    "title": "The Theologia Germanica of Martin Luther",
+    "authors": [
+     "Martin Luther",
+     "Susanna Winkworth"
+    ],
+    "publisher": "Dover Pubns",
+    "publishedDate": "2004-10-15",
+    "description": "In 1516 Martin Luther discovered and published this work by an anonymous fourteenth-century German author who focuses on the &quot;divine life,&quot; which is directed or ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "048643771X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486437712"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dUZ0Fm9NvCpUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dUZ0Fm9NvCpUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUZ0Fm9NvCpUC&printsec\u003dfrontcover&dq\u003dGermanica&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUZ0Fm9NvCpUC&dq\u003dGermanica&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ewMAAAAAQAAJ",
+   "etag": "88CrggPK06M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ewMAAAAAQAAJ",
+   "volumeInfo": {
+    "title": "Pharmacopoea germanica",
+    "subtitle": "The German pharmacopoeia",
+    "authors": [
+     "Germany. Reichsministerium des Innern"
+    ],
+    "publishedDate": "1873",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:600043097"
+     }
+    ],
+    "pageCount": 382,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dewMAAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dewMAAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dewMAAAAAQAAJ&printsec\u003dfrontcover&dq\u003dGermanica&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dewMAAAAAQAAJ&dq\u003dGermanica&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Pharmacopoea_germanica.pdf?id\u003dewMAAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2LJ6alollBRvuned9gmUQRkFjYWg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1JhfRwAACAAJ",
+   "etag": "FwWmHYDnDIg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1JhfRwAACAAJ",
+   "volumeInfo": {
+    "title": "Theologia Germanica",
+    "authors": [
+     "Susanna Winkworth"
+    ],
+    "publisher": "Createspace",
+    "publishedDate": "2010-04-07",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1451549334"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781451549331"
+     }
+    ],
+    "pageCount": 152,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d1JhfRwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d1JhfRwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1JhfRwAACAAJ&dq\u003dGermanica&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1JhfRwAACAAJ&dq\u003dGermanica&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iDUPAAAAIAAJ",
+   "etag": "nzaSreK1/mc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iDUPAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Theologia Germanica",
+    "subtitle": "which setteth forth many fair lineaments of divine truth, and saith very lofty and lovely things touching a perfect life",
+    "authors": [
+     "Der Franckforter",
+     "Franz Pfeiffer"
+    ],
+    "publishedDate": "1854",
+    "description": "STRONG Son of God, Immortal Love, Whom we, that have not seen thy face, By faith\u003cbr\u003e\r\n, and faith alone embrace, Believing where we cannot prove. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433068260904"
+     }
+    ],
+    "pageCount": 205,
+    "printType": "BOOK",
+    "categories": [
+     "Christian life"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003diDUPAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003diDUPAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003diDUPAAAAIAAJ&printsec\u003dfrontcover&dq\u003dGermanica&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003diDUPAAAAIAAJ&dq\u003dGermanica&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Theologia_Germanica.epub?id\u003diDUPAAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Theologia_Germanica.pdf?id\u003diDUPAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0AK_-jZcKvRUo_iJN14uyhkGBIBQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IQg-AAAAYAAJ",
+   "etag": "aJqRLPwxJ3M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IQg-AAAAYAAJ",
+   "volumeInfo": {
+    "title": "Lyra Germanica",
+    "subtitle": "hymns for the Sundays and chief festivals of the Christian year",
+    "authors": [
+     "Christian Karl Josias Bunsen (Freiherr von)"
+    ],
+    "publishedDate": "1856",
+    "description": "£gra (fkrmamca- FIRST SUNDAY IN ADVENT. The night is far spent, the day is at \u003cbr\u003e\r\nhand; let is therefore cast off the works of darkness, and put cn the armour \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HWLD36"
+     }
+    ],
+    "pageCount": 258,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dIQg-AAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dIQg-AAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIQg-AAAAYAAJ&printsec\u003dfrontcover&dq\u003dGermanica&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIQg-AAAAYAAJ&dq\u003dGermanica&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Lyra_Germanica.pdf?id\u003dIQg-AAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1g7ZIWj4Jr-Q2E1YkEFPnKGFsBVA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WS8TAAAAYAAJ",
+   "etag": "fa2W0NF7dq0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WS8TAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Anthologia germanica",
+    "subtitle": "German anthology : a series of translations from the most popular of the German poets",
+    "publishedDate": "1845",
+    "description": "Fulgura frango. PREPARATION FOR FOUNDING THE BELL. Firmly walled within the soil \u003cbr\u003e\r\nStands the firebaked mould of clay. Courage, comrades ! Now for toil ! \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044087130043"
+     }
+    ],
+    "pageCount": 223,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dWS8TAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dWS8TAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWS8TAAAAYAAJ&printsec\u003dfrontcover&dq\u003dGermanica&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWS8TAAAAYAAJ&dq\u003dGermanica&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Anthologia_germanica.epub?id\u003dWS8TAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Anthologia_germanica.pdf?id\u003dWS8TAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0ZTV5HEXKaPVps6Ld9FM54fLxpFw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "a2YTAAAAYAAJ",
+   "etag": "GAemmroA7iM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a2YTAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Americana Germanica",
+    "authors": [
+     "German American Historical Society",
+     "National German-American Alliance",
+     "Union of Old German Students in America"
+    ],
+    "publishedDate": "1897",
+    "description": "AMERICANA \u003cb\u003eGERMANICA\u003c/b\u003e. CHARLES SEALSFIELD&#39;S PLACE IN LITERATURE. Few reputations \u003cbr\u003e\r\ngained in letters have been at once so well- earned, pre-eminent and \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044011581055"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003da2YTAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003da2YTAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003da2YTAAAAYAAJ&printsec\u003dfrontcover&dq\u003dGermanica&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003da2YTAAAAYAAJ&dq\u003dGermanica&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Americana_Germanica.epub?id\u003da2YTAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Americana_Germanica.pdf?id\u003da2YTAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2mDhl6q7XneKntd-IdUbfS94xc_Q&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wtsHAAAAQAAJ",
+   "etag": "GHz4m5AaQ6E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wtsHAAAAQAAJ",
+   "volumeInfo": {
+    "title": "Psalmodia germanica;",
+    "subtitle": "or, A specimen of divine hymns, translated from the High Dutch. Together with their proper tunes and thorough bass",
+    "authors": [
+     "Johann Christian Jacobi",
+     "Isaac Watts"
+    ],
+    "publishedDate": "1722",
+    "description": "Psalmodia Germanic a \\ OR, A SPECIMEN OF Divine HYMNS, Translated from the High \u003cbr\u003e\r\nDutch. Together with Their Proper Tunes and Thorough Bass. Psalm CVIII. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:N14088589"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dwtsHAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dwtsHAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwtsHAAAAQAAJ&printsec\u003dfrontcover&dq\u003dGermanica&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwtsHAAAAQAAJ&dq\u003dGermanica&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Psalmodia_germanica.pdf?id\u003dwtsHAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1K6xKTEBlV5XnVkATeOR_B3qquQw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lSRKAAAAMAAJ",
+   "etag": "EKX29rLrTO0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lSRKAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Pharmacopoea germanica",
+    "subtitle": "Editio altera. The German pharmacopoeia",
+    "authors": [
+     "Germany. Reichsamt des Innern"
+    ],
+    "publishedDate": "1884",
+    "description": "A clear, nearly colorless or yellow liquid, having an acid taste, and the \u003cbr\u003e\r\npungent odor of acetic acid. Vinegar should be clear, and not be rendered turbid \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015067877038"
+     }
+    ],
+    "pageCount": 295,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dlSRKAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dlSRKAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlSRKAAAAMAAJ&printsec\u003dfrontcover&dq\u003dGermanica&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlSRKAAAAMAAJ&dq\u003dGermanica&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Pharmacopoea_germanica.pdf?id\u003dlSRKAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0FYBs4V_DKghpJLZuG0wXTcP3A2g&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 555
+}

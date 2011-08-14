@@ -1,0 +1,527 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "twNpzgAACAAJ",
+   "etag": "EytVqbeNe/M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/twNpzgAACAAJ",
+   "volumeInfo": {
+    "title": "1001 Movies You Must See Before You Die",
+    "authors": [
+     "Steven Jay Schneider"
+    ],
+    "publisher": "Barrons Educational Series Inc",
+    "publishedDate": "2011-09-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0764164228"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780764164224"
+     }
+    ],
+    "pageCount": 960,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 28,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dtwNpzgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dtwNpzgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtwNpzgAACAAJ&dq\u003dMovies&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtwNpzgAACAAJ&dq\u003dMovies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oRLzzbQb05QC",
+   "etag": "4BwEnnpNO2U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oRLzzbQb05QC",
+   "volumeInfo": {
+    "title": "The Movies",
+    "subtitle": "Run the Studio, Shoot the Movies, Make the Stars!",
+    "authors": [
+     "Greg Kramer"
+    ],
+    "publisher": "Prima Games",
+    "publishedDate": "2005-11-15",
+    "description": "Take Your Studio, Movies, and Stars to the Top of the Charts! · Details on every employee, facility, set, ornament, and technology · Complete step-by-step ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0761544453"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761544456"
+     }
+    ],
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Games"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003doRLzzbQb05QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003doRLzzbQb05QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doRLzzbQb05QC&printsec\u003dfrontcover&dq\u003dMovies&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doRLzzbQb05QC&dq\u003dMovies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tb7wKC6mrlMC",
+   "etag": "HO20oBu9OIU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tb7wKC6mrlMC",
+   "volumeInfo": {
+    "title": "The movies",
+    "subtitle": "texts, receptions, exposures",
+    "authors": [
+     "Laurence Goldstein",
+     "Ira Konigsberg"
+    ],
+    "publisher": "Univ of Michigan Pr",
+    "publishedDate": "1996",
+    "description": "Lively essays, interviews, fiction, and poetry that focus on America&#39;s favorite subject--the movies.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0472066404"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780472066407"
+     }
+    ],
+    "pageCount": 338,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dtb7wKC6mrlMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dtb7wKC6mrlMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtb7wKC6mrlMC&printsec\u003dfrontcover&dq\u003dMovies&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtb7wKC6mrlMC&dq\u003dMovies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yiRH-NdN_cAC",
+   "etag": "KDKr1rmE6nY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yiRH-NdN_cAC",
+   "volumeInfo": {
+    "title": "Midnight movies",
+    "authors": [
+     "J. Hoberman",
+     "Jonathan Rosenbaum"
+    ],
+    "publisher": "Perseus Books",
+    "publishedDate": "1991",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0306804336"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780306804335"
+     }
+    ],
+    "pageCount": 348,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dyiRH-NdN_cAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dyiRH-NdN_cAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyiRH-NdN_cAC&dq\u003dMovies&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyiRH-NdN_cAC&dq\u003dMovies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Nt9TotE1BhkC",
+   "etag": "YbgVpMkv9UI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Nt9TotE1BhkC",
+   "volumeInfo": {
+    "title": "The movies",
+    "authors": [
+     "Gordon Winch"
+    ],
+    "publishedDate": "2002*",
+    "description": "The \u003cb\u003eMovies\u003c/b\u003e Word Count 66 Early Reading Level Levels 6-10 Betty Binnum Binnum Set \u003cbr\u003e\r\nLevel Bush Tucker 6/7 Tracks 6/7 What Can You See? \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1864412275"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781864412277"
+     }
+    ],
+    "pageCount": 12,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dNt9TotE1BhkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dNt9TotE1BhkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNt9TotE1BhkC&printsec\u003dfrontcover&dq\u003dMovies&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNt9TotE1BhkC&dq\u003dMovies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GHuZjXtOymwC",
+   "etag": "DwiaQCaRFQk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GHuZjXtOymwC",
+   "volumeInfo": {
+    "title": "Teaching with movies",
+    "subtitle": "recreation, sports, tourism, and physical education",
+    "authors": [
+     "Teresa O'Bannon",
+     "Marni Goldenberg"
+    ],
+    "publisher": "Human Kinetics Publishers",
+    "publishedDate": "2008",
+    "description": "For the bulk of the movies included in this guide, recreation instructors who have used the films in their classes were surveyed about each movie&#39;s topics and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0736065083"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780736065085"
+     }
+    ],
+    "pageCount": 143,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dGHuZjXtOymwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dGHuZjXtOymwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGHuZjXtOymwC&printsec\u003dfrontcover&dq\u003dMovies&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGHuZjXtOymwC&dq\u003dMovies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HQEfZd3AxNMC",
+   "etag": "qJrgU/HPYQE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HQEfZd3AxNMC",
+   "volumeInfo": {
+    "title": "The Movie Mom's Guide to Family Movies",
+    "authors": [
+     "Nell Minow"
+    ],
+    "publisher": "Quill",
+    "publishedDate": "1999-04",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "038078839X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780380788392"
+     }
+    ],
+    "pageCount": 689,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dHQEfZd3AxNMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dHQEfZd3AxNMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHQEfZd3AxNMC&q\u003dMovies&dq\u003dMovies&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHQEfZd3AxNMC&dq\u003dMovies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "brWt7QSu2ZIC",
+   "etag": "VfteAvyUmP0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/brWt7QSu2ZIC",
+   "volumeInfo": {
+    "title": "The Great Movies",
+    "authors": [
+     "Roger Ebert"
+    ],
+    "publisher": "Broadway",
+    "publishedDate": "2003-11-11",
+    "description": "&quot; From the Hardcover edition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0767910389"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780767910385"
+     }
+    ],
+    "pageCount": 511,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 20,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dbrWt7QSu2ZIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dbrWt7QSu2ZIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbrWt7QSu2ZIC&printsec\u003dfrontcover&dq\u003dMovies&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbrWt7QSu2ZIC&dq\u003dMovies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YfMMvKyQsHMC",
+   "etag": "5EGsVZFNGA0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YfMMvKyQsHMC",
+   "volumeInfo": {
+    "title": "How movies work",
+    "authors": [
+     "Bruce F. Kawin"
+    ],
+    "publisher": "Univ of California Pr",
+    "publishedDate": "1992",
+    "description": "Bruce Kawin addresses the book not just to students of film but to any filmgoer curious to know more about the process of the conception and creation of our ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520076966"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520076969"
+     }
+    ],
+    "pageCount": 574,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dYfMMvKyQsHMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dYfMMvKyQsHMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYfMMvKyQsHMC&printsec\u003dfrontcover&dq\u003dMovies&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYfMMvKyQsHMC&dq\u003dMovies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GX8LAQAAMAAJ",
+   "etag": "aqy40bbYHPI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GX8LAQAAMAAJ",
+   "volumeInfo": {
+    "title": "The movies",
+    "authors": [
+     "Richard Griffith",
+     "Arthur Mayer",
+     "Eileen Bowser"
+    ],
+    "publisher": "Simon & Schuster",
+    "publishedDate": "1981-11",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015001597981"
+     }
+    ],
+    "pageCount": 558,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dGX8LAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dGX8LAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGX8LAQAAMAAJ&q\u003dMovies&dq\u003dMovies&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGX8LAQAAMAAJ&dq\u003dMovies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 593
+}

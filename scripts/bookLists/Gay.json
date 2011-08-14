@@ -1,0 +1,553 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "N7TdBANwrpIC",
+   "etag": "C+RY+PJ9Kvc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/N7TdBANwrpIC",
+   "volumeInfo": {
+    "title": "Gay",
+    "authors": [
+     "Steve Dow"
+    ],
+    "publishedDate": "2001-02-01",
+    "description": "This is his first book.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1863350357"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781863350358"
+     }
+    ],
+    "pageCount": 132,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dN7TdBANwrpIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dN7TdBANwrpIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dN7TdBANwrpIC&printsec\u003dfrontcover&dq\u003dGay&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dN7TdBANwrpIC&dq\u003dGay&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Gay-sample-epub.acsm?id\u003dN7TdBANwrpIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NNHGuVdPELYC",
+   "etag": "bgceAbEq1GA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NNHGuVdPELYC",
+   "volumeInfo": {
+    "title": "Gay New York",
+    "subtitle": "gender, urban culture, and the makings of the gay male world, 1890-1940",
+    "authors": [
+     "George Chauncey"
+    ],
+    "publisher": "Basic Books (AZ)",
+    "publishedDate": "1995-05-18",
+    "description": "Shattering the myth that gay life only existed in the closet before the 1960s, a winner of the 1994 Los Angeles Times Book Prize for History focuses on New York ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0465026214"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780465026210"
+     }
+    ],
+    "pageCount": 478,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 35,
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dNNHGuVdPELYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dNNHGuVdPELYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNNHGuVdPELYC&printsec\u003dfrontcover&dq\u003dGay&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNNHGuVdPELYC&dq\u003dGay&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5mBjAAAAMAAJ",
+   "etag": "mKKWCgTWO4g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5mBjAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Gay",
+    "subtitle": "what you should know about homosexuality",
+    "authors": [
+     "Morton M. Hunt"
+    ],
+    "publisher": "Pocket",
+    "publishedDate": "1979",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015076844052"
+     }
+    ],
+    "pageCount": 189,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d5mBjAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d5mBjAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5mBjAAAAMAAJ&q\u003dGay&dq\u003dGay&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5mBjAAAAMAAJ&dq\u003dGay&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pziQcmMJNdUC",
+   "etag": "ADVvZ0idyyY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pziQcmMJNdUC",
+   "volumeInfo": {
+    "title": "Loving Someone Gay",
+    "authors": [
+     "Don Clark",
+     "Donald H. Clark"
+    ],
+    "publisher": "Lethe Pr",
+    "publishedDate": "2009-11-30",
+    "description": "With this latest updated edition, he shines a clear light into the 21st century.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1590211359"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781590211359"
+     }
+    ],
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "1.1.0.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dpziQcmMJNdUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dpziQcmMJNdUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpziQcmMJNdUC&printsec\u003dfrontcover&dq\u003dGay&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpziQcmMJNdUC&dq\u003dGay&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Loving_Someone_Gay-sample-epub.acsm?id\u003dpziQcmMJNdUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "I5SVsJmVxDUC",
+   "etag": "bc7hSjqgo+U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/I5SVsJmVxDUC",
+   "volumeInfo": {
+    "title": "Gay L.A.",
+    "subtitle": "a history of sexual outlaws, power politics, and lipstick lesbians",
+    "authors": [
+     "Lillian Faderman",
+     "Stuart Timmons"
+    ],
+    "publisher": "Basic Books (AZ)",
+    "publishedDate": "2006-10-02",
+    "description": "Award-winning historian Lillian Faderman teams with journalist Stuart Timmons to write the first history of gay life in America&#39;s ultimate frontier town: Los ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "046502288X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780465022885"
+     }
+    ],
+    "pageCount": 431,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "contentVersion": "2.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dI5SVsJmVxDUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dI5SVsJmVxDUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dI5SVsJmVxDUC&printsec\u003dfrontcover&dq\u003dGay&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dI5SVsJmVxDUC&dq\u003dGay&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "n9Ah6xlhI3wC",
+   "etag": "b/kmoh1BBjM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/n9Ah6xlhI3wC",
+   "volumeInfo": {
+    "title": "Becoming Gay",
+    "subtitle": "The Journey to Self-Acceptance",
+    "authors": [
+     "Richard Isay"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "2009-05-05",
+    "description": "This book provides . . . insight for both analysts and patients to ponder and adopt (&quot;The Washington Post&quot;).",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0307389774"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780307389770"
+     }
+    ],
+    "pageCount": 194,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dn9Ah6xlhI3wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dn9Ah6xlhI3wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dn9Ah6xlhI3wC&printsec\u003dfrontcover&dq\u003dGay&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dn9Ah6xlhI3wC&dq\u003dGay&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dn9Ah6xlhI3wC&dq\u003dGay&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Becoming_Gay-sample-epub.acsm?id\u003dn9Ah6xlhI3wC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Becoming_Gay-sample-pdf.acsm?id\u003dn9Ah6xlhI3wC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4wWhq4Z4YHIC",
+   "etag": "S18TLwvf/gs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4wWhq4Z4YHIC",
+   "volumeInfo": {
+    "title": "The gay teen",
+    "subtitle": "educational practice and theory for lesbian, gay, and bisexual adolescents",
+    "authors": [
+     "Gerald Unks"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1995-04-05",
+    "description": "Many essays in the volume focus on the subject matter and teacher methodology central to the education of gay, lesbian and bisexual high school students ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415910951"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415910958"
+     }
+    ],
+    "pageCount": 250,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d4wWhq4Z4YHIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d4wWhq4Z4YHIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4wWhq4Z4YHIC&printsec\u003dfrontcover&dq\u003dGay&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4wWhq4Z4YHIC&dq\u003dGay&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3zI3YReBTTQC",
+   "etag": "7x5yfotrtvQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3zI3YReBTTQC",
+   "volumeInfo": {
+    "title": "Gay male pornography",
+    "subtitle": "an issue of sex discrimination",
+    "authors": [
+     "Christopher N. Kendall"
+    ],
+    "publisher": "Univ of British Columbia Pr",
+    "publishedDate": "2005-01-01",
+    "description": "Gay Male Pornography will foster a much broader debate about gay male identity and those legal strategies aimed at promoting it.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0774810777"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780774810777"
+     }
+    ],
+    "pageCount": 270,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d3zI3YReBTTQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d3zI3YReBTTQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3zI3YReBTTQC&printsec\u003dfrontcover&dq\u003dGay&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3zI3YReBTTQC&dq\u003dGay&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TFFYThpQQPwC",
+   "etag": "26/I97q6ZGU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TFFYThpQQPwC",
+   "volumeInfo": {
+    "title": "Gay and lesbian studies",
+    "authors": [
+     "Henry L. Minton"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "1992",
+    "description": "This important new book marks the coming of age of gay and lesbian studies programs at colleges and universities worldwide by documenting the dramatic changes ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1560243074"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781560243076"
+     }
+    ],
+    "pageCount": 202,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dTFFYThpQQPwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dTFFYThpQQPwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTFFYThpQQPwC&printsec\u003dfrontcover&dq\u003dGay&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTFFYThpQQPwC&dq\u003dGay&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9v84NxERpjQC",
+   "etag": "xFvGdluHLWo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9v84NxERpjQC",
+   "volumeInfo": {
+    "title": "Gay tourism",
+    "subtitle": "culture and context",
+    "authors": [
+     "Gordon Waitt",
+     "Kevin Markwell"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2006",
+    "description": "The text includes an extensive bibliography plus several photographs, charts, and figures to clearly present concepts and ideas.Topics in Gay Tourism: Culture ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0789016036"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780789016034"
+     }
+    ],
+    "pageCount": 307,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d9v84NxERpjQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d9v84NxERpjQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9v84NxERpjQC&printsec\u003dfrontcover&dq\u003dGay&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9v84NxERpjQC&dq\u003dGay&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 591
+}

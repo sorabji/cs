@@ -1,0 +1,563 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Y3E60dZxNa0C",
+   "etag": "etPMKVsheKM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Y3E60dZxNa0C",
+   "volumeInfo": {
+    "title": "Philosophy",
+    "subtitle": "the basics",
+    "authors": [
+     "Nigel Warburton"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1999-06-21",
+    "description": "These two books will together make for an ideal and straight forward introduction to philosophy.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415146941"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415146944"
+     }
+    ],
+    "pageCount": 178,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dY3E60dZxNa0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dY3E60dZxNa0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dY3E60dZxNa0C&printsec\u003dfrontcover&dq\u003dPhilosophy&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dY3E60dZxNa0C&dq\u003dPhilosophy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "shBXkF8MIpsC",
+   "etag": "zO6KnfcerQo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/shBXkF8MIpsC",
+   "volumeInfo": {
+    "title": "What is philosophy?",
+    "authors": [
+     "Gilles Deleuze",
+     "Félix Guattari"
+    ],
+    "publisher": "Columbia Univ Pr",
+    "publishedDate": "1996-07",
+    "description": "This monograph analyzes the authors&#39; conception of philosophy and develops their understanding of the relationships of philosophy, science and the arts.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0231079893"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780231079891"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 9,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dshBXkF8MIpsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dshBXkF8MIpsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dshBXkF8MIpsC&printsec\u003dfrontcover&dq\u003dPhilosophy&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dshBXkF8MIpsC&dq\u003dPhilosophy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VSrrXcuFfNQC",
+   "etag": "5d1dIdX69Ls",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VSrrXcuFfNQC",
+   "volumeInfo": {
+    "title": "Philosophy",
+    "subtitle": "An Introduction to the Art of Wondering",
+    "authors": [
+     "James L. Christian"
+    ],
+    "publisher": "Wadsworth Pub Co",
+    "publishedDate": "2008-01-24",
+    "description": "Above all, this text nurtures the analytical skills students will need to critically engage the &quot;big picture&quot; of Western philosophy for themselves.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0495505048"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780495505044"
+     }
+    ],
+    "pageCount": 669,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dVSrrXcuFfNQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dVSrrXcuFfNQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVSrrXcuFfNQC&printsec\u003dfrontcover&dq\u003dPhilosophy&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVSrrXcuFfNQC&dq\u003dPhilosophy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gN6_6oSSkTAC",
+   "etag": "uUFEiK9esMc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gN6_6oSSkTAC",
+   "volumeInfo": {
+    "title": "Philosophy",
+    "subtitle": "a guide to the reference literature",
+    "authors": [
+     "Hans Edward Bynagle"
+    ],
+    "publisher": "Libraries Unltd Inc",
+    "publishedDate": "2006",
+    "description": "This guide represents a substantial updating and complete re-organization of the author&#39;s 1997 &quot;Philosophy: A Guide to the Reference Literature,&quot; 2nd edition ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1563089548"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781563089541"
+     }
+    ],
+    "pageCount": 385,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dgN6_6oSSkTAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dgN6_6oSSkTAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgN6_6oSSkTAC&printsec\u003dfrontcover&dq\u003dPhilosophy&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgN6_6oSSkTAC&dq\u003dPhilosophy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 65.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 52.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dgN6_6oSSkTAC&dq\u003dPhilosophy&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Philosophy-sample-pdf.acsm?id\u003dgN6_6oSSkTAC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "M1tnBsIOmqwC",
+   "etag": "XJAfdnltTfM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/M1tnBsIOmqwC",
+   "volumeInfo": {
+    "title": "Philosophy",
+    "authors": [
+     "British Institute of Philosophical Studies",
+     "British Institute of Philosophy",
+     "Royal Institute of Philosophy"
+    ],
+    "publishedDate": "2010-07",
+    "description": "The scientific interpretation of phenomena, the scientific account of the \u003cbr\u003e\r\nuniverse, is therefore the only one which can permanently satisfy the aesthetic \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:EYJJDWBF4YW"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dM1tnBsIOmqwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dM1tnBsIOmqwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dM1tnBsIOmqwC&printsec\u003dfrontcover&dq\u003dPhilosophy&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dM1tnBsIOmqwC&dq\u003dPhilosophy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mVcrAAAAYAAJ",
+   "etag": "dfaeIbbw/wM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mVcrAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Philosophy",
+    "authors": [
+     "Nicholas Murray Butler"
+    ],
+    "publishedDate": "1908",
+    "description": "\u003cb\u003ePHILOSOPHY\u003c/b\u003e BY NICHOLAS MURRAY BUTLER PRESIDENT OF COLUMBIA UNIVERSITY THE \u003cbr\u003e\r\nCOLUMBIA UNIVERSITY PRESS \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HNARC3"
+     }
+    ],
+    "pageCount": 27,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dmVcrAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dmVcrAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmVcrAAAAYAAJ&printsec\u003dfrontcover&dq\u003dPhilosophy&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmVcrAAAAYAAJ&dq\u003dPhilosophy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Philosophy.epub?id\u003dmVcrAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Philosophy.pdf?id\u003dmVcrAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3Q7ZEiY_tXAKM1yen87xhjTS76Zw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iQZ6Xk9VdtAC",
+   "etag": "StsGzW6lWRo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iQZ6Xk9VdtAC",
+   "volumeInfo": {
+    "title": "A history of western philosophy",
+    "authors": [
+     "Bertrand Russell"
+    ],
+    "publisher": "Touchstone",
+    "publishedDate": "1945",
+    "description": "Lord Russell&#39;s A History of Western Philosophy has been universally acclaimed as the outstanding one-volume work on the subject -- unparalleled in its ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0671201581"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780671201586"
+     }
+    ],
+    "pageCount": 895,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 120,
+    "contentVersion": "0.3.2.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003diQZ6Xk9VdtAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003diQZ6Xk9VdtAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003diQZ6Xk9VdtAC&printsec\u003dfrontcover&dq\u003dPhilosophy&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003diQZ6Xk9VdtAC&dq\u003dPhilosophy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003diQZ6Xk9VdtAC&dq\u003dPhilosophy&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/A_history_of_western_philosophy-sample-epub.acsm?id\u003diQZ6Xk9VdtAC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Yk4EUc2d7b8C",
+   "etag": "lUgSHRH6Geg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Yk4EUc2d7b8C",
+   "volumeInfo": {
+    "title": "Philosophy",
+    "authors": [
+     "Edward Craig"
+    ],
+    "publisher": "Sterling Pub Co Inc",
+    "publishedDate": "2009-10-06",
+    "description": "This book introduces important themes in ethics, knowledge, and the self, via readings from Plato, Aristotle, Descartes, Hegel, Darwin, and Buddhist writers.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "140276877X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781402768774"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 10,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dYk4EUc2d7b8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dYk4EUc2d7b8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYk4EUc2d7b8C&printsec\u003dfrontcover&dq\u003dPhilosophy&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYk4EUc2d7b8C&dq\u003dPhilosophy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kfMzqQKtT7AC",
+   "etag": "/bxLYHX+VfY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kfMzqQKtT7AC",
+   "volumeInfo": {
+    "title": "The Problems of Philosophy",
+    "authors": [
+     "Bertrand Russell"
+    ],
+    "publisher": "ARC Manor",
+    "publishedDate": "2008-02",
+    "description": "This, according to Russell, is where the work of philosophy begins.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1604500859"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781604500851"
+     }
+    ],
+    "pageCount": 108,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 40,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dkfMzqQKtT7AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dkfMzqQKtT7AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkfMzqQKtT7AC&printsec\u003dfrontcover&dq\u003dPhilosophy&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkfMzqQKtT7AC&dq\u003dPhilosophy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 3.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 2.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dkfMzqQKtT7AC&dq\u003dPhilosophy&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TWNo-4euyesC",
+   "etag": "ZbMQCtLscH8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TWNo-4euyesC",
+   "volumeInfo": {
+    "title": "Philosophy made simple",
+    "authors": [
+     "Richard Henry Popkin",
+     "Avrum Stroll"
+    ],
+    "publisher": "Made Simple",
+    "publishedDate": "1993-07-01",
+    "description": "Revised and updated, this bestselling reference is a step-by-step guide through this sometimes abstract discipline.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0385425333"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780385425339"
+     }
+    ],
+    "pageCount": 332,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dTWNo-4euyesC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dTWNo-4euyesC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTWNo-4euyesC&printsec\u003dfrontcover&dq\u003dPhilosophy&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTWNo-4euyesC&dq\u003dPhilosophy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 291
+}

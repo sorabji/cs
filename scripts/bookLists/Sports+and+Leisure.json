@@ -1,0 +1,559 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "2DYEAAAACAAJ",
+   "etag": "qvJKPPNBaEM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2DYEAAAACAAJ",
+   "volumeInfo": {
+    "title": "Sports and Leisure",
+    "authors": [
+     "Sue Lacey"
+    ],
+    "publisher": "Turtleback Books",
+    "publishedDate": "2000-09",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "061327041X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780613270410"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d2DYEAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d2DYEAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2DYEAAAACAAJ&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2DYEAAAACAAJ&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "U-xUHAAACAAJ",
+   "etag": "tFL7Yqz0M48",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/U-xUHAAACAAJ",
+   "volumeInfo": {
+    "title": "Sports and leisure",
+    "subtitle": "an access guide for disabled spectators",
+    "authors": [
+     "Royal Association for Disability and Rehabilitation (Great Britain)"
+    ],
+    "publishedDate": "197?",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:10548443"
+     }
+    ],
+    "pageCount": 303,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dU-xUHAAACAAJ&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dU-xUHAAACAAJ&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LP5ScJgoa6sC",
+   "etag": "gv1lqPW2irQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LP5ScJgoa6sC",
+   "volumeInfo": {
+    "title": "Sport and leisure in social thought",
+    "authors": [
+     "Grant Jarvie",
+     "Joseph A. Maguire"
+    ],
+    "publisher": "Taylor & Francis",
+    "publishedDate": "1994",
+    "description": "This book examines all of the major traditions of social thought to clearly show their influence in our understanding of sport and leisure.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415077044"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415077040"
+     }
+    ],
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dLP5ScJgoa6sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dLP5ScJgoa6sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLP5ScJgoa6sC&printsec\u003dfrontcover&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLP5ScJgoa6sC&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 53.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 43.16,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dLP5ScJgoa6sC&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Sport_and_leisure_in_social_thought-sample-epub.acsm?id\u003dLP5ScJgoa6sC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Sport_and_leisure_in_social_thought-sample-pdf.acsm?id\u003dLP5ScJgoa6sC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sj8MSQAACAAJ",
+   "etag": "KcqHdlXqArs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sj8MSQAACAAJ",
+   "volumeInfo": {
+    "title": "Sports and leisure",
+    "authors": [
+     "A. F. Titterton"
+    ],
+    "publishedDate": "1965",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:603896045"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dsj8MSQAACAAJ&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dsj8MSQAACAAJ&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oXbgOSGFc4wC",
+   "etag": "F7carkRpNrs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oXbgOSGFc4wC",
+   "volumeInfo": {
+    "title": "Sport and leisure operations management",
+    "authors": [
+     "Una McMahon-Beattie",
+     "Ian Yeoman"
+    ],
+    "publisher": "Thomson Learning Emea",
+    "publishedDate": "2004-04-15",
+    "description": "This text explains and explores the process of operations management within the Sport and Leisure context.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1844800636"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781844800636"
+     }
+    ],
+    "pageCount": 360,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003doXbgOSGFc4wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003doXbgOSGFc4wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doXbgOSGFc4wC&printsec\u003dfrontcover&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doXbgOSGFc4wC&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-pkcluEz9v8C",
+   "etag": "zdlddJeDuiA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-pkcluEz9v8C",
+   "volumeInfo": {
+    "title": "BTEC Introduction Sport and Leisure",
+    "authors": [
+     "Ray Barker",
+     "Louise Sutton"
+    ],
+    "publisher": "Heinemann Educational Publishers",
+    "publishedDate": "2005-07-14",
+    "description": "This new textbook is the only one available for the new BTEC Introductory Certificate and Diploma in Sport and Leisure.Endorsed by Edexcel.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0435460005"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780435460006"
+     }
+    ],
+    "pageCount": 248,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d-pkcluEz9v8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d-pkcluEz9v8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-pkcluEz9v8C&printsec\u003dfrontcover&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-pkcluEz9v8C&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JphFoBnq2R8C",
+   "etag": "7SqLg6QqMCQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JphFoBnq2R8C",
+   "volumeInfo": {
+    "title": "Sport and leisure cultures",
+    "authors": [
+     "Alan Tomlinson"
+    ],
+    "publisher": "Univ Of Minnesota Press",
+    "publishedDate": "2005",
+    "description": "A sweeping analysis of sport culture&#39;s global, national, and local impact.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0816633835"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816633838"
+     }
+    ],
+    "pageCount": 273,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dJphFoBnq2R8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dJphFoBnq2R8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJphFoBnq2R8C&printsec\u003dfrontcover&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJphFoBnq2R8C&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Sport_and_leisure_cultures-sample-epub.acsm?id\u003dJphFoBnq2R8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ugAlIFlls08C",
+   "etag": "zmxfH1GS/lE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ugAlIFlls08C",
+   "volumeInfo": {
+    "title": "Fathering through sport and leisure",
+    "authors": [
+     "Tess Kay"
+    ],
+    "publisher": "Taylor & Francis",
+    "publishedDate": "2009-06-22",
+    "description": "This book provides a long overdue and thorough investigation of the relationship between fatherhood, sport, and leisure.Fathering through Sport and Leisure ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415438683"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415438681"
+     }
+    ],
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dugAlIFlls08C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dugAlIFlls08C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dugAlIFlls08C&printsec\u003dfrontcover&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dugAlIFlls08C&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 51.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 41.04,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dugAlIFlls08C&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Fathering_through_sport_and_leisure-sample-epub.acsm?id\u003dugAlIFlls08C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Fathering_through_sport_and_leisure-sample-pdf.acsm?id\u003dugAlIFlls08C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "v9lGcNdRTcMC",
+   "etag": "l8BnwFB5Eno",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/v9lGcNdRTcMC",
+   "volumeInfo": {
+    "title": "Managing public sport and leisure services",
+    "authors": [
+     "Leigh Robinson"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2004",
+    "description": "This book also challenges the perceptions and negative comparisons with the private sector.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415270766"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415270762"
+     }
+    ],
+    "pageCount": 193,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dv9lGcNdRTcMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dv9lGcNdRTcMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dv9lGcNdRTcMC&printsec\u003dfrontcover&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dv9lGcNdRTcMC&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 67.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 54.36,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dv9lGcNdRTcMC&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Managing_public_sport_and_leisure_servic-sample-epub.acsm?id\u003dv9lGcNdRTcMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Managing_public_sport_and_leisure_servic-sample-pdf.acsm?id\u003dv9lGcNdRTcMC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lHKGAB2Z598C",
+   "etag": "sNQZIcpQxAM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lHKGAB2Z598C",
+   "volumeInfo": {
+    "title": "Finance for Sport and Leisure Managers",
+    "subtitle": "An Introduction",
+    "authors": [
+     "Robert Wilson",
+     "John Joyce"
+    ],
+    "publisher": "Taylor & Francis",
+    "publishedDate": "2007-12-03",
+    "description": "Ideal for students on sport and leisure management courses, this book will also be valuable to practising managers who need a quick-reference guide to ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415404460"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415404464"
+     }
+    ],
+    "pageCount": 162,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dlHKGAB2Z598C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dlHKGAB2Z598C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlHKGAB2Z598C&printsec\u003dfrontcover&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlHKGAB2Z598C&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 54.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 43.41,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dlHKGAB2Z598C&dq\u003dSports+and+Leisure&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Finance_for_Sport_and_Leisure_Managers-sample-pdf.acsm?id\u003dlHKGAB2Z598C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 595
+}

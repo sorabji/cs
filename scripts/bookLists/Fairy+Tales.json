@@ -1,0 +1,557 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "bOQ3IsWHXJEC",
+   "etag": "I3e39jGsZi8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bOQ3IsWHXJEC",
+   "volumeInfo": {
+    "title": "Fairy tales from Hans Christian Andersen",
+    "authors": [
+     "Hans Christian Andersen"
+    ],
+    "publishedDate": "1907",
+    "description": "HANS ANDERSEN&#39;S \u003cb\u003eFAIRY TALES\u003c/b\u003e The Mermaid Far out at sea the water is as blue as \u003cbr\u003e\r\nthe bluest cornflower, | and as clear as the clearest crystal ; but it is \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015011873745"
+     }
+    ],
+    "pageCount": 387,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dbOQ3IsWHXJEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dbOQ3IsWHXJEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbOQ3IsWHXJEC&printsec\u003dfrontcover&dq\u003dFairy+Tales&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbOQ3IsWHXJEC&dq\u003dFairy+Tales&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Fairy_tales_from_Hans_Christian_Andersen.epub?id\u003dbOQ3IsWHXJEC&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Fairy_tales_from_Hans_Christian_Andersen.pdf?id\u003dbOQ3IsWHXJEC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1AbMn0zZY34n28rExOk16tMUVwhA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UlMoAAAAYAAJ",
+   "etag": "Jfz7yNFs99k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UlMoAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Fairy tales",
+    "authors": [
+     "Hans Christian Andersen"
+    ],
+    "publishedDate": "1869",
+    "description": "U Luckoie ID you ever see any body who knows so many stories as good old Ole \u003cbr\u003e\r\nLuckoie — and then, too, such stories ! — Yes, of an evening, although the \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HWHMC2"
+     }
+    ],
+    "pageCount": 325,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 13,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dUlMoAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dUlMoAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUlMoAAAAYAAJ&printsec\u003dfrontcover&dq\u003dFairy+Tales&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUlMoAAAAYAAJ&dq\u003dFairy+Tales&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Fairy_tales.epub?id\u003dUlMoAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Fairy_tales.pdf?id\u003dUlMoAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U22HYnSyAAJssgg5jswMrvRs60O0A&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LzqpptKEk7oC",
+   "etag": "ALvLl2eUrjY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LzqpptKEk7oC",
+   "volumeInfo": {
+    "title": "Fairy tales",
+    "authors": [
+     "Edward Estlin Cummings",
+     "George James Firmage",
+     "Meilo So"
+    ],
+    "publisher": "Liveright Pub Corp",
+    "publishedDate": "2004",
+    "description": "Four tales include &quot;The Old Man Who Said &#39;Why&#39;,&quot; &quot;The Elephant &amp; The Butterfly,&quot; &quot;The House That Ate Mosquito Pie,&quot; and &quot;The Little Girl Named I.&quot;",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0871406586"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780871406583"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 19,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dLzqpptKEk7oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dLzqpptKEk7oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLzqpptKEk7oC&printsec\u003dfrontcover&dq\u003dFairy+Tales&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLzqpptKEk7oC&dq\u003dFairy+Tales&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sdkbPQAACAAJ",
+   "etag": "fi8MbPHWYq0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sdkbPQAACAAJ",
+   "volumeInfo": {
+    "title": "Grimm's Fairy Tales",
+    "authors": [
+     "Jacob Grimm",
+     "Brothers Grimm",
+     "Wilhelm Grimm"
+    ],
+    "publisher": "Bed Book",
+    "publishedDate": "2005-09-29",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1933652063"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781933652061"
+     }
+    ],
+    "pageCount": 196,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dsdkbPQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dsdkbPQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dsdkbPQAACAAJ&dq\u003dFairy+Tales&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dsdkbPQAACAAJ&dq\u003dFairy+Tales&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XQ4XAAAAYAAJ",
+   "etag": "emKfiLjmaGY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XQ4XAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Fairy tales",
+    "authors": [
+     "Jacob Grimm"
+    ],
+    "publishedDate": "1896",
+    "description": "THE QUEEN BEE. Once upon a time two sons of a King set out to see the world, and \u003cbr\u003e\r\nfell into such a wild kind of life that they did not return home. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HN5I21"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dXQ4XAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dXQ4XAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXQ4XAAAAYAAJ&printsec\u003dfrontcover&dq\u003dFairy+Tales&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXQ4XAAAAYAAJ&dq\u003dFairy+Tales&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Fairy_tales.epub?id\u003dXQ4XAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Fairy_tales.pdf?id\u003dXQ4XAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1fLrn5kRuwLtVDlJqd-SjT_aJI2w&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mtClzjlLnqwC",
+   "etag": "BjjpKySFlgE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mtClzjlLnqwC",
+   "volumeInfo": {
+    "title": "Fairy Tales",
+    "authors": [
+     "The Brothers Grimm"
+    ],
+    "description": "Cat-Skin Snow-White And Rose-Red The Brothers Grimm \u003cb\u003eFairy Tales\u003c/b\u003e The Golden Bird \u003cbr\u003e\r\nA certain king had a beautiful garden, and in the garden stood a tree which \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1603033882"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781603033886"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dmtClzjlLnqwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dmtClzjlLnqwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmtClzjlLnqwC&printsec\u003dfrontcover&dq\u003dFairy+Tales&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmtClzjlLnqwC&dq\u003dFairy+Tales&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Fairy_Tales-sample-pdf.acsm?id\u003dmtClzjlLnqwC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZL3OR2BuinAC",
+   "etag": "Ye3i8n8FvrA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZL3OR2BuinAC",
+   "volumeInfo": {
+    "title": "Fairy tales",
+    "subtitle": "a new history",
+    "authors": [
+     "Ruth B. Bottigheimer"
+    ],
+    "publisher": "State Univ of New York Pr",
+    "publishedDate": "2009-03",
+    "description": "Overturns traditional views of the origins of fairy tales and documents their actual origins and transmission.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1438425236"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781438425238"
+     }
+    ],
+    "pageCount": 152,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dZL3OR2BuinAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dZL3OR2BuinAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZL3OR2BuinAC&printsec\u003dfrontcover&dq\u003dFairy+Tales&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZL3OR2BuinAC&dq\u003dFairy+Tales&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dZL3OR2BuinAC&dq\u003dFairy+Tales&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Fairy_tales-sample-epub.acsm?id\u003dZL3OR2BuinAC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Fairy_tales-sample-pdf.acsm?id\u003dZL3OR2BuinAC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "a3cAAAAAMAAJ",
+   "etag": "1otDqB0Ul4M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a3cAAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Fairy tales",
+    "publishedDate": "1903",
+    "description": "\u003cb\u003eFAIRY TALES\u003c/b\u003e THE LITTLE GOOD MOUSE ONCE upon a time there lived a King and Queen \u003cbr\u003e\r\nwho loved each other so much that they were never happy unless they were \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433068198047"
+     }
+    ],
+    "pageCount": 587,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003da3cAAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003da3cAAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003da3cAAAAAMAAJ&printsec\u003dfrontcover&dq\u003dFairy+Tales&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003da3cAAAAAMAAJ&dq\u003dFairy+Tales&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Fairy_tales.epub?id\u003da3cAAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Fairy_tales.pdf?id\u003da3cAAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3LV91SqTqDh2MV1BuiLRS-6RrcUg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3USzfdApgQAC",
+   "etag": "CQnrN+tmFMI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3USzfdApgQAC",
+   "volumeInfo": {
+    "title": "Grimms' Fairy Tales",
+    "authors": [
+     "Jacob Grimm",
+     "Wilhelm Grimm",
+     "Wilhelm Carl Grimm"
+    ],
+    "publisher": "Collector's Library",
+    "publishedDate": "2009-10-01",
+    "description": "A complete collection of the Brothers Grimm fairy tales includes &quot;The Twelve Dancing Princesses,&quot; &quot;Rumpelstiltskin,&quot; and &quot;The Elves and The Shoe Maker.&quot;",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1904633706"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781904633709"
+     }
+    ],
+    "pageCount": 387,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d3USzfdApgQAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d3USzfdApgQAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3USzfdApgQAC&printsec\u003dfrontcover&dq\u003dFairy+Tales&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3USzfdApgQAC&dq\u003dFairy+Tales&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "P6dUAAAAYAAJ",
+   "etag": "SCiyf9JPTlw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/P6dUAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Fairy tales and stories",
+    "authors": [
+     "Hans Christian Andersen"
+    ],
+    "publishedDate": "1900",
+    "description": "THE NIGHTINGALE IN China, you know, the emperor is a Chinaman, and all those he \u003cbr\u003e\r\nhas about him are Chinamen. The story I am going to tell you happened many \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PRNC:32101064748146"
+     }
+    ],
+    "pageCount": 524,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dP6dUAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dP6dUAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dP6dUAAAAYAAJ&printsec\u003dfrontcover&dq\u003dFairy+Tales&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dP6dUAAAAYAAJ&dq\u003dFairy+Tales&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Fairy_tales_and_stories.epub?id\u003dP6dUAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Fairy_tales_and_stories.pdf?id\u003dP6dUAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3i4sLVrIJ8Xb4EIQjhaIHe2rh6eQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 408
+}

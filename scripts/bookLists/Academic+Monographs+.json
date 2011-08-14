@@ -1,0 +1,502 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "T0nyY4F_f1IC",
+   "etag": "b9BqfuUksI8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/T0nyY4F_f1IC",
+   "volumeInfo": {
+    "title": "Choice's outstanding academic books, 1992-1997",
+    "subtitle": "reviews of scholarly titles that every library should own",
+    "authors": [
+     "Rebecca Ann Bartlett"
+    ],
+    "publisher": "Amer Library Assn",
+    "publishedDate": "1998-05",
+    "description": "2nd ed., 1 993, and Mexican Political Biographies 1884-1935, CH, Dec&#39;91) and of \u003cbr\u003e\r\nnumerous \u003cb\u003emonographs\u003c/b\u003e (including Political Recruitment across Two Centuries: \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0838979297"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780838979297"
+     }
+    ],
+    "pageCount": 618,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dT0nyY4F_f1IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dT0nyY4F_f1IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dT0nyY4F_f1IC&pg\u003dPA55&dq\u003dAcademic+Monographs&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dT0nyY4F_f1IC&dq\u003dAcademic+Monographs&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yMzxOwAACAAJ",
+   "etag": "NTBpimyWfGk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yMzxOwAACAAJ",
+   "volumeInfo": {
+    "title": "Bulgarian Academic monographs",
+    "publishedDate": "1999",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:67715843"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyMzxOwAACAAJ&dq\u003dAcademic+Monographs&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyMzxOwAACAAJ&dq\u003dAcademic+Monographs&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zPt7g_cTweoC",
+   "etag": "KXBXYDLcmQI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zPt7g_cTweoC",
+   "volumeInfo": {
+    "title": "Books in the digital age",
+    "subtitle": "the transformation of academic and higher education publishing in Britain and the United States",
+    "authors": [
+     "John Brookshire Thompson"
+    ],
+    "publisher": "Polity Press",
+    "publishedDate": "2005",
+    "description": "This is the first major study of the book publishing industry in Britain and the United States for more than two decades.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0745634788"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780745634784"
+     }
+    ],
+    "pageCount": 468,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dzPt7g_cTweoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dzPt7g_cTweoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzPt7g_cTweoC&pg\u003dPA140&dq\u003dAcademic+Monographs&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzPt7g_cTweoC&dq\u003dAcademic+Monographs&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Books_in_the_digital_age-sample-epub.acsm?id\u003dzPt7g_cTweoC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mLi-Aw_b20kC",
+   "etag": "XmY3zbhnhck",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mLi-Aw_b20kC",
+   "volumeInfo": {
+    "title": "The decline of discourse",
+    "subtitle": "reading, writing, and resistance in postmodern capitalism",
+    "authors": [
+     "Ben Agger"
+    ],
+    "publisher": "Falmer Pr",
+    "publishedDate": "1990",
+    "description": "Books are divided roughly into \u003cb\u003eacademic monographs\u003c/b\u003e and textbooks. Often the line \u003cbr\u003e\r\nbetween the two is somewhat hazy. In general terms, \u003cb\u003eacademic monographs\u003c/b\u003e are \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "185000756X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781850007562"
+     }
+    ],
+    "pageCount": 238,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dmLi-Aw_b20kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dmLi-Aw_b20kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmLi-Aw_b20kC&pg\u003dPA127&dq\u003dAcademic+Monographs&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmLi-Aw_b20kC&dq\u003dAcademic+Monographs&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "S_168JSmNpkC",
+   "etag": "rYrFaSgBcWM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/S_168JSmNpkC",
+   "volumeInfo": {
+    "title": "Pricing and costs of monographs and serials",
+    "subtitle": "national and international issues",
+    "authors": [
+     "Sul H. Lee"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "1987-06-01",
+    "description": "Is it destined to be a trade title, an \u003cb\u003eacademic monograph\u003c/b\u003e, or a textbook? \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e\r\n\u003cb\u003eAcademic monographs\u003c/b\u003e, depending on subject matter, are usually priced between \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0866566201"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780866566209"
+     }
+    ],
+    "pageCount": 109,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dS_168JSmNpkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dS_168JSmNpkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dS_168JSmNpkC&pg\u003dPA42&dq\u003dAcademic+Monographs&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dS_168JSmNpkC&dq\u003dAcademic+Monographs&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hhjwSq0dxugC",
+   "etag": "c9hedvRsebg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hhjwSq0dxugC",
+   "volumeInfo": {
+    "title": "Monographs in sci-tech libraries",
+    "authors": [
+     "Ellis Mount"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "1983-01-01",
+    "description": "A primary issue to be addressed when considering the purchase of \u003cb\u003emonographs\u003c/b\u003e for \u003cbr\u003e\r\n\u003cb\u003eacademic\u003c/b\u003e scientific research libraries is whether it ; necessary and \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0866562184"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780866562188"
+     }
+    ],
+    "pageCount": 101,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dhhjwSq0dxugC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dhhjwSq0dxugC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhhjwSq0dxugC&pg\u003dPA31&dq\u003dAcademic+Monographs&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhhjwSq0dxugC&dq\u003dAcademic+Monographs&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2kHEq_oPtVgC",
+   "etag": "Ffs3H1wxUeI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2kHEq_oPtVgC",
+   "volumeInfo": {
+    "title": "Academic libraries",
+    "subtitle": "achieving excellence in higher education : proceedings of the Sixth National Conference of the Association of College and Research Libraries, Salt Lake City, Utah, April 12-14, 1992",
+    "authors": [
+     "Association of College and Research Libraries. National Conference",
+     "Thomas G. Kirk",
+     "Donna Lakes"
+    ],
+    "publisher": "Amer Library Assn",
+    "publishedDate": "1992-09-01",
+    "description": "The present paper explores actual expenditures on \u003cb\u003emonographs\u003c/b\u003e and serial \u003cb\u003e...\u003c/b\u003e at \u003cbr\u003e\r\nresearch libraries and the research collections of other \u003cb\u003eacademic\u003c/b\u003e libraries. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0838976220"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780838976227"
+     }
+    ],
+    "pageCount": 498,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d2kHEq_oPtVgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d2kHEq_oPtVgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2kHEq_oPtVgC&pg\u003dPA207&dq\u003dAcademic+Monographs&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2kHEq_oPtVgC&dq\u003dAcademic+Monographs&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VPZ-RwAACAAJ",
+   "etag": "U6hGhcj1o3A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VPZ-RwAACAAJ",
+   "volumeInfo": {
+    "title": "New Zealand academic monographs",
+    "subtitle": "General series",
+    "publishedDate": "1983",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:sn90011063"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVPZ-RwAACAAJ&dq\u003dAcademic+Monographs&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVPZ-RwAACAAJ&dq\u003dAcademic+Monographs&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xjNg_0Riz1sC",
+   "etag": "cZgwxzMHDto",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xjNg_0Riz1sC",
+   "volumeInfo": {
+    "title": "Handbook for academic authors",
+    "authors": [
+     "Beth Luey"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "2002",
+    "description": "Still more \u003cb\u003ebooks\u003c/b\u003e by \u003cb\u003eacademic\u003c/b\u003e writers, though not best-sellers, have sold in \u003cbr\u003e\r\nrespectable numbers, sometimes for several years. Academics have many reasons to \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521891981"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521891981"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dxjNg_0Riz1sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dxjNg_0Riz1sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxjNg_0Riz1sC&pg\u003dPA152&dq\u003dAcademic+Monographs&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxjNg_0Riz1sC&dq\u003dAcademic+Monographs&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6dcBYY96No8C",
+   "etag": "LfaiEJYIQuk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6dcBYY96No8C",
+   "volumeInfo": {
+    "title": "Research genres",
+    "subtitle": "explorations and applications",
+    "authors": [
+     "John Swales"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "2004-11-01",
+    "description": "published by a reputable academic publisher. On one extreme, in the United \u003cbr\u003e\r\nStates \u003cb\u003eacademic books\u003c/b\u003e tend not to be valorized in many science and engineering \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521533341"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521533348"
+     }
+    ],
+    "pageCount": 314,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d6dcBYY96No8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d6dcBYY96No8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6dcBYY96No8C&pg\u003dPA16&dq\u003dAcademic+Monographs&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6dcBYY96No8C&dq\u003dAcademic+Monographs&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 597
+}

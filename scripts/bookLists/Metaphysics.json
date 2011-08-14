@@ -1,0 +1,558 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "7atFxTVGxkUC",
+   "etag": "Bh8SjpyrIiE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7atFxTVGxkUC",
+   "volumeInfo": {
+    "title": "The Metaphysics",
+    "authors": [
+     "Aristotle"
+    ],
+    "publisher": "Cosimo Classics",
+    "publishedDate": "2008",
+    "description": "In The Metaphysicsconsidered by many the greatest works not just of Aristotle but of the entire discipline of philosophythe philosopher explores the most ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1605203181"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781605203188"
+     }
+    ],
+    "pageCount": 360,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d7atFxTVGxkUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d7atFxTVGxkUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7atFxTVGxkUC&printsec\u003dfrontcover&dq\u003dMetaphysics&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7atFxTVGxkUC&dq\u003dMetaphysics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "drtmtar_VngC",
+   "etag": "viaaVA8dI/0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/drtmtar_VngC",
+   "volumeInfo": {
+    "title": "Metaphysics",
+    "subtitle": "zeta, eta, theta, iota",
+    "authors": [
+     "Aristotle",
+     "Montgomery Furth"
+    ],
+    "publisher": "Hackett Pub Co Inc",
+    "publishedDate": "1985-03",
+    "description": "Madigan&#39;s accompanying commentary gives detailed guidance to these texts, in which Aristotle sets out what he takesto be the main problems of metaphysics or  ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0915145898"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780915145898"
+     }
+    ],
+    "pageCount": 154,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003ddrtmtar_VngC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003ddrtmtar_VngC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddrtmtar_VngC&printsec\u003dfrontcover&dq\u003dMetaphysics&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddrtmtar_VngC&dq\u003dMetaphysics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aM5d-tw79_0C",
+   "etag": "moKUtITbRgg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aM5d-tw79_0C",
+   "volumeInfo": {
+    "title": "Metaphysics",
+    "subtitle": "Books Z and H",
+    "authors": [
+     "Aristotle",
+     "David Bostock"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "1994",
+    "description": "When the works began being translated into English, those abstract Latin words or their cognates were used, thus suggesting a level of jargon and abstraction, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0198239475"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780198239475"
+     }
+    ],
+    "pageCount": 301,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003daM5d-tw79_0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003daM5d-tw79_0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daM5d-tw79_0C&printsec\u003dfrontcover&dq\u003dMetaphysics&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daM5d-tw79_0C&dq\u003dMetaphysics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 81.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 64.8,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003daM5d-tw79_0C&dq\u003dMetaphysics&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Metaphysics-sample-pdf.acsm?id\u003daM5d-tw79_0C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JP0dVhRrzJYC",
+   "etag": "r2wo/QdZd0U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JP0dVhRrzJYC",
+   "volumeInfo": {
+    "title": "Metaphysics",
+    "subtitle": "a contemporary introduction",
+    "authors": [
+     "Michael J. Loux"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2002",
+    "description": "In this fully revised and updated version of the highly successful first edition, Michael J. Loux provides a fresh look at the central topics in metaphysics ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415261066"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415261067"
+     }
+    ],
+    "pageCount": 303,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dJP0dVhRrzJYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dJP0dVhRrzJYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJP0dVhRrzJYC&printsec\u003dfrontcover&dq\u003dMetaphysics&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJP0dVhRrzJYC&dq\u003dMetaphysics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s70KAQAAMAAJ",
+   "etag": "zQuthjjNVBE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s70KAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Metaphysics",
+    "subtitle": "books [gamma], [delta], and [epsilon]",
+    "authors": [
+     "Aristotle"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "1993",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015032740972"
+     }
+    ],
+    "pageCount": 254,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 8,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003ds70KAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003ds70KAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ds70KAQAAMAAJ&q\u003dMetaphysics&dq\u003dMetaphysics&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ds70KAQAAMAAJ&dq\u003dMetaphysics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NDqZDq5o0loC",
+   "etag": "U544GJ+PQz8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NDqZDq5o0loC",
+   "volumeInfo": {
+    "title": "Metaphysics",
+    "subtitle": "constructing a world view",
+    "authors": [
+     "William Hasker"
+    ],
+    "publisher": "Intervarsity Pr",
+    "publishedDate": "1983-09",
+    "description": "Helping readers create a consistently Christian worldview, William Hasker addresses key questions of metaphysics and discusses possible answers.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0877843414"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780877843412"
+     }
+    ],
+    "pageCount": 132,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dNDqZDq5o0loC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dNDqZDq5o0loC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNDqZDq5o0loC&printsec\u003dfrontcover&dq\u003dMetaphysics&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNDqZDq5o0loC&dq\u003dMetaphysics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4ZXrFfVkZSIC",
+   "etag": "0ydV3CSnWns",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4ZXrFfVkZSIC",
+   "volumeInfo": {
+    "title": "Metaphysics",
+    "subtitle": "the big questions",
+    "authors": [
+     "Peter Van Inwagen"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "1998",
+    "description": "This volume provides a vital student resource: a collection of the essential classic and contemporary readings in metaphysics.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0631205888"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780631205883"
+     }
+    ],
+    "pageCount": 498,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d4ZXrFfVkZSIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d4ZXrFfVkZSIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4ZXrFfVkZSIC&printsec\u003dfrontcover&dq\u003dMetaphysics&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4ZXrFfVkZSIC&dq\u003dMetaphysics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "368dtpdoBEUC",
+   "etag": "jEEBCjS1Jb8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/368dtpdoBEUC",
+   "volumeInfo": {
+    "title": "Metaphysics",
+    "subtitle": "Philosophical Perspectives",
+    "authors": [
+     "James E. Tomberlin"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "2002-03-11",
+    "description": "Externalism, Naturalism, Mathematics, Ontology, Personal Identity, Time and Tense, The Metaphysics of Reference, The Metaphysics of Properties, Conceivability, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0631230297"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780631230298"
+     }
+    ],
+    "pageCount": 480,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d368dtpdoBEUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d368dtpdoBEUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d368dtpdoBEUC&printsec\u003dfrontcover&dq\u003dMetaphysics&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d368dtpdoBEUC&dq\u003dMetaphysics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "J08uAAAAYAAJ",
+   "etag": "HcHjdp9Q29M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/J08uAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Metaphysics",
+    "subtitle": "or, the science of perception",
+    "authors": [
+     "John Miller"
+    ],
+    "publishedDate": "1875",
+    "description": "Evolution under the Light ok Revelation 385 CHAPTER XIII. Evolution under the \u003cbr\u003e\r\nLight of Ontology 397 \u003cb\u003eMETAPHYSICS\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HNVCV7"
+     }
+    ],
+    "pageCount": 402,
+    "printType": "BOOK",
+    "categories": [
+     "Metaphysics"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dJ08uAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dJ08uAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJ08uAAAAYAAJ&printsec\u003dfrontcover&dq\u003dMetaphysics&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJ08uAAAAYAAJ&dq\u003dMetaphysics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Metaphysics.epub?id\u003dJ08uAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Metaphysics.pdf?id\u003dJ08uAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2OvTiYJiFfgaXcr6fTN-E_vzVInw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yOHtxJVsPBAC",
+   "etag": "JMOSNQT64u8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yOHtxJVsPBAC",
+   "volumeInfo": {
+    "title": "Metaphysics",
+    "subtitle": "the elements",
+    "authors": [
+     "Bruce Aune"
+    ],
+    "publisher": "Univ Of Minnesota Press",
+    "publishedDate": "1985",
+    "description": "WHAT IS \u003cb\u003eMETAPHYSICS\u003c/b\u003e? \u003cb\u003eMETAPHYSICS\u003c/b\u003e IS POSSIBLY the most basic but certainly the \u003cbr\u003e\r\nmost controversial part of philosophy. It flourished in ancient Greece and in \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0816614148"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816614141"
+     }
+    ],
+    "pageCount": 235,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dyOHtxJVsPBAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dyOHtxJVsPBAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyOHtxJVsPBAC&printsec\u003dfrontcover&dq\u003dMetaphysics&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyOHtxJVsPBAC&dq\u003dMetaphysics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.16,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dyOHtxJVsPBAC&dq\u003dMetaphysics&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Metaphysics-sample-epub.acsm?id\u003dyOHtxJVsPBAC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Metaphysics-sample-pdf.acsm?id\u003dyOHtxJVsPBAC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 470
+}

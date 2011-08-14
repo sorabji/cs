@@ -1,0 +1,601 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "PN_8vUWwXp0C",
+   "etag": "Io7XKvgH1sM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PN_8vUWwXp0C",
+   "volumeInfo": {
+    "title": "Legal writing in plain English",
+    "subtitle": "a text with exercises",
+    "authors": [
+     "Bryan A. Garner"
+    ],
+    "publisher": "University Of Chicago Press",
+    "publishedDate": "2001",
+    "description": "The book encourages legal writers to challenge conventions and offers valuable insights into the writing process:how to organize ideas, create and refine prose, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0226284182"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780226284187"
+     }
+    ],
+    "pageCount": 227,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dPN_8vUWwXp0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dPN_8vUWwXp0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPN_8vUWwXp0C&printsec\u003dfrontcover&dq\u003dLegal&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPN_8vUWwXp0C&dq\u003dLegal&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Legal_writing_in_plain_English-sample-epub.acsm?id\u003dPN_8vUWwXp0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gqmZ8n4uLPoC",
+   "etag": "qtjcy9Cf4KA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gqmZ8n4uLPoC",
+   "volumeInfo": {
+    "title": "Legal research",
+    "subtitle": "how to find & understand the law",
+    "authors": [
+     "Stephen Elias"
+    ],
+    "publisher": "NOLO",
+    "publishedDate": "2009-09-15",
+    "description": "Provides guidance for using legal reference materials, and includes review questions and practice exercies.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1413310524"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781413310528"
+     }
+    ],
+    "pageCount": 386,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dgqmZ8n4uLPoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dgqmZ8n4uLPoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgqmZ8n4uLPoC&printsec\u003dfrontcover&dq\u003dLegal&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgqmZ8n4uLPoC&dq\u003dLegal&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 49.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 39.49,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dgqmZ8n4uLPoC&dq\u003dLegal&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Legal_research-sample-epub.acsm?id\u003dgqmZ8n4uLPoC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Legal_research-sample-pdf.acsm?id\u003dgqmZ8n4uLPoC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aU6XfKoAAZ0C",
+   "etag": "4pbK5HDR71E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aU6XfKoAAZ0C",
+   "volumeInfo": {
+    "title": "Expert legal writing",
+    "authors": [
+     "Terri LeClercq"
+    ],
+    "publisher": "Univ of Texas Pr",
+    "publishedDate": "1995-01-01",
+    "description": "This book collects all the advice she has given in her columns into one authoritative guide for expert legal writing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0292746881"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780292746886"
+     }
+    ],
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "1.0.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003daU6XfKoAAZ0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003daU6XfKoAAZ0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daU6XfKoAAZ0C&printsec\u003dfrontcover&dq\u003dLegal&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daU6XfKoAAZ0C&dq\u003dLegal&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003daU6XfKoAAZ0C&dq\u003dLegal&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Expert_legal_writing-sample-epub.acsm?id\u003daU6XfKoAAZ0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Expert_legal_writing-sample-pdf.acsm?id\u003daU6XfKoAAZ0C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NJ8pXkURgmQC",
+   "etag": "aYhkHUGekCU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NJ8pXkURgmQC",
+   "volumeInfo": {
+    "title": "Legal English",
+    "authors": [
+     "Rupert Haigh"
+    ],
+    "publisher": "Routledge Cavendish",
+    "publishedDate": "2009",
+    "description": "Divided into three sections, it covers:writing clear and accurate legal documents and letters in Englishthe key situations in which legal and business ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415487153"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415487153"
+     }
+    ],
+    "pageCount": 330,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dNJ8pXkURgmQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dNJ8pXkURgmQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNJ8pXkURgmQC&printsec\u003dfrontcover&dq\u003dLegal&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNJ8pXkURgmQC&dq\u003dLegal&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 41.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.88,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dNJ8pXkURgmQC&dq\u003dLegal&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Legal_English-sample-pdf.acsm?id\u003dNJ8pXkURgmQC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BClLRoNhc4cC",
+   "etag": "ekB2Ab+YA9A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BClLRoNhc4cC",
+   "volumeInfo": {
+    "title": "Legal Project Management",
+    "subtitle": "Control Costs, Meet Schedules, Manage Risks, and Maintain Sanity",
+    "authors": [
+     "Steven B. Levy"
+    ],
+    "publisher": "Createspace",
+    "publishedDate": "2009-12-24",
+    "description": "As described in this groundbreaking book, Legal Project Management is not an alien discipline, full of jargon and process overhead.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1449928641"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781449928643"
+     }
+    ],
+    "pageCount": 366,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dBClLRoNhc4cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dBClLRoNhc4cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBClLRoNhc4cC&printsec\u003dfrontcover&dq\u003dLegal&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBClLRoNhc4cC&dq\u003dLegal&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WdO9wBNPgMUC",
+   "etag": "hZCU3Cym79w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WdO9wBNPgMUC",
+   "volumeInfo": {
+    "title": "Legal Language",
+    "authors": [
+     "Peter M. Tiersma"
+    ],
+    "publisher": "University Of Chicago Press",
+    "publishedDate": "2000-05-15",
+    "description": "In this lively history of legal language, Peter Tiersma slices through the thicket of legalese, explaining where it comes from, why lawyers continue to cling to ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0226803031"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780226803036"
+     }
+    ],
+    "pageCount": 328,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dWdO9wBNPgMUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dWdO9wBNPgMUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWdO9wBNPgMUC&printsec\u003dfrontcover&dq\u003dLegal&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWdO9wBNPgMUC&dq\u003dLegal&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Legal_Language-sample-epub.acsm?id\u003dWdO9wBNPgMUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-3ZLpJWmy1gC",
+   "etag": "U1fKKyuEeH4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-3ZLpJWmy1gC",
+   "volumeInfo": {
+    "title": "Every Landlord's Legal Guide",
+    "authors": [
+     "Marcia Stewart",
+     "Ralph Warner",
+     "Janet Portman"
+    ],
+    "publisher": "NOLO",
+    "publishedDate": "2008-04-30",
+    "description": "&quot;This popular book gives every landlord and property manager the legal and practical information they need.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1413308562"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781413308563"
+     }
+    ],
+    "pageCount": 483,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 8,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d-3ZLpJWmy1gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d-3ZLpJWmy1gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-3ZLpJWmy1gC&printsec\u003dfrontcover&dq\u003dLegal&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-3ZLpJWmy1gC&dq\u003dLegal&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Every_Landlord_s_Legal_Guide-sample-pdf.acsm?id\u003d-3ZLpJWmy1gC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rJHNqWYGJtIC",
+   "etag": "0lDvdPec568",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rJHNqWYGJtIC",
+   "volumeInfo": {
+    "title": "Legal Handbook for Photographers",
+    "subtitle": "The Rights and Liabilities of Making Images",
+    "authors": [
+     "Bert P. Krages"
+    ],
+    "publisher": "Amherst Media, Inc.",
+    "publishedDate": "2006-11-01",
+    "description": "This updated handbook closes with a helpful glossary that decodes complicated legalese.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1584281944"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781584281948"
+     }
+    ],
+    "pageCount": 125,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003drJHNqWYGJtIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003drJHNqWYGJtIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003drJHNqWYGJtIC&printsec\u003dfrontcover&dq\u003dLegal&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003drJHNqWYGJtIC&dq\u003dLegal&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jaPFYWjsoZEC",
+   "etag": "ThQr2ypYeC8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jaPFYWjsoZEC",
+   "volumeInfo": {
+    "title": "Legal Accents, Legal Borrowing",
+    "subtitle": "The International Problem-Solving Court Movement",
+    "authors": [
+     "James L Nolan"
+    ],
+    "publisher": "Princeton Univ Pr",
+    "publishedDate": "2011-04-21",
+    "description": "&quot;This is a first-rate study in every respect.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0691150141"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780691150147"
+     }
+    ],
+    "pageCount": 264,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003djaPFYWjsoZEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003djaPFYWjsoZEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djaPFYWjsoZEC&printsec\u003dfrontcover&dq\u003dLegal&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djaPFYWjsoZEC&dq\u003dLegal&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.72,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003djaPFYWjsoZEC&dq\u003dLegal&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Legal_Accents_Legal_Borrowing-sample-epub.acsm?id\u003djaPFYWjsoZEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Legal_Accents_Legal_Borrowing-sample-pdf.acsm?id\u003djaPFYWjsoZEC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NIagicAS0RYC",
+   "etag": "SZDlSMbk238",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NIagicAS0RYC",
+   "volumeInfo": {
+    "title": "Legal transplants",
+    "subtitle": "an approach to comparative law",
+    "authors": [
+     "Alan Watson"
+    ],
+    "publisher": "Univ of Georgia Pr",
+    "publishedDate": "1993-07",
+    "description": "For this edition, Watson has written a new afterword in which he places his original study in the context of more recent scholarship and offers some new ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "082031532X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780820315324"
+     }
+    ],
+    "pageCount": 121,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dNIagicAS0RYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dNIagicAS0RYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNIagicAS0RYC&printsec\u003dfrontcover&dq\u003dLegal&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNIagicAS0RYC&dq\u003dLegal&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Legal_transplants-sample-epub.acsm?id\u003dNIagicAS0RYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 593
+}

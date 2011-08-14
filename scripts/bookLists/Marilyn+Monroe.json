@@ -1,0 +1,554 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "cTVYdmsGxCIC",
+   "etag": "r67tkb5dDVE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cTVYdmsGxCIC",
+   "volumeInfo": {
+    "title": "Marilyn Monroe",
+    "authors": [
+     "Barbara Leaming"
+    ],
+    "publisher": "Three Rivers Press",
+    "publishedDate": "2000-02-29",
+    "description": "The author of Katherine Hepburn presents a painstakingly researched, thoroughly documented, searching account of the life, loves, career, and death of Marilyn ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0609805533"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780609805534"
+     }
+    ],
+    "pageCount": 480,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 25,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dcTVYdmsGxCIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dcTVYdmsGxCIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcTVYdmsGxCIC&printsec\u003dfrontcover&dq\u003dMarilyn+Monroe&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcTVYdmsGxCIC&dq\u003dMarilyn+Monroe&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dcTVYdmsGxCIC&dq\u003dMarilyn+Monroe&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Marilyn_Monroe-sample-epub.acsm?id\u003dcTVYdmsGxCIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Marilyn_Monroe-sample-pdf.acsm?id\u003dcTVYdmsGxCIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eXMTZsVzn0YC",
+   "etag": "ZBJ3OnTBiZE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eXMTZsVzn0YC",
+   "volumeInfo": {
+    "title": "Marilyn Monroe",
+    "subtitle": "A Life in Pictures",
+    "authors": [
+     "Anne Verlhac",
+     "David Thomson"
+    ],
+    "publisher": "Chronicle Books Llc",
+    "publishedDate": "2007-09-01",
+    "description": "Two hundred iconic full-color and black-and-white photographs chronicle the life and career of one of the world&#39;s most popular movie stars, in a collection that ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0811861473"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780811861472"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003deXMTZsVzn0YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003deXMTZsVzn0YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deXMTZsVzn0YC&printsec\u003dfrontcover&dq\u003dMarilyn+Monroe&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deXMTZsVzn0YC&dq\u003dMarilyn+Monroe&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LGDSWUC7RxwC",
+   "etag": "w6hqhcjEnm8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LGDSWUC7RxwC",
+   "volumeInfo": {
+    "title": "Marilyn Monroe",
+    "subtitle": "a life of the actress",
+    "authors": [
+     "Carl Edmund Rollyson"
+    ],
+    "publisher": "Da Capo Pr",
+    "publishedDate": "1993-08-21",
+    "description": "Most books about Monroe stress the sensational events that surrounded her-this book is the first to deal honestly and critically with Monroe as an actress, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0306805421"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780306805424"
+     }
+    ],
+    "pageCount": 270,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dLGDSWUC7RxwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dLGDSWUC7RxwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLGDSWUC7RxwC&printsec\u003dfrontcover&dq\u003dMarilyn+Monroe&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLGDSWUC7RxwC&dq\u003dMarilyn+Monroe&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eb2oQbu8xcsC",
+   "etag": "AjUyAvQ3biU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eb2oQbu8xcsC",
+   "volumeInfo": {
+    "title": "Marilyn Monroe",
+    "subtitle": "The FBI Files",
+    "authors": [
+     "Federal Bureau of Investigation"
+    ],
+    "publisher": "Filibust",
+    "publishedDate": "2007-12",
+    "description": "Marilyn Monroe: The FBI Files contains the actual original and declassified criminal investigation files related to Marilyn Monroe, aka Norma Jean Baker, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1599862522"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781599862521"
+     }
+    ],
+    "pageCount": 104,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003deb2oQbu8xcsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003deb2oQbu8xcsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deb2oQbu8xcsC&printsec\u003dfrontcover&dq\u003dMarilyn+Monroe&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deb2oQbu8xcsC&dq\u003dMarilyn+Monroe&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-lRjAAAACAAJ",
+   "etag": "yb4lM2RUYAI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-lRjAAAACAAJ",
+   "volumeInfo": {
+    "title": "Marilyn Monroe",
+    "subtitle": "the complete last sitting",
+    "authors": [
+     "Bert Stern",
+     "Annie Gottlieb"
+    ],
+    "publisher": "Schirmer/Mosel Verlag Gmbh",
+    "publishedDate": "1992",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3888141915"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783888141911"
+     }
+    ],
+    "pageCount": 463,
+    "printType": "BOOK",
+    "categories": [
+     "Photography"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d-lRjAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d-lRjAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-lRjAAAACAAJ&dq\u003dMarilyn+Monroe&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-lRjAAAACAAJ&dq\u003dMarilyn+Monroe&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NnBKPgAACAAJ",
+   "etag": "ddCOOkRvcbI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NnBKPgAACAAJ",
+   "volumeInfo": {
+    "title": "My Story",
+    "authors": [
+     "Marilyn Monroe",
+     "Ben Hecht"
+    ],
+    "publisher": "Rowman & Littlefield Pub Inc",
+    "publishedDate": "2006-11-25",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1589793161"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781589793163"
+     }
+    ],
+    "pageCount": 185,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 43,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dNnBKPgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dNnBKPgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNnBKPgAACAAJ&dq\u003dMarilyn+Monroe&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNnBKPgAACAAJ&dq\u003dMarilyn+Monroe&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7WybBApyKTsC",
+   "etag": "4tvGotdbvT4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7WybBApyKTsC",
+   "volumeInfo": {
+    "title": "Marilyn Monroe",
+    "subtitle": "the biography",
+    "authors": [
+     "Donald Spoto"
+    ],
+    "publisher": "Cooper Square Pub",
+    "publishedDate": "2001-09-25",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0815411839"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780815411833"
+     }
+    ],
+    "pageCount": 698,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 20,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d7WybBApyKTsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d7WybBApyKTsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7WybBApyKTsC&q\u003dMarilyn+Monroe&dq\u003dMarilyn+Monroe&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7WybBApyKTsC&dq\u003dMarilyn+Monroe&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sH0BmlG2ZaEC",
+   "etag": "Oq5CrL6Wncc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sH0BmlG2ZaEC",
+   "volumeInfo": {
+    "title": "Marilyn Monroe",
+    "subtitle": "Cover to Cover",
+    "authors": [
+     "Clark Kidder"
+    ],
+    "publisher": "Krause Pubns Inc",
+    "publishedDate": "2003-02",
+    "description": "In this second edition of his top seller, Marilyn Monroe expert Clark Kidder unveils more than 300 stunning photographs of her most beautiful and memorable ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0873495969"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780873495967"
+     }
+    ],
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dsH0BmlG2ZaEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dsH0BmlG2ZaEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dsH0BmlG2ZaEC&printsec\u003dfrontcover&dq\u003dMarilyn+Monroe&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dsH0BmlG2ZaEC&dq\u003dMarilyn+Monroe&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8vuVZT0BCOIC",
+   "etag": "OjNNbT1R1mM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8vuVZT0BCOIC",
+   "volumeInfo": {
+    "title": "Marilyn Monroe",
+    "subtitle": "Murder - by Consent: A Psychologist's Journey with Death",
+    "authors": [
+     "Jack V. Hattem"
+    ],
+    "publisher": "Trafford on Demand Pub",
+    "publishedDate": "2007-12-12",
+    "description": "This book is about why Marilyn Monroe died, how she died and who killed her. It is also about a psychologist seeking answers about why people choose to die.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1425135196"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781425135195"
+     }
+    ],
+    "pageCount": 236,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d8vuVZT0BCOIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d8vuVZT0BCOIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8vuVZT0BCOIC&printsec\u003dfrontcover&dq\u003dMarilyn+Monroe&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8vuVZT0BCOIC&dq\u003dMarilyn+Monroe&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Marilyn_Monroe-sample-epub.acsm?id\u003d8vuVZT0BCOIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9mLC6uNyFSUC",
+   "etag": "hD6wpho8Q7U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9mLC6uNyFSUC",
+   "volumeInfo": {
+    "title": "Marilyn Monroe",
+    "authors": [
+     "Ariel Books",
+     "Julie Mars"
+    ],
+    "publisher": "Andrews McMeel Pub",
+    "publishedDate": "1995-05-01",
+    "description": "Perfect for gift-giving or collecting, this small-scale volume represents the same attention to detail as high-quality full-size books. Color.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0836231155"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780836231151"
+     }
+    ],
+    "pageCount": 80,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d9mLC6uNyFSUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d9mLC6uNyFSUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9mLC6uNyFSUC&printsec\u003dfrontcover&dq\u003dMarilyn+Monroe&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9mLC6uNyFSUC&dq\u003dMarilyn+Monroe&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 533
+}

@@ -1,0 +1,558 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "OYdbAAAAMAAJ",
+   "etag": "4aj+BavqnAc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OYdbAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Tolkien",
+    "subtitle": "a biography",
+    "authors": [
+     "Humphrey Carpenter"
+    ],
+    "publisher": "Houghton Mifflin Harcourt (HMH)",
+    "publishedDate": "1977",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015046463884"
+     }
+    ],
+    "pageCount": 286,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dOYdbAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dOYdbAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOYdbAAAAMAAJ&q\u003dTolkien&dq\u003dTolkien&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOYdbAAAAMAAJ&dq\u003dTolkien&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2T1NZUUM5JYC",
+   "etag": "SfpMSH45fug",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2T1NZUUM5JYC",
+   "volumeInfo": {
+    "title": "The Lord of the Rings",
+    "authors": [
+     "J. R. R. Tolkien"
+    ],
+    "publishedDate": "2009",
+    "description": "All three parts of the epic masterpiece combined in one definitive edition of the text.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0061952877"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780061952876"
+     }
+    ],
+    "pageCount": 100,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d2T1NZUUM5JYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d2T1NZUUM5JYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2T1NZUUM5JYC&printsec\u003dfrontcover&dq\u003dTolkien&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2T1NZUUM5JYC&dq\u003dTolkien&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 18.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d2T1NZUUM5JYC&dq\u003dTolkien&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Lord_of_the_Rings-sample-epub.acsm?id\u003d2T1NZUUM5JYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OG7MIryt0nkC",
+   "etag": "pCJX0gMeJiw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OG7MIryt0nkC",
+   "volumeInfo": {
+    "title": "Tolkien",
+    "subtitle": "man and myth",
+    "authors": [
+     "Joseph Pearce"
+    ],
+    "publisher": "Ignatius Pr",
+    "publishedDate": "2001-12",
+    "description": "Chapter i A Misunderstood Man: \u003cb\u003eTolkien\u003c/b\u003e and the Modern World &#39;Oh hell! Has it? Oh \u003cbr\u003e\r\nmy God. Dear oh dear. Dear oh dear oh dear.&#39; I&#39;d woken Bob Inglis from deep \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0898708257"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780898708257"
+     }
+    ],
+    "pageCount": 242,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dOG7MIryt0nkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dOG7MIryt0nkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOG7MIryt0nkC&printsec\u003dfrontcover&dq\u003dTolkien&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOG7MIryt0nkC&dq\u003dTolkien&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UKu8QgAACAAJ",
+   "etag": "1H0vG/gIMNw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UKu8QgAACAAJ",
+   "volumeInfo": {
+    "title": "The Lord of the rings",
+    "authors": [
+     "John Ronald Reuel Tolkien"
+    ],
+    "publishedDate": "1979",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:310745588"
+     }
+    ],
+    "pageCount": 423,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction in English"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUKu8QgAACAAJ&dq\u003dTolkien&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUKu8QgAACAAJ&dq\u003dTolkien&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "T6o1ElgY9BoC",
+   "etag": "gd+QJZdvirY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/T6o1ElgY9BoC",
+   "volumeInfo": {
+    "title": "The Silmarillion",
+    "authors": [
+     "J. R. R. Tolkien"
+    ],
+    "publishedDate": "2009",
+    "description": "The tales of The Silmarillion are set in an age when Morgoth, the first Dark Lord, dwelt in Middle-earth, and the High Elves made war upon him for the recovery ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0061927643"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780061927645"
+     }
+    ],
+    "pageCount": 100,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dT6o1ElgY9BoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dT6o1ElgY9BoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dT6o1ElgY9BoC&printsec\u003dfrontcover&dq\u003dTolkien&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dT6o1ElgY9BoC&dq\u003dTolkien&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dT6o1ElgY9BoC&dq\u003dTolkien&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Silmarillion-sample-epub.acsm?id\u003dT6o1ElgY9BoC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Nzh93npJTe4C",
+   "etag": "vjrdRui7TOc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Nzh93npJTe4C",
+   "volumeInfo": {
+    "title": "Tolkien",
+    "subtitle": "the illustrated encyclopaedia",
+    "authors": [
+     "David Day"
+    ],
+    "publisher": "Fireside",
+    "publishedDate": "2001-12-01",
+    "description": "A definitive guide to the work of J. R. R. Tolkien features sections that list facts about the history, geography, sociology, natural history, and biography of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0684839792"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780684839790"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 10,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dNzh93npJTe4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dNzh93npJTe4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNzh93npJTe4C&printsec\u003dfrontcover&dq\u003dTolkien&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNzh93npJTe4C&dq\u003dTolkien&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dFlImpewmqUC",
+   "etag": "sczcVBl0+rI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dFlImpewmqUC",
+   "volumeInfo": {
+    "title": "The Hobbit",
+    "authors": [
+     "J. R. R. Tolkien"
+    ],
+    "publishedDate": "2009",
+    "description": "Bilbo Baggins was a hobbit who wanted to be left alone in quiet comfort.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0061952842"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780061952845"
+     }
+    ],
+    "pageCount": 100,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 12,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003ddFlImpewmqUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003ddFlImpewmqUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddFlImpewmqUC&printsec\u003dfrontcover&dq\u003dTolkien&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddFlImpewmqUC&dq\u003dTolkien&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003ddFlImpewmqUC&dq\u003dTolkien&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Hobbit-sample-epub.acsm?id\u003ddFlImpewmqUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lII4lt_MAmQC",
+   "etag": "s2HESyypOaw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lII4lt_MAmQC",
+   "volumeInfo": {
+    "title": "The Complete Tolkien Companion",
+    "subtitle": "Totally Revised and Updated",
+    "authors": [
+     "J. E. A. Tyler"
+    ],
+    "publisher": "St. Martin's Griffin",
+    "publishedDate": "2004-10-19",
+    "description": "First published in 1976, this edition has been fully revised and updated for a new century of Tolkien lovers.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0312339127"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780312339128"
+     }
+    ],
+    "pageCount": 736,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dlII4lt_MAmQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dlII4lt_MAmQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlII4lt_MAmQC&printsec\u003dfrontcover&dq\u003dTolkien&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlII4lt_MAmQC&dq\u003dTolkien&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Lx-cPwAACAAJ",
+   "etag": "bk99LaTTiSE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Lx-cPwAACAAJ",
+   "volumeInfo": {
+    "title": "The Hobbit",
+    "subtitle": "Or There and Back Again",
+    "authors": [
+     "J. R. R. Tolkien"
+    ],
+    "publisher": "Large Print Press",
+    "publishedDate": "2003-09",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1594130051"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781594130052"
+     }
+    ],
+    "pageCount": 481,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 9255,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dLx-cPwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dLx-cPwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLx-cPwAACAAJ&dq\u003dTolkien&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLx-cPwAACAAJ&dq\u003dTolkien&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VhSDQoBxJVIC",
+   "etag": "IYcgWrQFiIE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VhSDQoBxJVIC",
+   "volumeInfo": {
+    "title": "The Children of Húrin",
+    "authors": [
+     "J. R. R. Tolkien",
+     "Christopher Tolkien",
+     "Alan Lee"
+    ],
+    "publisher": "Del Rey",
+    "publishedDate": "2010-05-25",
+    "description": "The first complete book by Tolkien in three decades, this book, edited by Tolkien&#39;s son Christopher, reunites fans of the Lord of the Rings trilogy with Elves ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0345518845"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780345518842"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 779,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dVhSDQoBxJVIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dVhSDQoBxJVIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVhSDQoBxJVIC&printsec\u003dfrontcover&dq\u003dTolkien&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVhSDQoBxJVIC&dq\u003dTolkien&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 574
+}

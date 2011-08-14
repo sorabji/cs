@@ -1,0 +1,566 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "J3ueTbgqNwgC",
+   "etag": "w3e3qiuG/ws",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/J3ueTbgqNwgC",
+   "volumeInfo": {
+    "title": "The American West",
+    "subtitle": "a new interpretive history",
+    "authors": [
+     "Robert V. Hine",
+     "John Mack Faragher"
+    ],
+    "publisher": "Yale Univ Pr",
+    "publishedDate": "2000",
+    "description": "Profusely illustrated with contemporary drawings, posters, and photographs and written In lively and accessible prose, the book not only presents a panoramic ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0300078358"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780300078350"
+     }
+    ],
+    "pageCount": 616,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dJ3ueTbgqNwgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dJ3ueTbgqNwgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJ3ueTbgqNwgC&printsec\u003dfrontcover&dq\u003dAmerican+West&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJ3ueTbgqNwgC&dq\u003dAmerican+West&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Yys8EJC6xWUC",
+   "etag": "yspPTorfTlw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Yys8EJC6xWUC",
+   "volumeInfo": {
+    "title": "The American West",
+    "authors": [
+     "Dee Brown"
+    ],
+    "publisher": "Scribner",
+    "publishedDate": "1995-11-01",
+    "description": "An epic account of the American West depicts the tragic destruction of the Native American way of life and covers major events and key figures",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0684804417"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780684804415"
+     }
+    ],
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 10,
+    "contentVersion": "0.2.2.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dYys8EJC6xWUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dYys8EJC6xWUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYys8EJC6xWUC&printsec\u003dfrontcover&dq\u003dAmerican+West&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYys8EJC6xWUC&dq\u003dAmerican+West&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dYys8EJC6xWUC&dq\u003dAmerican+West&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_American_West-sample-epub.acsm?id\u003dYys8EJC6xWUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "T55d5Cr4gcIC",
+   "etag": "KwEWCMQVPmk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/T55d5Cr4gcIC",
+   "volumeInfo": {
+    "title": "The American West",
+    "authors": [
+     "Susan Willoughby"
+    ],
+    "publisher": "Heinemann Educational Publishers",
+    "publishedDate": "1996-06-26",
+    "description": "The book begins with an overview of the whole period before looking in detail at each of the groups affected by this settlement of the West.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0435309218"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780435309213"
+     }
+    ],
+    "pageCount": 95,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dT55d5Cr4gcIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dT55d5Cr4gcIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dT55d5Cr4gcIC&printsec\u003dfrontcover&dq\u003dAmerican+West&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dT55d5Cr4gcIC&dq\u003dAmerican+West&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Brh_MUBvTBAC",
+   "etag": "A8AoB5yxeZo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Brh_MUBvTBAC",
+   "volumeInfo": {
+    "title": "The American West",
+    "subtitle": "visions and revisions",
+    "authors": [
+     "Margaret Walsh"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "2005",
+    "description": "This is a succinct survey of the numerous contributions to the history of the American west.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521593336"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521593335"
+     }
+    ],
+    "pageCount": 161,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dBrh_MUBvTBAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dBrh_MUBvTBAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBrh_MUBvTBAC&printsec\u003dfrontcover&dq\u003dAmerican+West&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBrh_MUBvTBAC&dq\u003dAmerican+West&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KFGeZPPThokC",
+   "etag": "scDlNMJ+Rxw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KFGeZPPThokC",
+   "volumeInfo": {
+    "title": "The American West",
+    "subtitle": "a modern history, 1900 to the present",
+    "authors": [
+     "Richard W. Etulain",
+     "Michael P. Malone"
+    ],
+    "publisher": "Bison Books",
+    "publishedDate": "2007",
+    "description": "Chronicles the history of the American West during the twentieth century, tracing economical, political, social, and cultural developments in the region from ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0803260229"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780803260221"
+     }
+    ],
+    "pageCount": 413,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dKFGeZPPThokC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dKFGeZPPThokC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKFGeZPPThokC&printsec\u003dfrontcover&dq\u003dAmerican+West&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKFGeZPPThokC&dq\u003dAmerican+West&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5Hi-ZdfcuBgC",
+   "etag": "Ti2g+dZMBu4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5Hi-ZdfcuBgC",
+   "volumeInfo": {
+    "title": "The American West",
+    "subtitle": "the reader",
+    "authors": [
+     "Walter T. K. Nugent",
+     "Martin Ridge"
+    ],
+    "publisher": "Indiana Univ Pr",
+    "publishedDate": "1999-10-01",
+    "description": "The \u003cb\u003eWest&#39;s\u003c/b\u003e claims of innocence on slavery are muted, however, by the presence of \u003cbr\u003e\r\nAfrican \u003cb\u003eAmerican\u003c/b\u003e bond servants in virtually every state and territory in \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0253212901"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780253212900"
+     }
+    ],
+    "pageCount": 335,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d5Hi-ZdfcuBgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d5Hi-ZdfcuBgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5Hi-ZdfcuBgC&pg\u003dPP1&dq\u003dAmerican+West&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5Hi-ZdfcuBgC&dq\u003dAmerican+West&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "x8GdLR7j6EgC",
+   "etag": "+oTWToiefgo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/x8GdLR7j6EgC",
+   "volumeInfo": {
+    "title": "American West",
+    "subtitle": "Twenty New Stories from the Western Writers of America",
+    "authors": [
+     "Loren D. Estleman"
+    ],
+    "publisher": "Forge Books",
+    "publishedDate": "2001-11-20",
+    "description": "A new collection of short fiction from members of the Western Writers of America offers a dramatic and stirring portrait of the American West and the colorful ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "031287281X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780312872816"
+     }
+    ],
+    "pageCount": 372,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dx8GdLR7j6EgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dx8GdLR7j6EgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dx8GdLR7j6EgC&printsec\u003dfrontcover&dq\u003dAmerican+West&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dx8GdLR7j6EgC&dq\u003dAmerican+West&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dx8GdLR7j6EgC&dq\u003dAmerican+West&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/American_West-sample-epub.acsm?id\u003dx8GdLR7j6EgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/American_West-sample-pdf.acsm?id\u003dx8GdLR7j6EgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VSh6VGjyOuUC",
+   "etag": "SaKavrhhaR4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VSh6VGjyOuUC",
+   "volumeInfo": {
+    "title": "The American West",
+    "subtitle": "A Treasury of Stories, Legends, Narratives, Songs and Ballads of Western America",
+    "authors": [
+     "William Targ"
+    ],
+    "publisher": "Kessinger Publishing",
+    "publishedDate": "2005-05-04",
+    "description": "Kessinger Publishing is the place to find hundreds of thousands of rare and hard-to-find books with something of interest for everyone!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1419118161"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781419118166"
+     }
+    ],
+    "pageCount": 604,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dVSh6VGjyOuUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dVSh6VGjyOuUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVSh6VGjyOuUC&printsec\u003dfrontcover&dq\u003dAmerican+West&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVSh6VGjyOuUC&dq\u003dAmerican+West&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3AYSadAOi3MC",
+   "etag": "1raWDf1yXNc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3AYSadAOi3MC",
+   "volumeInfo": {
+    "title": "The American West",
+    "subtitle": "a twentieth-century history",
+    "authors": [
+     "Michael P. Malone",
+     "Richard W. Etulain"
+    ],
+    "publisher": "Univ of Nebraska Pr",
+    "publishedDate": "1989",
+    "description": "Chronicles the history of the American West in the twentieth century, tracing economical, political, social, and cultural developments in the region from the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0803281676"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780803281677"
+     }
+    ],
+    "pageCount": 347,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d3AYSadAOi3MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d3AYSadAOi3MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3AYSadAOi3MC&printsec\u003dfrontcover&dq\u003dAmerican+West&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3AYSadAOi3MC&dq\u003dAmerican+West&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6QhkwoATEjAC",
+   "etag": "zZmTo7SOrDM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6QhkwoATEjAC",
+   "volumeInfo": {
+    "title": "The American West",
+    "authors": [
+     "Christine Hatt"
+    ],
+    "publisher": "Black Rabbit Books",
+    "publishedDate": "2004-08",
+    "description": "Questions the events leading up to the westward expansion, the great migration, and its impact on frontier life.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1583404430"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781583404430"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d6QhkwoATEjAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d6QhkwoATEjAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6QhkwoATEjAC&printsec\u003dfrontcover&dq\u003dAmerican+West&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6QhkwoATEjAC&dq\u003dAmerican+West&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 591
+}

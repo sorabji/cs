@@ -1,0 +1,424 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "oGEWAQAAIAAJ",
+   "etag": "tnFrxPmOoFI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oGEWAQAAIAAJ",
+   "volumeInfo": {
+    "title": "First editions",
+    "subtitle": "a field guide for collectors of English and American literature",
+    "authors": [
+     "K. Anthony Ward"
+    ],
+    "publisher": "Scolar Pr",
+    "publishedDate": "1994-05",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105006073337"
+     }
+    ],
+    "pageCount": 391,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003doGEWAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003doGEWAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doGEWAQAAIAAJ&dq\u003dFirst+Editions&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doGEWAQAAIAAJ&dq\u003dFirst+Editions&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NfM3GQAACAAJ",
+   "etag": "dlE9V1m3BUg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NfM3GQAACAAJ",
+   "volumeInfo": {
+    "title": "First editions",
+    "authors": [
+     "Richard Ray Kirk"
+    ],
+    "publishedDate": "1933",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:84111519"
+     }
+    ],
+    "pageCount": 36,
+    "printType": "BOOK",
+    "categories": [
+     "Books and reading"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNfM3GQAACAAJ&dq\u003dFirst+Editions&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNfM3GQAACAAJ&dq\u003dFirst+Editions&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AQHLQwAACAAJ",
+   "etag": "QvxjcYG19Is",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AQHLQwAACAAJ",
+   "volumeInfo": {
+    "title": "First editions",
+    "authors": [
+     "Sotheby Parke Bernet Inc"
+    ],
+    "publishedDate": "1959",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:171368844"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAQHLQwAACAAJ&dq\u003dFirst+Editions&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAQHLQwAACAAJ&dq\u003dFirst+Editions&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ogxWQwAACAAJ",
+   "etag": "HAu1Oa3nXBM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ogxWQwAACAAJ",
+   "volumeInfo": {
+    "title": "First editions",
+    "authors": [
+     "Bertram Rota, London"
+    ],
+    "publishedDate": "1992",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:226933548"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dogxWQwAACAAJ&dq\u003dFirst+Editions&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dogxWQwAACAAJ&dq\u003dFirst+Editions&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KA47MQAACAAJ",
+   "etag": "C5VthsIR7LM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KA47MQAACAAJ",
+   "volumeInfo": {
+    "title": "First editions",
+    "authors": [
+     "Swann Galleries"
+    ],
+    "publishedDate": "1970",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:171449622"
+     }
+    ],
+    "pageCount": 37,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKA47MQAACAAJ&dq\u003dFirst+Editions&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKA47MQAACAAJ&dq\u003dFirst+Editions&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "o7YPHAAACAAJ",
+   "etag": "DFX0sKQhVF4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o7YPHAAACAAJ",
+   "volumeInfo": {
+    "title": "First editions",
+    "authors": [
+     "J. & S. Rare Books and Graphics"
+    ],
+    "publishedDate": "1975",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:41984298"
+     }
+    ],
+    "pageCount": 175,
+    "printType": "BOOK",
+    "categories": [
+     "Booksellers' catalogs"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003do7YPHAAACAAJ&dq\u003dFirst+Editions&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003do7YPHAAACAAJ&dq\u003dFirst+Editions&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_1yfMQAACAAJ",
+   "etag": "4SzRGp8aqHQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_1yfMQAACAAJ",
+   "volumeInfo": {
+    "title": "First editions",
+    "subtitle": "Boswell's biography of Samuel Johnson, Burrough's autograph manuscript, Mark Twain, Dick's Dombey and Son in the original parts, Christian Science, Ben-Hur with autograph quotation, A. A. Milne limited signed editions, R. M. Byrd",
+    "authors": [
+     "Chicago Book & Art Auctions"
+    ],
+    "publishedDate": "1935",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:171503949"
+     }
+    ],
+    "pageCount": 36,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_1yfMQAACAAJ&dq\u003dFirst+Editions&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_1yfMQAACAAJ&dq\u003dFirst+Editions&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "85NvHQAACAAJ",
+   "etag": "bcjAxD2PeGw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/85NvHQAACAAJ",
+   "volumeInfo": {
+    "title": "First editions",
+    "subtitle": "including the fine collection of Rudyard Kipling formed by Paul Hyde Bonner ..., the writings of James B. Cabell and other modern authors from the library of Kingsland Spencer ..., selections from the library of Eustace Conway ..., with an extensive series of books designed by Bruce Rogers....",
+    "authors": [
+     "American Art Association"
+    ],
+    "publishedDate": "1926",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:18297606"
+     }
+    ],
+    "pageCount": 126,
+    "printType": "BOOK",
+    "categories": [
+     "First editions"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d85NvHQAACAAJ&dq\u003dFirst+Editions&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d85NvHQAACAAJ&dq\u003dFirst+Editions&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B05TGwAACAAJ",
+   "etag": "gVZYHVS7b38",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B05TGwAACAAJ",
+   "volumeInfo": {
+    "title": "First editions",
+    "subtitle": "autograph letters and manuscripts, original drawings and standard sets",
+    "authors": [
+     "American Art Association, Anderson Galleries (Firm)",
+     "Mary Strong Shattuck",
+     "C. J. Cresmer"
+    ],
+    "publishedDate": "1936",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:30484487"
+     }
+    ],
+    "pageCount": 102,
+    "printType": "BOOK",
+    "categories": [
+     "Private libraries"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dB05TGwAACAAJ&dq\u003dFirst+Editions&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dB05TGwAACAAJ&dq\u003dFirst+Editions&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BzqFGwAACAAJ",
+   "etag": "iXh+p/h7G2A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BzqFGwAACAAJ",
+   "volumeInfo": {
+    "title": "First editions",
+    "subtitle": "autograph letters and manuscripts of outstanding importance including a remarkable collection of letters & manuscripts by Walt Whitman, together with his will dated May 15, 1873 ... To be dispersed ... March 25 and 26th, 1936 ...",
+    "authors": [
+     "Rain Galleries"
+    ],
+    "publishedDate": "1936",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:10335509"
+     }
+    ],
+    "pageCount": 89,
+    "printType": "BOOK",
+    "categories": [
+     "Estate sales"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBzqFGwAACAAJ&dq\u003dFirst+Editions&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBzqFGwAACAAJ&dq\u003dFirst+Editions&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 585
+}

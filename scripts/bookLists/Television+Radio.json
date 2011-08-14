@@ -1,0 +1,547 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "kIJ4gVNY4HYC",
+   "etag": "XC3jjCivT5g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kIJ4gVNY4HYC",
+   "volumeInfo": {
+    "title": "How to Get Into Television, Radio and New Media",
+    "authors": [
+     "Mike Hollingsworth",
+     "Kimberley Stewart-Mole"
+    ],
+    "publisher": "Continuum Intl Pub Group",
+    "publishedDate": "2004-10-12",
+    "description": "*One-stop guide to everything one needs to know to break into Television, Radio, and Newmedia",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0826475388"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780826475381"
+     }
+    ],
+    "pageCount": 214,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dkIJ4gVNY4HYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dkIJ4gVNY4HYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkIJ4gVNY4HYC&printsec\u003dfrontcover&dq\u003dTelevision+Radio&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkIJ4gVNY4HYC&dq\u003dTelevision+Radio&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/How_to_Get_Into_Television_Radio_and_New-sample-epub.acsm?id\u003dkIJ4gVNY4HYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/How_to_Get_Into_Television_Radio_and_New-sample-pdf.acsm?id\u003dkIJ4gVNY4HYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YP2fQQAACAAJ",
+   "etag": "920kNY9pN5E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YP2fQQAACAAJ",
+   "volumeInfo": {
+    "title": "Writing for Television, Radio, and New Media",
+    "authors": [
+     "Robert L. Hilliard"
+    ],
+    "publisher": "Wadsworth Pub Co",
+    "publishedDate": "2011-07-08",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1439082715"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781439082713"
+     }
+    ],
+    "pageCount": 544,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dYP2fQQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dYP2fQQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYP2fQQAACAAJ&dq\u003dTelevision+Radio&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYP2fQQAACAAJ&dq\u003dTelevision+Radio&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lXdiAAAAMAAJ",
+   "etag": "m+Hzo5RD/1E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lXdiAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Superman on Film, Television, Radio and Broadway",
+    "authors": [
+     "Bruce Scivally"
+    ],
+    "publisher": "McFarland & Company",
+    "publishedDate": "2007-10",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0786431660"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786431663"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dlXdiAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dlXdiAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlXdiAAAAMAAJ&q\u003dTelevision+Radio&dq\u003dTelevision+Radio&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlXdiAAAAMAAJ&dq\u003dTelevision+Radio&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JTyvQgAACAAJ",
+   "etag": "ArEu61jd03Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JTyvQgAACAAJ",
+   "volumeInfo": {
+    "title": "Writing scripts for television, radio, and film",
+    "authors": [
+     "Edgar E. Willis",
+     "Camille D'Arienzo"
+    ],
+    "publisher": "Harcourt College Pub",
+    "publishedDate": "1993",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0030750113"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780030750113"
+     }
+    ],
+    "pageCount": 414,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dJTyvQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dJTyvQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJTyvQgAACAAJ&dq\u003dTelevision+Radio&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJTyvQgAACAAJ&dq\u003dTelevision+Radio&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ERAMyrFPr_wC",
+   "etag": "55kARxjD0lg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ERAMyrFPr_wC",
+   "volumeInfo": {
+    "title": "Music Business Handbook and Career Guide",
+    "authors": [
+     "David Baskerville",
+     "Tim Baskerville"
+    ],
+    "publisher": "Sage Publications, Inc",
+    "publishedDate": "2009-10-22",
+    "description": "American Federation \u003cb\u003eof Television and Radio\u003c/b\u003e Artists The American Federation \u003cb\u003eof\u003c/b\u003e \u003cbr\u003e\r\n\u003cb\u003eTelevision and Radio\u003c/b\u003e Artists (AFTRA) represents 70000 professional singers \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1412976790"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781412976794"
+     }
+    ],
+    "pageCount": 573,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dERAMyrFPr_wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dERAMyrFPr_wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dERAMyrFPr_wC&pg\u003dPA168&dq\u003dTelevision+Radio&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dERAMyrFPr_wC&dq\u003dTelevision+Radio&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PwOafh3tJ8kC",
+   "etag": "bhuVJek0Itc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PwOafh3tJ8kC",
+   "volumeInfo": {
+    "title": "No news is bad news",
+    "subtitle": "radio, television, and the public",
+    "authors": [
+     "Michael Bromley"
+    ],
+    "publisher": "Addison-Wesley Longman Ltd",
+    "publishedDate": "2001-04-09",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "058241833X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780582418332"
+     }
+    ],
+    "pageCount": 263,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dPwOafh3tJ8kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dPwOafh3tJ8kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPwOafh3tJ8kC&dq\u003dTelevision+Radio&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPwOafh3tJ8kC&dq\u003dTelevision+Radio&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MY8Huq3IPKgC",
+   "etag": "qPM3RDpRxUU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MY8Huq3IPKgC",
+   "volumeInfo": {
+    "title": "Radio and Television",
+    "authors": [
+     "Michael Teitelbaum"
+    ],
+    "publisher": "World Almanac Library",
+    "publishedDate": "2005-01",
+    "description": "Looks at the history of radio and television, their present-day use, and their evolution throughout the years.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0836858026"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780836858020"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "2.2.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dMY8Huq3IPKgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dMY8Huq3IPKgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMY8Huq3IPKgC&printsec\u003dfrontcover&dq\u003dTelevision+Radio&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMY8Huq3IPKgC&dq\u003dTelevision+Radio&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Mf2T_hYjRxAC",
+   "etag": "YRBnG8eXCWc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Mf2T_hYjRxAC",
+   "volumeInfo": {
+    "title": "Digital switchover of television and radio in the United Kingdom",
+    "subtitle": "2nd report of session 2009-10, report with evidence",
+    "authors": [
+     "Great Britain: Parliament: House of Lords: Select Committee on Communications"
+    ],
+    "publisher": "The Stationery Office",
+    "publishedDate": "2010-03-29",
+    "description": "The Committee warns of a major public reaction against radio digital switchover, scheduled for 2015, unless the Government make the case for switchover and keep ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0108459780"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780108459788"
+     }
+    ],
+    "pageCount": 279,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dMf2T_hYjRxAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dMf2T_hYjRxAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMf2T_hYjRxAC&printsec\u003dfrontcover&dq\u003dTelevision+Radio&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMf2T_hYjRxAC&dq\u003dTelevision+Radio&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2J4SjA-k3sQC",
+   "etag": "UFw808XrRjc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2J4SjA-k3sQC",
+   "volumeInfo": {
+    "title": "Researching for television and radio",
+    "authors": [
+     "Adèle Emm"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2002",
+    "description": "Emm offers practical advice and instruction on technical, ethical and legal issues which affect the researcher&#39;s work.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415243882"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415243889"
+     }
+    ],
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d2J4SjA-k3sQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d2J4SjA-k3sQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2J4SjA-k3sQC&printsec\u003dfrontcover&dq\u003dTelevision+Radio&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2J4SjA-k3sQC&dq\u003dTelevision+Radio&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 30.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 17.02,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d2J4SjA-k3sQC&dq\u003dTelevision+Radio&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Researching_for_television_and_radio-sample-epub.acsm?id\u003d2J4SjA-k3sQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Researching_for_television_and_radio-sample-pdf.acsm?id\u003d2J4SjA-k3sQC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AWXE9B7Lk_YC",
+   "etag": "jBLm3s/czl4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AWXE9B7Lk_YC",
+   "volumeInfo": {
+    "title": "Radio and television",
+    "authors": [
+     "Ian Graham"
+    ],
+    "publisher": "Evans Brothers, Limited",
+    "publishedDate": "2003-09-04",
+    "description": "A \u003cb\u003eradio\u003c/b\u003e collar sends out signals that allow its location to be plotted. \u003cb\u003eRadio\u003c/b\u003e \u003cbr\u003e\r\nwaves carry \u003cb\u003eradio\u003c/b\u003e and \u003cb\u003etelevision\u003c/b\u003e programmes into our homes. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0237526271"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780237526276"
+     }
+    ],
+    "pageCount": 46,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dAWXE9B7Lk_YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dAWXE9B7Lk_YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAWXE9B7Lk_YC&printsec\u003dfrontcover&dq\u003dTelevision+Radio&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAWXE9B7Lk_YC&dq\u003dTelevision+Radio&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 586
+}

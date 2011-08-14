@@ -1,0 +1,551 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "sGkD84aCeLoC",
+   "etag": "xDATj+9Db3s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sGkD84aCeLoC",
+   "volumeInfo": {
+    "title": "Electronics For Dummies",
+    "authors": [
+     "Cathleen Shamieh",
+     "Gordon McComb"
+    ],
+    "publisher": "For Dummies",
+    "publishedDate": "2011-01-04",
+    "description": "Electronics is fascinating - want to make something of it? This book shows you how!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1118052544"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781118052549"
+     }
+    ],
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dsGkD84aCeLoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dsGkD84aCeLoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dsGkD84aCeLoC&printsec\u003dfrontcover&dq\u003dElectronics&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dsGkD84aCeLoC&dq\u003dElectronics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Electronics_For_Dummies-sample-epub.acsm?id\u003dsGkD84aCeLoC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oboFFUyMEoYC",
+   "etag": "VCU30BssFZY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oboFFUyMEoYC",
+   "volumeInfo": {
+    "title": "Electronics",
+    "subtitle": "A First Course",
+    "authors": [
+     "Owen Bishop"
+    ],
+    "publishedDate": "2006-06-21",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0750669608"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780750669603"
+     }
+    ],
+    "pageCount": 223,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003doboFFUyMEoYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003doboFFUyMEoYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doboFFUyMEoYC&dq\u003dElectronics&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doboFFUyMEoYC&dq\u003dElectronics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RQYsLAP2nzkC",
+   "etag": "Vn3enwh3OPU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RQYsLAP2nzkC",
+   "volumeInfo": {
+    "title": "Practical electronics for inventors",
+    "authors": [
+     "Paul Scherz"
+    ],
+    "publisher": "McGraw-Hill/TAB Electronics",
+    "publishedDate": "2007",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0071452818"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071452816"
+     }
+    ],
+    "pageCount": 952,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dRQYsLAP2nzkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dRQYsLAP2nzkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRQYsLAP2nzkC&dq\u003dElectronics&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRQYsLAP2nzkC&dq\u003dElectronics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eS1z95mzi28C",
+   "etag": "wokgagNxg5M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eS1z95mzi28C",
+   "volumeInfo": {
+    "title": "Power Electronics Handbook",
+    "subtitle": "Devices, Circuits, and Applications",
+    "authors": [
+     "Muhammad H. Rashid"
+    ],
+    "publisher": "Butterworth-Heinemann",
+    "publishedDate": "2010-12-09",
+    "description": "This is an expert guide to total power solutions.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0123820367"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780123820365"
+     }
+    ],
+    "pageCount": 1389,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003deS1z95mzi28C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003deS1z95mzi28C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deS1z95mzi28C&printsec\u003dfrontcover&dq\u003dElectronics&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deS1z95mzi28C&dq\u003dElectronics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 189.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 151.96,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003deS1z95mzi28C&dq\u003dElectronics&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Power_Electronics_Handbook-sample-epub.acsm?id\u003deS1z95mzi28C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Power_Electronics_Handbook-sample-pdf.acsm?id\u003deS1z95mzi28C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "clgkCIx8XjUC",
+   "etag": "vtaUhGMYUcg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/clgkCIx8XjUC",
+   "volumeInfo": {
+    "title": "Electronics",
+    "subtitle": "a systems approach",
+    "authors": [
+     "Neil Storey"
+    ],
+    "publisher": "Prentice Hall",
+    "publishedDate": "2009-03",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0273719181"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780273719182"
+     }
+    ],
+    "pageCount": 804,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dclgkCIx8XjUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dclgkCIx8XjUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dclgkCIx8XjUC&dq\u003dElectronics&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dclgkCIx8XjUC&dq\u003dElectronics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "S91G_Nz_KjEC",
+   "etag": "IuC7mqeYX1M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/S91G_Nz_KjEC",
+   "volumeInfo": {
+    "title": "Fundamentals of power electronics",
+    "authors": [
+     "Robert Warren Erickson",
+     "Dragan Maksimović"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2001-01-31",
+    "description": "This edition includes many new examples, illustrations, and exercises to guide students and professionals through the intricacies of power electronics design.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0792372700"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780792372707"
+     }
+    ],
+    "pageCount": 883,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dS91G_Nz_KjEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dS91G_Nz_KjEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dS91G_Nz_KjEC&printsec\u003dfrontcover&dq\u003dElectronics&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dS91G_Nz_KjEC&dq\u003dElectronics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Fundamentals_of_power_electronics-sample-pdf.acsm?id\u003dS91G_Nz_KjEC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8NAxnNNpxDQC",
+   "etag": "MqucpGwnlD4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8NAxnNNpxDQC",
+   "volumeInfo": {
+    "title": "Electronics",
+    "subtitle": "The Life Story of a Technology",
+    "authors": [
+     "David L. Morton, Jr.",
+     "Joseph Gabriel"
+    ],
+    "publisher": "Johns Hopkins Univ Pr",
+    "publishedDate": "2007-12",
+    "description": "Electronics also relates the fascinating stories of how scientists and engineers created and commercialized such devices as the transistor, the Magnetron tube ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0801887739"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780801887734"
+     }
+    ],
+    "pageCount": 216,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d8NAxnNNpxDQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d8NAxnNNpxDQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8NAxnNNpxDQC&printsec\u003dfrontcover&dq\u003dElectronics&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8NAxnNNpxDQC&dq\u003dElectronics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Electronics-sample-epub.acsm?id\u003d8NAxnNNpxDQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Jx4dLhZp93EC",
+   "etag": "LcFYvz4ZMHA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Jx4dLhZp93EC",
+   "volumeInfo": {
+    "title": "Starting Electronics",
+    "authors": [
+     "Keith Brindley"
+    ],
+    "publisher": "Butterworth-Heinemann",
+    "publishedDate": "1999-06-15",
+    "description": "Keith Brindley introduces readers to the functions of the main component types, their uses, and the basic principles of building and designing electronic ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0750644354"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780750644358"
+     }
+    ],
+    "pageCount": 250,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dJx4dLhZp93EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dJx4dLhZp93EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJx4dLhZp93EC&printsec\u003dfrontcover&dq\u003dElectronics&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJx4dLhZp93EC&dq\u003dElectronics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "moIvXRo0_ywC",
+   "etag": "3s910xWsKvY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/moIvXRo0_ywC",
+   "volumeInfo": {
+    "title": "Electronics",
+    "subtitle": "MP3s, TVs, and DVDs",
+    "authors": [
+     "Chris Oxlade"
+    ],
+    "publisher": "Heinemann/Raintree",
+    "publishedDate": "2006",
+    "description": "Describes the technology that we use today such as cell phones, flat-screen televisions, and digital cameras, and discusses what things are likely to develop in ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1403474338"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781403474339"
+     }
+    ],
+    "pageCount": 56,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dmoIvXRo0_ywC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dmoIvXRo0_ywC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmoIvXRo0_ywC&pg\u003dPP1&dq\u003dElectronics&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmoIvXRo0_ywC&dq\u003dElectronics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QWbRpMVjNPkC",
+   "etag": "7r/+Urh45No",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QWbRpMVjNPkC",
+   "volumeInfo": {
+    "title": "Electronics",
+    "authors": [
+     "Moira Butterfield"
+    ],
+    "publisher": "Black Rabbit Books",
+    "publishedDate": "2004-01",
+    "description": "Discusses the history of electronics, how they affect everyday life, and where they are going in the future.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1583405062"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781583405062"
+     }
+    ],
+    "pageCount": 44,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dQWbRpMVjNPkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dQWbRpMVjNPkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQWbRpMVjNPkC&printsec\u003dfrontcover&dq\u003dElectronics&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQWbRpMVjNPkC&dq\u003dElectronics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 524
+}

@@ -1,0 +1,535 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "b6PK48LqjwIC",
+   "etag": "MlZz5ArztHw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/b6PK48LqjwIC",
+   "volumeInfo": {
+    "title": "Psychology",
+    "authors": [
+     "David G. Myers"
+    ],
+    "publisher": "Worth Pub",
+    "publishedDate": "2004-01",
+    "description": "This new edition continues the story of psychology with added research and enhanced content from the most dynamic areas of the field—cognition, gender and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0716752514"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780716752516"
+     }
+    ],
+    "pageCount": 741,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003db6PK48LqjwIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003db6PK48LqjwIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003db6PK48LqjwIC&printsec\u003dfrontcover&dq\u003dPsychology&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003db6PK48LqjwIC&dq\u003dPsychology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Wnr7vEjB7NAC",
+   "etag": "BWVPMwUVYEo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Wnr7vEjB7NAC",
+   "volumeInfo": {
+    "title": "Psychology",
+    "subtitle": "Themes and Variations",
+    "authors": [
+     "Wayne Weiten"
+    ],
+    "publisher": "Wadsworth Pub Co",
+    "publishedDate": "2010-01-01",
+    "description": "In PSYCHOLOGY: THEMES AND VARIATIONS, BRIEFER VERSION, Wayne Weiten continues his proven combination of a scientifically rigorous text with selective pedagogy ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0495813109"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780495813101"
+     }
+    ],
+    "pageCount": 768,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dWnr7vEjB7NAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dWnr7vEjB7NAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWnr7vEjB7NAC&printsec\u003dfrontcover&dq\u003dPsychology&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWnr7vEjB7NAC&dq\u003dPsychology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eLmyPMGyKZUC",
+   "etag": "cqN63+pckS8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eLmyPMGyKZUC",
+   "volumeInfo": {
+    "title": "Psychology",
+    "subtitle": "The Briefer Course",
+    "authors": [
+     "William James"
+    ],
+    "publisher": "Dover Pubns",
+    "publishedDate": "2001-05-24",
+    "description": "Condensed and reworked from James&#39;s monumental Principles of Psychology, this classic text examines habit; stream of consciousness; self and the sense of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0486416046"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486416045"
+     }
+    ],
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003deLmyPMGyKZUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003deLmyPMGyKZUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deLmyPMGyKZUC&printsec\u003dfrontcover&dq\u003dPsychology&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deLmyPMGyKZUC&dq\u003dPsychology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "a0w4AAAAIAAJ",
+   "etag": "Hmjw8krR61U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a0w4AAAAIAAJ",
+   "volumeInfo": {
+    "title": "Psychology",
+    "subtitle": "the study of behaviour",
+    "authors": [
+     "William McDougall"
+    ],
+    "publisher": "CUP Archive",
+    "publishedDate": "1914",
+    "description": "\u003cb\u003ePSYCHOLOGY\u003c/b\u003e AS THE STUDY OF BEHAVIOUR BY OL ZANGWILL In 1912, a short book was \u003cbr\u003e\r\npublished entitled \u003cb\u003ePsychology\u003c/b\u003e: The Study of Behaviour. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:YS7CW4207UZ"
+     }
+    ],
+    "pageCount": 250,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003da0w4AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003da0w4AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003da0w4AAAAIAAJ&printsec\u003dfrontcover&dq\u003dPsychology&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003da0w4AAAAIAAJ&dq\u003dPsychology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "l8j_z5-qZfAC",
+   "etag": "1g+VY/KtB3s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/l8j_z5-qZfAC",
+   "volumeInfo": {
+    "title": "Psychology",
+    "subtitle": "An International Perspective",
+    "authors": [
+     "Michael W. Eysenck"
+    ],
+    "publisher": "Psychology Pr",
+    "publishedDate": "2004",
+    "description": "Unlike typical American texts, this book provides an international approach to introductory psychology, providing comprehensive and lively coverage of current ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "184169360X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781841693606"
+     }
+    ],
+    "pageCount": 984,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dl8j_z5-qZfAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dl8j_z5-qZfAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dl8j_z5-qZfAC&printsec\u003dfrontcover&dq\u003dPsychology&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dl8j_z5-qZfAC&dq\u003dPsychology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "L32U6DACHT0C",
+   "etag": "nwOxGZkpJOE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/L32U6DACHT0C",
+   "volumeInfo": {
+    "title": "Psychology",
+    "authors": [
+     "David G. Myers"
+    ],
+    "publisher": "Worth Pub",
+    "publishedDate": "2008-12",
+    "description": "There is no such thing as a light, perfunctory revision of David Myers’ Psychology.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1429215976"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781429215978"
+     }
+    ],
+    "pageCount": 928,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dL32U6DACHT0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dL32U6DACHT0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dL32U6DACHT0C&printsec\u003dfrontcover&dq\u003dPsychology&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dL32U6DACHT0C&dq\u003dPsychology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lbtE-xb5U-oC",
+   "etag": "r2MDMibD3wU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lbtE-xb5U-oC",
+   "volumeInfo": {
+    "title": "The principles of psychology",
+    "authors": [
+     "William James"
+    ],
+    "publishedDate": "1918",
+    "description": "THE SCOPE OF \u003cb\u003ePSYCHOLOGY\u003c/b\u003e. \u003cb\u003ePsychology\u003c/b\u003e is the Science of Mental Life, both of its \u003cbr\u003e\r\nphenomena and of their conditions. The phenomena are such things as we call \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105046662578"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 18,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dlbtE-xb5U-oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dlbtE-xb5U-oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlbtE-xb5U-oC&printsec\u003dfrontcover&dq\u003dPsychology&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlbtE-xb5U-oC&dq\u003dPsychology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/The_principles_of_psychology.epub?id\u003dlbtE-xb5U-oC&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_principles_of_psychology.pdf?id\u003dlbtE-xb5U-oC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0I56zqMRNnnkWKqQb0-aPwKtoMRQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lqMXAAAAYAAJ",
+   "etag": "xANg7UGeiF4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lqMXAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Psychology",
+    "authors": [
+     "John Dewey"
+    ],
+    "publishedDate": "1891",
+    "description": "The Subject-matter of \u003cb\u003ePsychology\u003c/b\u003e. Definition of \u003cb\u003ePsychology\u003c/b\u003e : \u003cb\u003ePsychology\u003c/b\u003e is the \u003cbr\u003e\r\nScience- of the Facts or Phenomena of Self. — This definition cannot be \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PRNC:32101066076702"
+     }
+    ],
+    "pageCount": 427,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dlqMXAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dlqMXAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlqMXAAAAYAAJ&printsec\u003dfrontcover&dq\u003dPsychology&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlqMXAAAAYAAJ&dq\u003dPsychology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Psychology.epub?id\u003dlqMXAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Psychology.pdf?id\u003dlqMXAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3piZI92Xb5w94ZpDpIf0jigMhf5g&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "b08Of3tcYmMC",
+   "etag": "X2WjnazDgp0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/b08Of3tcYmMC",
+   "volumeInfo": {
+    "title": "Psychology",
+    "authors": [
+     "David Myers",
+     "Malcolm Jeeves",
+     "Nicholas Wolterstorff"
+    ],
+    "publisher": "Harper San Francisco",
+    "publishedDate": "2002-11",
+    "description": "Identifies the major ideas that college and university students will encounter in a basic psychology course and explores connections with Christian belief.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0060655577"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780060655570"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003db08Of3tcYmMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003db08Of3tcYmMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003db08Of3tcYmMC&printsec\u003dfrontcover&dq\u003dPsychology&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003db08Of3tcYmMC&dq\u003dPsychology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4MO8cGLz6-EC",
+   "etag": "Gnzb54OZb9M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4MO8cGLz6-EC",
+   "volumeInfo": {
+    "title": "Psychology",
+    "authors": [
+     "James S. Nairne"
+    ],
+    "publisher": "Wadsworth Pub Co",
+    "publishedDate": "2008-01-18",
+    "description": "Straightforward and student friendly, James S. Nairne&#39;s PSYCHOLOGY, Fifth Edition, uses a proven problem-solving approach to help you discover how to apply ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0495504556"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780495504559"
+     }
+    ],
+    "pageCount": 547,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d4MO8cGLz6-EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d4MO8cGLz6-EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4MO8cGLz6-EC&printsec\u003dfrontcover&dq\u003dPsychology&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4MO8cGLz6-EC&dq\u003dPsychology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 570
+}

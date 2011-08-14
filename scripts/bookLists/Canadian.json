@@ -1,0 +1,564 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "wLwRAAAAYAAJ",
+   "etag": "3doT+/thaUU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wLwRAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Canadian",
+    "publishedDate": "1895",
+    "description": "Long before Canada was transferred from French to English rule, the value of \u003cbr\u003e\r\n\u003cb\u003eCanadian\u003c/b\u003e woods for shipbuilding purposes had been discovered by the colonists. \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433081673141"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dwLwRAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dwLwRAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwLwRAAAAYAAJ&pg\u003dPA3&dq\u003dCanadian&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwLwRAAAAYAAJ&dq\u003dCanadian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Canadian.pdf?id\u003dwLwRAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U39r_JYoxxWQvRrlq6Rt4kz_0VL_g&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1jd6oqRHxLYC",
+   "etag": "Y0UZUpoF1g0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1jd6oqRHxLYC",
+   "volumeInfo": {
+    "title": "Canadian Politics",
+    "authors": [
+     "James Bickerton"
+    ],
+    "publisher": "Univ of Toronto Pr",
+    "publishedDate": "2009-08-31",
+    "description": "For this edition, the editors have organized the book into four sections: Part I: Citizenship, Identities, and Values; Part II: Institutions; Part III: ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1442601213"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781442601215"
+     }
+    ],
+    "pageCount": 416,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d1jd6oqRHxLYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d1jd6oqRHxLYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1jd6oqRHxLYC&printsec\u003dfrontcover&dq\u003dCanadian&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1jd6oqRHxLYC&dq\u003dCanadian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Canadian_Politics-sample-epub.acsm?id\u003d1jd6oqRHxLYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "brtGf0RsE2sC",
+   "etag": "82RPSQ36DYc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/brtGf0RsE2sC",
+   "volumeInfo": {
+    "title": "The Canadian in America",
+    "subtitle": "Real-Life Tax and Financial Insights Into Moving and Living in the U.S.",
+    "authors": [
+     "Brian D. Wruk",
+     "Terry F. Ritchie"
+    ],
+    "publisher": "Ecw Press",
+    "publishedDate": "2007-05-01",
+    "description": "Is a Canadian will valid in America? and What coverage do provincial health plans provide in the United States?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1550227572"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781550227574"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dbrtGf0RsE2sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dbrtGf0RsE2sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbrtGf0RsE2sC&printsec\u003dfrontcover&dq\u003dCanadian&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbrtGf0RsE2sC&dq\u003dCanadian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.56,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dbrtGf0RsE2sC&dq\u003dCanadian&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Canadian_in_America-sample-epub.acsm?id\u003dbrtGf0RsE2sC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Canadian_in_America-sample-pdf.acsm?id\u003dbrtGf0RsE2sC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s2kb9jJuxzcC",
+   "etag": "CL6QTbfbpGQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s2kb9jJuxzcC",
+   "volumeInfo": {
+    "title": "The Canadian style",
+    "subtitle": "a guide to writing and editing",
+    "authors": [
+     "Canada. Translation Bureau"
+    ],
+    "publisher": "Dundurn Group",
+    "publishedDate": "1997",
+    "description": "This reasonably priced handbook is cross-referenced, and indexed chapters make it easy to find the information you need.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1550022768"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781550022766"
+     }
+    ],
+    "pageCount": 311,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003ds2kb9jJuxzcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003ds2kb9jJuxzcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ds2kb9jJuxzcC&printsec\u003dfrontcover&dq\u003dCanadian&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ds2kb9jJuxzcC&dq\u003dCanadian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "23XiHCejH2YC",
+   "etag": "/R4X7hG+jFo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/23XiHCejH2YC",
+   "volumeInfo": {
+    "title": "Canadian Family Law",
+    "authors": [
+     "Malcolm C. Kronby"
+    ],
+    "publisher": "Wiley",
+    "publishedDate": "2010-02-09",
+    "description": "Illustrated with case studies, Canadian Family Law is the standard reference guide that people who are contemplating marriage, or separation and divorce, turn ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0470736828"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470736821"
+     }
+    ],
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d23XiHCejH2YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d23XiHCejH2YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d23XiHCejH2YC&printsec\u003dfrontcover&dq\u003dCanadian&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d23XiHCejH2YC&dq\u003dCanadian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 19.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d23XiHCejH2YC&dq\u003dCanadian&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Canadian_Family_Law-sample-epub.acsm?id\u003d23XiHCejH2YC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Canadian_Family_Law-sample-pdf.acsm?id\u003d23XiHCejH2YC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jwrvwbxihiEC",
+   "etag": "PbVj+gKSmow",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jwrvwbxihiEC",
+   "volumeInfo": {
+    "title": "The Canadian modernists meet",
+    "authors": [
+     "Dean Jay Irvine"
+    ],
+    "publisher": "Univ of Ottawa Pr",
+    "publishedDate": "2005",
+    "description": "The collection stages a major reassessment of the origins and development of modernist literature in Canada, its relationship to international modernist ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0776605992"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780776605999"
+     }
+    ],
+    "pageCount": 363,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003djwrvwbxihiEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003djwrvwbxihiEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djwrvwbxihiEC&printsec\u003dfrontcover&dq\u003dCanadian&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djwrvwbxihiEC&dq\u003dCanadian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Canadian_modernists_meet-sample-epub.acsm?id\u003djwrvwbxihiEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5ELkBaucOKIC",
+   "etag": "iLqLKfo+yLw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5ELkBaucOKIC",
+   "volumeInfo": {
+    "title": "The Canadian Snowbird Guide",
+    "subtitle": "Everything You Need to Know about Living Part-Time in the USA and Mexico",
+    "authors": [
+     "Douglas Gray"
+    ],
+    "publisher": "Wiley",
+    "publishedDate": "2009-09-30",
+    "description": "Here are a few of the key topics and innovative ideas that &quot;The Canadian Snowbird Guide&quot; covers: Financial planning for your extended stay in the SunbeltWhat ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "047015375X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470153758"
+     }
+    ],
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d5ELkBaucOKIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d5ELkBaucOKIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5ELkBaucOKIC&printsec\u003dfrontcover&dq\u003dCanadian&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5ELkBaucOKIC&dq\u003dCanadian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 17.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d5ELkBaucOKIC&dq\u003dCanadian&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Canadian_Snowbird_Guide-sample-pdf.acsm?id\u003d5ELkBaucOKIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AJneY5ANfhcC",
+   "etag": "LNOm0wDvDkI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AJneY5ANfhcC",
+   "volumeInfo": {
+    "title": "Canadian Airborne Forces Since 1942",
+    "authors": [
+     "Bernd Horn",
+     "Michel Wyczynski",
+     "Carlos Chagas"
+    ],
+    "publisher": "Osprey Publishing",
+    "publishedDate": "2006-08-29",
+    "description": "This book details the fascinating and proud history of the Canadian Airborne Regiments.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1841769851"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781841769851"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dAJneY5ANfhcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dAJneY5ANfhcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAJneY5ANfhcC&printsec\u003dfrontcover&dq\u003dCanadian&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAJneY5ANfhcC&dq\u003dCanadian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KwKEjYITFj0C",
+   "etag": "3wVb3fCyEnc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KwKEjYITFj0C",
+   "volumeInfo": {
+    "title": "Inside Canadian intelligence",
+    "subtitle": "exposing the new realities of espionage and international terrorism",
+    "authors": [
+     "Dwight Hamilton"
+    ],
+    "publisher": "Dundurn Press",
+    "publishedDate": "2006-06-10",
+    "description": "Forget James Bond: this is the real thing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1550026089"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781550026085"
+     }
+    ],
+    "pageCount": 264,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dKwKEjYITFj0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dKwKEjYITFj0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKwKEjYITFj0C&printsec\u003dfrontcover&dq\u003dCanadian&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKwKEjYITFj0C&dq\u003dCanadian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Inside_Canadian_intelligence-sample-epub.acsm?id\u003dKwKEjYITFj0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iri56zMBdfkC",
+   "etag": "4tSl9M9FPxc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iri56zMBdfkC",
+   "volumeInfo": {
+    "title": "Canadian copyright law",
+    "subtitle": "the indispensable guide for publishers, web professionals, writers, artists, filmmakers, teachers, librarians, archivists, curators, lawyers and business people",
+    "authors": [
+     "Lesley Ellen Harris"
+    ],
+    "publishedDate": "2001",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0075603691"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780075603696"
+     }
+    ],
+    "pageCount": 332,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003diri56zMBdfkC&dq\u003dCanadian&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003diri56zMBdfkC&dq\u003dCanadian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 597
+}

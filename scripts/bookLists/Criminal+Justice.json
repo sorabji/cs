@@ -1,0 +1,545 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "o0rjRPnO7K4C",
+   "etag": "Wyz1hDmspUU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o0rjRPnO7K4C",
+   "volumeInfo": {
+    "title": "Criminal justice",
+    "authors": [
+     "Joel Samaha"
+    ],
+    "publisher": "Wadsworth Pub Co",
+    "publishedDate": "2005-06-17",
+    "description": "This edition retains and enhances these strengths with such features as &quot;Fact or Fiction?&quot;a new feature that gets students thinking about the major topics at ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0534645577"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780534645571"
+     }
+    ],
+    "pageCount": 608,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003do0rjRPnO7K4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003do0rjRPnO7K4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003do0rjRPnO7K4C&printsec\u003dfrontcover&dq\u003dCriminal+Justice&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003do0rjRPnO7K4C&dq\u003dCriminal+Justice&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cVrvh4iFcmUC",
+   "etag": "Xz6bM3rIhAw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cVrvh4iFcmUC",
+   "volumeInfo": {
+    "title": "Criminal Justice",
+    "authors": [
+     "Malcolm Davies",
+     "Hazel Croall",
+     "Jane Tyrer"
+    ],
+    "publisher": "Longman",
+    "publishedDate": "2009-08-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "140585880X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405858809"
+     }
+    ],
+    "pageCount": 568,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dcVrvh4iFcmUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dcVrvh4iFcmUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcVrvh4iFcmUC&dq\u003dCriminal+Justice&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcVrvh4iFcmUC&dq\u003dCriminal+Justice&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wRpeN_629RcC",
+   "etag": "FCS9WcArUws",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wRpeN_629RcC",
+   "volumeInfo": {
+    "title": "Criminal justice",
+    "subtitle": "an introduction to philosophies, theories and practice",
+    "authors": [
+     "Ian Marsh",
+     "John Cochrane",
+     "Gaynor Melville"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2004-06-18",
+    "description": "This new text will encourage students to develop a deeper understanding of the context and the current workings of the criminal justice system.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415333016"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415333016"
+     }
+    ],
+    "pageCount": 236,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dwRpeN_629RcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dwRpeN_629RcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwRpeN_629RcC&printsec\u003dfrontcover&dq\u003dCriminal+Justice&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwRpeN_629RcC&dq\u003dCriminal+Justice&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 49.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 39.46,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dwRpeN_629RcC&dq\u003dCriminal+Justice&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Criminal_justice-sample-pdf.acsm?id\u003dwRpeN_629RcC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "P8-oSPHlHXoC",
+   "etag": "z8F7vtFhOvk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/P8-oSPHlHXoC",
+   "volumeInfo": {
+    "title": "Criminal justice",
+    "subtitle": "an introduction",
+    "authors": [
+     "Philip P. Purpura"
+    ],
+    "publisher": "Elsevier",
+    "publishedDate": "1997",
+    "description": "Each chapter ends with applications that enable the student to apply the material to real life situations.Criminal Justice: An Introduction is designed to ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0750696303"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780750696302"
+     }
+    ],
+    "pageCount": 408,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dP8-oSPHlHXoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dP8-oSPHlHXoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dP8-oSPHlHXoC&printsec\u003dfrontcover&dq\u003dCriminal+Justice&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dP8-oSPHlHXoC&dq\u003dCriminal+Justice&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pPYnra-tZX4C",
+   "etag": "CJf0nHCBuBQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pPYnra-tZX4C",
+   "volumeInfo": {
+    "title": "Criminal justice",
+    "subtitle": "retribution vs. restoration?",
+    "authors": [
+     "Eleanor Hannon Judah"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2004-06-07",
+    "description": "Criminal Justice includes such intriguing topics as: the social costs and moral economy of incarceration drug policy--should drug users be incarcerated or ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0789000814"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780789000811"
+     }
+    ],
+    "pageCount": 265,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dpPYnra-tZX4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dpPYnra-tZX4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpPYnra-tZX4C&printsec\u003dfrontcover&dq\u003dCriminal+Justice&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpPYnra-tZX4C&dq\u003dCriminal+Justice&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "p5-Dx4h6obEC",
+   "etag": "0QvLWKC9t4Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/p5-Dx4h6obEC",
+   "volumeInfo": {
+    "title": "Introduction to Criminal Justice",
+    "authors": [
+     "Larry J. Siegel"
+    ],
+    "publisher": "Wadsworth Pub Co",
+    "publishedDate": "2009-01-05",
+    "description": "As fast-paced and vital as criminal justice itself, the Twelfth Edition of Siegel&#39;s INTRODUCTION TO CRIMINAL JUSTICE is an authoritative, comprehensive, solidly ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0495599778"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780495599777"
+     }
+    ],
+    "pageCount": 746,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dp5-Dx4h6obEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dp5-Dx4h6obEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dp5-Dx4h6obEC&printsec\u003dfrontcover&dq\u003dCriminal+Justice&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dp5-Dx4h6obEC&dq\u003dCriminal+Justice&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DcTf9CQ7XAIC",
+   "etag": "HpmKg2rz+GE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DcTf9CQ7XAIC",
+   "volumeInfo": {
+    "title": "Criminal Justice in Action",
+    "subtitle": "The Core",
+    "authors": [
+     "Larry K. Gaines",
+     "Roger LeRoy Miller"
+    ],
+    "publisher": "Wadsworth Pub Co",
+    "publishedDate": "2011-01-01",
+    "description": "With its striking, magazine-like format, CRIMINAL JUSTICE IN ACTION: THE CORE, 6e immerses students into the real-world excitement of the field and uses ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0495913553"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780495913559"
+     }
+    ],
+    "pageCount": 496,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dDcTf9CQ7XAIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dDcTf9CQ7XAIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDcTf9CQ7XAIC&printsec\u003dfrontcover&dq\u003dCriminal+Justice&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDcTf9CQ7XAIC&dq\u003dCriminal+Justice&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hhUUUp3hHQUC",
+   "etag": "Tj9QFDN2hRs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hhUUUp3hHQUC",
+   "volumeInfo": {
+    "title": "Criminal justice",
+    "subtitle": "readings",
+    "authors": [
+     "George S. Bridges",
+     "Joseph G. Weis",
+     "Robert D. Crutchfield"
+    ],
+    "publisher": "Pine Forge Pr",
+    "publishedDate": "1996",
+    "description": "Presents the field accurately and completely in a way that is understandable to undergraduates.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0803990804"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780803990807"
+     }
+    ],
+    "pageCount": 494,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dhhUUUp3hHQUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dhhUUUp3hHQUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhhUUUp3hHQUC&printsec\u003dfrontcover&dq\u003dCriminal+Justice&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhhUUUp3hHQUC&dq\u003dCriminal+Justice&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-D9JOwAACAAJ",
+   "etag": "/IMTLR7S/RE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-D9JOwAACAAJ",
+   "volumeInfo": {
+    "title": "Criminal Justice",
+    "authors": [
+     "James A. Inciardi",
+     "James Inciardi"
+    ],
+    "publisher": "McGraw-Hill Humanities/Social Sciences/Languages",
+    "publishedDate": "2009-01-16",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0073527963"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780073527963"
+     }
+    ],
+    "pageCount": 672,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d-D9JOwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d-D9JOwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-D9JOwAACAAJ&dq\u003dCriminal+Justice&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-D9JOwAACAAJ&dq\u003dCriminal+Justice&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "X4j2iLrstToC",
+   "etag": "ukiS3XnbDpA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/X4j2iLrstToC",
+   "volumeInfo": {
+    "title": "Criminal Justice",
+    "authors": [
+     "Ursula Smartt"
+    ],
+    "publisher": "Sage Publications Ltd",
+    "publishedDate": "2006-04-27",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1412907071"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781412907071"
+     }
+    ],
+    "pageCount": 226,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dX4j2iLrstToC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dX4j2iLrstToC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dX4j2iLrstToC&dq\u003dCriminal+Justice&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dX4j2iLrstToC&dq\u003dCriminal+Justice&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 586
+}

@@ -1,0 +1,478 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "F9NEPgAACAAJ",
+   "etag": "qizN7xVttMQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/F9NEPgAACAAJ",
+   "volumeInfo": {
+    "title": "Television and Radio",
+    "authors": [
+     "Sean Connolly"
+    ],
+    "publisher": "Smart Apple Media",
+    "publishedDate": "2009-08",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1599203502"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781599203508"
+     }
+    ],
+    "pageCount": 46,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dF9NEPgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dF9NEPgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dF9NEPgAACAAJ&dq\u003dTelevision+and+Radio&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dF9NEPgAACAAJ&dq\u003dTelevision+and+Radio&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TM7ah4u6un0C",
+   "etag": "sZ8c3NGl/6o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TM7ah4u6un0C",
+   "volumeInfo": {
+    "title": "Television and radio",
+    "authors": [
+     "Giraud Chester",
+     "Garnet R. Garrison",
+     "Edgar E. Willis"
+    ],
+    "publisher": "Prentice Hall",
+    "publishedDate": "1978",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "MINN:319510009891291"
+     }
+    ],
+    "pageCount": 543,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dTM7ah4u6un0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dTM7ah4u6un0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTM7ah4u6un0C&q\u003dTelevision+and+Radio&dq\u003dTelevision+and+Radio&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTM7ah4u6un0C&dq\u003dTelevision+and+Radio&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cdUQAAAAIAAJ",
+   "etag": "8pgHpBaIhkg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cdUQAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Television and radio",
+    "authors": [
+     "Poyntz Tyler"
+    ],
+    "publishedDate": "1961",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105033534798"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dcdUQAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dcdUQAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcdUQAAAAIAAJ&q\u003dTelevision+and+Radio&dq\u003dTelevision+and+Radio&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcdUQAAAAIAAJ&dq\u003dTelevision+and+Radio&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "McoOAQAAMAAJ",
+   "etag": "SCdgFy9EHPw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/McoOAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Television and radio",
+    "authors": [
+     "Louis Sabin"
+    ],
+    "publisher": "Troll Communications Llc",
+    "publishedDate": "1985-07",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PSU:000022874320"
+     }
+    ],
+    "pageCount": 30,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dMcoOAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dMcoOAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMcoOAQAAMAAJ&q\u003dTelevision+and+Radio&dq\u003dTelevision+and+Radio&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMcoOAQAAMAAJ&dq\u003dTelevision+and+Radio&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9CmN_-JFnDEC",
+   "etag": "UuFJegkMrlE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9CmN_-JFnDEC",
+   "volumeInfo": {
+    "title": "Television and Radio",
+    "authors": [
+     "Helen Mintern"
+    ],
+    "publishedDate": "1983-10-31",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0862720672"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780862720674"
+     }
+    ],
+    "pageCount": 40,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d9CmN_-JFnDEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d9CmN_-JFnDEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9CmN_-JFnDEC&q\u003dTelevision+and+Radio&dq\u003dTelevision+and+Radio&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9CmN_-JFnDEC&dq\u003dTelevision+and+Radio&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "y-ou7aUVu9YC",
+   "etag": "IyFTcSOfz1g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/y-ou7aUVu9YC",
+   "volumeInfo": {
+    "title": "Television and Radio",
+    "authors": [
+     "Giraud Chester, Garnet R. Garrison, Edgar E. Willis"
+    ],
+    "publishedDate": "1963",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:TY50Z1XDRTX"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dy-ou7aUVu9YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dy-ou7aUVu9YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dy-ou7aUVu9YC&q\u003dTelevision+and+Radio&dq\u003dTelevision+and+Radio&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dy-ou7aUVu9YC&dq\u003dTelevision+and+Radio&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5FEHAQAAIAAJ",
+   "etag": "vgJovcJC/BQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5FEHAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Television & radio",
+    "authors": [
+     "Independent Broadcasting Authority"
+    ],
+    "publishedDate": "1987",
+    "description": "I i ■ 1 ■ 1 I »&#39; ndependent Broadcasting provides quality public \u003cb\u003etelevision\u003c/b\u003e \u003cbr\u003e\r\n\u003cb\u003eand radio\u003c/b\u003e services throughout the UK and represents a unique and successful \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105015127215"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d5FEHAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d5FEHAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5FEHAQAAIAAJ&q\u003dTelevision+and+Radio&dq\u003dTelevision+and+Radio&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5FEHAQAAIAAJ&dq\u003dTelevision+and+Radio&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AbtUAAAACAAJ",
+   "etag": "w+tmWUmTb6c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AbtUAAAACAAJ",
+   "volumeInfo": {
+    "title": "Television and Radio",
+    "authors": [
+     "Ian Graham"
+    ],
+    "publisher": "Evans Brothers, Limited",
+    "publishedDate": "1999-10-28",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0237519828"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780237519827"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Electronic cameras"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dAbtUAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dAbtUAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAbtUAAAACAAJ&dq\u003dTelevision+and+Radio&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAbtUAAAACAAJ&dq\u003dTelevision+and+Radio&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "W3C1AAAACAAJ",
+   "etag": "J94cdbC9oDM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/W3C1AAAACAAJ",
+   "volumeInfo": {
+    "title": "Television and radio",
+    "authors": [
+     "Giraud Chester",
+     "Garnet R. Garrison",
+     "Edgar E. Willis"
+    ],
+    "publishedDate": "1971",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0139029656"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780139029653"
+     }
+    ],
+    "pageCount": 613,
+    "printType": "BOOK",
+    "categories": [
+     "Broadcasting"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dW3C1AAAACAAJ&dq\u003dTelevision+and+Radio&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dW3C1AAAACAAJ&dq\u003dTelevision+and+Radio&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nh6GAAAACAAJ",
+   "etag": "NJVzDMr6fM0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nh6GAAAACAAJ",
+   "volumeInfo": {
+    "title": "Television and radio",
+    "subtitle": "a best practice guide",
+    "authors": [
+     "Ivor Gaber",
+     "Economic and Social Research Council (Great Britain)"
+    ],
+    "publishedDate": "2001",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0862262798"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780862262792"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Mass media"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnh6GAAAACAAJ&dq\u003dTelevision+and+Radio&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnh6GAAAACAAJ&dq\u003dTelevision+and+Radio&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 582
+}

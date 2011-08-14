@@ -1,0 +1,560 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "hVc5f1gTVNIC",
+   "etag": "R+fqUrhJfrI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hVc5f1gTVNIC",
+   "volumeInfo": {
+    "title": "The Whopping Great Big Bonkers Joke Book",
+    "authors": [
+     "Puffin Books",
+     "Puffin Books Staff"
+    ],
+    "publisher": "ePenguin",
+    "publishedDate": "2007-08-28",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0141323132"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780141323138"
+     }
+    ],
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "0.1.0.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dhVc5f1gTVNIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dhVc5f1gTVNIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhVc5f1gTVNIC&dq\u003dPuffin+Books&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhVc5f1gTVNIC&dq\u003dPuffin+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "o3VP-zYK-4oC",
+   "etag": "wVrs4K9Sn4U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o3VP-zYK-4oC",
+   "volumeInfo": {
+    "title": "We Love Cosplay Girls",
+    "subtitle": "More Live Animation Heroines from Japan",
+    "authors": [
+     "Muff Puffin",
+     "COCORO BOOKS"
+    ],
+    "publisher": "Cocoro Books",
+    "publishedDate": "2008-06-29",
+    "description": "Why do they do it? How do they do it?! Buy this book and find out!! All-new girls!! All-new costumes!! All-new format!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1932897380"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781932897388"
+     }
+    ],
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Comics & Graphic Novels"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003do3VP-zYK-4oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003do3VP-zYK-4oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003do3VP-zYK-4oC&printsec\u003dfrontcover&dq\u003dPuffin+Books&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003do3VP-zYK-4oC&dq\u003dPuffin+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "89ul0R5FiRkC",
+   "etag": "9YAa+QvYSO8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/89ul0R5FiRkC",
+   "volumeInfo": {
+    "title": "There's a Nightmare in My Closet",
+    "authors": [
+     "Mercer Mayer"
+    ],
+    "publisher": "Puffin",
+    "publishedDate": "1992-04-08",
+    "description": "\u003cb\u003ePUFFIN BOOKS\u003c/b\u003e Published by the Penguin Group Penguin Putnam Books for Young \u003cbr\u003e\r\nReaders, 345 Hudson Street, New York, New York 10014, USA Penguin Books Ltd, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0140547126"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780140547122"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 35,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d89ul0R5FiRkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d89ul0R5FiRkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d89ul0R5FiRkC&pg\u003dPT3&dq\u003dPuffin+Books&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d89ul0R5FiRkC&dq\u003dPuffin+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RX--R0aL5L4C",
+   "etag": "TtYp+otLZSk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RX--R0aL5L4C",
+   "volumeInfo": {
+    "title": "New reading 360 teachers' resource book",
+    "subtitle": "levels 1-5",
+    "authors": [
+     "Helena Rigby",
+     "Betty Root"
+    ],
+    "publisher": "Ginn & Company",
+    "publishedDate": "1993",
+    "description": "Home Is anyone home?, Ron Maris, \u003cb\u003ePuffin Books\u003c/b\u003e A house tor a mouse, Patricia \u003cbr\u003e\r\nMacCarthy, \u003cb\u003e...\u003c/b\u003e Walker Books The ugly duckling, Rita Stoney, \u003cb\u003ePuffin Books\u003c/b\u003e Book 4, \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0602257794"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780602257798"
+     }
+    ],
+    "pageCount": 60,
+    "printType": "BOOK",
+    "categories": [
+     "Group reading"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dRX--R0aL5L4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dRX--R0aL5L4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRX--R0aL5L4C&pg\u003dPA48&dq\u003dPuffin+Books&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRX--R0aL5L4C&dq\u003dPuffin+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "je-nWflnW7QC",
+   "etag": "yQStZeUEzWg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/je-nWflnW7QC",
+   "volumeInfo": {
+    "title": "Talk about books!",
+    "subtitle": "a guide for book clubs, literature circles, and discussion groups, grades 4-8",
+    "authors": [
+     "Elizabeth Knowles",
+     "Martha Smith"
+    ],
+    "publisher": "Libraries Unltd Inc",
+    "publishedDate": "2003-07",
+    "description": "\u003cb\u003ePuffin Books\u003c/b\u003e, 2000. A high school girl named Gail receives threatening notes and \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e \u003cb\u003ePuffin Books\u003c/b\u003e, 2001. Teenage psychic Blossom Gulp is visiting a deserted \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1591580234"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781591580232"
+     }
+    ],
+    "pageCount": 147,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dje-nWflnW7QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dje-nWflnW7QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dje-nWflnW7QC&pg\u003dPA31&dq\u003dPuffin+Books&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dje-nWflnW7QC&dq\u003dPuffin+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 35.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 19.25,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dje-nWflnW7QC&dq\u003dPuffin+Books&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Talk_about_books-sample-epub.acsm?id\u003dje-nWflnW7QC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Talk_about_books-sample-pdf.acsm?id\u003dje-nWflnW7QC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZHbm9lqwBOIC",
+   "etag": "hwQP16dPBjc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZHbm9lqwBOIC",
+   "volumeInfo": {
+    "title": "Ourselves",
+    "subtitle": "units 1 and 5",
+    "authors": [
+     "Anne Pratt",
+     "Neil Griffiths",
+     "Sylvia Wright"
+    ],
+    "publishedDate": "2001-12-17",
+    "description": "Books 101 Tfiings to Do With a Baby, Jan Ormerod (\u003cb\u003ePuffin Books\u003c/b\u003e) Avocado Baby, \u003cbr\u003e\r\nJohn Burningham (Red Fox, 1999) The Baby, John Burningham (Candlewick Press, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "074874293X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780748742936"
+     }
+    ],
+    "pageCount": 100,
+    "printType": "BOOK",
+    "categories": [
+     "Education, Preschool"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dZHbm9lqwBOIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dZHbm9lqwBOIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZHbm9lqwBOIC&pg\u003dPT79&dq\u003dPuffin+Books&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZHbm9lqwBOIC&dq\u003dPuffin+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "779AkOMawEMC",
+   "etag": "3U7sxDeMKpw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/779AkOMawEMC",
+   "volumeInfo": {
+    "title": "Young children's literacy development and the role of televisual texts",
+    "authors": [
+     "Naima Browne"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "1999-05-01",
+    "description": "Disney Ladybird (1985) Cinderella, Leicestershire: Ladybird Books. Fine, A. (\u003cbr\u003e\r\n1994) [1994] The Diary of a Killer Cat, Harmondsworth: \u003cb\u003ePuffin Books\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0750708557"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780750708555"
+     }
+    ],
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d779AkOMawEMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d779AkOMawEMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d779AkOMawEMC&pg\u003dPA177&dq\u003dPuffin+Books&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d779AkOMawEMC&dq\u003dPuffin+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 52.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 42.36,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d779AkOMawEMC&dq\u003dPuffin+Books&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Young_children_s_literacy_development_an-sample-epub.acsm?id\u003d779AkOMawEMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Young_children_s_literacy_development_an-sample-pdf.acsm?id\u003d779AkOMawEMC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "g9PUPQAACAAJ",
+   "etag": "/RZJyKuc/MU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/g9PUPQAACAAJ",
+   "volumeInfo": {
+    "title": "Mr Magorium's Wonder Emporium",
+    "subtitle": "Magical Movie Novelisation",
+    "authors": [
+     "Puffin Books",
+     "Suzanne Weyn",
+     "Zach Helm"
+    ],
+    "publishedDate": "2007-11-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0141324120"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780141324128"
+     }
+    ],
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dg9PUPQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dg9PUPQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dg9PUPQAACAAJ&dq\u003dPuffin+Books&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dg9PUPQAACAAJ&dq\u003dPuffin+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0dqaGgAACAAJ",
+   "etag": "PTHbCtHvA64",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0dqaGgAACAAJ",
+   "volumeInfo": {
+    "title": "Mahoney's magic",
+    "authors": [
+     "Mariah Balaban",
+     "Puffin Books"
+    ],
+    "publishedDate": "2007-11-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0141324147"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780141324142"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d0dqaGgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d0dqaGgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0dqaGgAACAAJ&dq\u003dPuffin+Books&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0dqaGgAACAAJ&dq\u003dPuffin+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "THGTIt3BNuQC",
+   "etag": "BmXJbxb2EVI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/THGTIt3BNuQC",
+   "volumeInfo": {
+    "title": "Well, I Wonder",
+    "subtitle": "Childhood in the Modern World: A Handbook for Parents, Carers and Teachers",
+    "authors": [
+     "Sally Schweizer"
+    ],
+    "publisher": "Rudolf Steiner Pr",
+    "publishedDate": "2007-01",
+    "description": "Poems, rhymes and songs Compiled by Eleanor Graham, A \u003cb\u003ePuffin Book\u003c/b\u003e of Verse \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e\r\nCompiled by Elizabeth Matterson, This Little Puffin (\u003cb\u003ePuffin Books\u003c/b\u003e, 1991). \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "185584124X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781855841246"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dTHGTIt3BNuQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dTHGTIt3BNuQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTHGTIt3BNuQC&pg\u003dPA215&dq\u003dPuffin+Books&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTHGTIt3BNuQC&dq\u003dPuffin+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 589
+}

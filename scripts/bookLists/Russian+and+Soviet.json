@@ -1,0 +1,595 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Cuw1vHuxITYC",
+   "etag": "53cUEocS5aM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Cuw1vHuxITYC",
+   "volumeInfo": {
+    "title": "Historical dictionary of Russian and Soviet cinema",
+    "authors": [
+     "P. Rollberg"
+    ],
+    "publisher": "Scarecrow Pr",
+    "publishedDate": "2009",
+    "description": "Through a chronology, an introduction, a bibliography, and more than 500 cross-referenced dictionary entries on filmmakers, performers, cinematographers, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0810860724"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780810860728"
+     }
+    ],
+    "pageCount": 793,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dCuw1vHuxITYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dCuw1vHuxITYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCuw1vHuxITYC&printsec\u003dfrontcover&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCuw1vHuxITYC&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 165.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 132.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dCuw1vHuxITYC&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Historical_dictionary_of_Russian_and_Sov-sample-epub.acsm?id\u003dCuw1vHuxITYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Historical_dictionary_of_Russian_and_Sov-sample-pdf.acsm?id\u003dCuw1vHuxITYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Kumg5iYYkWkC",
+   "etag": "ergRiV53R6o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Kumg5iYYkWkC",
+   "volumeInfo": {
+    "title": "The occult in Russian and Soviet culture",
+    "authors": [
+     "Bernice Glatzer Rosenthal"
+    ],
+    "publisher": "Cornell Univ Pr",
+    "publishedDate": "1997",
+    "description": "INTRODUCTION Bernice Glatzer Rosenthal The occult was a remarkably integral part \u003cbr\u003e\r\nof prerevolutionary \u003cb\u003eRussian and Soviet\u003c/b\u003e culture. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "080148331X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780801483318"
+     }
+    ],
+    "pageCount": 468,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dKumg5iYYkWkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dKumg5iYYkWkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKumg5iYYkWkC&printsec\u003dfrontcover&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKumg5iYYkWkC&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7cDN8q2RHGMC",
+   "etag": "kyFY1uXb3C4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7cDN8q2RHGMC",
+   "volumeInfo": {
+    "title": "Submarines of the Russian and Soviet navies, 1718-1990",
+    "authors": [
+     "Norman Polmar",
+     "Jurrien Noot"
+    ],
+    "publisher": "Naval Inst Pr",
+    "publishedDate": "1991-04",
+    "description": "Traces the development of the Soviet submarine fleet, describes the dimensions and characteristics of each model produced, and looks at recent developments",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0870215701"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780870215704"
+     }
+    ],
+    "pageCount": 370,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d7cDN8q2RHGMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d7cDN8q2RHGMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7cDN8q2RHGMC&printsec\u003dfrontcover&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7cDN8q2RHGMC&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "b_D9q_MEI3AC",
+   "etag": "DFmFxQCtF00",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/b_D9q_MEI3AC",
+   "volumeInfo": {
+    "title": "Russian and Soviet film adaptations of literature, 1900-2001",
+    "subtitle": "screening the word",
+    "authors": [
+     "Stephen C. Hutchings",
+     "Anat Vernitski"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2005",
+    "description": "This book examines the importance of film adaptations of literature in Russian cinema, especially during the Soviet period when the cinema was accorded a vital ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415306671"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415306676"
+     }
+    ],
+    "pageCount": 228,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003db_D9q_MEI3AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003db_D9q_MEI3AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003db_D9q_MEI3AC&printsec\u003dfrontcover&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003db_D9q_MEI3AC&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.16,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003db_D9q_MEI3AC&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Russian_and_Soviet_film_adaptations_of_l-sample-epub.acsm?id\u003db_D9q_MEI3AC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Russian_and_Soviet_film_adaptations_of_l-sample-pdf.acsm?id\u003db_D9q_MEI3AC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wyxUAAAAMAAJ",
+   "etag": "wFBJi2JgAjw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wyxUAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Russian and Soviet battleships",
+    "authors": [
+     "Stephen McLaughlin"
+    ],
+    "publisher": "Naval Inst Pr",
+    "publishedDate": "2003-07",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1557504814"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781557504814"
+     }
+    ],
+    "pageCount": 496,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dwyxUAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dwyxUAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwyxUAAAAMAAJ&q\u003dRussian+and+Soviet&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwyxUAAAAMAAJ&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CquTz6ps5YgC",
+   "etag": "CIDwjBPICm0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CquTz6ps5YgC",
+   "volumeInfo": {
+    "title": "An Ethnohistorical dictionary of the Russian and Soviet empires",
+    "authors": [
+     "James Stuart Olson",
+     "Nicholas Charles Pappas"
+    ],
+    "publisher": "Greenwood Pub Group",
+    "publishedDate": "1994",
+    "description": "Olson&#39;s work will provide a ready reference for students, researchers, and librarians who are trying to sort out the political and social struggles in East ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0313274975"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780313274978"
+     }
+    ],
+    "pageCount": 840,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dCquTz6ps5YgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dCquTz6ps5YgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCquTz6ps5YgC&printsec\u003dfrontcover&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCquTz6ps5YgC&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 209.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 167.96,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dCquTz6ps5YgC&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/An_Ethnohistorical_dictionary_of_the_Rus-sample-epub.acsm?id\u003dCquTz6ps5YgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/An_Ethnohistorical_dictionary_of_the_Rus-sample-pdf.acsm?id\u003dCquTz6ps5YgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vpZhLS5QQjEC",
+   "etag": "JaEw7InbtSo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vpZhLS5QQjEC",
+   "volumeInfo": {
+    "title": "Russian and Soviet history",
+    "subtitle": "from the Time of Troubles to the collapse of the Soviet Union",
+    "authors": [
+     "Steven A. Usitalo",
+     "William Benton Whisenhunt"
+    ],
+    "publisher": "Rowman & Littlefield",
+    "publishedDate": "2008",
+    "description": "Informed by both archival work and published sources, this text introduces students to Russian history in an accessible and provocative format, and its eclectic ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0742555917"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780742555914"
+     }
+    ],
+    "pageCount": 292,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dvpZhLS5QQjEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dvpZhLS5QQjEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvpZhLS5QQjEC&printsec\u003dfrontcover&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvpZhLS5QQjEC&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.16,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dvpZhLS5QQjEC&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Russian_and_Soviet_history-sample-epub.acsm?id\u003dvpZhLS5QQjEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Russian_and_Soviet_history-sample-pdf.acsm?id\u003dvpZhLS5QQjEC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cebtAAAAMAAJ",
+   "etag": "3L+8HjJFbOE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cebtAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Russian and Soviet economic performance and structure",
+    "authors": [
+     "Paul R. Gregory",
+     "Robert C. Stuart"
+    ],
+    "publisher": "Addison Wesley",
+    "publishedDate": "2001",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0321078160"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780321078162"
+     }
+    ],
+    "pageCount": 502,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dcebtAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dcebtAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcebtAAAAMAAJ&q\u003dRussian+and+Soviet&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcebtAAAAMAAJ&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dkVKmMW3V9EC",
+   "etag": "nlJOlS7h5Hg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dkVKmMW3V9EC",
+   "volumeInfo": {
+    "title": "The film factory",
+    "subtitle": "Russian and Soviet cinema in documents",
+    "authors": [
+     "Richard Taylor",
+     "Ian Christie"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1994-12-13",
+    "description": "i The Film Factory /i provides a comprehensive documentary history of Russian and Soviet cinema.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "041505298X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415052986"
+     }
+    ],
+    "pageCount": 457,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003ddkVKmMW3V9EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003ddkVKmMW3V9EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddkVKmMW3V9EC&printsec\u003dfrontcover&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddkVKmMW3V9EC&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yPwohkzQCMYC",
+   "etag": "O79Ox+SZxek",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yPwohkzQCMYC",
+   "volumeInfo": {
+    "title": "Politicizing magic",
+    "subtitle": "an anthology of Russian and Soviet fairy tales",
+    "authors": [
+     "Marina Balina",
+     "Helena Goscilo",
+     "Mark Naumovich Lipovet︠s︡kiĭ"
+    ],
+    "publisher": "Northwestern Univ Pr",
+    "publishedDate": "2005",
+    "description": "Introducing Western readers to the most representative texts of Russian folkloric and literary tales, this book documents a rich exploration of this colorful ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0810120321"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780810120327"
+     }
+    ],
+    "pageCount": 418,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dyPwohkzQCMYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dyPwohkzQCMYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyPwohkzQCMYC&printsec\u003dfrontcover&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyPwohkzQCMYC&dq\u003dRussian+and+Soviet&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Politicizing_magic-sample-epub.acsm?id\u003dyPwohkzQCMYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 391
+}

@@ -1,0 +1,536 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "pvEYLVB28wsC",
+   "etag": "pRtBpBjwCmI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pvEYLVB28wsC",
+   "volumeInfo": {
+    "title": "Fifty self-help classics",
+    "authors": [
+     "Tom Butler-Bowdon"
+    ],
+    "publisher": "Nicholas Brealey Intl",
+    "publishedDate": "2003-03-25",
+    "description": "This is the first and only bitesized guide to the works that have captured the imagination of millions and inspired readers everywhere to follow their dreams.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1857883233"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781857883237"
+     }
+    ],
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 31,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dpvEYLVB28wsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dpvEYLVB28wsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpvEYLVB28wsC&printsec\u003dfrontcover&dq\u003dSelf+Help&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpvEYLVB28wsC&dq\u003dSelf+Help&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dpvEYLVB28wsC&dq\u003dSelf+Help&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Fifty_self_help_classics-sample-epub.acsm?id\u003dpvEYLVB28wsC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_eUUAAAAQAAJ",
+   "etag": "wN1t4Bz8//g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_eUUAAAAQAAJ",
+   "volumeInfo": {
+    "title": "Self-help",
+    "subtitle": "with illustrations of charakter, conduct and perseverance",
+    "authors": [
+     "Samuel Smiles"
+    ],
+    "publishedDate": "1866",
+    "description": "\u003cb\u003eSELF\u003c/b\u003e-\u003cb\u003eHELP\u003c/b\u003e, &amp;c CHAPTER I. \u003cb\u003eSelf\u003c/b\u003e-\u003cb\u003eHelp\u003c/b\u003e — National and Individual. &quot; The worth of a \u003cbr\u003e\r\nState, in the long run, is the worth of the individuals composing it. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "BCUL:1092833708"
+     }
+    ],
+    "printType": "BOOK",
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d_eUUAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d_eUUAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_eUUAAAAQAAJ&printsec\u003dfrontcover&dq\u003dSelf+Help&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_eUUAAAAQAAJ&dq\u003dSelf+Help&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Self_help.pdf?id\u003d_eUUAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3nJx1zVH-SVUwBoknLY1KW64ppGA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hSwCAAAAQAAJ",
+   "etag": "Fqa6LdJSYvI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hSwCAAAAQAAJ",
+   "volumeInfo": {
+    "title": "Self-help; with illustrations of character and conduct",
+    "authors": [
+     "Samuel Smiles"
+    ],
+    "publishedDate": "1859",
+    "description": "\u003cb\u003eSELF\u003c/b\u003e-\u003cb\u003eHELP\u003c/b\u003e, &amp;c. CHAPTEE I. \u003cb\u003eSelf\u003c/b\u003e-\u003cb\u003eHelp\u003c/b\u003e — National and Individual. &quot; The worth of a \u003cbr\u003e\r\nState, in the long run, is the worth of the individuals composing it. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:600062189"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dhSwCAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dhSwCAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhSwCAAAAQAAJ&printsec\u003dfrontcover&dq\u003dSelf+Help&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhSwCAAAAQAAJ&dq\u003dSelf+Help&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Self_help_with_illustrations_of_characte.epub?id\u003dhSwCAAAAQAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Self_help_with_illustrations_of_characte.pdf?id\u003dhSwCAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U15BgwTnWCCDu8sBlEeSofcOJAwSw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xhZHAAAAIAAJ",
+   "etag": "kny89npCHMI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xhZHAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Self-help",
+    "authors": [
+     "Samuel Smiles"
+    ],
+    "publishedDate": "1876",
+    "description": "EAVEN helps those who help themselves&quot; is a well-tried maxim, embodying in a \u003cbr\u003e\r\nsmall compass the results of vast human experience. The spirit of \u003cb\u003eself\u003c/b\u003e-\u003cb\u003ehelp\u003c/b\u003e is \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B288379"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dxhZHAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dxhZHAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxhZHAAAAIAAJ&printsec\u003dfrontcover&dq\u003dSelf+Help&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxhZHAAAAIAAJ&dq\u003dSelf+Help&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Self_help.pdf?id\u003dxhZHAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0LPaAPuurspZkTeBUa2iY5Nwmiyg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7LODTgIySEcC",
+   "etag": "MiOAQeQUl/U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7LODTgIySEcC",
+   "volumeInfo": {
+    "title": "The Last Self-Help Book You'll Ever Need",
+    "subtitle": "Repress Your Anger, Think Negatively, Be a Good Blamer, and Throttle Your Inner Child",
+    "authors": [
+     "Paul Pearsall"
+    ],
+    "publishedDate": "2007-01-01",
+    "description": "Best-selling psychologist and motivational speaker Paul Pearsall explodes the myths of the self-help machine and shows us how to lead happier healthier lives",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0465054870"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780465054879"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d7LODTgIySEcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d7LODTgIySEcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7LODTgIySEcC&printsec\u003dfrontcover&dq\u003dSelf+Help&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7LODTgIySEcC&dq\u003dSelf+Help&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d7LODTgIySEcC&dq\u003dSelf+Help&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Last_Self_Help_Book_You_ll_Ever_Need-sample-epub.acsm?id\u003d7LODTgIySEcC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eQTkQwAACAAJ",
+   "etag": "zuS9DEJ63FI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eQTkQwAACAAJ",
+   "volumeInfo": {
+    "title": "Self-Help",
+    "authors": [
+     "Lorrie Moore"
+    ],
+    "publishedDate": "2010-06-11",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0571260853"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780571260850"
+     }
+    ],
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 226,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003deQTkQwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003deQTkQwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deQTkQwAACAAJ&dq\u003dSelf+Help&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deQTkQwAACAAJ&dq\u003dSelf+Help&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oNIRoxcQACUC",
+   "etag": "j5LyX+S0u6g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oNIRoxcQACUC",
+   "volumeInfo": {
+    "title": "Self Help",
+    "authors": [
+     "Edward Docx"
+    ],
+    "publisher": "Picador USA",
+    "publishedDate": "2008-05-02",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0330447610"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780330447614"
+     }
+    ],
+    "pageCount": 528,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003doNIRoxcQACUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003doNIRoxcQACUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doNIRoxcQACUC&dq\u003dSelf+Help&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doNIRoxcQACUC&dq\u003dSelf+Help&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yGVHAAAAMAAJ",
+   "etag": "8ErGWFa0Iu8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yGVHAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Self-help",
+    "subtitle": "concepts and applications",
+    "authors": [
+     "Alfred Hyman Katz"
+    ],
+    "publisher": "Charles Pr Pub",
+    "publishedDate": "1992-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015024786694"
+     }
+    ],
+    "pageCount": 308,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dyGVHAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dyGVHAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyGVHAAAAMAAJ&q\u003dSelf+Help&dq\u003dSelf+Help&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyGVHAAAAMAAJ&dq\u003dSelf+Help&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XlVeRwAACAAJ",
+   "etag": "65PxFTWa/tQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XlVeRwAACAAJ",
+   "volumeInfo": {
+    "title": "Self Help",
+    "subtitle": "Your Complete Book of Bad Advice for Every Situation in Life",
+    "authors": [
+     "Quentin Smeltzer"
+    ],
+    "publishedDate": "2010-04-20",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1432753142"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781432753146"
+     }
+    ],
+    "pageCount": 220,
+    "printType": "BOOK",
+    "categories": [
+     "Humor"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dXlVeRwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dXlVeRwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXlVeRwAACAAJ&dq\u003dSelf+Help&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXlVeRwAACAAJ&dq\u003dSelf+Help&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lyshCWtZQgsC",
+   "etag": "d1C/lCrp2OQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lyshCWtZQgsC",
+   "volumeInfo": {
+    "title": "Self-help books",
+    "subtitle": "why Americans keep reading them",
+    "authors": [
+     "Sandra K. Dolby"
+    ],
+    "publisher": "Univ of Illinois Pr",
+    "publishedDate": "2005-04-06",
+    "description": "Self-Help Books also offers an interpretation of why these books are so popular, arguing that they continue the well-established American penchant for self ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0252029747"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780252029745"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dlyshCWtZQgsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dlyshCWtZQgsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlyshCWtZQgsC&printsec\u003dfrontcover&dq\u003dSelf+Help&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlyshCWtZQgsC&dq\u003dSelf+Help&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 505
+}

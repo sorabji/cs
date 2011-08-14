@@ -1,0 +1,548 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "QhPgEq5ZeY8C",
+   "etag": "96aRPI+RjB8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QhPgEq5ZeY8C",
+   "volumeInfo": {
+    "title": "Sherlock Holmes, the complete novels and stories",
+    "authors": [
+     "Sir Arthur Conan Doyle"
+    ],
+    "publisher": "Bantam Classics",
+    "publishedDate": "1986",
+    "description": "Eccentric master detective Sherlock Holmes, with the aid of his partner, Dr. Watson, investigates a series of strange and baffling mysteries in the first of a ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0553212419"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780553212419"
+     }
+    ],
+    "pageCount": 1088,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 259,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dQhPgEq5ZeY8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dQhPgEq5ZeY8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQhPgEq5ZeY8C&printsec\u003dfrontcover&dq\u003dSherlock+Holmes&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQhPgEq5ZeY8C&dq\u003dSherlock+Holmes&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 2.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 2.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dQhPgEq5ZeY8C&dq\u003dSherlock+Holmes&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Sherlock_Holmes_the_complete_novels_and-sample-epub.acsm?id\u003dQhPgEq5ZeY8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Sherlock_Holmes_the_complete_novels_and-sample-pdf.acsm?id\u003dQhPgEq5ZeY8C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "L7_mGwAACAAJ",
+   "etag": "bhmfSJBJ6g0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/L7_mGwAACAAJ",
+   "volumeInfo": {
+    "title": "Sherlock Holmes",
+    "subtitle": "A Study in Scarlet",
+    "authors": [
+     "Sir Arthur Conan Doyle, Sir"
+    ],
+    "publisher": "Sharon Publications Inc.",
+    "publishedDate": "1981-08",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0895310554"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780895310552"
+     }
+    ],
+    "pageCount": 204,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dL7_mGwAACAAJ&dq\u003dSherlock+Holmes&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dL7_mGwAACAAJ&dq\u003dSherlock+Holmes&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "buc0AAAAMAAJ",
+   "etag": "bJfdRxYFEH8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/buc0AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Adventures of Sherlock Holmes",
+    "authors": [
+     "Sir Arthur Conan Doyle"
+    ],
+    "publishedDate": "1892",
+    "description": "Soventure IA SCANDAL IN BOHEMIA ^0 \u003cb\u003eSherlock Holmes\u003c/b\u003e she is always the woman. I \u003cbr\u003e\r\nhave seldom heard him mention her under any other name. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015049217741"
+     }
+    ],
+    "pageCount": 307,
+    "printType": "BOOK",
+    "averageRating": 4.5,
+    "ratingsCount": 87,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dbuc0AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dbuc0AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbuc0AAAAMAAJ&printsec\u003dfrontcover&dq\u003dSherlock+Holmes&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbuc0AAAAMAAJ&dq\u003dSherlock+Holmes&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Adventures_of_Sherlock_Holmes.epub?id\u003dbuc0AAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Adventures_of_Sherlock_Holmes.pdf?id\u003dbuc0AAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3UFzY0zsHRr3M-FLDDrmM0rrWf4Q&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bcNLAAAACAAJ",
+   "etag": "Wt88L4gjN/I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bcNLAAAACAAJ",
+   "volumeInfo": {
+    "title": "Sherlock Holmes",
+    "subtitle": "The Hound of the Baskervilles",
+    "authors": [
+     "Sir Arthur Conan Doyle"
+    ],
+    "publisher": "John Curley & Assoc",
+    "publishedDate": "1988-07",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1555045383"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781555045388"
+     }
+    ],
+    "pageCount": 285,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbcNLAAAACAAJ&dq\u003dSherlock+Holmes&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbcNLAAAACAAJ&dq\u003dSherlock+Holmes&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GgitSgAACAAJ",
+   "etag": "XG8TNBUtAKI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GgitSgAACAAJ",
+   "volumeInfo": {
+    "title": "Sherlock Holmes: His Last Bow",
+    "authors": [
+     "Sir Arthur Conan Doyle"
+    ],
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8184772688"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788184772685"
+     }
+    ],
+    "pageCount": 176,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGgitSgAACAAJ&dq\u003dSherlock+Holmes&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGgitSgAACAAJ&dq\u003dSherlock+Holmes&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UVMGAQAAIAAJ",
+   "etag": "Jg7dgTnOpeU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UVMGAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Sherlock Holmes",
+    "authors": [
+     "Sir Arthur Conan Doyle"
+    ],
+    "publishedDate": "1957",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105005555144"
+     }
+    ],
+    "pageCount": 1777,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dUVMGAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dUVMGAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUVMGAQAAIAAJ&q\u003dSherlock+Holmes&dq\u003dSherlock+Holmes&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUVMGAQAAIAAJ&dq\u003dSherlock+Holmes&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ag80PwAACAAJ",
+   "etag": "Z6D2XFf5Bwc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ag80PwAACAAJ",
+   "volumeInfo": {
+    "title": "Sherlock Holmes",
+    "subtitle": "24 Classic Short Stories",
+    "authors": [
+     "Sir Arthur Conan Doyle"
+    ],
+    "publisher": "Prion Books",
+    "publishedDate": "2010-04-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1853757047"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781853757044"
+     }
+    ],
+    "pageCount": 656,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dAg80PwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dAg80PwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAg80PwAACAAJ&dq\u003dSherlock+Holmes&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAg80PwAACAAJ&dq\u003dSherlock+Holmes&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tfT5b0WiSVkC",
+   "etag": "KMUUGnae8Hg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tfT5b0WiSVkC",
+   "volumeInfo": {
+    "title": "The complete Sherlock Holmes",
+    "authors": [
+     "Sir Arthur Conan Doyle"
+    ],
+    "publishedDate": "2003-09-01",
+    "description": "Mr. \u003cb\u003eSherlock Holmes\u003c/b\u003e In the year 1878 I took my degree of Doctor of Medicine of \u003cbr\u003e\r\nthe University of London, and proceeded to Netley to go through the course \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1593080344"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781593080341"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 131,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dtfT5b0WiSVkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dtfT5b0WiSVkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtfT5b0WiSVkC&printsec\u003dfrontcover&dq\u003dSherlock+Holmes&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtfT5b0WiSVkC&dq\u003dSherlock+Holmes&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hm_0umX9yD0C",
+   "etag": "UE2XZCKhIb8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hm_0umX9yD0C",
+   "volumeInfo": {
+    "title": "Sherlock Holmes: The American Years",
+    "authors": [
+     "Michael Kurland"
+    ],
+    "publisher": "Minotaur Books",
+    "publishedDate": "2010-02-02",
+    "description": "&quot;Ten original tales set during the eminent detective&#39;s early career visit to America includes contributions by such writers as Marta Randall, Rhys Bowen and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0312378467"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780312378462"
+     }
+    ],
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 8,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dhm_0umX9yD0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dhm_0umX9yD0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhm_0umX9yD0C&printsec\u003dfrontcover&dq\u003dSherlock+Holmes&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhm_0umX9yD0C&dq\u003dSherlock+Holmes&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dhm_0umX9yD0C&dq\u003dSherlock+Holmes&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Sherlock_Holmes_The_American_Years-sample-epub.acsm?id\u003dhm_0umX9yD0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Sherlock_Holmes_The_American_Years-sample-pdf.acsm?id\u003dhm_0umX9yD0C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RQwxAzs3peYC",
+   "etag": "Z+OTOcZPYhY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RQwxAzs3peYC",
+   "volumeInfo": {
+    "title": "Sherlock Holmes",
+    "subtitle": "The Unauthorized Biography",
+    "authors": [
+     "Nick Rennison",
+     "Nicholas Rennison"
+    ],
+    "publisher": "Grove Pr",
+    "publishedDate": "2007-10",
+    "description": "A fictional biography of the life and times of the famous detective Sherlock Holmes describes Holmes&#39;s influence on the political events of late-nineteenth ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0802143253"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780802143259"
+     }
+    ],
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 13,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dRQwxAzs3peYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dRQwxAzs3peYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRQwxAzs3peYC&printsec\u003dfrontcover&dq\u003dSherlock+Holmes&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRQwxAzs3peYC&dq\u003dSherlock+Holmes&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 8.8,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dRQwxAzs3peYC&dq\u003dSherlock+Holmes&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Sherlock_Holmes-sample-pdf.acsm?id\u003dRQwxAzs3peYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 433
+}

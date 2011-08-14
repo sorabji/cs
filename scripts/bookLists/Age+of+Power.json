@@ -1,0 +1,549 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "o_5lAAAAMAAJ",
+   "etag": "xMoHlbes3BQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o_5lAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The age of power",
+    "authors": [
+     "Carl Joachim Friedrich",
+     "Charles Blitzer"
+    ],
+    "publishedDate": "1957",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015002295619"
+     }
+    ],
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003do_5lAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003do_5lAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003do_5lAAAAMAAJ&q\u003dAge+of+Power&dq\u003dAge+of+Power&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003do_5lAAAAMAAJ&dq\u003dAge+of+Power&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7nVYAAAAYAAJ",
+   "etag": "tibdsaW5Dpo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7nVYAAAAYAAJ",
+   "volumeInfo": {
+    "title": "The age of power",
+    "subtitle": "A first book of energy, its sources, transformations, and uses",
+    "authors": [
+     "J. Riley"
+    ],
+    "publishedDate": "1921",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433090900790"
+     }
+    ],
+    "pageCount": 248,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d7nVYAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d7nVYAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7nVYAAAAYAAJ&q\u003dAge+of+Power&dq\u003dAge+of+Power&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7nVYAAAAYAAJ&dq\u003dAge+of+Power&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cuJ6QgAACAAJ",
+   "etag": "Jk3+hMi3dBk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cuJ6QgAACAAJ",
+   "volumeInfo": {
+    "title": "The age of power",
+    "authors": [
+     "John Hall Stephens"
+    ],
+    "publishedDate": "1974-09-30",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0432157255"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780432157251"
+     }
+    ],
+    "pageCount": 168,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcuJ6QgAACAAJ&dq\u003dAge+of+Power&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcuJ6QgAACAAJ&dq\u003dAge+of+Power&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7O01Xm4rWtEC",
+   "etag": "DGHr6gGHbes",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7O01Xm4rWtEC",
+   "volumeInfo": {
+    "title": "Power at Sea: The age of navalism, 1890-1918",
+    "authors": [
+     "Lisle Abbott Rose"
+    ],
+    "publisher": "University of Missouri",
+    "publishedDate": "2007",
+    "description": "&quot;[Volume 1] Traces the social issues, technological advances, and combative encounters of the international naval race from 1890 through WWI, as the largest ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "082621701X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780826217011"
+     }
+    ],
+    "pageCount": 355,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d7O01Xm4rWtEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d7O01Xm4rWtEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7O01Xm4rWtEC&printsec\u003dfrontcover&dq\u003dAge+of+Power&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7O01Xm4rWtEC&dq\u003dAge+of+Power&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Power_at_Sea_The_age_of_navalism_1890_19-sample-epub.acsm?id\u003d7O01Xm4rWtEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VSzMJxlsv74C",
+   "etag": "E28msQfGG98",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VSzMJxlsv74C",
+   "volumeInfo": {
+    "title": "Air power in the age of total war",
+    "authors": [
+     "John Buckley"
+    ],
+    "publisher": "Indiana Univ Pr",
+    "publishedDate": "1999",
+    "description": "A fascinating study of the changing military role of air power in the twentieth century, this book examines the sensational impact of the Great War, the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "025321324X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780253213242"
+     }
+    ],
+    "pageCount": 260,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dVSzMJxlsv74C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dVSzMJxlsv74C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVSzMJxlsv74C&printsec\u003dfrontcover&dq\u003dAge+of+Power&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVSzMJxlsv74C&dq\u003dAge+of+Power&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5M3YsbDs81YC",
+   "etag": "SSC/SN3PCyI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5M3YsbDs81YC",
+   "volumeInfo": {
+    "title": "Power and the church",
+    "subtitle": "ecclesiology in an age of transition",
+    "authors": [
+     "Martyn Percy"
+    ],
+    "publisher": "Continuum Intl Pub Group",
+    "publishedDate": "1998",
+    "description": "Employing insights from theology, sociology and political science, this text considers the question of power within the Church, which is thought to provide the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "030470105X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780304701056"
+     }
+    ],
+    "pageCount": 239,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d5M3YsbDs81YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d5M3YsbDs81YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5M3YsbDs81YC&printsec\u003dfrontcover&dq\u003dAge+of+Power&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5M3YsbDs81YC&dq\u003dAge+of+Power&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Power_and_the_church-sample-epub.acsm?id\u003d5M3YsbDs81YC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Power_and_the_church-sample-pdf.acsm?id\u003d5M3YsbDs81YC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pDc2fp73B2oC",
+   "etag": "AxtbD+sYFoQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pDc2fp73B2oC",
+   "volumeInfo": {
+    "title": "The power of images in the Age of Augustus",
+    "authors": [
+     "Paul Zanker"
+    ],
+    "publisher": "Univ of Michigan Pr",
+    "publishedDate": "1990-11-15",
+    "description": "Examines the imperial mythology that was reflected by Roman art and architecture during the rule of Augustus Caesar",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0472081241"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780472081240"
+     }
+    ],
+    "pageCount": 385,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dpDc2fp73B2oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dpDc2fp73B2oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpDc2fp73B2oC&printsec\u003dfrontcover&dq\u003dAge+of+Power&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpDc2fp73B2oC&dq\u003dAge+of+Power&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FyTvj9PyQrMC",
+   "etag": "0vwOflRyz1Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FyTvj9PyQrMC",
+   "volumeInfo": {
+    "title": "Public power in the age of empire",
+    "authors": [
+     "Arundhati Roy"
+    ],
+    "publisher": "Seven Stories Pr",
+    "publishedDate": "2004",
+    "description": "An inspiring exegesis on the roles of democracy and activism in a violent times.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1583226826"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781583226827"
+     }
+    ],
+    "pageCount": 59,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 9,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dFyTvj9PyQrMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dFyTvj9PyQrMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFyTvj9PyQrMC&printsec\u003dfrontcover&dq\u003dAge+of+Power&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFyTvj9PyQrMC&dq\u003dAge+of+Power&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 6.36,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 4.9,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dFyTvj9PyQrMC&dq\u003dAge+of+Power&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Public_power_in_the_age_of_empire-sample-epub.acsm?id\u003dFyTvj9PyQrMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Public_power_in_the_age_of_empire-sample-pdf.acsm?id\u003dFyTvj9PyQrMC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kgs6AQAAIAAJ",
+   "etag": "a2jkIY4rsKI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kgs6AQAAIAAJ",
+   "volumeInfo": {
+    "title": "The age of the European balance of power",
+    "authors": [
+     "Martin Philippson"
+    ],
+    "publishedDate": "1905",
+    "description": "FIGURE PAOE 1. A Dutch cartoon of John Law 34 2. Cardinal Alberoni. From a \u003cbr\u003e\r\ncopper-plate engraving by GP Busch . . 38 3. Elizabeth of Parma, Queen of Spain. \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105048547363"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dkgs6AQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dkgs6AQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkgs6AQAAIAAJ&printsec\u003dfrontcover&dq\u003dAge+of+Power&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkgs6AQAAIAAJ&dq\u003dAge+of+Power&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_age_of_the_European_balance_of_power.pdf?id\u003dkgs6AQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0eP4GT3Wl3qYo-vCn3Uq-_XGF8Hw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_MrYZeixx50C",
+   "etag": "/qmmbcRApL8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_MrYZeixx50C",
+   "volumeInfo": {
+    "title": "Languages of Power in the Age of Richard II",
+    "authors": [
+     "Lynn Staley"
+    ],
+    "publisher": "Pen State University Press",
+    "publishedDate": "2006-09-30",
+    "description": "In this book the distinguished medievalist Lynn Staley turns her attention to one of the most dramatic periods in English history, the reign of Richard II, as ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0271029110"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780271029115"
+     }
+    ],
+    "pageCount": 394,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d_MrYZeixx50C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d_MrYZeixx50C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_MrYZeixx50C&printsec\u003dfrontcover&dq\u003dAge+of+Power&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_MrYZeixx50C&dq\u003dAge+of+Power&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.55,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d_MrYZeixx50C&dq\u003dAge+of+Power&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Languages_of_Power_in_the_Age_of_Richard-sample-epub.acsm?id\u003d_MrYZeixx50C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Languages_of_Power_in_the_Age_of_Richard-sample-pdf.acsm?id\u003d_MrYZeixx50C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 583
+}

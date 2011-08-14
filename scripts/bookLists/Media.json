@@ -1,0 +1,576 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "JpcDQeEl-JYC",
+   "etag": "037ywLlJQPQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JpcDQeEl-JYC",
+   "volumeInfo": {
+    "title": "Mass media",
+    "subtitle": "a bibliography with indexes",
+    "authors": [
+     "James B. Martin"
+    ],
+    "publisher": "Nova Science Publishers",
+    "publishedDate": "2002-03",
+    "description": "The selective bibliography gathers the books and magazine literature over the previous ten years while providing access through author, title and subject ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1590332628"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781590332627"
+     }
+    ],
+    "pageCount": 279,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dJpcDQeEl-JYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dJpcDQeEl-JYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJpcDQeEl-JYC&printsec\u003dfrontcover&dq\u003dMedia&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJpcDQeEl-JYC&dq\u003dMedia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 85.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 68.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dJpcDQeEl-JYC&dq\u003dMedia&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Mass_media-sample-pdf.acsm?id\u003dJpcDQeEl-JYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6MujyeRDpTwC",
+   "etag": "vJlK1sLSf/c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6MujyeRDpTwC",
+   "volumeInfo": {
+    "title": "The Media Handbook",
+    "subtitle": "A Complete Guide to Advertising Media Selection, Planning, Research, and Buying",
+    "authors": [
+     "Helen Katz"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2010-06-09",
+    "description": "&quot;The Media Handbook is an indispensable resource for anyone working in media research or advertising. Dr. Katz&#39;s book is both comprehensive and up-to-date.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415873541"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415873543"
+     }
+    ],
+    "pageCount": 212,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d6MujyeRDpTwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d6MujyeRDpTwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6MujyeRDpTwC&printsec\u003dfrontcover&dq\u003dMedia&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6MujyeRDpTwC&dq\u003dMedia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Media_Handbook-sample-epub.acsm?id\u003d6MujyeRDpTwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yT5iAAAAMAAJ",
+   "etag": "eoQjDB+gM40",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yT5iAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Media, the second God",
+    "authors": [
+     "Tony Schwartz"
+    ],
+    "publisher": "Random House Inc",
+    "publishedDate": "1981-11",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015000654312"
+     }
+    ],
+    "pageCount": 206,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dyT5iAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dyT5iAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyT5iAAAAMAAJ&q\u003dMedia&dq\u003dMedia&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyT5iAAAAMAAJ&dq\u003dMedia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "R2bqSaC5TlkC",
+   "etag": "ME4k56PNMcM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/R2bqSaC5TlkC",
+   "volumeInfo": {
+    "title": "Understanding media",
+    "subtitle": "the extensions of man",
+    "authors": [
+     "Marshall McLuhan"
+    ],
+    "publisher": "Routledge, 2001",
+    "publishedDate": "2001",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415253977"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415253970"
+     }
+    ],
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 19,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dR2bqSaC5TlkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dR2bqSaC5TlkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dR2bqSaC5TlkC&dq\u003dMedia&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dR2bqSaC5TlkC&dq\u003dMedia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mP87PKf0Tm8C",
+   "etag": "wvmWnTTDA8g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mP87PKf0Tm8C",
+   "volumeInfo": {
+    "title": "Media Impact",
+    "subtitle": "An Introduction to Mass Media",
+    "authors": [
+     "Shirley Biagi"
+    ],
+    "publisher": "Wadsworth Pub Co",
+    "publishedDate": "2011-04-08",
+    "description": "The 10th edition of this bestseller covers all aspects of the latest communications technology and their impact on society.Included in the 10th Edition are the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1111346364"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781111346362"
+     }
+    ],
+    "pageCount": 430,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dmP87PKf0Tm8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dmP87PKf0Tm8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmP87PKf0Tm8C&printsec\u003dfrontcover&dq\u003dMedia&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmP87PKf0Tm8C&dq\u003dMedia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "G-4EyYR-QgMC",
+   "etag": "m/bMSGwZjJI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G-4EyYR-QgMC",
+   "volumeInfo": {
+    "title": "The language of new media",
+    "authors": [
+     "Lev Manovich"
+    ],
+    "publisher": "The MIT Press",
+    "publishedDate": "2001-03-15",
+    "description": "Drawing on concepts of art history, film theory, literary analysis, and computer science, a first systematic study of &quot;new media&quot; illuminates the powerful ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0262133741"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780262133746"
+     }
+    ],
+    "pageCount": 354,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 12,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dG-4EyYR-QgMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dG-4EyYR-QgMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dG-4EyYR-QgMC&printsec\u003dfrontcover&dq\u003dMedia&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dG-4EyYR-QgMC&dq\u003dMedia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_language_of_new_media-sample-epub.acsm?id\u003dG-4EyYR-QgMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fsMmPrS-fvsC",
+   "etag": "qr7QU9H9cis",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fsMmPrS-fvsC",
+   "volumeInfo": {
+    "title": "Media, gender and identity",
+    "subtitle": "an introduction",
+    "authors": [
+     "David Gauntlett"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2008-05-14",
+    "description": "The new edition of Media, Gender and Identity is a highly readable introduction to the relationship between media and gender identities today.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415396603"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415396608"
+     }
+    ],
+    "pageCount": 317,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dfsMmPrS-fvsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dfsMmPrS-fvsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfsMmPrS-fvsC&printsec\u003dfrontcover&dq\u003dMedia&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfsMmPrS-fvsC&dq\u003dMedia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 30.36,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dfsMmPrS-fvsC&dq\u003dMedia&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Media_gender_and_identity-sample-epub.acsm?id\u003dfsMmPrS-fvsC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Media_gender_and_identity-sample-pdf.acsm?id\u003dfsMmPrS-fvsC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KusZ29rZHYIC",
+   "etag": "jjW1Pjwlams",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KusZ29rZHYIC",
+   "volumeInfo": {
+    "title": "Media Today",
+    "subtitle": "An Introduction to Mass Communication",
+    "authors": [
+     "Joseph Turow"
+    ],
+    "publisher": "Taylor & Francis",
+    "publishedDate": "2008-07-31",
+    "description": "By making students more knowledgeable about the influences that guide media organizations, Media Today builds media literacy skills to make students sensitive ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415960584"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415960588"
+     }
+    ],
+    "pageCount": 679,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dKusZ29rZHYIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dKusZ29rZHYIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKusZ29rZHYIC&printsec\u003dfrontcover&dq\u003dMedia&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKusZ29rZHYIC&dq\u003dMedia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 85.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 68.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dKusZ29rZHYIC&dq\u003dMedia&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Media_Today-sample-pdf.acsm?id\u003dKusZ29rZHYIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1T8LX1lG-t0C",
+   "etag": "tmlGilGlT30",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1T8LX1lG-t0C",
+   "volumeInfo": {
+    "title": "Media literacy",
+    "authors": [
+     "W. James Potter"
+    ],
+    "publisher": "Sage Publications, Inc",
+    "publishedDate": "2008-01",
+    "description": "This captivating book offers a plan of action for gaining a clearer perspective on the borders between the real world and the simulated media world, helping ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "141295875X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781412958752"
+     }
+    ],
+    "pageCount": 424,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d1T8LX1lG-t0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d1T8LX1lG-t0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1T8LX1lG-t0C&printsec\u003dfrontcover&dq\u003dMedia&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1T8LX1lG-t0C&dq\u003dMedia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Media_literacy-sample-epub.acsm?id\u003d1T8LX1lG-t0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "suTmQMyujX4C",
+   "etag": "MWeWVZlrGRI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/suTmQMyujX4C",
+   "volumeInfo": {
+    "title": "The media",
+    "subtitle": "the terrorists' battlefield",
+    "authors": [
+     "Centre of Excellence Defence Against Terrorism"
+    ],
+    "publisher": "Ios Pr Inc",
+    "publishedDate": "2007-03",
+    "description": "&quot;As the title suggests, the book commences on the premise that in contemporary conflict, - war amongst the people - the objective is public opinion.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1586037307"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781586037307"
+     }
+    ],
+    "pageCount": 159,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dsuTmQMyujX4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dsuTmQMyujX4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dsuTmQMyujX4C&printsec\u003dfrontcover&dq\u003dMedia&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dsuTmQMyujX4C&dq\u003dMedia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 591
+}

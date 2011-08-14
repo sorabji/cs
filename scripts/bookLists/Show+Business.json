@@ -1,0 +1,478 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "xCTjh-e5HBwC",
+   "etag": "TDiMxxcekD4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xCTjh-e5HBwC",
+   "volumeInfo": {
+    "title": "Show business",
+    "subtitle": "a novel",
+    "authors": [
+     "Shashi Tharoor"
+    ],
+    "publisher": "Arcade Publishing",
+    "publishedDate": "1992",
+    "description": "On-screen fiction and off-screen reality intertwine in a story of the glitz, glamour, egos, and double standards found in the Hollywoodish Indian film world. 15 ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1559701811"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781559701815"
+     }
+    ],
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dxCTjh-e5HBwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dxCTjh-e5HBwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxCTjh-e5HBwC&printsec\u003dfrontcover&dq\u003dShow+Business&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxCTjh-e5HBwC&dq\u003dShow+Business&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GnhaAAAAMAAJ",
+   "etag": "5ODNsRAgeIc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GnhaAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Show business",
+    "authors": [
+     "Kevin Coyne"
+    ],
+    "publisher": "Serpents Tail",
+    "publishedDate": "1993-01-15",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015032971148"
+     }
+    ],
+    "pageCount": 162,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dGnhaAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dGnhaAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGnhaAAAAMAAJ&q\u003dShow+Business&dq\u003dShow+Business&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGnhaAAAAMAAJ&dq\u003dShow+Business&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HtNLAAAAIAAJ",
+   "etag": "kPd4jrE3ekQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HtNLAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Show business",
+    "authors": [
+     "Thyra Samter Winslow"
+    ],
+    "publishedDate": "1936",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B243709"
+     }
+    ],
+    "pageCount": 319,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dHtNLAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dHtNLAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHtNLAAAAIAAJ&q\u003dShow+Business&dq\u003dShow+Business&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHtNLAAAAIAAJ&dq\u003dShow+Business&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SwArAAAAIAAJ",
+   "etag": "Crr7mgzu/7Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SwArAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Show business",
+    "publishedDate": "1943",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B3834676"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dSwArAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dSwArAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSwArAAAAIAAJ&q\u003dShow+Business&dq\u003dShow+Business&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSwArAAAAIAAJ&dq\u003dShow+Business&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1xFLAAAAIAAJ",
+   "etag": "BU5X4GVbllg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1xFLAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Show business",
+    "subtitle": "a book of the theatre",
+    "authors": [
+     "Gladys Sheila Donisthorpe"
+    ],
+    "publishedDate": "1943",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B250971"
+     }
+    ],
+    "pageCount": 94,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d1xFLAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d1xFLAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1xFLAAAAIAAJ&q\u003dShow+Business&dq\u003dShow+Business&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1xFLAAAAIAAJ&dq\u003dShow+Business&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6l3utgAACAAJ",
+   "etag": "YIaZofg+SEU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6l3utgAACAAJ",
+   "volumeInfo": {
+    "title": "Show Business",
+    "subtitle": "A Novel of India",
+    "authors": [
+     "Shashi Tharoor"
+    ],
+    "publisher": "Arcade Publishing",
+    "publishedDate": "2011-09-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1611452236"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781611452235"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d6l3utgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d6l3utgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6l3utgAACAAJ&dq\u003dShow+Business&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6l3utgAACAAJ&dq\u003dShow+Business&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QGjqZ_Q5_AcC",
+   "etag": "yXt+KhOmkxA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QGjqZ_Q5_AcC",
+   "volumeInfo": {
+    "title": "How to Get Your Child Started in Show Business",
+    "authors": [
+     "Pamela Papi"
+    ],
+    "publisher": "iUniverse",
+    "publishedDate": "2009-04",
+    "description": "This book is a handy step by step guide for all those parents who are trying to get their children started in a show biz career, but didn&#39;t know where to begin  ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1440131724"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781440131721"
+     }
+    ],
+    "pageCount": 68,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dQGjqZ_Q5_AcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dQGjqZ_Q5_AcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQGjqZ_Q5_AcC&printsec\u003dfrontcover&dq\u003dShow+Business&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQGjqZ_Q5_AcC&dq\u003dShow+Business&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QTR1PQAACAAJ",
+   "etag": "iJYq5TQMwU4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QTR1PQAACAAJ",
+   "volumeInfo": {
+    "title": "Show business",
+    "subtitle": "stars of the world of show business",
+    "authors": [
+     "Harry Alan Towers"
+    ],
+    "publishedDate": "1949",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:12074487"
+     }
+    ],
+    "pageCount": 110,
+    "printType": "BOOK",
+    "categories": [
+     "Motion pictures"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQTR1PQAACAAJ&dq\u003dShow+Business&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQTR1PQAACAAJ&dq\u003dShow+Business&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kcUheqdgbcEC",
+   "etag": "TFP8aAB698k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kcUheqdgbcEC",
+   "volumeInfo": {
+    "title": "There's no business that's not show business",
+    "subtitle": "marketing in an experience culture",
+    "authors": [
+     "Bernd Schmitt",
+     "David L. Rogers",
+     "Karen Vrotsos"
+    ],
+    "publisher": "FT Press",
+    "publishedDate": "2004",
+    "description": "Praise for &quot;There&#39;s No Business That&#39;s Not Show Business&quot; &quot;&quot;This book cleverly and insightfully makes explicit a clear (if upsetting to some) trend, i.e. &#39;all ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0130471194"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780130471192"
+     }
+    ],
+    "pageCount": 279,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "1.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dkcUheqdgbcEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dkcUheqdgbcEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkcUheqdgbcEC&printsec\u003dfrontcover&dq\u003dShow+Business&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkcUheqdgbcEC&dq\u003dShow+Business&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dBcWSQAACAAJ",
+   "etag": "SyB1a/vSLkc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dBcWSQAACAAJ",
+   "volumeInfo": {
+    "title": "Show business",
+    "authors": [
+     "Carol Channing",
+     "Wally Griffin",
+     "Charles Gaynor",
+     "Quat' Jeudis",
+     "Carter Barron Amphitheatre (Organization : Washington, D.C.)",
+     "Richard L. Coe Theater Programs Collection (Library of Congress)"
+    ],
+    "publishedDate": "1959",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:2010367303"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddBcWSQAACAAJ&dq\u003dShow+Business&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddBcWSQAACAAJ&dq\u003dShow+Business&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 598
+}

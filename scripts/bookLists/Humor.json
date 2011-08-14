@@ -1,0 +1,564 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "u_nXLcJfcTEC",
+   "etag": "hKlORk/DmZE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u_nXLcJfcTEC",
+   "volumeInfo": {
+    "title": "Humor",
+    "subtitle": "the psychology of living buoyantly",
+    "authors": [
+     "Herbert M. Lefcourt"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2001-01-31",
+    "description": "In this new book he places humor firmly within the literatures of coping processes, the moderation of stressful experiences, and health by showing how humor can ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0306464071"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780306464072"
+     }
+    ],
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003du_nXLcJfcTEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003du_nXLcJfcTEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003du_nXLcJfcTEC&printsec\u003dfrontcover&dq\u003dHumor&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003du_nXLcJfcTEC&dq\u003dHumor&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 79.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 63.96,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003du_nXLcJfcTEC&dq\u003dHumor&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Humor-sample-epub.acsm?id\u003du_nXLcJfcTEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Humor-sample-pdf.acsm?id\u003du_nXLcJfcTEC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ubiQ8wCrP0IC",
+   "etag": "KPgMeIN4W2Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ubiQ8wCrP0IC",
+   "volumeInfo": {
+    "title": "Humor",
+    "subtitle": "The Lighter Path to Resilience and Health",
+    "authors": [
+     "Phd Paul McGhee"
+    ],
+    "publisher": "Authorhouse",
+    "publishedDate": "2010-01-21",
+    "description": "This book discusses the exciting findings scientists have obtained over the past 25 years for how your sense of humor supports good physical and mental health.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1449060692"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781449060695"
+     }
+    ],
+    "pageCount": 396,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dubiQ8wCrP0IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dubiQ8wCrP0IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dubiQ8wCrP0IC&printsec\u003dfrontcover&dq\u003dHumor&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dubiQ8wCrP0IC&dq\u003dHumor&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Humor-sample-epub.acsm?id\u003dubiQ8wCrP0IC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jejTEzJB0DEC",
+   "etag": "QY5c69z7jg8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jejTEzJB0DEC",
+   "volumeInfo": {
+    "title": "On humor",
+    "authors": [
+     "Louis J. Budd",
+     "Edwin Harrison Cady"
+    ],
+    "publisher": "Duke University Press Books",
+    "publishedDate": "1992",
+    "description": "American Literature has published the best work of literary historians, critics, and bibliographers, ranging from the founders of discipline to the best current ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0822311739"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780822311737"
+     }
+    ],
+    "pageCount": 276,
+    "printType": "BOOK",
+    "categories": [
+     "Humor"
+    ],
+    "contentVersion": "0.2.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003djejTEzJB0DEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003djejTEzJB0DEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djejTEzJB0DEC&printsec\u003dfrontcover&dq\u003dHumor&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djejTEzJB0DEC&dq\u003dHumor&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tINlAAAAMAAJ",
+   "etag": "PVA5qJQ3JEw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tINlAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Humor",
+    "subtitle": "theory, history, applications",
+    "authors": [
+     "Frank J. MacHovec"
+    ],
+    "publisher": "Charles C. Thomas Publisher",
+    "publishedDate": "1988-06-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015013392041"
+     }
+    ],
+    "pageCount": 206,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dtINlAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dtINlAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtINlAAAAMAAJ&q\u003dHumor&dq\u003dHumor&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtINlAAAAMAAJ&dq\u003dHumor&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ieAcp2Z_zkIC",
+   "etag": "ErZF+6wOqBg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ieAcp2Z_zkIC",
+   "volumeInfo": {
+    "title": "The psychology of humor",
+    "subtitle": "an integrative approach",
+    "authors": [
+     "Rod A. Martin"
+    ],
+    "publisher": "Academic Press",
+    "publishedDate": "2007",
+    "description": "This is a singly authored monograph that provides in one source, a summary of information researchers might wish to know about research into the psychology of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "012372564X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780123725646"
+     }
+    ],
+    "pageCount": 446,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dieAcp2Z_zkIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dieAcp2Z_zkIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dieAcp2Z_zkIC&printsec\u003dfrontcover&dq\u003dHumor&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dieAcp2Z_zkIC&dq\u003dHumor&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 77.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 62.36,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dieAcp2Z_zkIC&dq\u003dHumor&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_psychology_of_humor-sample-epub.acsm?id\u003dieAcp2Z_zkIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_psychology_of_humor-sample-pdf.acsm?id\u003dieAcp2Z_zkIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nMykqoenGpsC",
+   "etag": "3EIUuYeUlgU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nMykqoenGpsC",
+   "volumeInfo": {
+    "title": "Design humor",
+    "subtitle": "the art of graphic wit",
+    "authors": [
+     "Steven Heller"
+    ],
+    "publisher": "Allworth Pr",
+    "publishedDate": "2002-10-01",
+    "description": "Full of captivating historical and philosophical references, including humor &quot;experts&quot; Groucho Marx, Max Eastman, and Mark Twain, this book provides not only an ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1581152469"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781581152463"
+     }
+    ],
+    "pageCount": 191,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dnMykqoenGpsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dnMykqoenGpsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnMykqoenGpsC&printsec\u003dfrontcover&dq\u003dHumor&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnMykqoenGpsC&dq\u003dHumor&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.17,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dnMykqoenGpsC&dq\u003dHumor&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Design_humor-sample-epub.acsm?id\u003dnMykqoenGpsC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Design_humor-sample-pdf.acsm?id\u003dnMykqoenGpsC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JaZ0Ol8O8QEC",
+   "etag": "7AEXwsg6wew",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JaZ0Ol8O8QEC",
+   "volumeInfo": {
+    "title": "Humor works",
+    "authors": [
+     "John Morreall"
+    ],
+    "publisher": "Human Resource Development Pr",
+    "publishedDate": "1997-12",
+    "description": "Using dozens of examples and anecdotes, this book explores the connections between humor and creativity, teamwork, risk-taking, and effective communication.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0874254000"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780874254006"
+     }
+    ],
+    "pageCount": 268,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dJaZ0Ol8O8QEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dJaZ0Ol8O8QEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJaZ0Ol8O8QEC&printsec\u003dfrontcover&dq\u003dHumor&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJaZ0Ol8O8QEC&dq\u003dHumor&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.72,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dJaZ0Ol8O8QEC&dq\u003dHumor&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Humor_works-sample-pdf.acsm?id\u003dJaZ0Ol8O8QEC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vn1dAAAAMAAJ",
+   "etag": "JsZc8oDNEI4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vn1dAAAAMAAJ",
+   "volumeInfo": {
+    "title": "On humor",
+    "authors": [
+     "Luigi Pirandello"
+    ],
+    "publisher": "Univ of North Carolina Pr",
+    "publishedDate": "1960",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015054066173"
+     }
+    ],
+    "pageCount": 150,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dvn1dAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dvn1dAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvn1dAAAAMAAJ&q\u003dHumor&dq\u003dHumor&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvn1dAAAAMAAJ&dq\u003dHumor&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bYBZAAAAMAAJ",
+   "etag": "aww7VC5SXWU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bYBZAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Humor",
+    "subtitle": "its theory and technique, with examples and samples; a book of discovery",
+    "authors": [
+     "Stephen Leacock"
+    ],
+    "publisher": "Dodd, Mead & Co.",
+    "publishedDate": "1935",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015014233954"
+     }
+    ],
+    "pageCount": 268,
+    "printType": "BOOK",
+    "categories": [
+     "Wit and humor"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dbYBZAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dbYBZAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbYBZAAAAMAAJ&q\u003dHumor&dq\u003dHumor&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbYBZAAAAMAAJ&dq\u003dHumor&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "I40wAAAAYAAJ",
+   "etag": "33Ojiqu1Krk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/I40wAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Humor",
+    "publishedDate": "1994-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059172133882485"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Humor"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dI40wAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dI40wAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com/books?id\u003dI40wAAAAYAAJ&q\u003dHumor&dq\u003dHumor&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dI40wAAAAYAAJ&dq\u003dHumor&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 589
+}

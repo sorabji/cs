@@ -1,0 +1,551 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Wb1mg5QWSLEC",
+   "etag": "xDY2bcXWUxw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Wb1mg5QWSLEC",
+   "volumeInfo": {
+    "title": "The Holocaust",
+    "subtitle": "a history of the Jews of Europe during the Second World War",
+    "authors": [
+     "Martin Gilbert"
+    ],
+    "publisher": "Holt Paperbacks",
+    "publishedDate": "1987-05-15",
+    "description": "Sets the scene with a brief history of anti-Semitism prior to Hitler, and documents the horrors of the Holocaust from 1933 onward, in an incisive, interpretive ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0805003487"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780805003482"
+     }
+    ],
+    "pageCount": 959,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 8,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dWb1mg5QWSLEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dWb1mg5QWSLEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWb1mg5QWSLEC&printsec\u003dfrontcover&dq\u003dHolocaust&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWb1mg5QWSLEC&dq\u003dHolocaust&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HrW-b3Q-3ewC",
+   "etag": "yToORiejRmM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HrW-b3Q-3ewC",
+   "volumeInfo": {
+    "title": "The Holocaust",
+    "authors": [
+     "Jack Fischel"
+    ],
+    "publisher": "Greenwood Pub Group",
+    "publishedDate": "1998-03-30",
+    "description": "Provides a reference guide to the principal figures, ideology, and events during the Nazis&#39; attempt to eliminate Jews during World War II",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0313298793"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780313298790"
+     }
+    ],
+    "pageCount": 196,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dHrW-b3Q-3ewC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dHrW-b3Q-3ewC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHrW-b3Q-3ewC&printsec\u003dfrontcover&dq\u003dHolocaust&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHrW-b3Q-3ewC&dq\u003dHolocaust&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Holocaust-sample-pdf.acsm?id\u003dHrW-b3Q-3ewC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xI50vTIFZeAC",
+   "etag": "p9tkKvDczG8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xI50vTIFZeAC",
+   "volumeInfo": {
+    "title": "Holocaust",
+    "subtitle": "a history",
+    "authors": [
+     "Debórah Dwork",
+     "Robert Jan Pelt",
+     "Robert Jan Van Pelt"
+    ],
+    "publisher": "W. W. Norton & Company",
+    "publishedDate": "2003-08-26",
+    "description": "A chronicle of events beginning in the Middle Ages through the modern era reveals the unfolding of Nazism and how it brought about the Holocaust, negotiating ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0393325245"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780393325249"
+     }
+    ],
+    "pageCount": 444,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dxI50vTIFZeAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dxI50vTIFZeAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxI50vTIFZeAC&printsec\u003dfrontcover&dq\u003dHolocaust&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxI50vTIFZeAC&dq\u003dHolocaust&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KhitnpYe9XsC",
+   "etag": "T7DIG55SNZQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KhitnpYe9XsC",
+   "volumeInfo": {
+    "title": "Holocaust",
+    "authors": [
+     "Gerald Green"
+    ],
+    "publisher": "Rosettabooks, LLC",
+    "publishedDate": "2001-02",
+    "description": "Gerald Green&#39;s novel Holocaust, which is based on his teleplay for the 1978 NBC miniseries, seeks to put faces on the tragedy by telling the story of the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0795301421"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780795301421"
+     }
+    ],
+    "pageCount": 408,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 8,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dKhitnpYe9XsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dKhitnpYe9XsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKhitnpYe9XsC&printsec\u003dfrontcover&dq\u003dHolocaust&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKhitnpYe9XsC&dq\u003dHolocaust&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 6.15,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dKhitnpYe9XsC&dq\u003dHolocaust&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Holocaust-sample-epub.acsm?id\u003dKhitnpYe9XsC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zl5DPSUMBYIC",
+   "etag": "UZveE0xAyss",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zl5DPSUMBYIC",
+   "volumeInfo": {
+    "title": "The Holocaust",
+    "subtitle": "the world and the Jews, 1933-1945",
+    "authors": [
+     "Seymour Rossel"
+    ],
+    "publisher": "Behrman House, Inc",
+    "publishedDate": "1992-03",
+    "description": "Discusses the rise of anti-Semitism in Europe, the treatment of Jews during the Holocaust, and the aftermath when the Nazi war criminals were brought to trial.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0874415268"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780874415261"
+     }
+    ],
+    "pageCount": 191,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dzl5DPSUMBYIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dzl5DPSUMBYIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzl5DPSUMBYIC&printsec\u003dfrontcover&dq\u003dHolocaust&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzl5DPSUMBYIC&dq\u003dHolocaust&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TL_3vEzlwQEC",
+   "etag": "9MuYmaxJAq4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TL_3vEzlwQEC",
+   "volumeInfo": {
+    "title": "Holocaust",
+    "subtitle": "origins, implementation, aftermath",
+    "authors": [
+     "Omer Bartov"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2000",
+    "description": "Complete with an introduction that summarizes the state of the field, this book contains major reinterpretations by leading Holocaust authors (including Levi, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415150361"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415150361"
+     }
+    ],
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dTL_3vEzlwQEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dTL_3vEzlwQEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTL_3vEzlwQEC&printsec\u003dfrontcover&dq\u003dHolocaust&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTL_3vEzlwQEC&dq\u003dHolocaust&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Holocaust-sample-epub.acsm?id\u003dTL_3vEzlwQEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Vh5WMRVimHUC",
+   "etag": "IJtvf2N8mnk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Vh5WMRVimHUC",
+   "volumeInfo": {
+    "title": "Holocaust",
+    "authors": [
+     "Charles Reznikoff"
+    ],
+    "publisher": "Black Sparrow Press",
+    "publishedDate": "2007",
+    "description": "I • DEPORTATION i One evening, a policeman came and told him — he had come from \u003cbr\u003e\r\nPoland and had been in Germany almost thirty years — told him and his family \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1574232088"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781574232080"
+     }
+    ],
+    "pageCount": 93,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 9,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dVh5WMRVimHUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dVh5WMRVimHUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVh5WMRVimHUC&printsec\u003dfrontcover&dq\u003dHolocaust&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVh5WMRVimHUC&dq\u003dHolocaust&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GhyJyOM7aO4C",
+   "etag": "vRybbTn4bmo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GhyJyOM7aO4C",
+   "volumeInfo": {
+    "title": "The Holocaust",
+    "authors": [
+     "Susan Willoughby"
+    ],
+    "publisher": "Heinemann Library",
+    "publishedDate": "2001-05",
+    "description": "Provides an overview of the events leading up to the Holocaust, discusses Hitler and the rise of Nazism, and highlights the Jewish resistance in the Warsaw ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1588103757"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781588103758"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dGhyJyOM7aO4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dGhyJyOM7aO4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGhyJyOM7aO4C&printsec\u003dfrontcover&dq\u003dHolocaust&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGhyJyOM7aO4C&dq\u003dHolocaust&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "e_aRvKpLUf0C",
+   "etag": "ihN3Ap+6vJc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/e_aRvKpLUf0C",
+   "volumeInfo": {
+    "title": "The Holocaust",
+    "subtitle": "the fate of European Jewry, 1932-1945",
+    "authors": [
+     "Leni Yahil",
+     "Ina Friedman",
+     "Haya Galai"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "1991-10-01",
+    "description": "Covers the anti-semitic activities of the Nazis all over the globe, refuting common myths about the Holocaust, including the perception that Jews went ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0195045238"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195045239"
+     }
+    ],
+    "pageCount": 832,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003de_aRvKpLUf0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003de_aRvKpLUf0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003de_aRvKpLUf0C&printsec\u003dfrontcover&dq\u003dHolocaust&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003de_aRvKpLUf0C&dq\u003dHolocaust&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GRNnAAAAMAAJ",
+   "etag": "ZLQHt89E/gA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GRNnAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Holocaust",
+    "subtitle": "religious and philosophical implications",
+    "authors": [
+     "John K. Roth",
+     "Michael Berenbaum"
+    ],
+    "publishedDate": "1989-12",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015020698935"
+     }
+    ],
+    "pageCount": 390,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dGRNnAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dGRNnAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGRNnAAAAMAAJ&q\u003dHolocaust&dq\u003dHolocaust&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGRNnAAAAMAAJ&dq\u003dHolocaust&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 575
+}

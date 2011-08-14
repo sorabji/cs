@@ -1,0 +1,572 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "bIMKHQAACAAJ",
+   "etag": "TJVLNu5optE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bIMKHQAACAAJ",
+   "volumeInfo": {
+    "title": "Speculative",
+    "subtitle": "a philosophical poem",
+    "authors": [
+     "James Flitton",
+     "Flitton and Son",
+     "Thew and Son"
+    ],
+    "publishedDate": "1877",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:55545813"
+     }
+    ],
+    "pageCount": 28,
+    "printType": "BOOK",
+    "categories": [
+     "English poetry"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbIMKHQAACAAJ&dq\u003dSpeculative&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbIMKHQAACAAJ&dq\u003dSpeculative&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "coBDqJQeAQYC",
+   "etag": "g+g/rorAN0Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/coBDqJQeAQYC",
+   "volumeInfo": {
+    "title": "The Speculative Turn",
+    "subtitle": "Continental Materialism and Realism",
+    "authors": [
+     "Levi Bryant",
+     "Nick Srnicek",
+     "Graham Harman"
+    ],
+    "publisher": "Re.Press",
+    "publishedDate": "2011-01-01",
+    "description": "As indicated by the title The Speculative Turn, the new currents of continental philosophy depart from the text-centered hermeneutic models of the past and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0980668344"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780980668346"
+     }
+    ],
+    "pageCount": 440,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dcoBDqJQeAQYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dcoBDqJQeAQYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcoBDqJQeAQYC&printsec\u003dfrontcover&dq\u003dSpeculative&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcoBDqJQeAQYC&dq\u003dSpeculative&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EWsqTjt6LYkC",
+   "etag": "dHMCN3pgeYU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EWsqTjt6LYkC",
+   "volumeInfo": {
+    "title": "Towards Speculative Realism",
+    "subtitle": "Essays and Lectures",
+    "authors": [
+     "Graham Harman"
+    ],
+    "publisher": "O Books",
+    "publishedDate": "2010-11-16",
+    "description": "This fascinating collection of eleven essays and lectures from 1997 to 2009, anchored by Harman&#39;s rebellious transformation of Heideggerian philosophy, shows ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1846943949"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781846943942"
+     }
+    ],
+    "pageCount": 212,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dEWsqTjt6LYkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dEWsqTjt6LYkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEWsqTjt6LYkC&printsec\u003dfrontcover&dq\u003dSpeculative&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEWsqTjt6LYkC&dq\u003dSpeculative&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Towards_Speculative_Realism-sample-epub.acsm?id\u003dEWsqTjt6LYkC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mrHtsoprM1AC",
+   "etag": "Mx5bAi2INsY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mrHtsoprM1AC",
+   "volumeInfo": {
+    "title": "Speculative truth",
+    "subtitle": "Henry Cavendish, natural philosophy, and the rise of modern theoretical science",
+    "authors": [
+     "Russell McCormmach"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2004",
+    "description": "With a never-before published paper by Lord Henry Cavendish, as well as a biography on him, this book offers a fascinating discourse on the rise of scientific ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0195160045"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195160048"
+     }
+    ],
+    "pageCount": 258,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dmrHtsoprM1AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dmrHtsoprM1AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmrHtsoprM1AC&printsec\u003dfrontcover&dq\u003dSpeculative&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmrHtsoprM1AC&dq\u003dSpeculative&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 75.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 60.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dmrHtsoprM1AC&dq\u003dSpeculative&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Speculative_truth-sample-epub.acsm?id\u003dmrHtsoprM1AC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Speculative_truth-sample-pdf.acsm?id\u003dmrHtsoprM1AC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aokeGc8vBIQC",
+   "etag": "3Sl750fRgwY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aokeGc8vBIQC",
+   "volumeInfo": {
+    "title": "Speculative execution in high-performance computer architectures",
+    "authors": [
+     "David R. Kaeli",
+     "Pen-Chung Yew"
+    ],
+    "publisher": "CRC Press",
+    "publishedDate": "2005-05-26",
+    "description": "It covers cutting-edge research projects, as well as numerous commercial implementations that demonstrate the value of this latency-hiding technique.The book ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1584884479"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781584884477"
+     }
+    ],
+    "pageCount": 435,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003daokeGc8vBIQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003daokeGc8vBIQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daokeGc8vBIQC&printsec\u003dfrontcover&dq\u003dSpeculative&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daokeGc8vBIQC&dq\u003dSpeculative&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 133.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 107.16,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003daokeGc8vBIQC&dq\u003dSpeculative&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Speculative_execution_in_high_performanc-sample-epub.acsm?id\u003daokeGc8vBIQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Speculative_execution_in_high_performanc-sample-pdf.acsm?id\u003daokeGc8vBIQC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wRpkKTQ9eLgC",
+   "etag": "UPHXF6yxg7E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wRpkKTQ9eLgC",
+   "volumeInfo": {
+    "title": "Speculative bubbles, speculative attacks, and policy switching",
+    "authors": [
+     "Robert P. Flood",
+     "Peter M. Garber"
+    ],
+    "publisher": "The MIT Press",
+    "publishedDate": "1994-06-29",
+    "description": "This book brings together their research in these areas during the 1980s and early 1990s, highlighting in particular the close relation of their work on bubbles ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0262061694"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780262061698"
+     }
+    ],
+    "pageCount": 493,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dwRpkKTQ9eLgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dwRpkKTQ9eLgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwRpkKTQ9eLgC&printsec\u003dfrontcover&dq\u003dSpeculative&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwRpkKTQ9eLgC&dq\u003dSpeculative&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "A3t1HmVEaPgC",
+   "etag": "Y7fiYbAhWSk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/A3t1HmVEaPgC",
+   "volumeInfo": {
+    "title": "Hidden Collective Factors in Speculative Trading",
+    "subtitle": "A Study in Analytical Economics",
+    "authors": [
+     "Bertrand M. Roehner"
+    ],
+    "publisher": "Springer Verlag",
+    "publishedDate": "2009-10-01",
+    "description": "The book shows that the factors commonly mentioned (e. g. subprime loans, fall in housing prices) have occurred in the past and therefore cannot account for the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3642030475"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642030475"
+     }
+    ],
+    "pageCount": 312,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dA3t1HmVEaPgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dA3t1HmVEaPgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dA3t1HmVEaPgC&printsec\u003dfrontcover&dq\u003dSpeculative&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dA3t1HmVEaPgC&dq\u003dSpeculative&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 139.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 111.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dA3t1HmVEaPgC&dq\u003dSpeculative&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Hidden_Collective_Factors_in_Speculative-sample-pdf.acsm?id\u003dA3t1HmVEaPgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HKxQJNdFUD8C",
+   "etag": "jY/UJoBEhZQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HKxQJNdFUD8C",
+   "volumeInfo": {
+    "title": "Hegel's speculative Good Friday",
+    "subtitle": "the death of God in philosophical perspective",
+    "authors": [
+     "Deland Scott Anderson"
+    ],
+    "publisher": "Scholars Pr",
+    "publishedDate": "1996-10",
+    "description": "In this book Deland S. Anderson traces the origin of the idea, &quot;God is dead,&quot; in the philosophy of G.W.F. Hegel.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0788501232"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780788501234"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dHKxQJNdFUD8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dHKxQJNdFUD8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHKxQJNdFUD8C&printsec\u003dfrontcover&dq\u003dSpeculative&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHKxQJNdFUD8C&dq\u003dSpeculative&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Z88lBJ1D3AkC",
+   "etag": "aTsKMnqeCmk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Z88lBJ1D3AkC",
+   "volumeInfo": {
+    "title": "Astro Cycles and Speculative Markets",
+    "authors": [
+     "L. J. Jensen"
+    ],
+    "publisher": "Health Research Books",
+    "publishedDate": "1985-06",
+    "description": "THE PROBLEM OF ECONOMIC CAUSATION The habit of popular thinking lies along the \u003cbr\u003e\r\nvein that all economic problems are merely debatable theories. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0939093111"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780939093113"
+     }
+    ],
+    "pageCount": 142,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dZ88lBJ1D3AkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dZ88lBJ1D3AkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZ88lBJ1D3AkC&printsec\u003dfrontcover&dq\u003dSpeculative&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZ88lBJ1D3AkC&dq\u003dSpeculative&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aM1RAAAAMAAJ",
+   "etag": "hhEw9zE61Go",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aM1RAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Essays--scientific, political and speculative",
+    "authors": [
+     "Herbert Spencer"
+    ],
+    "publishedDate": "1858",
+    "description": "ESSAYS. PROGRESS: ITS LAW AND CAUSE. The current conception of Progress is \u003cbr\u003e\r\nsomewhat shifting and indefinite. Sometimes it comprehends little more than \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "WISC:89016424228"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003daM1RAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003daM1RAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daM1RAAAAMAAJ&printsec\u003dfrontcover&dq\u003dSpeculative&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daM1RAAAAMAAJ&dq\u003dSpeculative&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Essays_scientific_political_and_speculat.epub?id\u003daM1RAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Essays_scientific_political_and_speculat.pdf?id\u003daM1RAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2F_pO1t_uL6hoRCeBzB33_JIRzIw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 598
+}

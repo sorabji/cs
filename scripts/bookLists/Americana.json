@@ -1,0 +1,510 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "gE_A6VreNOoC",
+   "etag": "bQE+odGlH7A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gE_A6VreNOoC",
+   "volumeInfo": {
+    "title": "Americana",
+    "authors": [
+     "Don DeLillo"
+    ],
+    "publisher": "ePenguin",
+    "publishedDate": "2006-03-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0141188235"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780141188232"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 15,
+    "contentVersion": "0.2.0.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dgE_A6VreNOoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dgE_A6VreNOoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgE_A6VreNOoC&dq\u003dAmericana&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgE_A6VreNOoC&dq\u003dAmericana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PNkXAQAAIAAJ",
+   "etag": "uN6iIva5Bj8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PNkXAQAAIAAJ",
+   "volumeInfo": {
+    "title": "The Americana",
+    "subtitle": "a universal reference library, comprising the arts and sciences, literature, history, biography, geography, commerce, etc., of the world",
+    "authors": [
+     "Frederick Converse Beach",
+     "George Edwin Rines"
+    ],
+    "publishedDate": "1907",
+    "description": "\u003cb\u003e...\u003c/b\u003e of Harmony of Science and Revealed Religion, Princeton University BIRDS \u003cbr\u003e\r\nErnest Ingersoll Editorial Staff, Encyclopedia \u003cb\u003eAmericana\u003c/b\u003e BLIND, EDUCATION OF THE \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B3057490"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dPNkXAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dPNkXAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPNkXAQAAIAAJ&printsec\u003dfrontcover&dq\u003dAmericana&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPNkXAQAAIAAJ&dq\u003dAmericana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Americana.pdf?id\u003dPNkXAQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0fo86uE5Ayt9XFrENVyqZ6GGE5bg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kHZIAAAAYAAJ",
+   "etag": "KOLgwmuXaEE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kHZIAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Americana",
+    "authors": [
+     "American Historical Company",
+     "National Americana Society",
+     "American Historical Society"
+    ],
+    "publishedDate": "1913",
+    "description": "\u003cb\u003e...\u003c/b\u003e founder of the Louisville Public Library and of the Fil- son Club; \u003cbr\u003e\r\nKentucky&#39;s bibliographer; authority on \u003cb\u003eAmericana\u003c/b\u003e, and a new and welcome \u003cbr\u003e\r\ncontributor \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PRNC:32101076896636"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dkHZIAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dkHZIAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkHZIAAAAYAAJ&printsec\u003dfrontcover&dq\u003dAmericana&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkHZIAAAAYAAJ&dq\u003dAmericana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Americana.epub?id\u003dkHZIAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Americana.pdf?id\u003dkHZIAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1jRIOYAbB5fwXfazSs-SdMmio9jg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "InpHAQAAIAAJ",
+   "etag": "gdoKgt+OvK4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/InpHAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Americana",
+    "publishedDate": "1907",
+    "description": "Source Books of American History This series of annotated reprints will include \u003cbr\u003e\r\nsome of the best and rarest contemporary volumes of travel, history, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105118839583"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dInpHAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dInpHAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dInpHAQAAIAAJ&printsec\u003dfrontcover&dq\u003dAmericana&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dInpHAQAAIAAJ&dq\u003dAmericana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Americana.epub?id\u003dInpHAQAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Americana.pdf?id\u003dInpHAQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3HHNgjOzXklDsDaEtUOAzNXgbHGw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GqcXQHkUscAC",
+   "etag": "Rmt6WlfEPJs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GqcXQHkUscAC",
+   "volumeInfo": {
+    "title": "Americana",
+    "subtitle": "Reiseeindrücke, betrachtungen, geschichtliche gesamtansicht",
+    "authors": [
+     "Karl Lamprecht"
+    ],
+    "publishedDate": "1906",
+    "description": "Vorwort und Einleitung. Ich habe gewißlich kein Buch über Amerika schreiben \u003cbr\u003e\r\nwollen. Und ich habe dazu auf meiner Reise durch die Vereinigten Staaten im \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015036878356"
+     }
+    ],
+    "pageCount": 147,
+    "printType": "BOOK",
+    "categories": [
+     "United States"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dGqcXQHkUscAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dGqcXQHkUscAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGqcXQHkUscAC&printsec\u003dfrontcover&dq\u003dAmericana&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGqcXQHkUscAC&dq\u003dAmericana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Americana.epub?id\u003dGqcXQHkUscAC&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Americana.pdf?id\u003dGqcXQHkUscAC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U00iFqDxdu9yLCaL9YyWRHs5xm8NQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "V18EAAAAYAAJ",
+   "etag": "7IGblUO0XqE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/V18EAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Americana",
+    "authors": [
+     "Justin Winsor"
+    ],
+    "publishedDate": "1886",
+    "description": "8vo, $2.50. Sent by mail, post-paid, on receipt of price by the Publishers, \u003cbr\u003e\r\nHOUGHTON, MIFFLIN AND COMPANY, 11 East Seventeenth Street, New York. \u003cb\u003eAMERICANA\u003c/b\u003e \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HXQSCF"
+     }
+    ],
+    "pageCount": 10,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dV18EAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dV18EAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dV18EAAAAYAAJ&printsec\u003dfrontcover&dq\u003dAmericana&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dV18EAAAAYAAJ&dq\u003dAmericana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Americana.pdf?id\u003dV18EAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U15tUReeOHSHOX2EiC763BRFAp8GQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2B92AAAAMAAJ",
+   "etag": "kHucst9JTiE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2B92AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Americana",
+    "subtitle": "dispatches from the new frontier",
+    "authors": [
+     "Hampton Sides"
+    ],
+    "publisher": "Anchor",
+    "publishedDate": "2004",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1400033551"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781400033553"
+     }
+    ],
+    "pageCount": 450,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 15,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d2B92AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d2B92AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2B92AAAAMAAJ&q\u003dAmericana&dq\u003dAmericana&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2B92AAAAMAAJ&dq\u003dAmericana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SnlbAAAAMAAJ",
+   "etag": "9K94XHIOrXU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SnlbAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Americana",
+    "subtitle": "and other poems",
+    "authors": [
+     "John Updike"
+    ],
+    "publisher": "Knopf Publishing Group",
+    "publishedDate": "2001",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015050475519"
+     }
+    ],
+    "pageCount": 95,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dSnlbAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dSnlbAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSnlbAAAAMAAJ&q\u003dAmericana&dq\u003dAmericana&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSnlbAAAAMAAJ&dq\u003dAmericana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QmUKAQAAMAAJ",
+   "etag": "8Qo3KBIoDh0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QmUKAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Americana",
+    "authors": [
+     "American Heritage Society"
+    ],
+    "publishedDate": "1977",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "WISC:89058302209"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dQmUKAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dQmUKAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQmUKAQAAMAAJ&q\u003dAmericana&dq\u003dAmericana&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQmUKAQAAMAAJ&dq\u003dAmericana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ov5qWk4cMQ4C",
+   "etag": "F5B6WvJQBLc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ov5qWk4cMQ4C",
+   "volumeInfo": {
+    "title": "Americana",
+    "subtitle": "Historical Spotlights in Story and Song",
+    "authors": [
+     "Myrtis Mixon",
+     "Joan Ashkenas"
+    ],
+    "publisher": "J A G Publishers",
+    "publishedDate": "1996-03",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0943327210"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780943327211"
+     }
+    ],
+    "pageCount": 98,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dov5qWk4cMQ4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dov5qWk4cMQ4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dov5qWk4cMQ4C&q\u003dAmericana&dq\u003dAmericana&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dov5qWk4cMQ4C&dq\u003dAmericana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 372
+}

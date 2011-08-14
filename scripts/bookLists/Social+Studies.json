@@ -1,0 +1,530 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "aI51EMWLP18C",
+   "etag": "j7+Htunk0+w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aI51EMWLP18C",
+   "volumeInfo": {
+    "title": "Social studies",
+    "subtitle": "standards, meaning, and understanding",
+    "authors": [
+     "Barbara Slater Stern"
+    ],
+    "publisher": "Eye On Education, Inc.",
+    "publishedDate": "2002-02",
+    "description": "This book shows secondary social studies teachers how to deliver standards-based content through authentic assignments.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1930556306"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781930556300"
+     }
+    ],
+    "pageCount": 189,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003daI51EMWLP18C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003daI51EMWLP18C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daI51EMWLP18C&printsec\u003dfrontcover&dq\u003dSocial+Studies&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daI51EMWLP18C&dq\u003dSocial+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zHh2-iE9tSoC",
+   "etag": "8Mmbl9DKJHo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zHh2-iE9tSoC",
+   "volumeInfo": {
+    "title": "Social studies for the twenty-first century",
+    "subtitle": "methods and materials for teaching in middle and secondary schools",
+    "authors": [
+     "Jack Zevin"
+    ],
+    "publisher": "Lawrence Erlbaum",
+    "publishedDate": "2000",
+    "description": "Revised and updated second edition offers an overall framework to guide teaching in setting objectives, devising lessons, and choosing classroom strategies, as ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0805824650"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780805824650"
+     }
+    ],
+    "pageCount": 439,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dzHh2-iE9tSoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dzHh2-iE9tSoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzHh2-iE9tSoC&printsec\u003dfrontcover&dq\u003dSocial+Studies&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzHh2-iE9tSoC&dq\u003dSocial+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 68.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 55.16,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dzHh2-iE9tSoC&dq\u003dSocial+Studies&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Social_studies_for_the_twenty_first_cent-sample-epub.acsm?id\u003dzHh2-iE9tSoC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Social_studies_for_the_twenty_first_cent-sample-pdf.acsm?id\u003dzHh2-iE9tSoC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SOkR9KZKlS4C",
+   "etag": "XRdOZtl5l8I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SOkR9KZKlS4C",
+   "volumeInfo": {
+    "title": "The social studies curriculum",
+    "subtitle": "purposes, problems, and possibilities",
+    "authors": [
+     "E. Wayne Ross"
+    ],
+    "publisher": "State Univ of New York Pr",
+    "publishedDate": "2006-10",
+    "description": "The third edition of The Social Studies Curriculum thoroughly updates the definitive overview of the primary issues teachers face when creating learning ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0791469107"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780791469101"
+     }
+    ],
+    "pageCount": 358,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dSOkR9KZKlS4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dSOkR9KZKlS4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSOkR9KZKlS4C&printsec\u003dfrontcover&dq\u003dSocial+Studies&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSOkR9KZKlS4C&dq\u003dSocial+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 31.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 17.25,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dSOkR9KZKlS4C&dq\u003dSocial+Studies&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_social_studies_curriculum-sample-epub.acsm?id\u003dSOkR9KZKlS4C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_social_studies_curriculum-sample-pdf.acsm?id\u003dSOkR9KZKlS4C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "C7ZrqTjU7YwC",
+   "etag": "1QYadiguQk0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/C7ZrqTjU7YwC",
+   "volumeInfo": {
+    "title": "Social Studies",
+    "authors": [
+     "Fran Lebowitz"
+    ],
+    "publishedDate": "1982-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0283988290"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780283988295"
+     }
+    ],
+    "pageCount": 147,
+    "printType": "BOOK",
+    "categories": [
+     "Humor"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 13,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dC7ZrqTjU7YwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dC7ZrqTjU7YwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dC7ZrqTjU7YwC&q\u003dSocial+Studies&dq\u003dSocial+Studies&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dC7ZrqTjU7YwC&dq\u003dSocial+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wu0EV3akVAQC",
+   "etag": "cI4sLzU6t74",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wu0EV3akVAQC",
+   "volumeInfo": {
+    "title": "Social Studies",
+    "description": "Unit Together we learn Together WE LEARN ^mmBMrn — 14-19 Together WE LEARN \\mmm \u003cbr\u003e\r\n20-25 TOGETHER WE LEARN EBlffiEttD 26-30 \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8181371674"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788181371676"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dwu0EV3akVAQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dwu0EV3akVAQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwu0EV3akVAQC&printsec\u003dfrontcover&dq\u003dSocial+Studies&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwu0EV3akVAQC&dq\u003dSocial+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PL5mAAAAMAAJ",
+   "etag": "Gs2jKymusVg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PL5mAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The social studies",
+    "subtitle": "a periodical for teachers and administrators",
+    "authors": [
+     "American Historical Association",
+     "National Board for Historical Service"
+    ],
+    "publishedDate": "2001-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015068895823"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Social sciences"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dPL5mAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dPL5mAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPL5mAAAAMAAJ&q\u003dSocial+Studies&dq\u003dSocial+Studies&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPL5mAAAAMAAJ&dq\u003dSocial+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dDgsPtWbWq0C",
+   "etag": "FaVVXN0uu8c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dDgsPtWbWq0C",
+   "volumeInfo": {
+    "title": "Social Studies",
+    "description": "\u003cb\u003e...\u003c/b\u003e Orbits, Equator £ote gj Mantle, Core, Atmosphere, Honzo ^SI-L &quot;TM Sate! Ite \u003cbr\u003e\r\nCo&quot; tTstratts, Latitude, ,«. LoSS, Cartographer, Du—s _ . \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8181371682"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788181371683"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003ddDgsPtWbWq0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003ddDgsPtWbWq0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddDgsPtWbWq0C&printsec\u003dfrontcover&dq\u003dSocial+Studies&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddDgsPtWbWq0C&dq\u003dSocial+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B6s9AAAAYAAJ",
+   "etag": "fbWy8xXYZMQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B6s9AAAAYAAJ",
+   "volumeInfo": {
+    "title": "Social studies",
+    "authors": [
+     "Richard Heber Newton"
+    ],
+    "publishedDate": "1887",
+    "description": "\u003cb\u003eSocial\u003c/b\u003e conditions partly responsible for these faults — (i) Conditions causing \u003cbr\u003e\r\nlabor&#39;s inefficiency — Heredity — Environment — Defective legislation \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433081956488"
+     }
+    ],
+    "pageCount": 380,
+    "printType": "BOOK",
+    "categories": [
+     "Social sciences"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dB6s9AAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dB6s9AAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dB6s9AAAAYAAJ&printsec\u003dfrontcover&dq\u003dSocial+Studies&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dB6s9AAAAYAAJ&dq\u003dSocial+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Social_studies.epub?id\u003dB6s9AAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Social_studies.pdf?id\u003dB6s9AAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0fNXIJaxoyCg76MMwLMc-AVEWwNw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KiNkknYaJNQC",
+   "etag": "aQybklNB+hA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KiNkknYaJNQC",
+   "volumeInfo": {
+    "title": "Social Studies",
+    "subtitle": "The United States",
+    "authors": [
+     "Candy Dawson Boyd",
+     "Carol Berkin"
+    ],
+    "publisher": "Scott Foresman & Co",
+    "publishedDate": "2003-10-26",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0328017639"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780328017638"
+     }
+    ],
+    "pageCount": 250,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dKiNkknYaJNQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dKiNkknYaJNQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKiNkknYaJNQC&q\u003dSocial+Studies&dq\u003dSocial+Studies&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKiNkknYaJNQC&dq\u003dSocial+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nIxgAAAAMAAJ",
+   "etag": "U2vpHv3WvoA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nIxgAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Social studies",
+    "subtitle": "economics, international relations, and political science",
+    "authors": [
+     "William P. Glade",
+     "Emily Baldwin"
+    ],
+    "publishedDate": "1981",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173025444767"
+     }
+    ],
+    "pageCount": 85,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dnIxgAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dnIxgAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnIxgAAAAMAAJ&q\u003dSocial+Studies&dq\u003dSocial+Studies&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnIxgAAAAMAAJ&dq\u003dSocial+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 582
+}

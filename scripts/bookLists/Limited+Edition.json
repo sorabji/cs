@@ -1,0 +1,469 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "S4k9MQAACAAJ",
+   "etag": "h8fhkmFV9A0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/S4k9MQAACAAJ",
+   "volumeInfo": {
+    "title": "Limited edition",
+    "subtitle": "factual/fictional/pictorial : the Library, Spring 2004",
+    "authors": [
+     "Charles Cumming",
+     "Limited Edition",
+     "Unitec New Zealand. School of Design"
+    ],
+    "publishedDate": "2004",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:156597094"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Art students"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dS4k9MQAACAAJ&dq\u003dLimited+Edition&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dS4k9MQAACAAJ&dq\u003dLimited+Edition&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fwE6AAAACAAJ",
+   "etag": "EP2jZHQ66fk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fwE6AAAACAAJ",
+   "volumeInfo": {
+    "title": "Limited edition!?",
+    "subtitle": "to buy or not to buy? It's all in the packaging design",
+    "authors": [
+     "Takako Narita",
+     "Naoko Ryuko"
+    ],
+    "publisher": "Allrightsreserved",
+    "publishedDate": "2005-08",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9889705486"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789889705480"
+     }
+    ],
+    "pageCount": 218,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dfwE6AAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dfwE6AAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfwE6AAAACAAJ&dq\u003dLimited+Edition&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfwE6AAAACAAJ&dq\u003dLimited+Edition&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "L19JAQAAIAAJ",
+   "etag": "YsOMryb0QIo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/L19JAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Limited edition",
+    "subtitle": "prototypes, one-offs and design art furniture",
+    "authors": [
+     "Sophie Lovell"
+    ],
+    "publisher": "Springer Verlag",
+    "publishedDate": "2009-03-23",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3764388951"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783764388959"
+     }
+    ],
+    "pageCount": 255,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dL19JAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dL19JAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dL19JAQAAIAAJ&q\u003dLimited+Edition&dq\u003dLimited+Edition&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dL19JAQAAIAAJ&dq\u003dLimited+Edition&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NL5BPgAACAAJ",
+   "etag": "SXZm9JIOPM0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NL5BPgAACAAJ",
+   "volumeInfo": {
+    "title": "Limited Edition",
+    "subtitle": "Woman: Poems That Reflect the Soul of Woman",
+    "authors": [
+     "Bibi"
+    ],
+    "publisher": "Authorhouse",
+    "publishedDate": "2008-12",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1438917562"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781438917566"
+     }
+    ],
+    "pageCount": 84,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dNL5BPgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dNL5BPgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNL5BPgAACAAJ&dq\u003dLimited+Edition&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNL5BPgAACAAJ&dq\u003dLimited+Edition&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DdrqAAAACAAJ",
+   "etag": "jF7UaTttunA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DdrqAAAACAAJ",
+   "volumeInfo": {
+    "title": "Limited Edition",
+    "subtitle": "Art and Design of Gama-Go",
+    "authors": [
+     "Tim Biskup",
+     "Greg Long",
+     "Chris Edmundson"
+    ],
+    "publishedDate": "2007-07-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8671968154"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788671968157"
+     }
+    ],
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDdrqAAAACAAJ&dq\u003dLimited+Edition&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDdrqAAAACAAJ&dq\u003dLimited+Edition&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NDSYAAAACAAJ",
+   "etag": "OkkUfahQ/I0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NDSYAAAACAAJ",
+   "volumeInfo": {
+    "title": "Limited edition",
+    "subtitle": "voices of women, voices of feminism",
+    "authors": [
+     "Geraldine Finn"
+    ],
+    "publisher": "Fernwood Books Ltd",
+    "publishedDate": "1993-02",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "189568613X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781895686135"
+     }
+    ],
+    "pageCount": 399,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNDSYAAAACAAJ&dq\u003dLimited+Edition&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNDSYAAAACAAJ&dq\u003dLimited+Edition&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VyCCGAAACAAJ",
+   "etag": "x96LzfCaL3o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VyCCGAAACAAJ",
+   "volumeInfo": {
+    "title": "Limited edition",
+    "authors": [
+     "Kitty Maryatt"
+    ],
+    "publishedDate": "2002",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:50080790"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Artists' books"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVyCCGAAACAAJ&dq\u003dLimited+Edition&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVyCCGAAACAAJ&dq\u003dLimited+Edition&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Y-aHHAAACAAJ",
+   "etag": "vbVFaQ0MBVQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Y-aHHAAACAAJ",
+   "volumeInfo": {
+    "title": "Limited edition",
+    "subtitle": "a catalogue of works by artists from western New York",
+    "authors": [
+     "Anthony Bannon",
+     "AA0 Gallery",
+     "Associated Artists of Western New York"
+    ],
+    "publishedDate": "1986*",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:18182969"
+     }
+    ],
+    "pageCount": 84,
+    "printType": "BOOK",
+    "categories": [
+     "Art, American"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dY-aHHAAACAAJ&dq\u003dLimited+Edition&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dY-aHHAAACAAJ&dq\u003dLimited+Edition&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9erCHAAACAAJ",
+   "etag": "tcvovtcE5DQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9erCHAAACAAJ",
+   "volumeInfo": {
+    "title": "Limited edition",
+    "authors": [
+     "Rita Degli Esposti",
+     "Gianantonio Pozzi"
+    ],
+    "publishedDate": "1979",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:68743055"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9erCHAAACAAJ&dq\u003dLimited+Edition&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9erCHAAACAAJ&dq\u003dLimited+Edition&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dvx9GwAACAAJ",
+   "etag": "5zxIOCbqGA0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dvx9GwAACAAJ",
+   "volumeInfo": {
+    "title": "Limited edition",
+    "authors": [
+     "Veronica Patterson"
+    ],
+    "publishedDate": "1978",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:78112750"
+     }
+    ],
+    "pageCount": 128,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddvx9GwAACAAJ&dq\u003dLimited+Edition&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddvx9GwAACAAJ&dq\u003dLimited+Edition&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 600
+}

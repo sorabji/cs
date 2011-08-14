@@ -1,0 +1,492 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "hZrFHAAACAAJ",
+   "etag": "1lRUzMnfkDQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hZrFHAAACAAJ",
+   "volumeInfo": {
+    "title": "African exploration",
+    "subtitle": "circular by the Special Committee appointed by the Council of the Royal Geographical Society to administer the African Exploration Fund",
+    "authors": [
+     "Royal Geographical Society (Great Britain). African Exploration Fund",
+     "Royal Geographical Society (Great Britain)"
+    ],
+    "publishedDate": "1877",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:51815057"
+     }
+    ],
+    "pageCount": 8,
+    "printType": "BOOK",
+    "categories": [
+     "Africa"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhZrFHAAACAAJ&dq\u003dAfrican+Exploration&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhZrFHAAACAAJ&dq\u003dAfrican+Exploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qt68AAAACAAJ",
+   "etag": "2jcl3Wi7Qyk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qt68AAAACAAJ",
+   "volumeInfo": {
+    "title": "African exploration",
+    "authors": [
+     "Max Noiprox"
+    ],
+    "publishedDate": "1979",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:15216743"
+     }
+    ],
+    "pageCount": 19,
+    "printType": "BOOK",
+    "categories": [
+     "English poetry"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dqt68AAAACAAJ&dq\u003dAfrican+Exploration&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dqt68AAAACAAJ&dq\u003dAfrican+Exploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NNqYNwAACAAJ",
+   "etag": "ejcwEBp2nWo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NNqYNwAACAAJ",
+   "volumeInfo": {
+    "title": "African exploration",
+    "authors": [
+     "Kujenga Ashe"
+    ],
+    "publishedDate": "1980",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:7359195"
+     }
+    ],
+    "pageCount": 102,
+    "printType": "BOOK",
+    "categories": [
+     "Africa"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNNqYNwAACAAJ&dq\u003dAfrican+Exploration&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNNqYNwAACAAJ&dq\u003dAfrican+Exploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IIZ4O4CBm9gC",
+   "etag": "d4eR4CRpMvI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IIZ4O4CBm9gC",
+   "volumeInfo": {
+    "title": "An African exploration of the East Asian education experience",
+    "authors": [
+     "Birger Fredriksen",
+     "Jee-Peng Tan"
+    ],
+    "publisher": "World Bank Publications",
+    "publishedDate": "2008-05",
+    "description": "By facilitating the cross-country fertilization of ideas between two regions with relatively limited contact in the past, these books fill a clear gap in the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0821373714"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780821373712"
+     }
+    ],
+    "pageCount": 374,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dIIZ4O4CBm9gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dIIZ4O4CBm9gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIIZ4O4CBm9gC&printsec\u003dfrontcover&dq\u003dAfrican+Exploration&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIIZ4O4CBm9gC&dq\u003dAfrican+Exploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 49.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 39.49,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dIIZ4O4CBm9gC&dq\u003dAfrican+Exploration&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZfPlB3DtAq4C",
+   "etag": "Wmao/eE8gWc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZfPlB3DtAq4C",
+   "volumeInfo": {
+    "title": "Proceedings of the Royal Geographical Society of London",
+    "authors": [
+     "Royal Geographical Society (Great Britain)"
+    ],
+    "publishedDate": "1872",
+    "description": "If \u003cb\u003eAfrican exploration\u003c/b\u003e was again to be taken up, he hoped a little more respect \u003cbr\u003e\r\nwould be paid to the Congo. If there were such difficulties \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015012372085"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Geography"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dZfPlB3DtAq4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dZfPlB3DtAq4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZfPlB3DtAq4C&pg\u003dPA132&dq\u003dAfrican+Exploration&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZfPlB3DtAq4C&dq\u003dAfrican+Exploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Proceedings_of_the_Royal_Geographical_So.epub?id\u003dZfPlB3DtAq4C&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Proceedings_of_the_Royal_Geographical_So.pdf?id\u003dZfPlB3DtAq4C&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2xSKptXWwlBSMcPn3hDAgmEXsK_w&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xaQSAAAAMAAJ",
+   "etag": "d0QJv04a0kk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xaQSAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The Living age ...",
+    "authors": [
+     "Eliakim Littell",
+     "Making of America Project"
+    ],
+    "publishedDate": "1854",
+    "description": "\u003cb\u003eAFRICAN EXPLORATION\u003c/b\u003e SOCIETY. A society has recently been formed under the \u003cbr\u003e\r\nauspices of the Duke of Wellington, and other noblemen and gentlemen, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015030080546"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dxaQSAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dxaQSAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxaQSAAAAMAAJ&pg\u003dPA494&dq\u003dAfrican+Exploration&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxaQSAAAAMAAJ&dq\u003dAfrican+Exploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Living_age.pdf?id\u003dxaQSAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U259dd6ZsZNX0fWNXS01VH9pIxENQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZF4CAAAAIAAJ",
+   "etag": "con07YOpQUE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZF4CAAAAIAAJ",
+   "volumeInfo": {
+    "title": "The Atlantic monthly",
+    "authors": [
+     "Making of America Project"
+    ],
+    "publishedDate": "1867",
+    "description": "\u003cb\u003eAfrican exploration\u003c/b\u003e, therefore, is a sober and business-like pursuit when \u003cbr\u003e\r\ncompared with these. There is usually some scientific pretext for the expedition\u003cbr\u003e\r\n, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105007118925"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dZF4CAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dZF4CAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZF4CAAAAIAAJ&pg\u003dPA626&dq\u003dAfrican+Exploration&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZF4CAAAAIAAJ&dq\u003dAfrican+Exploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Atlantic_monthly.pdf?id\u003dZF4CAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3t3ZQ7MtzIitnIhnWr6In1UiIsbQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eT4rAAAAYAAJ",
+   "etag": "FbFLLnkLB5g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eT4rAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Friends' review",
+    "subtitle": "a religious, literary and miscellaneous journal",
+    "authors": [
+     "Samuel Rhoads",
+     "Enoch Lewis"
+    ],
+    "publishedDate": "1876",
+    "description": "\u003cb\u003eAFRICAN EXPLORATION\u003c/b\u003e. Lieutenant Cameron&#39;s Recent Achievement — An Unexampled \u003cbr\u003e\r\nExploit — Previous Journeys Across the Continent. The news of the arrival of \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:AH6GJN"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003deT4rAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003deT4rAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deT4rAAAAYAAJ&pg\u003dPA391&dq\u003dAfrican+Exploration&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deT4rAAAAYAAJ&dq\u003dAfrican+Exploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Friends_review.pdf?id\u003deT4rAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2vhyNq-UmKLWojxOvDplIPedUJJw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Se0MAAAAIAAJ",
+   "etag": "Q+8a7Wd1iFw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Se0MAAAAIAAJ",
+   "volumeInfo": {
+    "title": "The achievements of Stanley and other African explorers",
+    "subtitle": "Comprising all the late and really great achievements won in the exploration of the vast unknown region of equatorial Africa ...",
+    "authors": [
+     "Joel Tyler Headley"
+    ],
+    "publishedDate": "1878",
+    "description": "18 LIST OF ILLUSTRATIONS. Pads General Night Attack of the Savages 283 Reception \u003cbr\u003e\r\nof Rionga 291 The Slave- Hunters Attack at Fatiko 297 Net Hunting 307 \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105010249964"
+     }
+    ],
+    "pageCount": 605,
+    "printType": "BOOK",
+    "categories": [
+     "Africa"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dSe0MAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dSe0MAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSe0MAAAAIAAJ&printsec\u003dfrontcover&dq\u003dAfrican+Exploration&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSe0MAAAAIAAJ&dq\u003dAfrican+Exploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/The_achievements_of_Stanley_and_other_Af.epub?id\u003dSe0MAAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_achievements_of_Stanley_and_other_Af.pdf?id\u003dSe0MAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3HvOV1wyQKchI7KoaMy0ktJZlfGQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MlAJAQAAIAAJ",
+   "etag": "SQv4by5yciI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MlAJAQAAIAAJ",
+   "volumeInfo": {
+    "title": "African exploration and human understanding",
+    "authors": [
+     "Emmanuel Ayankanmi Ayandele"
+    ],
+    "publishedDate": "1972",
+    "description": "\u003cb\u003eAFRICAN EXPLORATION\u003c/b\u003e AND HUMAN UNDERSTANDING (The Mungo Park Bi-centenary \u003cbr\u003e\r\nMemorial Lecture delivered in the University of Edinburgh on Thursday, 2nd \u003cbr\u003e\r\nDecember \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105041527966"
+     }
+    ],
+    "pageCount": 25,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dMlAJAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dMlAJAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMlAJAQAAIAAJ&q\u003dAfrican+Exploration&dq\u003dAfrican+Exploration&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMlAJAQAAIAAJ&dq\u003dAfrican+Exploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 578
+}

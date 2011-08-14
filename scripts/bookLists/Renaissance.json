@@ -1,0 +1,597 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "QLKJ7R_zW14C",
+   "etag": "TYY1OZtncuE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QLKJ7R_zW14C",
+   "volumeInfo": {
+    "title": "The Renaissance",
+    "subtitle": "A Short History",
+    "authors": [
+     "Paul Johnson"
+    ],
+    "publisher": "Modern Library",
+    "publishedDate": "2002-08-06",
+    "description": "Traces the economic, technological, and social developments of the Renaissance period, and describes contributions made by such figures as Leonardo da Vinci, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0812966198"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780812966190"
+     }
+    ],
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 15,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dQLKJ7R_zW14C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dQLKJ7R_zW14C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQLKJ7R_zW14C&printsec\u003dfrontcover&dq\u003dRenaissance&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQLKJ7R_zW14C&dq\u003dRenaissance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dQLKJ7R_zW14C&dq\u003dRenaissance&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Renaissance-sample-epub.acsm?id\u003dQLKJ7R_zW14C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Renaissance-sample-pdf.acsm?id\u003dQLKJ7R_zW14C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "a6tAAAAAYAAJ",
+   "etag": "vzL4qyCc/QI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a6tAAAAAYAAJ",
+   "volumeInfo": {
+    "title": "The renaissance",
+    "subtitle": "studies in art and poetry",
+    "authors": [
+     "Walter Pater"
+    ],
+    "publishedDate": "1888",
+    "description": "TWO EARLY FRENCH STORIES THE history of the \u003cb\u003eRenaissance\u003c/b\u003e ends in France, and \u003cbr\u003e\r\ncarries us away from Italy to the beautiful cities of the country of the Loire. \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044108418377"
+     }
+    ],
+    "pageCount": 252,
+    "printType": "BOOK",
+    "categories": [
+     "Renaissance"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 10,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003da6tAAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003da6tAAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003da6tAAAAAYAAJ&printsec\u003dfrontcover&dq\u003dRenaissance&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003da6tAAAAAYAAJ&dq\u003dRenaissance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/The_renaissance.epub?id\u003da6tAAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_renaissance.pdf?id\u003da6tAAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1lKjh7H8YWnt5xQyr_iy5dU6m1xA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cxUhezhrxeQC",
+   "etag": "C6LI6IrR3Vw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cxUhezhrxeQC",
+   "volumeInfo": {
+    "title": "The Renaissance",
+    "authors": [
+     "Jane Shuter"
+    ],
+    "publisher": "Heinemann/Raintree",
+    "publishedDate": "2006-09",
+    "description": "An introduction to the various elements of Renaissance life, including religion, trade, education, food, and clothes.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1403488142"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781403488145"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dcxUhezhrxeQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dcxUhezhrxeQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcxUhezhrxeQC&printsec\u003dfrontcover&dq\u003dRenaissance&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcxUhezhrxeQC&dq\u003dRenaissance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "05L_9N53WO0C",
+   "etag": "0piBzLvaXtQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/05L_9N53WO0C",
+   "volumeInfo": {
+    "title": "The Renaissance",
+    "authors": [
+     "Mary Quigley"
+    ],
+    "publisher": "Heinemann/Raintree",
+    "publishedDate": "2003-03-15",
+    "description": "This series introduces readers to the lives of ancient peoples, including their social, econonomic, political, and cultural lives.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1403406081"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781403406088"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d05L_9N53WO0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d05L_9N53WO0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d05L_9N53WO0C&printsec\u003dfrontcover&dq\u003dRenaissance&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d05L_9N53WO0C&dq\u003dRenaissance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "k_stm_hrJ-cC",
+   "etag": "bsFfSZQzGtQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/k_stm_hrJ-cC",
+   "volumeInfo": {
+    "title": "The Renaissance",
+    "subtitle": "a very short introduction",
+    "authors": [
+     "Jerry Brotton"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2006-06-01",
+    "description": "In its incisive account of the complexities of the political and religious upheavals of the period, the book argues that Europe&#39;s reciprocal relationship with ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0192801635"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780192801630"
+     }
+    ],
+    "pageCount": 148,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dk_stm_hrJ-cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dk_stm_hrJ-cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dk_stm_hrJ-cC&printsec\u003dfrontcover&dq\u003dRenaissance&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dk_stm_hrJ-cC&dq\u003dRenaissance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 8.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.52,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dk_stm_hrJ-cC&dq\u003dRenaissance&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Renaissance-sample-epub.acsm?id\u003dk_stm_hrJ-cC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Renaissance-sample-pdf.acsm?id\u003dk_stm_hrJ-cC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EE1URn0IXZkC",
+   "etag": "IAZqc1Nk2tg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EE1URn0IXZkC",
+   "volumeInfo": {
+    "title": "The Renaissance",
+    "authors": [
+     "Anna Claybourne"
+    ],
+    "publisher": "Raintree Freestyle Express",
+    "publishedDate": "2008-06-30",
+    "description": "Presents a tour of Renaissance Europe, discussing facts about fashion, diet, houses, religion, politics, culture, transportation, crime, and illness.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1410932907"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781410932907"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dEE1URn0IXZkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dEE1URn0IXZkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEE1URn0IXZkC&printsec\u003dfrontcover&dq\u003dRenaissance&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEE1URn0IXZkC&dq\u003dRenaissance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kfnI24Dz6HYC",
+   "etag": "+az/QNiSjvo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kfnI24Dz6HYC",
+   "volumeInfo": {
+    "title": "The Renaissance",
+    "subtitle": "a history of civilization in Italy from 1304-1576",
+    "authors": [
+     "Will Durant"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "1953-12-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0671616005"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780671616007"
+     }
+    ],
+    "pageCount": 776,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dkfnI24Dz6HYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dkfnI24Dz6HYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkfnI24Dz6HYC&q\u003dRenaissance&dq\u003dRenaissance&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkfnI24Dz6HYC&dq\u003dRenaissance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "froNoViMga4C",
+   "etag": "Un4glgITIeA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/froNoViMga4C",
+   "volumeInfo": {
+    "title": "Renaissance",
+    "subtitle": "the rebirth of liberty in the heart of Europe",
+    "authors": [
+     "Václav Klaus"
+    ],
+    "publisher": "Cato Inst",
+    "publishedDate": "1997-06-25",
+    "description": "Klaus tells the remarkable story of how the Czechs reclaimed their liberty after decades of Soviet-imposed socialism.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1882577477"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781882577477"
+     }
+    ],
+    "pageCount": 177,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dfroNoViMga4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dfroNoViMga4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfroNoViMga4C&printsec\u003dfrontcover&dq\u003dRenaissance&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfroNoViMga4C&dq\u003dRenaissance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.21,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dfroNoViMga4C&dq\u003dRenaissance&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4qjW_QP-V0sC",
+   "etag": "Hz+lglSb/bU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4qjW_QP-V0sC",
+   "volumeInfo": {
+    "title": "Renaissance",
+    "authors": [
+     "Oliver Bowden"
+    ],
+    "publisher": "Ace Books",
+    "publishedDate": "2010-02-23",
+    "description": "Based on one of the most bestselling video games of all time, &quot;Assassin&#39;s Creed: Renaissance&quot; takes readers deeper into the story than ever before.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0441019293"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780441019298"
+     }
+    ],
+    "pageCount": 486,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d4qjW_QP-V0sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d4qjW_QP-V0sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4qjW_QP-V0sC&printsec\u003dfrontcover&dq\u003dRenaissance&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4qjW_QP-V0sC&dq\u003dRenaissance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d4qjW_QP-V0sC&dq\u003dRenaissance&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Renaissance-sample-epub.acsm?id\u003d4qjW_QP-V0sC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fvOauVpjCscC",
+   "etag": "4b25NxjoHY0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fvOauVpjCscC",
+   "volumeInfo": {
+    "title": "The renaissance",
+    "authors": [
+     "Jocelyn Hunt"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1999",
+    "description": "With narrative introductions to each issue, this book integrates views of major historians, interpretations, analysis and evaluation of primary sources.The ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415195276"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415195270"
+     }
+    ],
+    "pageCount": 127,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dfvOauVpjCscC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dfvOauVpjCscC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfvOauVpjCscC&printsec\u003dfrontcover&dq\u003dRenaissance&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfvOauVpjCscC&dq\u003dRenaissance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.77,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dfvOauVpjCscC&dq\u003dRenaissance&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_renaissance-sample-epub.acsm?id\u003dfvOauVpjCscC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_renaissance-sample-pdf.acsm?id\u003dfvOauVpjCscC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 592
+}

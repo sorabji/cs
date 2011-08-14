@@ -1,0 +1,551 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "lIGHQhVg-8cC",
+   "etag": "urS7n+MHT/0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lIGHQhVg-8cC",
+   "volumeInfo": {
+    "title": "Ethnicity",
+    "authors": [
+     "Steve Fenton"
+    ],
+    "publisher": "Polity Pr",
+    "publishedDate": "2010-03-22",
+    "description": "In this extensively revised edition, Steve Fenton updates his concise and accessible introduction to ethnicity, drawing on new published work and recent social ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0745642659"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780745642659"
+     }
+    ],
+    "pageCount": 232,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dlIGHQhVg-8cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dlIGHQhVg-8cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlIGHQhVg-8cC&printsec\u003dfrontcover&dq\u003dEthnicity&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlIGHQhVg-8cC&dq\u003dEthnicity&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Ethnicity-sample-epub.acsm?id\u003dlIGHQhVg-8cC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mRx0QgAACAAJ",
+   "etag": "ku0/uYf1+P8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mRx0QgAACAAJ",
+   "volumeInfo": {
+    "title": "Ethnicity",
+    "authors": [
+     "John Hutchinson",
+     "Anthony D. Smith"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "1996",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0192892746"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780192892744"
+     }
+    ],
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dmRx0QgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dmRx0QgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmRx0QgAACAAJ&dq\u003dEthnicity&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmRx0QgAACAAJ&dq\u003dEthnicity&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZVpBivDW8eYC",
+   "etag": "bjEHJoloBm8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZVpBivDW8eYC",
+   "volumeInfo": {
+    "title": "Ethnicity",
+    "subtitle": "source of strength? source of conflict?",
+    "authors": [
+     "John Milton Yinger"
+    ],
+    "publisher": "State Univ of New York Pr",
+    "publishedDate": "1994",
+    "description": "Chapter 1 Drawing The Boundaries Of \u003cb\u003eEthnicity\u003c/b\u003e This was to have been a fairly \u003cbr\u003e\r\nstraightforward essay on \u003cb\u003eethnicity\u003c/b\u003e, built upon a long-standing interest. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0791417972"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780791417973"
+     }
+    ],
+    "pageCount": 494,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dZVpBivDW8eYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dZVpBivDW8eYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZVpBivDW8eYC&printsec\u003dfrontcover&dq\u003dEthnicity&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZVpBivDW8eYC&dq\u003dEthnicity&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 29.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dZVpBivDW8eYC&dq\u003dEthnicity&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Ethnicity-sample-epub.acsm?id\u003dZVpBivDW8eYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Ethnicity-sample-pdf.acsm?id\u003dZVpBivDW8eYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yV8No7NDDrsC",
+   "etag": "9enghNXePEE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yV8No7NDDrsC",
+   "volumeInfo": {
+    "title": "Ethnicity",
+    "subtitle": "theory and experience",
+    "authors": [
+     "Nathan Glazer",
+     "Daniel Patrick Moynihan"
+    ],
+    "publisher": "Harvard Univ Pr",
+    "publishedDate": "1975",
+    "description": "Sixteen essays present theoretical exploration of modern ethnic identity, assertiveness, and conflict throughout the world and selective empirical studies of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0674268563"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780674268562"
+     }
+    ],
+    "pageCount": 531,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dyV8No7NDDrsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dyV8No7NDDrsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyV8No7NDDrsC&printsec\u003dfrontcover&dq\u003dEthnicity&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyV8No7NDDrsC&dq\u003dEthnicity&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BqJjAWp-82cC",
+   "etag": "aWwHHbWlZS0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BqJjAWp-82cC",
+   "volumeInfo": {
+    "title": "Ethnicity and nationalism",
+    "authors": [
+     "Thomas Hylland Eriksen"
+    ],
+    "publisher": "Pluto Pr",
+    "publishedDate": "2002",
+    "description": "New expanded edition of a classic anthropology title that examines ethnicity as a dynamic and shifting aspect of social relations.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0745318878"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780745318875"
+     }
+    ],
+    "pageCount": 199,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dBqJjAWp-82cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dBqJjAWp-82cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBqJjAWp-82cC&printsec\u003dfrontcover&dq\u003dEthnicity&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBqJjAWp-82cC&dq\u003dEthnicity&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qax8RgTN4HQC",
+   "etag": "UPyegQ4JPeI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qax8RgTN4HQC",
+   "volumeInfo": {
+    "title": "Ethnicity",
+    "subtitle": "anthropological constructions",
+    "authors": [
+     "Marcus Banks"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1996",
+    "description": "This book constructs an intellectual history of ethnicity, and argues that while it has become an overused concept in the anthropological vocabulary, it is ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415078008"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415078009"
+     }
+    ],
+    "pageCount": 210,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dqax8RgTN4HQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dqax8RgTN4HQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dqax8RgTN4HQC&printsec\u003dfrontcover&dq\u003dEthnicity&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dqax8RgTN4HQC&dq\u003dEthnicity&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.69,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dqax8RgTN4HQC&dq\u003dEthnicity&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Ethnicity-sample-epub.acsm?id\u003dqax8RgTN4HQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Ethnicity-sample-pdf.acsm?id\u003dqax8RgTN4HQC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JTnMkS0xlq8C",
+   "etag": "WCXpzqTAjuc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JTnMkS0xlq8C",
+   "volumeInfo": {
+    "title": "Ethnicity",
+    "subtitle": "an agenda for mental health",
+    "authors": [
+     "Dinesh Bhugra",
+     "Veena Bahl"
+    ],
+    "publisher": "Royal College of Psychiatrists",
+    "publishedDate": "1999-01",
+    "description": "1 \u003cb\u003eEthnicity\u003c/b\u003e - issues of definition DINESH BHUGRA and VEENA BAHL \u003cb\u003eEthnicity\u003c/b\u003e, \u003cbr\u003e\r\nethnic identity or ethnic group are terms used to describe a characteristic \u003cbr\u003e\r\nwhich \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1901242153"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781901242157"
+     }
+    ],
+    "pageCount": 262,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dJTnMkS0xlq8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dJTnMkS0xlq8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJTnMkS0xlq8C&printsec\u003dfrontcover&dq\u003dEthnicity&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJTnMkS0xlq8C&dq\u003dEthnicity&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vlCQmAIVtOwC",
+   "etag": "o+VHCtZeRHI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vlCQmAIVtOwC",
+   "volumeInfo": {
+    "title": "EthniCity",
+    "subtitle": "geographic perspectives on ethnic change in modern cities",
+    "authors": [
+     "Hans-Dieter Laux"
+    ],
+    "publisher": "Rowman & Littlefield Pub Inc",
+    "publishedDate": "1996",
+    "description": "Chapter 1 Ethnic Diversity and Segregation in the New Los Angeles James P. Allen \u003cbr\u003e\r\nand Eugene Turner The nature of Los Angeles has undergone a major shift in \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0847680339"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780847680337"
+     }
+    ],
+    "pageCount": 309,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dvlCQmAIVtOwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dvlCQmAIVtOwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvlCQmAIVtOwC&printsec\u003dfrontcover&dq\u003dEthnicity&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvlCQmAIVtOwC&dq\u003dEthnicity&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/EthniCity-sample-pdf.acsm?id\u003dvlCQmAIVtOwC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QQbmAAAAMAAJ",
+   "etag": "DNrso/GetmE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QQbmAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Ethnicity",
+    "publisher": "[New York",
+    "publishedDate": "1981",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015014613551"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dQQbmAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dQQbmAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQQbmAAAAMAAJ&q\u003dEthnicity&dq\u003dEthnicity&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQQbmAAAAMAAJ&dq\u003dEthnicity&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "H7K6AAAAIAAJ",
+   "etag": "p+z2iA9fzq0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/H7K6AAAAIAAJ",
+   "volumeInfo": {
+    "title": "Ethnicity",
+    "authors": [
+     "Andrew M. Greeley",
+     "Gregory Baum"
+    ],
+    "publisher": "Seabury Pr",
+    "publishedDate": "1977-06-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105037380586"
+     }
+    ],
+    "pageCount": 105,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dH7K6AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dH7K6AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dH7K6AAAAIAAJ&q\u003dEthnicity&dq\u003dEthnicity&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dH7K6AAAAIAAJ&dq\u003dEthnicity&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 571
+}

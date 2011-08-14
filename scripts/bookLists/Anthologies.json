@@ -1,0 +1,503 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "8wJfDtXxB48C",
+   "etag": "tf1UvWIHYJk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8wJfDtXxB48C",
+   "volumeInfo": {
+    "title": "On anthologies",
+    "subtitle": "politics and pedagogy",
+    "authors": [
+     "Jeffrey R. Di Leo"
+    ],
+    "publisher": "Univ of Nebraska Pr",
+    "publishedDate": "2004-01-01",
+    "description": "Collectively, these essays establish the foundation for continuing critical analysis of anthology production and consumption in all disciplines.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0803266448"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780803266445"
+     }
+    ],
+    "pageCount": 431,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d8wJfDtXxB48C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d8wJfDtXxB48C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8wJfDtXxB48C&printsec\u003dfrontcover&dq\u003dAnthologies&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8wJfDtXxB48C&dq\u003dAnthologies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "d5AfFfjNK0QC",
+   "etag": "cWh/Mfu5V84",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/d5AfFfjNK0QC",
+   "volumeInfo": {
+    "title": "Anthologies",
+    "subtitle": "Ragons",
+    "authors": [
+     "Anness Publishing"
+    ],
+    "publishedDate": "1999-03-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1840900091"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781840900095"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Dragons"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dd5AfFfjNK0QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dd5AfFfjNK0QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dd5AfFfjNK0QC&q\u003dAnthologies&dq\u003dAnthologies&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dd5AfFfjNK0QC&dq\u003dAnthologies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s2gxSgAACAAJ",
+   "etag": "gTc3ceWFswo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s2gxSgAACAAJ",
+   "volumeInfo": {
+    "title": "Anthologies",
+    "subtitle": "Bab Ballads, the New Journalism, Nowa Huta. Okruchy ?ycia I Meandry Historii, the Norton Anthology of English Literature",
+    "authors": [
+     "Books, LLC",
+     "General Books LLC"
+    ],
+    "publisher": "Books LLC",
+    "publishedDate": "2010-05",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "115742516X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781157425168"
+     }
+    ],
+    "pageCount": 172,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003ds2gxSgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003ds2gxSgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ds2gxSgAACAAJ&dq\u003dAnthologies&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ds2gxSgAACAAJ&dq\u003dAnthologies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BVR9AAAACAAJ",
+   "etag": "fUcWXb4f37Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BVR9AAAACAAJ",
+   "volumeInfo": {
+    "title": "Anthologies",
+    "subtitle": "Introduction to Shakespeare",
+    "authors": [
+     "McDougal Littell Incorporated",
+     "Nextext"
+    ],
+    "publisher": "McDougal Littell/Houghton Mifflin",
+    "publishedDate": "2003-06",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0618221999"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780618221998"
+     }
+    ],
+    "pageCount": 863,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBVR9AAAACAAJ&dq\u003dAnthologies&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBVR9AAAACAAJ&dq\u003dAnthologies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OpVxPgAACAAJ",
+   "etag": "XURS9pk/ArM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OpVxPgAACAAJ",
+   "volumeInfo": {
+    "title": "Anthologies",
+    "authors": [
+     "Richard Baxstrom",
+     "Todd Meyers"
+    ],
+    "publishedDate": "2008",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0977046230"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780977046232"
+     }
+    ],
+    "pageCount": 134,
+    "printType": "BOOK",
+    "categories": [
+     "Art and anthropology"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOpVxPgAACAAJ&dq\u003dAnthologies&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOpVxPgAACAAJ&dq\u003dAnthologies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kq8HAQAAIAAJ",
+   "etag": "tbBzxjNJX5s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kq8HAQAAIAAJ",
+   "volumeInfo": {
+    "title": "British Anthologies: The Goldsmith anthology, 1745-1774",
+    "authors": [
+     "Edward Arber"
+    ],
+    "publishedDate": "1901",
+    "description": "THE GOLDSMITH \u003cb\u003eANTHOLOGY\u003c/b\u003e. 1745-1774 AD EDWIN AND ANGELINA. [THE HEEMir.] &#39;Turn, \u003cbr\u003e\r\ngentle Hermit of the dale! And guide my lonely way To where yon taper cheers \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B3310835"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dkq8HAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dkq8HAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkq8HAQAAIAAJ&printsec\u003dfrontcover&dq\u003dAnthologies&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkq8HAQAAIAAJ&dq\u003dAnthologies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/British_Anthologies_The_Goldsmith_anthol.pdf?id\u003dkq8HAQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2yOjlo_GAgthYHIzR1ONqOnpup1w&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KK8HAQAAIAAJ",
+   "etag": "lv3GU4HrvGc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KK8HAQAAIAAJ",
+   "volumeInfo": {
+    "title": "British Anthologies: The Dryden anthology, 1675-1700",
+    "authors": [
+     "Edward Arber"
+    ],
+    "publishedDate": "1901",
+    "description": "THE DRYDEN \u003cb\u003eANTHOLOGY\u003c/b\u003e. 1675-I7OO AD I feed a flame within, which so torments me \u003cbr\u003e\r\nThat it both pains my heart \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B3310833"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dKK8HAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dKK8HAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKK8HAQAAIAAJ&printsec\u003dfrontcover&dq\u003dAnthologies&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKK8HAQAAIAAJ&dq\u003dAnthologies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/British_Anthologies_The_Dryden_anthology.epub?id\u003dKK8HAQAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/British_Anthologies_The_Dryden_anthology.pdf?id\u003dKK8HAQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0QyBswnYaR_povQTat2a2EsrMJ-A&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-qwHAQAAIAAJ",
+   "etag": "7UeT5FS/io0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-qwHAQAAIAAJ",
+   "volumeInfo": {
+    "title": "British Anthologies: The Dunbar anthology, 1401-1508",
+    "authors": [
+     "Edward Arber"
+    ],
+    "publishedDate": "1901",
+    "description": "THE DUNBAR \u003cb\u003eANTHOLOGY\u003c/b\u003e. I4OI-1508 AD THE MERLE AND THE NIGHTINGALE. In May, as \u003cbr\u003e\r\nthat Aurora did upspring, With crystal e[y]ne, chasing the clouds sable, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B3310827"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d-qwHAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d-qwHAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-qwHAQAAIAAJ&printsec\u003dfrontcover&dq\u003dAnthologies&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-qwHAQAAIAAJ&dq\u003dAnthologies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/British_Anthologies_The_Dunbar_anthology.epub?id\u003d-qwHAQAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/British_Anthologies_The_Dunbar_anthology.pdf?id\u003d-qwHAQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3EPAUII9zIte4iNdC35mi-_QsS1A&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bK0HAQAAIAAJ",
+   "etag": "x820T11b1dY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bK0HAQAAIAAJ",
+   "volumeInfo": {
+    "title": "British Anthologies: The Spenser anthology, 1548-1591",
+    "authors": [
+     "Edward Arber"
+    ],
+    "publishedDate": "1901",
+    "description": "THE SPENSER \u003cb\u003eANTHOLOGY\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B3310829"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dbK0HAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dbK0HAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbK0HAQAAIAAJ&printsec\u003dfrontcover&dq\u003dAnthologies&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbK0HAQAAIAAJ&dq\u003dAnthologies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/British_Anthologies_The_Spenser_antholog.epub?id\u003dbK0HAQAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/British_Anthologies_The_Spenser_antholog.pdf?id\u003dbK0HAQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3brDUzyYmOkD2dRmc3G7SkmINQqA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "D64HAQAAIAAJ",
+   "etag": "8iQNWe7FI4M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/D64HAQAAIAAJ",
+   "volumeInfo": {
+    "title": "British Anthologies: The Jonson anthology, 1617-1637",
+    "authors": [
+     "Edward Arber"
+    ],
+    "publishedDate": "1901",
+    "description": "THE JONSON \u003cb\u003eANTHOLOGY\u003c/b\u003e. 1617-1637 AD O, DO not wanton with those eyes! Lest I be \u003cbr\u003e\r\nsick with seeing : Nor cast them down ; but let them rise ! \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B3310831"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dD64HAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dD64HAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dD64HAQAAIAAJ&printsec\u003dfrontcover&dq\u003dAnthologies&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dD64HAQAAIAAJ&dq\u003dAnthologies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/British_Anthologies_The_Jonson_anthology.pdf?id\u003dD64HAQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2H_ZAy2SGoh_dZo6xg5o94p-578g&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 590
+}

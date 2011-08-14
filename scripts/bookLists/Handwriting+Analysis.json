@@ -1,0 +1,516 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "g3jISguoksoC",
+   "etag": "PN5y1t9eWRI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/g3jISguoksoC",
+   "volumeInfo": {
+    "title": "Handwriting analysis",
+    "subtitle": "putting it to work for you",
+    "authors": [
+     "Andrea McNichol",
+     "Jeffrey A. Nelson"
+    ],
+    "publisher": "Contemporary Books",
+    "publishedDate": "1994-09-01",
+    "description": "Shows how to analyze handwriting traits, including slant, spacing, baseline, and connecting strokes, and discusses practical uses",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0809235668"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780809235667"
+     }
+    ],
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 12,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dg3jISguoksoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dg3jISguoksoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dg3jISguoksoC&printsec\u003dfrontcover&dq\u003dHandwriting+Analysis&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dg3jISguoksoC&dq\u003dHandwriting+Analysis&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0cg90vEagkYC",
+   "etag": "MimM1CXQRYI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0cg90vEagkYC",
+   "volumeInfo": {
+    "title": "The ABCs of Handwriting Analysis",
+    "subtitle": "The Complete Guide to Techniques and Interpretations",
+    "authors": [
+     "Claude Santoy"
+    ],
+    "publisher": "Da Capo Press",
+    "publishedDate": "2005-09-10",
+    "description": "Packed with useful information, The ABCs of Handwriting Analysis is the ultimate guide for anyone interested in uncovering the secrets hidden within handwriting ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1569243468"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781569243466"
+     }
+    ],
+    "pageCount": 230,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d0cg90vEagkYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d0cg90vEagkYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0cg90vEagkYC&printsec\u003dfrontcover&dq\u003dHandwriting+Analysis&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0cg90vEagkYC&dq\u003dHandwriting+Analysis&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ODMWQ2gEXNsC",
+   "etag": "FJ2g4dltH7k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ODMWQ2gEXNsC",
+   "volumeInfo": {
+    "title": "Handwriting Analysis",
+    "authors": [
+     "Vijaya Kumar"
+    ],
+    "publisher": "Sterling Publishers Pvt. Ltd",
+    "publishedDate": "2005-05-01",
+    "description": "This book presents graphology, the science of handwriting analysis, in a simple and easy-to-follow style.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1845571231"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781845571238"
+     }
+    ],
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dODMWQ2gEXNsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dODMWQ2gEXNsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dODMWQ2gEXNsC&printsec\u003dfrontcover&dq\u003dHandwriting+Analysis&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dODMWQ2gEXNsC&dq\u003dHandwriting+Analysis&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ERvrpAlC3XYC",
+   "etag": "U7800PTv3hY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ERvrpAlC3XYC",
+   "volumeInfo": {
+    "title": "Handwriting analysis",
+    "subtitle": "the complete basic book",
+    "authors": [
+     "Karen Amend",
+     "Mary S. Ruiz"
+    ],
+    "publisher": "Newcastle Pub Co Inc",
+    "publishedDate": "1980-10-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "087877050X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780878770502"
+     }
+    ],
+    "pageCount": 196,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dERvrpAlC3XYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dERvrpAlC3XYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dERvrpAlC3XYC&q\u003dHandwriting+Analysis&dq\u003dHandwriting+Analysis&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dERvrpAlC3XYC&dq\u003dHandwriting+Analysis&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B8vn-03mmGsC",
+   "etag": "zw0OLMRl6iY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B8vn-03mmGsC",
+   "volumeInfo": {
+    "title": "Handwriting analysis",
+    "subtitle": "the science of determining personality by graphoanalysis",
+    "authors": [
+     "Milton Newman Bunker"
+    ],
+    "publisher": "Burnham Inc Pub",
+    "publishedDate": "1971",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0911012680"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780911012682"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dB8vn-03mmGsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dB8vn-03mmGsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dB8vn-03mmGsC&q\u003dHandwriting+Analysis&dq\u003dHandwriting+Analysis&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dB8vn-03mmGsC&dq\u003dHandwriting+Analysis&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7PjpOwAACAAJ",
+   "etag": "boNFNEWx+2Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7PjpOwAACAAJ",
+   "volumeInfo": {
+    "title": "Handwriting Analysis",
+    "subtitle": "Secrets of Love, Sex, & Relationships",
+    "authors": [
+     "Bart A. Baggett"
+    ],
+    "publishedDate": "2005-01-31",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "188292942X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781882929429"
+     }
+    ],
+    "pageCount": 276,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d7PjpOwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d7PjpOwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7PjpOwAACAAJ&dq\u003dHandwriting+Analysis&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7PjpOwAACAAJ&dq\u003dHandwriting+Analysis&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7KIIAAAACAAJ",
+   "etag": "NCodLKx7/kI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7KIIAAAACAAJ",
+   "volumeInfo": {
+    "title": "Handwriting analysis",
+    "subtitle": "a complete self-teaching guide",
+    "authors": [
+     "P. Scott Hollander"
+    ],
+    "publisher": "Llewellyn Worldwide Ltd",
+    "publishedDate": "1998-09",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1567183905"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781567183900"
+     }
+    ],
+    "pageCount": 313,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d7KIIAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d7KIIAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7KIIAAAACAAJ&dq\u003dHandwriting+Analysis&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7KIIAAAACAAJ&dq\u003dHandwriting+Analysis&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3njWAAAAMAAJ",
+   "etag": "SMkp6BZPC7I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3njWAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Handwriting analysis",
+    "subtitle": "an introduction : a textbook to advance consistency in handwriting analysis",
+    "authors": [
+     "Ruth R. Bruce"
+    ],
+    "publishedDate": "1984",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PSU:000013929084"
+     }
+    ],
+    "pageCount": 110,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d3njWAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d3njWAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3njWAAAAMAAJ&q\u003dHandwriting+Analysis&dq\u003dHandwriting+Analysis&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3njWAAAAMAAJ&dq\u003dHandwriting+Analysis&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "znXWAAAAMAAJ",
+   "etag": "wEC435n4rhI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/znXWAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Handwriting analysis",
+    "subtitle": "an objective study",
+    "authors": [
+     "David Ord"
+    ],
+    "publishedDate": "1959",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PSU:000030517448"
+     }
+    ],
+    "pageCount": 54,
+    "printType": "BOOK",
+    "categories": [
+     "Graphology"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dznXWAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dznXWAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dznXWAAAAMAAJ&q\u003dHandwriting+Analysis&dq\u003dHandwriting+Analysis&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dznXWAAAAMAAJ&dq\u003dHandwriting+Analysis&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "M3pYLBmtxbMC",
+   "etag": "Wc1xKEy31JA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/M3pYLBmtxbMC",
+   "volumeInfo": {
+    "title": "Handwriting Analysis",
+    "authors": [
+     "Chris Morgan"
+    ],
+    "publisher": "Booksales",
+    "publishedDate": "1996-03-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0785805516"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780785805519"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dM3pYLBmtxbMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dM3pYLBmtxbMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dM3pYLBmtxbMC&q\u003dHandwriting+Analysis&dq\u003dHandwriting+Analysis&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dM3pYLBmtxbMC&dq\u003dHandwriting+Analysis&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 571
+}

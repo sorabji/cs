@@ -1,0 +1,499 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "EaO7jq4pLw0C",
+   "etag": "k1EVelQFCK4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EaO7jq4pLw0C",
+   "volumeInfo": {
+    "title": "Dude, Where's My Black Studies Department?",
+    "subtitle": "The Disappearance of Black Americans from Our Universities",
+    "authors": [
+     "Cecil Brown"
+    ],
+    "publishedDate": "2011-06-07",
+    "description": "From the Trade Paperback edition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1583943919"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781583943915"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dEaO7jq4pLw0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dEaO7jq4pLw0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEaO7jq4pLw0C&printsec\u003dfrontcover&dq\u003dBlack+Studies&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEaO7jq4pLw0C&dq\u003dBlack+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Dude_Where_s_My_Black_Studies_Department-sample-epub.acsm?id\u003dEaO7jq4pLw0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fvWgg-1PYK0C",
+   "etag": "87q5tpRA8xg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fvWgg-1PYK0C",
+   "volumeInfo": {
+    "title": "From Black power to Black studies",
+    "subtitle": "how a radical social movement became an academic discipline",
+    "authors": [
+     "Fabio Rojas"
+    ],
+    "publisher": "Johns Hopkins Univ Pr",
+    "publishedDate": "2007",
+    "description": "&quot; -- &quot;Left History &quot;&quot;Historians of the civil rights movement and of American higher education will profit considerably from reading this work.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0801886198"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780801886195"
+     }
+    ],
+    "pageCount": 279,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dfvWgg-1PYK0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dfvWgg-1PYK0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfvWgg-1PYK0C&printsec\u003dfrontcover&dq\u003dBlack+Studies&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfvWgg-1PYK0C&dq\u003dBlack+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/From_Black_power_to_Black_studies-sample-epub.acsm?id\u003dfvWgg-1PYK0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wgx2AAAAMAAJ",
+   "etag": "IvGd5czPaf0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wgx2AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Black studies",
+    "subtitle": "myths and realities",
+    "authors": [
+     "Martin Kilson"
+    ],
+    "publishedDate": "1969",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015008265129"
+     }
+    ],
+    "pageCount": 45,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dwgx2AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dwgx2AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwgx2AAAAMAAJ&q\u003dBlack+Studies&dq\u003dBlack+Studies&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwgx2AAAAMAAJ&dq\u003dBlack+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "R6xI9sRABPMC",
+   "etag": "sHmMRbcid5o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/R6xI9sRABPMC",
+   "volumeInfo": {
+    "title": "The Black Studies",
+    "description": "autonomy. It is necessary, therefore, to study the character of the social life \u003cbr\u003e\r\nof the slaves in order to determine how forces within their own social life \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:9ERQGPCCHPE"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dR6xI9sRABPMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dR6xI9sRABPMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dR6xI9sRABPMC&printsec\u003dfrontcover&dq\u003dBlack+Studies&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dR6xI9sRABPMC&dq\u003dBlack+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Black_Studies-sample-epub.acsm?id\u003dR6xI9sRABPMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RcBkDlJ7qjwC",
+   "etag": "zQ51HT4EqPM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RcBkDlJ7qjwC",
+   "volumeInfo": {
+    "title": "Encyclopedia of Black studies",
+    "authors": [
+     "Molefi K. Asante",
+     "Ama Mazama"
+    ],
+    "publisher": "Sage Publications, Inc",
+    "publishedDate": "2005",
+    "description": "Articles presents an analysis of the key individuals, events, and issues that are important to African Americans.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "076192762X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761927624"
+     }
+    ],
+    "pageCount": 531,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dRcBkDlJ7qjwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dRcBkDlJ7qjwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRcBkDlJ7qjwC&printsec\u003dfrontcover&dq\u003dBlack+Studies&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRcBkDlJ7qjwC&dq\u003dBlack+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nxd2AAAAMAAJ",
+   "etag": "Q99hedGx1Qo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nxd2AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Black studies",
+    "subtitle": "theory, method, and cultural perspectives",
+    "authors": [
+     "Talmadge Anderson"
+    ],
+    "publisher": "Washington State University",
+    "publishedDate": "1990",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015019428450"
+     }
+    ],
+    "pageCount": 227,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dnxd2AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dnxd2AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnxd2AAAAMAAJ&q\u003dBlack+Studies&dq\u003dBlack+Studies&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnxd2AAAAMAAJ&dq\u003dBlack+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "drjiAAAAMAAJ",
+   "etag": "T54TGDxnA2Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/drjiAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Black studies",
+    "subtitle": "a select catalog of National Archives microfilm publications",
+    "authors": [
+     "United States. National Archives and Records Service"
+    ],
+    "publisher": "National Archives Trust Fund Board National Archives and Rec",
+    "publishedDate": "1984-12-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015021630648"
+     }
+    ],
+    "pageCount": 97,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003ddrjiAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003ddrjiAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddrjiAAAAMAAJ&q\u003dBlack+Studies&dq\u003dBlack+Studies&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddrjiAAAAMAAJ&dq\u003dBlack+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-m0FSnrcNrUC",
+   "etag": "gGrrhI48N9o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-m0FSnrcNrUC",
+   "volumeInfo": {
+    "title": "Black studies",
+    "subtitle": "an urban and comparative curriculum",
+    "authors": [
+     "Rafael L. Cortada"
+    ],
+    "publisher": "Xerox College Pub",
+    "publishedDate": "1974",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "MINN:31951001815927Y"
+     }
+    ],
+    "pageCount": 228,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d-m0FSnrcNrUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d-m0FSnrcNrUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-m0FSnrcNrUC&q\u003dBlack+Studies&dq\u003dBlack+Studies&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-m0FSnrcNrUC&dq\u003dBlack+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "a7J1AAAAMAAJ",
+   "etag": "UkusVNJfLKI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a7J1AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Black studies",
+    "subtitle": "pitfalls & potential",
+    "authors": [
+     "William E. Sims"
+    ],
+    "publisher": "Univ Pr of Amer",
+    "publishedDate": "1978-06",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015003640342"
+     }
+    ],
+    "pageCount": 140,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003da7J1AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003da7J1AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003da7J1AAAAMAAJ&q\u003dBlack+Studies&dq\u003dBlack+Studies&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003da7J1AAAAMAAJ&dq\u003dBlack+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wX5xAAAAMAAJ",
+   "etag": "hRdpiGKxyLA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wX5xAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Black studies",
+    "subtitle": "a resource guide for teachers, intermediate division",
+    "authors": [
+     "Ontario. Ministry of Education"
+    ],
+    "publishedDate": "1983",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0774370955"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780774370950"
+     }
+    ],
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dwX5xAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dwX5xAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwX5xAAAAMAAJ&q\u003dBlack+Studies&dq\u003dBlack+Studies&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwX5xAAAAMAAJ&dq\u003dBlack+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 592
+}

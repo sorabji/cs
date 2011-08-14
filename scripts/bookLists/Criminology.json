@@ -1,0 +1,541 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "4twtp9uz5CAC",
+   "etag": "PqxuLH4kTsI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4twtp9uz5CAC",
+   "volumeInfo": {
+    "title": "Criminology",
+    "authors": [
+     "Larry J. Siegel"
+    ],
+    "publisher": "Wadsworth Pub Co",
+    "publishedDate": "2011-04-15",
+    "description": "This best-selling text provides you with the tools you need to succeed in your criminology course.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0495912468"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780495912460"
+     }
+    ],
+    "pageCount": 672,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d4twtp9uz5CAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d4twtp9uz5CAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4twtp9uz5CAC&printsec\u003dfrontcover&dq\u003dCriminology&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4twtp9uz5CAC&dq\u003dCriminology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HNK2G2kAAUcC",
+   "etag": "OQlLwGMmZTg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HNK2G2kAAUcC",
+   "volumeInfo": {
+    "title": "Criminology",
+    "authors": [
+     "Tim Newburn"
+    ],
+    "publisher": "Willan Pub",
+    "publishedDate": "2007-08",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1843922843"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781843922841"
+     }
+    ],
+    "pageCount": 1019,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dHNK2G2kAAUcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dHNK2G2kAAUcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHNK2G2kAAUcC&dq\u003dCriminology&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHNK2G2kAAUcC&dq\u003dCriminology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PnsWWRSHUkcC",
+   "etag": "cccM01XPSfI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PnsWWRSHUkcC",
+   "volumeInfo": {
+    "title": "Criminology",
+    "authors": [
+     "Piers Beirne",
+     "James W. Messerschmidt"
+    ],
+    "publisher": "Westview Pr",
+    "publishedDate": "2000",
+    "description": "Changes to this edition include: Chapters arranged to reflect the most popular course organization; Interesting boxed features providing a closer look at ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0813366550"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780813366555"
+     }
+    ],
+    "pageCount": 616,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dPnsWWRSHUkcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dPnsWWRSHUkcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPnsWWRSHUkcC&printsec\u003dfrontcover&dq\u003dCriminology&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPnsWWRSHUkcC&dq\u003dCriminology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2tehE36CziMC",
+   "etag": "oTokuGiFfBw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2tehE36CziMC",
+   "volumeInfo": {
+    "title": "Criminology",
+    "subtitle": "theory, research, and policy",
+    "authors": [
+     "Gennaro F. Vito",
+     "Jeffrey R. Maahs",
+     "Ronald M. Holmes"
+    ],
+    "publisher": "Jones & Bartlett Learning",
+    "publishedDate": "2006-05-15",
+    "description": "The text combines classical criminology with timely topics including substance abuse, gang violence, Internet crimes, and terrorism.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0763730017"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780763730017"
+     }
+    ],
+    "pageCount": 496,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d2tehE36CziMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d2tehE36CziMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2tehE36CziMC&printsec\u003dfrontcover&dq\u003dCriminology&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2tehE36CziMC&dq\u003dCriminology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "u07ci3cidVsC",
+   "etag": "arma/SuvoVQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u07ci3cidVsC",
+   "volumeInfo": {
+    "title": "Criminology",
+    "subtitle": "an interdisciplinary approach",
+    "authors": [
+     "Anthony Walsh",
+     "Lee Ellis"
+    ],
+    "publisher": "Sage Publications, Inc",
+    "publishedDate": "2006-12-14",
+    "description": "This unique text offers an interdisciplinary perspective on crime and criminality by integrating the latest theories, concepts, and research from sociology, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1412938406"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781412938402"
+     }
+    ],
+    "pageCount": 495,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003du07ci3cidVsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003du07ci3cidVsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003du07ci3cidVsC&printsec\u003dfrontcover&dq\u003dCriminology&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003du07ci3cidVsC&dq\u003dCriminology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Criminology-sample-epub.acsm?id\u003du07ci3cidVsC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_qsfAZXV98sC",
+   "etag": "2WUGBLXYicg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_qsfAZXV98sC",
+   "volumeInfo": {
+    "title": "Criminology",
+    "subtitle": "A Sociological Introduction",
+    "authors": [
+     "Eamonn Carrabine",
+     "Maggy Lee"
+    ],
+    "publisher": "Taylor & Francis",
+    "publishedDate": "2009-02-11",
+    "description": "The new edition of Criminology: A Sociological Introductionbuilds on the success of the first edition and now includes two new chapters: Crime, Place and Space, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415464501"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415464505"
+     }
+    ],
+    "pageCount": 530,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d_qsfAZXV98sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d_qsfAZXV98sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_qsfAZXV98sC&printsec\u003dfrontcover&dq\u003dCriminology&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_qsfAZXV98sC&dq\u003dCriminology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 51.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 41.04,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d_qsfAZXV98sC&dq\u003dCriminology&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Criminology-sample-epub.acsm?id\u003d_qsfAZXV98sC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Criminology-sample-pdf.acsm?id\u003d_qsfAZXV98sC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fIbaAAAAMAAJ",
+   "etag": "WRZFbwJ4U8Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fIbaAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Criminology",
+    "subtitle": "theory and context",
+    "authors": [
+     "John Tierney"
+    ],
+    "publishedDate": "1996-09",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0133801551"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780133801552"
+     }
+    ],
+    "pageCount": 324,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dfIbaAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dfIbaAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfIbaAAAAMAAJ&q\u003dCriminology&dq\u003dCriminology&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfIbaAAAAMAAJ&dq\u003dCriminology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZHkEAAAAMAAJ",
+   "etag": "ANg2y5FptD4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZHkEAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Criminology",
+    "authors": [
+     "Raffaele Garofalo (barone)"
+    ],
+    "publishedDate": "1914",
+    "description": "\u003cb\u003eCRIMINOLOGY\u003c/b\u003e CHAPTER I The Natural Crime § 1. The Need of the Sociologic Notion \u003cbr\u003e\r\nof Crime. _ § 2. Method of Attaining the Sociologic Notion, r^ f 8. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015028107905"
+     }
+    ],
+    "pageCount": 478,
+    "printType": "BOOK",
+    "categories": [
+     "Crime and criminals"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dZHkEAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dZHkEAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZHkEAAAAMAAJ&printsec\u003dfrontcover&dq\u003dCriminology&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZHkEAAAAMAAJ&dq\u003dCriminology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Criminology.epub?id\u003dZHkEAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Criminology.pdf?id\u003dZHkEAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2h4_HPIjSHgyOovRKSignfrnInMQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vr0iMLnSAy4C",
+   "etag": "3TB+n6pfduQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vr0iMLnSAy4C",
+   "volumeInfo": {
+    "title": "Criminology",
+    "description": "\u003cb\u003eCRIMINOLOGY\u003c/b\u003e CHAPTER I The Natural Crime § 1. The Need of the Sociologic Notioo \u003cbr\u003e\r\nof Crime. § 2. Method of Attaining the Sociologic Notion. § 3. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1440050457"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781440050459"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dvr0iMLnSAy4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dvr0iMLnSAy4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvr0iMLnSAy4C&printsec\u003dfrontcover&dq\u003dCriminology&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvr0iMLnSAy4C&dq\u003dCriminology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "V1j5g8pvLxQC",
+   "etag": "EGQDgm2KrT8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/V1j5g8pvLxQC",
+   "volumeInfo": {
+    "title": "Criminology",
+    "subtitle": "a reader",
+    "authors": [
+     "Yvonne Jewkes",
+     "Gayle Letherby"
+    ],
+    "publisher": "Sage Publications Ltd",
+    "publishedDate": "2002-07",
+    "description": "Not only does the book include 34 essential readings, but also editorial commentary with section introductions, study questions, and suggestions for further ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0761947116"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761947110"
+     }
+    ],
+    "pageCount": 408,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dV1j5g8pvLxQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dV1j5g8pvLxQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dV1j5g8pvLxQC&printsec\u003dfrontcover&dq\u003dCriminology&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dV1j5g8pvLxQC&dq\u003dCriminology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 588
+}

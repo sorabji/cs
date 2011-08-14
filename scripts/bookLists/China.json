@@ -1,0 +1,597 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "bdUySyVEK6EC",
+   "etag": "IIuOg4IG7Mc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bdUySyVEK6EC",
+   "volumeInfo": {
+    "title": "China",
+    "subtitle": "its history and culture",
+    "authors": [
+     "William Scott Morton",
+     "Charlton M. Lewis"
+    ],
+    "publisher": "McGraw-Hill Professional",
+    "publishedDate": "2005",
+    "description": "This will set a new standard for shortgeneral histories of China.” —Michael Gasster,professor emeritus of history at Rutgers University Newly updated and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0071412794"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071412797"
+     }
+    ],
+    "pageCount": 310,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dbdUySyVEK6EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dbdUySyVEK6EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbdUySyVEK6EC&printsec\u003dfrontcover&dq\u003dChina&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbdUySyVEK6EC&dq\u003dChina&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AV1vFlvskAUC",
+   "etag": "dUfAvb9+YBA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AV1vFlvskAUC",
+   "volumeInfo": {
+    "title": "China",
+    "subtitle": "Land of Dragons and Emperors",
+    "authors": [
+     "Adeline Yen Mah"
+    ],
+    "publisher": "Ember",
+    "publishedDate": "2011-06-14",
+    "description": "A history of China over the last two thousand years looks at how many of its ancient beliefs still impact life today and how many of the everyday products used ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0385737491"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780385737494"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 12,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dAV1vFlvskAUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dAV1vFlvskAUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAV1vFlvskAUC&printsec\u003dfrontcover&dq\u003dChina&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAV1vFlvskAUC&dq\u003dChina&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sZt0TgTAgPoC",
+   "etag": "hevxl5TKQho",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sZt0TgTAgPoC",
+   "volumeInfo": {
+    "title": "China",
+    "subtitle": "a new history",
+    "authors": [
+     "John King Fairbank",
+     "Merle Goldman"
+    ],
+    "publisher": "Belknap Pr",
+    "publishedDate": "2006",
+    "description": "John King Fairbank was the West&#39;s doyen on China, and this book is the full and final expression of his lifelong engagement with this vast ancient civilization.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0674018281"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780674018280"
+     }
+    ],
+    "pageCount": 560,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dsZt0TgTAgPoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dsZt0TgTAgPoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dsZt0TgTAgPoC&printsec\u003dfrontcover&dq\u003dChina&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dsZt0TgTAgPoC&dq\u003dChina&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/China-sample-epub.acsm?id\u003dsZt0TgTAgPoC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EwWwdSofHpQC",
+   "etag": "xkdaockQYzo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EwWwdSofHpQC",
+   "volumeInfo": {
+    "title": "China",
+    "subtitle": "fragile superpower",
+    "authors": [
+     "Susan L. Shirk"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2007",
+    "description": "A leading authority on China looks at the political insecurities, fears, and domestic policies that could hinder China&#39;s ascention to global superpower, looking ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0195306090"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195306095"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 14,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dEwWwdSofHpQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dEwWwdSofHpQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEwWwdSofHpQC&printsec\u003dfrontcover&dq\u003dChina&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEwWwdSofHpQC&dq\u003dChina&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dEwWwdSofHpQC&dq\u003dChina&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/China-sample-epub.acsm?id\u003dEwWwdSofHpQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/China-sample-pdf.acsm?id\u003dEwWwdSofHpQC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wooUAAAAYAAJ",
+   "etag": "T0MEu5+3RvA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wooUAAAAYAAJ",
+   "volumeInfo": {
+    "title": "China",
+    "authors": [
+     "Demetrius Charles de Kavanagh Boulger",
+     "Mayo Williamson Hazeltine"
+    ],
+    "publishedDate": "1898",
+    "description": "PREFACE As \u003cb\u003eChina\u003c/b\u003e has now fairly taken her place in the family of nations, it is \u003cbr\u003e\r\nunnecessary to elaborate an argument in support of even the humblest attempt \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HW1Y1G"
+     }
+    ],
+    "pageCount": 530,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dwooUAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dwooUAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwooUAAAAYAAJ&printsec\u003dfrontcover&dq\u003dChina&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwooUAAAAYAAJ&dq\u003dChina&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/China.epub?id\u003dwooUAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/China.pdf?id\u003dwooUAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2EoB_AYHAwGEDnRq_xsXai3TXxkg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "K4undxTsMmIC",
+   "etag": "X8CMTiYATog",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/K4undxTsMmIC",
+   "volumeInfo": {
+    "title": "China",
+    "authors": [
+     "Damian Harper",
+     "Chung Wah Chow",
+     "David Eimer",
+     "Thomas Huhti",
+     "Carolyn B. Heller",
+     "Robert Kelly"
+    ],
+    "publishedDate": "2009-05-01",
+    "description": "Presents a travel guide to the regions of China that includes maps, recommendations, background information, and up-to-date coverage of things to see and do.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1741048664"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781741048667"
+     }
+    ],
+    "pageCount": 1032,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "0.1.0.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dK4undxTsMmIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dK4undxTsMmIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dK4undxTsMmIC&printsec\u003dfrontcover&dq\u003dChina&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dK4undxTsMmIC&dq\u003dChina&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 25.59,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 15.1,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dK4undxTsMmIC&dq\u003dChina&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/China-sample-epub.acsm?id\u003dK4undxTsMmIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-L9wLEGZkD0C",
+   "etag": "7r0+Hqe+Khg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-L9wLEGZkD0C",
+   "volumeInfo": {
+    "title": "China",
+    "subtitle": "the balance sheet : what the world needs to know now about the emerging superpower",
+    "authors": [
+     "C. Fred Bergsten",
+     "Bates Gill",
+     "Nicholas R. Lardy",
+     "Derek Mitchell"
+    ],
+    "publisher": "Public Affairs",
+    "publishedDate": "2007-03-12",
+    "description": "From the most distinguished China experts in America, and two of Washington&#39;s foremost think tanks, comes a definitive and indispensable portrait of China today ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1586484354"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781586484354"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d-L9wLEGZkD0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d-L9wLEGZkD0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-L9wLEGZkD0C&printsec\u003dfrontcover&dq\u003dChina&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-L9wLEGZkD0C&dq\u003dChina&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 25.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.95,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d-L9wLEGZkD0C&dq\u003dChina&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/China-sample-epub.acsm?id\u003d-L9wLEGZkD0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/China-sample-pdf.acsm?id\u003d-L9wLEGZkD0C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "g_qlAdTIk0kC",
+   "etag": "UYy2Q6QjBjY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/g_qlAdTIk0kC",
+   "volumeInfo": {
+    "title": "China",
+    "subtitle": "The Culture",
+    "authors": [
+     "Bobbie Kalman"
+    ],
+    "publisher": "Crabtree Publishing Company",
+    "publishedDate": "2008-02",
+    "description": "An introduction to the culture of China.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "077879301X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780778793014"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dg_qlAdTIk0kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dg_qlAdTIk0kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dg_qlAdTIk0kC&printsec\u003dfrontcover&dq\u003dChina&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dg_qlAdTIk0kC&dq\u003dChina&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RUQJBLzpoEUC",
+   "etag": "4s6HQVYTS0A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RUQJBLzpoEUC",
+   "volumeInfo": {
+    "title": "China",
+    "subtitle": "is rapid growth sustainable?",
+    "authors": [
+     "Ross Garnaut",
+     "Ligang Song"
+    ],
+    "publisher": "Asia Pacific Press",
+    "publishedDate": "2004",
+    "description": "Joining a growing number of observers concerned about China&#39;s economic metamorphosis in the past few decades, Garnaut (economics, The Australian National U.), ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0731537033"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780731537037"
+     }
+    ],
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dRUQJBLzpoEUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dRUQJBLzpoEUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRUQJBLzpoEUC&printsec\u003dfrontcover&dq\u003dChina&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRUQJBLzpoEUC&dq\u003dChina&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5V1dIG5_oSAC",
+   "etag": "MCfG/3nx1Sg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5V1dIG5_oSAC",
+   "volumeInfo": {
+    "title": "China",
+    "subtitle": "a macro history",
+    "authors": [
+     "Ray Huang"
+    ],
+    "publisher": "East Gate Book",
+    "publishedDate": "1997",
+    "description": "Distinguished scholar Ray Huang takes a fresh look at the full sweep of Chinese history from Neolithic times to the present.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1563247305"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781563247309"
+     }
+    ],
+    "pageCount": 335,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d5V1dIG5_oSAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d5V1dIG5_oSAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5V1dIG5_oSAC&printsec\u003dfrontcover&dq\u003dChina&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5V1dIG5_oSAC&dq\u003dChina&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 592
+}

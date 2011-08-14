@@ -1,0 +1,557 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "yVcs9z4-rzUC",
+   "etag": "9Hf3VaR4HT8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yVcs9z4-rzUC",
+   "volumeInfo": {
+    "title": "Victorian architecture",
+    "authors": [
+     "Roger Dixon",
+     "Stefan Muthesius"
+    ],
+    "publishedDate": "1978",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "MINN:319510012085386"
+     }
+    ],
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dyVcs9z4-rzUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dyVcs9z4-rzUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyVcs9z4-rzUC&q\u003dVictorian&dq\u003dVictorian&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyVcs9z4-rzUC&dq\u003dVictorian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OZR3xMKa7_AC",
+   "etag": "uFIwZ8x8Rag",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OZR3xMKa7_AC",
+   "volumeInfo": {
+    "title": "Victorian fantasy",
+    "authors": [
+     "Stephen Prickett"
+    ],
+    "publisher": "Baylor Univ Pr",
+    "publishedDate": "2005",
+    "description": "This book remains the most authoritative study of the literary counter culture of Victorian literature.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1932792309"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781932792300"
+     }
+    ],
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dOZR3xMKa7_AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dOZR3xMKa7_AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOZR3xMKa7_AC&printsec\u003dfrontcover&dq\u003dVictorian&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOZR3xMKa7_AC&dq\u003dVictorian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Victorian_fantasy-sample-epub.acsm?id\u003dOZR3xMKa7_AC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "I8uxpd6ajqkC",
+   "etag": "iclp2Ttns4w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/I8uxpd6ajqkC",
+   "volumeInfo": {
+    "title": "Victorian fashions and costumes from Harper's bazar, 1867-1898",
+    "authors": [
+     "Stella Blum"
+    ],
+    "publisher": "Dover Pubns",
+    "publishedDate": "1974-06-01",
+    "description": "This book consists of the finest illustrations from &quot;Harper&#39;s Bazar&quot; between the years 1867 and 1898, the period of its peak performance.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0486229904"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486229904"
+     }
+    ],
+    "pageCount": 294,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dI8uxpd6ajqkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dI8uxpd6ajqkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dI8uxpd6ajqkC&printsec\u003dfrontcover&dq\u003dVictorian&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dI8uxpd6ajqkC&dq\u003dVictorian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VsuTEefcTzcC",
+   "etag": "6tuufsGFkxs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VsuTEefcTzcC",
+   "volumeInfo": {
+    "title": "A companion to the Victorian novel",
+    "authors": [
+     "Patrick Brantlinger"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "2002",
+    "description": "A guide to British fiction published between 1837 and 1901 covers such topics as the forms of Victorian novels, cultural issues in their historical contexts, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "063122064X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780631220640"
+     }
+    ],
+    "pageCount": 513,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dVsuTEefcTzcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dVsuTEefcTzcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVsuTEefcTzcC&printsec\u003dfrontcover&dq\u003dVictorian&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVsuTEefcTzcC&dq\u003dVictorian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 169.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 169.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dVsuTEefcTzcC&dq\u003dVictorian&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/A_companion_to_the_Victorian_novel-sample-pdf.acsm?id\u003dVsuTEefcTzcC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YsHjViWfpdUC",
+   "etag": "RsC56jIV5pI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YsHjViWfpdUC",
+   "volumeInfo": {
+    "title": "Victorian women",
+    "authors": [
+     "Joan Perkin"
+    ],
+    "publisher": "NYU Press",
+    "publishedDate": "1995",
+    "description": "We find in this book the unmarried woman worker, the single mother, the prostitute, as well as those who fought for professional recognition against the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0814766250"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780814766255"
+     }
+    ],
+    "pageCount": 264,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dYsHjViWfpdUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dYsHjViWfpdUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYsHjViWfpdUC&printsec\u003dfrontcover&dq\u003dVictorian&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYsHjViWfpdUC&dq\u003dVictorian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vPVbi6GVodAC",
+   "etag": "O2XE2j5AydM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vPVbi6GVodAC",
+   "volumeInfo": {
+    "title": "The Victorian Internet",
+    "subtitle": "The Remarkable Story of the Telegraph and the Nineteenth Century's On-Line Pioneers",
+    "authors": [
+     "Tom Standage"
+    ],
+    "publisher": "Walker & Co",
+    "publishedDate": "2007-08-30",
+    "description": "Offers a historical review of the development of the telegraph network, from its invention by Samuel Morse in the nineteenth century to the present day, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0802716040"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780802716040"
+     }
+    ],
+    "pageCount": 233,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 63,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dvPVbi6GVodAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dvPVbi6GVodAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvPVbi6GVodAC&printsec\u003dfrontcover&dq\u003dVictorian&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvPVbi6GVodAC&dq\u003dVictorian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dvPVbi6GVodAC&dq\u003dVictorian&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Victorian_Internet-sample-epub.acsm?id\u003dvPVbi6GVodAC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Victorian_Internet-sample-pdf.acsm?id\u003dvPVbi6GVodAC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ATPXi-oX9a8C",
+   "etag": "uwI/gx7dVIM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ATPXi-oX9a8C",
+   "volumeInfo": {
+    "title": "The Victorian Workhouse",
+    "authors": [
+     "Trevor May"
+    ],
+    "publisher": "Shire Pubns",
+    "publishedDate": "2008-03-04",
+    "description": "This book looks at the principles which lay behind the New Poor Law of 1834; at the design and construction of workhouses; and at the lives of those who entered ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0747803552"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780747803553"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dATPXi-oX9a8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dATPXi-oX9a8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dATPXi-oX9a8C&printsec\u003dfrontcover&dq\u003dVictorian&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dATPXi-oX9a8C&dq\u003dVictorian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sNb7_TGlBykC",
+   "etag": "MP6UC9jmHrc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sNb7_TGlBykC",
+   "volumeInfo": {
+    "title": "Victorian sensations",
+    "subtitle": "essays on a scandalous genre",
+    "authors": [
+     "Kimberly Harrison",
+     "Richard Fantina"
+    ],
+    "publisher": "Ohio State Univ Pr",
+    "publishedDate": "2006",
+    "description": "Comprehensive in scope, this collection includes twenty original essays employing various critical approaches to cover a range of topics that will interest many ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0814210317"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780814210314"
+     }
+    ],
+    "pageCount": 278,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "contentVersion": "1.0.0.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dsNb7_TGlBykC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dsNb7_TGlBykC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dsNb7_TGlBykC&printsec\u003dfrontcover&dq\u003dVictorian&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dsNb7_TGlBykC&dq\u003dVictorian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Victorian_sensations-sample-epub.acsm?id\u003dsNb7_TGlBykC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TjH7kfPIMfwC",
+   "etag": "F712ZEX3xL0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TjH7kfPIMfwC",
+   "volumeInfo": {
+    "title": "Victorian London",
+    "subtitle": "The Tale of a City 1840--1870",
+    "authors": [
+     "Liza Picard"
+    ],
+    "publisher": "St. Martin's Griffin",
+    "publishedDate": "2007-02",
+    "description": "A portrait of Victorian London describes how the mid-nineteenth-century city was transformed by expanding suburbs, transportation innovations, and advances in ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0312366590"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780312366599"
+     }
+    ],
+    "pageCount": 416,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 18,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dTjH7kfPIMfwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dTjH7kfPIMfwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTjH7kfPIMfwC&printsec\u003dfrontcover&dq\u003dVictorian&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTjH7kfPIMfwC&dq\u003dVictorian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2TihtTWL5LUC",
+   "etag": "TKta+zVrQtg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2TihtTWL5LUC",
+   "volumeInfo": {
+    "title": "The Victorian nude",
+    "subtitle": "sexuality, morality, and art",
+    "authors": [
+     "Alison Smith"
+    ],
+    "publisher": "Manchester Univ Pr",
+    "publishedDate": "1996",
+    "description": "In this major new work, Alison Smith unravels the fascinating background to this situation and reveals the paradox of the nude as an object of public moral ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0719044030"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780719044038"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d2TihtTWL5LUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d2TihtTWL5LUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2TihtTWL5LUC&printsec\u003dfrontcover&dq\u003dVictorian&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2TihtTWL5LUC&dq\u003dVictorian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 595
+}

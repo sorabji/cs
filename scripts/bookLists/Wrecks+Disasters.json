@@ -1,0 +1,502 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "jfqCE-Ct1FsC",
+   "etag": "aoaC5LaNGkc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jfqCE-Ct1FsC",
+   "volumeInfo": {
+    "title": "Sport Diver",
+    "publishedDate": "1999-05",
+    "description": "GREAT LAKES The 100 Best Great Lakes Shipwrecks is a two-volume set that is not \u003cbr\u003e\r\nonly a \u003cb\u003e...\u003c/b\u003e \u003cb\u003ewrecks\u003c/b\u003e, \u003cb\u003edisasters\u003c/b\u003e, monster storms, shores awash with bodies and \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:DDF681U6BHW"
+     }
+    ],
+    "pageCount": 112,
+    "printType": "MAGAZINE",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003djfqCE-Ct1FsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003djfqCE-Ct1FsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djfqCE-Ct1FsC&pg\u003dPA44&dq\u003dWrecks+Disasters&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djfqCE-Ct1FsC&dq\u003dWrecks+Disasters&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VIbhAAAAMAAJ",
+   "etag": "pKCk/ybZVL4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VIbhAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Wrecks and Disasters",
+    "authors": [
+     "Robert Shipley",
+     "Fred Arthur Addis"
+    ],
+    "publisher": "Vanwell Pub Ltd",
+    "publishedDate": "1992",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0920277772"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780920277775"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dVIbhAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dVIbhAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVIbhAAAAMAAJ&q\u003dWrecks+Disasters&dq\u003dWrecks+Disasters&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVIbhAAAAMAAJ&dq\u003dWrecks+Disasters&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vRkqAAAAYAAJ",
+   "etag": "btOtFUzo0MA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vRkqAAAAYAAJ",
+   "volumeInfo": {
+    "title": "A century of our sea story",
+    "authors": [
+     "Walter Jeffery"
+    ],
+    "publishedDate": "1900",
+    "description": "CHAPTER IX THE \u003cb\u003eWRECK\u003c/b\u003e LIST OF THE CENTURY Naval \u003cb\u003eDisasters\u003c/b\u003e — Fires at Sea — \u003cbr\u003e\r\nEmigrant Ships — Panic — Modern \u003cb\u003eWrecks\u003c/b\u003e. A STUDY of the list of \u003cb\u003ewrecks\u003c/b\u003e for the \u003cbr\u003e\r\nlast \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HW3D6Y"
+     }
+    ],
+    "pageCount": 381,
+    "printType": "BOOK",
+    "categories": [
+     "Great Britain"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dvRkqAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dvRkqAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvRkqAAAAYAAJ&pg\u003dPA189&dq\u003dWrecks+Disasters&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvRkqAAAAYAAJ&dq\u003dWrecks+Disasters&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/A_century_of_our_sea_story.epub?id\u003dvRkqAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/A_century_of_our_sea_story.pdf?id\u003dvRkqAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1rEoVtsbVs26KJGWKwbZ4P6W595w&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "S7t8DW4iYDMC",
+   "etag": "GgH2iZeGvJo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/S7t8DW4iYDMC",
+   "volumeInfo": {
+    "title": "Railroad wrecks",
+    "authors": [
+     "Edgar A. Haine"
+    ],
+    "publisher": "Associated University Presses",
+    "publishedDate": "1993",
+    "description": "LIST OF FOREIGN RAILROAD \u003cb\u003eDISASTERS\u003c/b\u003e French Legionaires Train &amp; School bus \u003cb\u003e...\u003c/b\u003e of \u003cbr\u003e\r\ntrain Two train \u003cb\u003ewrecks\u003c/b\u003e Russian military train Express and freight trains Fog \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0845348442"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780845348444"
+     }
+    ],
+    "pageCount": 235,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dS7t8DW4iYDMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dS7t8DW4iYDMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dS7t8DW4iYDMC&pg\u003dPA141&dq\u003dWrecks+Disasters&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dS7t8DW4iYDMC&dq\u003dWrecks+Disasters&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Railroad_wrecks-sample-pdf.acsm?id\u003dS7t8DW4iYDMC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AHjhAAAAMAAJ",
+   "etag": "RSMmz0t2Xfc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AHjhAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Great Lakes collisions, wrecks & disasters",
+    "subtitle": "ships 400 to 998 feet",
+    "authors": [
+     "Wayne Louis Kadar"
+    ],
+    "publishedDate": "2008-04-15",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1892384477"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781892384478"
+     }
+    ],
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Transportation"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dAHjhAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dAHjhAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAHjhAAAAMAAJ&q\u003dWrecks+Disasters&dq\u003dWrecks+Disasters&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAHjhAAAAMAAJ&dq\u003dWrecks+Disasters&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yQDqGQAACAAJ",
+   "etag": "yoi/tZ5kQic",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yQDqGQAACAAJ",
+   "volumeInfo": {
+    "title": "New Zealand Shipwrecks",
+    "subtitle": "200 Years of Disasters at Sea",
+    "authors": [
+     "C.W.N. Ingram",
+     "Percy Owen Wheatley",
+     "Lynton Diggle",
+     "Edith Diggle",
+     "Keith Gordon"
+    ],
+    "publisher": "Hodder Moa Beckett",
+    "publishedDate": "2007-11-08",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1869710932"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781869710934"
+     }
+    ],
+    "pageCount": 576,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dyQDqGQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dyQDqGQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyQDqGQAACAAJ&dq\u003dWrecks+Disasters&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyQDqGQAACAAJ&dq\u003dWrecks+Disasters&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ci0DAAAAMBAJ",
+   "etag": "j6D98Yxeg5w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ci0DAAAAMBAJ",
+   "volumeInfo": {
+    "title": "Popular Science",
+    "publishedDate": "1957-09",
+    "description": "Railroad and aircraft accidents rank fourth in \u003cb\u003edisaster\u003c/b\u003e potential. So far in \u003cbr\u003e\r\nthis century, only one train \u003cb\u003ewreck\u003c/b\u003e and one airplane crackup in the US have \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:DJ8WX0DSFW9"
+     }
+    ],
+    "pageCount": 298,
+    "printType": "MAGAZINE",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dCi0DAAAAMBAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dCi0DAAAAMBAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCi0DAAAAMBAJ&pg\u003dPA104&dq\u003dWrecks+Disasters&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCi0DAAAAMBAJ&dq\u003dWrecks+Disasters&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SX3n2_Ad4O4C",
+   "etag": "/75Er7ES0PM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SX3n2_Ad4O4C",
+   "volumeInfo": {
+    "title": "Boon Island",
+    "subtitle": "including contemporary accounts of the wreck of the Nottingham Galley",
+    "authors": [
+     "Kenneth Lewis Roberts",
+     "Jack Bales",
+     "Richard Hyde Warner"
+    ],
+    "publisher": "Univ Pr of New England",
+    "publishedDate": "1996-03-01",
+    "description": "Narratives of \u003cb\u003eShipwrecks\u003c/b\u003e &amp;&quot; \u003cb\u003eDisasters\u003c/b\u003e, 1586-1860. According to the editor, &quot;the \u003cbr\u003e\r\ngenesis of this anthology was the chance purchase . . . of a battered copy \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0874517443"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780874517446"
+     }
+    ],
+    "pageCount": 373,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dSX3n2_Ad4O4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dSX3n2_Ad4O4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSX3n2_Ad4O4C&pg\u003dPA11&dq\u003dWrecks+Disasters&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSX3n2_Ad4O4C&dq\u003dWrecks+Disasters&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8e9_AAAAMAAJ",
+   "etag": "YxPUvgjxURI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8e9_AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Narratives of shipwrecks and disasters, 1586-1860",
+    "authors": [
+     "Keith Gibson Huntress"
+    ],
+    "publisher": "Iowa State Pr",
+    "publishedDate": "1974",
+    "description": "KENNETH ROBERTS Another modern instance of the use of narratives of \u003cb\u003ewrecks\u003c/b\u003e and \u003cbr\u003e\r\n\u003cb\u003edisasters\u003c/b\u003e for fictional purposes is Kenneth Roberts&#39;s Boon Island, 1956. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015002695297"
+     }
+    ],
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d8e9_AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d8e9_AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8e9_AAAAMAAJ&q\u003dWrecks+Disasters&dq\u003dWrecks+Disasters&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8e9_AAAAMAAJ&dq\u003dWrecks+Disasters&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "e05HAQAAIAAJ",
+   "etag": "JDpwnun9RKY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/e05HAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Congressional edition",
+    "authors": [
+     "United States. Congress"
+    ],
+    "publishedDate": "1876",
+    "description": "In return, \u003cb\u003ewreck\u003c/b\u003e reports giving the particulars of \u003cb\u003edisasters\u003c/b\u003e to American vessels \u003cbr\u003e\r\non foreign coasts have generally been received from the governments of the \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B3985288"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003de05HAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003de05HAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003de05HAQAAIAAJ&pg\u003dPA65&dq\u003dWrecks+Disasters&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003de05HAQAAIAAJ&dq\u003dWrecks+Disasters&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Congressional_edition.pdf?id\u003de05HAQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3fpslHFYiBzE1cRsnL_5pAEuw2pQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 600
+}

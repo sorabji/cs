@@ -1,0 +1,558 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "3OqzFryp6foC",
+   "etag": "NiwwpHudZgo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3OqzFryp6foC",
+   "volumeInfo": {
+    "title": "The Ancient",
+    "authors": [
+     "R. A. Salvatore"
+    ],
+    "publisher": "Tor Books",
+    "publishedDate": "2008-03-04",
+    "description": "Bransen Garibond is tricked into a desperate war against the brutal Samhaist, Ancient Badden.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0765317893"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780765317896"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 21,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d3OqzFryp6foC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d3OqzFryp6foC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3OqzFryp6foC&printsec\u003dfrontcover&dq\u003dAncient&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3OqzFryp6foC&dq\u003dAncient&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KU-1K3oh9isC",
+   "etag": "eRSP4pLjKnI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KU-1K3oh9isC",
+   "volumeInfo": {
+    "title": "The ancient economy",
+    "authors": [
+     "Moses I. Finley"
+    ],
+    "publisher": "Univ of California Pr",
+    "publishedDate": "1999",
+    "description": "This is Finley at the height of his remarkable powers and in his finest role as historical iconoclast and intellectual provocateur.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520219465"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520219465"
+     }
+    ],
+    "pageCount": 262,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dKU-1K3oh9isC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dKU-1K3oh9isC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKU-1K3oh9isC&printsec\u003dfrontcover&dq\u003dAncient&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKU-1K3oh9isC&dq\u003dAncient&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_ancient_economy-sample-epub.acsm?id\u003dKU-1K3oh9isC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OosmMET5WZsC",
+   "etag": "ki1a2IXbo7A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OosmMET5WZsC",
+   "volumeInfo": {
+    "title": "Ancient-Future Worship",
+    "subtitle": "Proclaiming and Enacting God's Narrative",
+    "authors": [
+     "Robert E. Webber"
+    ],
+    "publisher": "Baker Books",
+    "publishedDate": "2008-04-01",
+    "description": "Here is an urgent call to recover a vigorous, God-glorifying, transformative worship through the enactment and proclamation of God&#39;s glorious story.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0801066247"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780801066245"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dOosmMET5WZsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dOosmMET5WZsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOosmMET5WZsC&printsec\u003dfrontcover&dq\u003dAncient&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOosmMET5WZsC&dq\u003dAncient&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dOosmMET5WZsC&dq\u003dAncient&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Ancient_Future_Worship-sample-epub.acsm?id\u003dOosmMET5WZsC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Ancient_Future_Worship-sample-pdf.acsm?id\u003dOosmMET5WZsC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pDEVAAAAYAAJ",
+   "etag": "HGR3o7xVeII",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pDEVAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Ancient pagan and modern Christian symbolism",
+    "authors": [
+     "Thomas Inman",
+     "John Newton (M.R.C.S.E.)"
+    ],
+    "publishedDate": "1875",
+    "description": "o \u003cb\u003eANCIENT\u003c/b\u003e PAGAN AND MODERN CHRISTIAN SYMBOLISM. BY THOMAS INMAN, MD (London), \u003cbr\u003e\r\nCONSULTING PHYSICIAN TO THE ROYAL INFIRMARY, LIVERPOOL ; LATE LECTURER \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:AH5A1G"
+     }
+    ],
+    "pageCount": 147,
+    "printType": "BOOK",
+    "categories": [
+     "Christian art and symbolism"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dpDEVAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dpDEVAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpDEVAAAAYAAJ&printsec\u003dfrontcover&dq\u003dAncient&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpDEVAAAAYAAJ&dq\u003dAncient&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Ancient_pagan_and_modern_Christian_symbo.pdf?id\u003dpDEVAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2ealgbrFRcAhBTuRbK0AaYWcDNEw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RTGc9YH-C38C",
+   "etag": "Q7opENXGbng",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RTGc9YH-C38C",
+   "volumeInfo": {
+    "title": "Ancient Near Eastern art",
+    "authors": [
+     "Dominique Collon"
+    ],
+    "publisher": "Univ of California Pr",
+    "publishedDate": "1995",
+    "description": "Based on the unrivaled collections of the British Museum, this extensively illustrated book is a superb introduction to the art of the ancient Near East from ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520203070"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520203075"
+     }
+    ],
+    "pageCount": 247,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dRTGc9YH-C38C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dRTGc9YH-C38C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRTGc9YH-C38C&printsec\u003dfrontcover&dq\u003dAncient&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRTGc9YH-C38C&dq\u003dAncient&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "y1ZrMcq7mhMC",
+   "etag": "BvNU+CUnnls",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/y1ZrMcq7mhMC",
+   "volumeInfo": {
+    "title": "Ancient Egyptian literature",
+    "subtitle": "an anthology",
+    "publisher": "Univ of Texas Pr",
+    "publishedDate": "2001-06-15",
+    "description": "An introduction to ancient Egyptian literature and its translation, as well as brief information about the authorship and date of each selection, completes the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0292725272"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780292725270"
+     }
+    ],
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dy1ZrMcq7mhMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dy1ZrMcq7mhMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dy1ZrMcq7mhMC&printsec\u003dfrontcover&dq\u003dAncient&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dy1ZrMcq7mhMC&dq\u003dAncient&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.72,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dy1ZrMcq7mhMC&dq\u003dAncient&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Ancient_Egyptian_literature-sample-pdf.acsm?id\u003dy1ZrMcq7mhMC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fvOnSQAACAAJ",
+   "etag": "HkXzABlAHhc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fvOnSQAACAAJ",
+   "volumeInfo": {
+    "title": "Ancient",
+    "authors": [
+     "Yŏng-u Han",
+     "Chae-bong Ham"
+    ],
+    "publishedDate": "2010-01-25",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8983410914"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788983410917"
+     }
+    ],
+    "pageCount": 381,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfvOnSQAACAAJ&dq\u003dAncient&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfvOnSQAACAAJ&dq\u003dAncient&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "N2URCb14ShQC",
+   "etag": "UgrFW8lfQfk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/N2URCb14ShQC",
+   "volumeInfo": {
+    "title": "The ancient mysteries",
+    "subtitle": "a sourcebook : sacred texts of the mystery religions of the ancient Mediterranean world",
+    "authors": [
+     "Marvin W. Meyer"
+    ],
+    "publisher": "Univ of Pennsylvania Pr",
+    "publishedDate": "1999-04-09",
+    "description": "&quot;A very balanced selection of sources for the study of the ancient so-called mystery religions, starting with Eleusis and ending with mysteries in Judaism and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "081221692X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780812216929"
+     }
+    ],
+    "pageCount": 266,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dN2URCb14ShQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dN2URCb14ShQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dN2URCb14ShQC&printsec\u003dfrontcover&dq\u003dAncient&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dN2URCb14ShQC&dq\u003dAncient&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VmJLd3sSYecC",
+   "etag": "v9uRQxwOun0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VmJLd3sSYecC",
+   "volumeInfo": {
+    "title": "Ancient inventions",
+    "authors": [
+     "Peter James",
+     "Nick Thorpe"
+    ],
+    "publisher": "Random House of Canada",
+    "publishedDate": "1995-10-31",
+    "description": "A guide to ancient accomplishments and inventions unearths the origins of modern creations, including computers in ancient Greece, plastic surgery in India in ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0345401026"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780345401021"
+     }
+    ],
+    "pageCount": 672,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dVmJLd3sSYecC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dVmJLd3sSYecC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVmJLd3sSYecC&printsec\u003dfrontcover&dq\u003dAncient&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVmJLd3sSYecC&dq\u003dAncient&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "x7p_QMIjESwC",
+   "etag": "2RFWFSI36Sc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/x7p_QMIjESwC",
+   "volumeInfo": {
+    "title": "Ancient Egypt",
+    "authors": [
+     "David P. Silverman"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2003-06-05",
+    "description": "A collection of essays based on the latest historical research and archeological discoveries surveys the culture and religion of ancient Egypt.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "019521952X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195219524"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 12,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dx7p_QMIjESwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dx7p_QMIjESwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dx7p_QMIjESwC&printsec\u003dfrontcover&dq\u003dAncient&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dx7p_QMIjESwC&dq\u003dAncient&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 596
+}

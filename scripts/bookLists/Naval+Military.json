@@ -1,0 +1,511 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "IOr-59-mcAAC",
+   "etag": "vvqOPLFsKwQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IOr-59-mcAAC",
+   "volumeInfo": {
+    "title": "Portsmouth Harbor's Military and Naval Heritage",
+    "authors": [
+     "Nelson H. Lawry",
+     "Glen M. Williford",
+     "Leo K. Polaski"
+    ],
+    "publisher": "Arcadia Publishing",
+    "publishedDate": "2004-12",
+    "description": "Including more than two hundred vintage photographs and illustrations, Portsmouth Harbors Military and Naval Heritage chronicles the history of the Piscataqua ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0738536474"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780738536477"
+     }
+    ],
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dIOr-59-mcAAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dIOr-59-mcAAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIOr-59-mcAAC&printsec\u003dfrontcover&dq\u003dNaval+Military&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIOr-59-mcAAC&dq\u003dNaval+Military&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tg8xIiEfFL0C",
+   "etag": "EQGrTvKBxa8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tg8xIiEfFL0C",
+   "volumeInfo": {
+    "title": "Dictionary of military and naval quotations",
+    "authors": [
+     "Robert Debs Heinl"
+    ],
+    "publisher": "Naval Inst Pr",
+    "publishedDate": "1966-05",
+    "description": "Over 5,000 quotations from the writings and speeches of philosophers, admirals, generals, poets, prophets, and politicians over the past two thousand years.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0870211498"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780870211492"
+     }
+    ],
+    "pageCount": 367,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dtg8xIiEfFL0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dtg8xIiEfFL0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtg8xIiEfFL0C&printsec\u003dfrontcover&dq\u003dNaval+Military&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtg8xIiEfFL0C&dq\u003dNaval+Military&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9KdCAAAAIAAJ",
+   "etag": "bJiSGGbwPfE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9KdCAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Naval and military essays",
+    "subtitle": "being papers read in the Naval and Military Section at the International Congress of Historical Studies, 1913",
+    "authors": [
+     "Sir Julian Stafford Corbett",
+     "Henry John Edwards"
+    ],
+    "publishedDate": "1914",
+    "description": "HISTORIANS AND \u003cb\u003eNAVAL\u003c/b\u003e HISTORY t BY SIR JOHN K. LAUGHTON The \u003cb\u003eNavy\u003c/b\u003e has had such an \u003cbr\u003e\r\nimportant influence on the development of England&#39;s national life that it \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B47686"
+     }
+    ],
+    "pageCount": 243,
+    "printType": "BOOK",
+    "categories": [
+     "Military history"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d9KdCAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d9KdCAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9KdCAAAAIAAJ&printsec\u003dfrontcover&dq\u003dNaval+Military&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9KdCAAAAIAAJ&dq\u003dNaval+Military&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Naval_and_military_essays.epub?id\u003d9KdCAAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Naval_and_military_essays.pdf?id\u003d9KdCAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1VL7AVhZtlgTNqIl_S99adlvxqIQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "15RqKbLFyNEC",
+   "etag": "UEAA0/JhRWg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/15RqKbLFyNEC",
+   "volumeInfo": {
+    "title": "British military and naval medicine, 1600-1830",
+    "authors": [
+     "Geoffrey L. Hudson"
+    ],
+    "publisher": "Editions Rodopi",
+    "publishedDate": "2007-12-01",
+    "description": "The essays within examine these phenomena, exploring the imperial context, nursing and medicine in Britain, naval medicine, as well as the relationship between ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9042022728"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789042022720"
+     }
+    ],
+    "pageCount": 290,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d15RqKbLFyNEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d15RqKbLFyNEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d15RqKbLFyNEC&printsec\u003dfrontcover&dq\u003dNaval+Military&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d15RqKbLFyNEC&dq\u003dNaval+Military&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/British_military_and_naval_medicine_1600-sample-epub.acsm?id\u003d15RqKbLFyNEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oQ4AAAAAMAAJ",
+   "etag": "9mpUGbkivVc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oQ4AAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Illustrated Naval and Military Magazine",
+    "subtitle": "A monthly journal devoted to all subjects connected with Her Majesty's land and sea forces",
+    "publishedDate": "1884",
+    "description": "\u003cb\u003e...\u003c/b\u003e \u003cb\u003eNAVAL\u003c/b\u003e No. 1. Vol. I. i In no profession has an age of education wrought more \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e curriculum of even an averagely proficient \u003cb\u003enaval\u003c/b\u003e or \u003cb\u003emilitary\u003c/b\u003e officer ? \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433066342175"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003doQ4AAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003doQ4AAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doQ4AAAAAMAAJ&printsec\u003dfrontcover&dq\u003dNaval+Military&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doQ4AAAAAMAAJ&dq\u003dNaval+Military&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Illustrated_Naval_and_Military_Magazine.pdf?id\u003doQ4AAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1k0evYfMXwtrdvz9FLbRb0fHaOAw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ehQRAQAAMAAJ",
+   "etag": "m213k8XdInw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ehQRAQAAMAAJ",
+   "volumeInfo": {
+    "title": "The Naval and military magazine",
+    "publishedDate": "1827",
+    "description": "\u003cb\u003eNAVAL\u003c/b\u003e AND \u003cb\u003eMILITARY\u003c/b\u003e MAGAZINE. &#39;: ■ No. I.— March, 182?. Memoir of Field Marshal \u003cbr\u003e\r\nThe Duke of York, KGGCBGC if. 6sc. By the Author of Waverley* ; ( with Notes \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "WISC:89098738909"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dehQRAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dehQRAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dehQRAQAAMAAJ&printsec\u003dfrontcover&dq\u003dNaval+Military&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dehQRAQAAMAAJ&dq\u003dNaval+Military&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/The_Naval_and_military_magazine.epub?id\u003dehQRAQAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Naval_and_military_magazine.pdf?id\u003dehQRAQAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1PFIHhuxct8W9ktI3z0pqu5Vq1Mw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vNc0AAAAIAAJ",
+   "etag": "xPehQgoWmKg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vNc0AAAAIAAJ",
+   "volumeInfo": {
+    "title": "Principles and practice of naval and military courts martial",
+    "subtitle": "with an appendix illustrative of the subject",
+    "authors": [
+     "John M'Arthur"
+    ],
+    "publishedDate": "1805",
+    "description": "BOOK L OF THE FUNDAMENTAL LAWS AND ESTABLISHED THEORY OF \u003cb\u003eNAVAL\u003c/b\u003e AND \u003cb\u003eMILITARY\u003c/b\u003e \u003cbr\u003e\r\nCOURTS-MARTIAL. CHAP, ii Of Laws in generaU T AW (according to the definition of \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105061336892"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Courts-martial and courts of inquiry"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dvNc0AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dvNc0AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvNc0AAAAIAAJ&pg\u003dPA1&dq\u003dNaval+Military&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvNc0AAAAIAAJ&dq\u003dNaval+Military&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Principles_and_practice_of_naval_and_mil.epub?id\u003dvNc0AAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Principles_and_practice_of_naval_and_mil.pdf?id\u003dvNc0AAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3ueabOq8SEOheuuE2XYKZXuWq6sQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "f-88AAAAIAAJ",
+   "etag": "OPOtI/VrHPY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f-88AAAAIAAJ",
+   "volumeInfo": {
+    "title": "Naval and Military Essays",
+    "description": "HISTORIANS AND \u003cb\u003eNAVAL\u003c/b\u003e HISTORY t BY SIR JOHN K. LAUGHTON The \u003cb\u003eNavy\u003c/b\u003e has had such an \u003cbr\u003e\r\nimportant influence on the development of England&#39;s national life that it \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:LRUA1G83SLA"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003df-88AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003df-88AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003df-88AAAAIAAJ&printsec\u003dfrontcover&dq\u003dNaval+Military&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003df-88AAAAIAAJ&dq\u003dNaval+Military&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-dA9yEMm-QMC",
+   "etag": "8hvZ8+lJJ1o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-dA9yEMm-QMC",
+   "volumeInfo": {
+    "title": "Naval and Military Anecdotes",
+    "subtitle": "Collected to Illustrate Ancient and Modern Warfare, and Particularly the British Character",
+    "authors": [
+     "Anonymous"
+    ],
+    "publisher": "Kessinger Pub",
+    "publishedDate": "2006-07-01",
+    "description": "\u003cb\u003eNAVAL\u003c/b\u003e AND \u003cb\u003eMILITARY\u003c/b\u003e ANECDOTES. SIR ERANCIS DRAKE. IT seems in some measure to \u003cbr\u003e\r\ndetract from the common notions about nobility of birth, and the advantage of \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1428656901"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781428656901"
+     }
+    ],
+    "pageCount": 436,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d-dA9yEMm-QMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d-dA9yEMm-QMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-dA9yEMm-QMC&printsec\u003dfrontcover&dq\u003dNaval+Military&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-dA9yEMm-QMC&dq\u003dNaval+Military&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "X3ksAAAAYAAJ",
+   "etag": "LNI89yb3XoM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/X3ksAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Naval strategy compared and contrasted with the principles and practice of military operations on land",
+    "authors": [
+     "Alfred Thayer Mahan"
+    ],
+    "publishedDate": "1911",
+    "description": "Coast fortification, sea- coast fortresses, are on a mental border line, between \u003cbr\u003e\r\nthe conceptions of \u003cb\u003enaval\u003c/b\u003e and \u003cb\u003emilitary\u003c/b\u003e as distinct classes of operations of \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X000335750"
+     }
+    ],
+    "pageCount": 475,
+    "printType": "BOOK",
+    "categories": [
+     "Naval art and science"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dX3ksAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dX3ksAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dX3ksAAAAYAAJ&pg\u003dPA432&dq\u003dNaval+Military&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dX3ksAAAAYAAJ&dq\u003dNaval+Military&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Naval_strategy_compared_and_contrasted_w.epub?id\u003dX3ksAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Naval_strategy_compared_and_contrasted_w.pdf?id\u003dX3ksAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1pU5gZq-VRYrrlyezexq1By3-jmA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 581
+}

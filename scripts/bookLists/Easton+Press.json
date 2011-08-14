@@ -1,0 +1,414 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "QRL9kQAACAAJ",
+   "etag": "LUl1wAWv4SQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QRL9kQAACAAJ",
+   "volumeInfo": {
+    "title": "Ethan Frome",
+    "authors": [
+     "Edith Wharton",
+     "Clifton Fadiman",
+     "Easton Press"
+    ],
+    "publishedDate": "1967",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:36591625"
+     }
+    ],
+    "pageCount": 145,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQRL9kQAACAAJ&dq\u003dEaston+Press&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQRL9kQAACAAJ&dq\u003dEaston+Press&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "M-MDAAAAMBAJ",
+   "etag": "kF0QwmmeHKg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/M-MDAAAAMBAJ",
+   "volumeInfo": {
+    "title": "Popular Mechanics",
+    "publishedDate": "1991-07",
+    "description": "THE 100 GREATEST BOOKS EVER WRITTEN The Finest edition you can find of Moby Dick \u003cbr\u003e\r\nis the great \u003cb\u003eEaston Press\u003c/b\u003e leather- bound edition. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:WXFTDLR7X3S"
+     }
+    ],
+    "pageCount": 118,
+    "printType": "MAGAZINE",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dM-MDAAAAMBAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dM-MDAAAAMBAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dM-MDAAAAMBAJ&pg\u003dPA13&dq\u003dEaston+Press&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dM-MDAAAAMBAJ&dq\u003dEaston+Press&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-wQEAAAAMBAJ",
+   "etag": "qCbPiChMRtA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-wQEAAAAMBAJ",
+   "volumeInfo": {
+    "title": "Kiplinger's Personal Finance",
+    "publishedDate": "1993-08",
+    "description": "THE 100 GREATEST BOOKS EVER WRITTEN The Finest edition you can find of Moby Dick \u003cbr\u003e\r\nis the great \u003cb\u003eEaston Press\u003c/b\u003e leather- bound edition. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:0AJ10FHR9YT"
+     }
+    ],
+    "pageCount": 108,
+    "printType": "MAGAZINE",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d-wQEAAAAMBAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d-wQEAAAAMBAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-wQEAAAAMBAJ&pg\u003dPA57&dq\u003dEaston+Press&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-wQEAAAAMBAJ&dq\u003dEaston+Press&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TDIEAAAAMBAJ",
+   "etag": "WrWxsGTEtc8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TDIEAAAAMBAJ",
+   "volumeInfo": {
+    "title": "The Rotarian",
+    "publishedDate": "1993-01",
+    "description": "Why is The \u003cb\u003eEaston Press\u003c/b\u003e making this, dare we say it, whale of a deal? Because we \u003cbr\u003e\r\nthink you&#39;ll be delighted and astonished when you see the quality of your \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:0XAC0RDWT76"
+     }
+    ],
+    "pageCount": 72,
+    "printType": "MAGAZINE",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dTDIEAAAAMBAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dTDIEAAAAMBAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTDIEAAAAMBAJ&pg\u003dPA1&dq\u003dEaston+Press&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTDIEAAAAMBAJ&dq\u003dEaston+Press&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7OREaZ8vhukC",
+   "etag": "xCc7cHytWWw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7OREaZ8vhukC",
+   "volumeInfo": {
+    "title": "Spy",
+    "publishedDate": "1995-02",
+    "description": "Why is The \u003cb\u003eEaston Press\u003c/b\u003e making this, dare we say it, whale of a deal? Because we \u003cbr\u003e\r\nthink you&#39;ll be delighted and astonished when you see the quality of your \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:27XYP0L0XU1"
+     }
+    ],
+    "pageCount": 90,
+    "printType": "MAGAZINE",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d7OREaZ8vhukC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d7OREaZ8vhukC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7OREaZ8vhukC&pg\u003dPA1&dq\u003dEaston+Press&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7OREaZ8vhukC&dq\u003dEaston+Press&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wOoCAAAAMBAJ",
+   "etag": "kqBQ5t7zMWk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wOoCAAAAMBAJ",
+   "volumeInfo": {
+    "title": "American Cowboy",
+    "publishedDate": "1996-01",
+    "description": "THE 100 GREATEST BOOKS EVER WRITTEN The finest edition you can find of Moby Dick \u003cbr\u003e\r\nis the great \u003cb\u003eEaston Press\u003c/b\u003e leather- bound edition. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:FT4KX4L958S"
+     }
+    ],
+    "pageCount": 96,
+    "printType": "MAGAZINE",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dwOoCAAAAMBAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dwOoCAAAAMBAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwOoCAAAAMBAJ&pg\u003dPA1&dq\u003dEaston+Press&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwOoCAAAAMBAJ&dq\u003dEaston+Press&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OCom3Cp7cDsC",
+   "etag": "uXX2YaK3CIE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OCom3Cp7cDsC",
+   "volumeInfo": {
+    "title": "Field & Stream",
+    "publishedDate": "1995-02",
+    "description": "Why is The \u003cb\u003eEaston Press\u003c/b\u003e making this, dare we say it, whale of a deal? Because we \u003cbr\u003e\r\nthink you&#39;ll be delighted and astonished when you see the quality of your \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:78RKGGLJ1TZ"
+     }
+    ],
+    "pageCount": 104,
+    "printType": "MAGAZINE",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dOCom3Cp7cDsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dOCom3Cp7cDsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOCom3Cp7cDsC&pg\u003dPA11&dq\u003dEaston+Press&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOCom3Cp7cDsC&dq\u003dEaston+Press&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1XohSwAACAAJ",
+   "etag": "fEPRis+e1RU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1XohSwAACAAJ",
+   "volumeInfo": {
+    "title": "Fahrenheit 451",
+    "authors": [
+     "Ray Bradbury",
+     "Easton Press"
+    ],
+    "publishedDate": "1991",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:36863208"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1XohSwAACAAJ&dq\u003dEaston+Press&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1XohSwAACAAJ&dq\u003dEaston+Press&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "x-ntAAAAMAAJ",
+   "etag": "d1r0O4A+Zhw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/x-ntAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The Economist",
+    "publishedDate": "1995",
+    "description": "Now, The Library of Congress, the world&#39;s greatest repository of recorded \u003cbr\u003e\r\nknowledge, has authorized The \u003cb\u003eEaston Press\u003c/b\u003e to produce exact reproductions of \u003cbr\u003e\r\nmany \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015025768873"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dx-ntAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dx-ntAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dx-ntAAAAMAAJ&q\u003dEaston+Press&dq\u003dEaston+Press&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dx-ntAAAAMAAJ&dq\u003dEaston+Press&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IEwRkgAACAAJ",
+   "etag": "LhkgmNFaU6U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IEwRkgAACAAJ",
+   "volumeInfo": {
+    "title": "Nineteen eighty-four",
+    "authors": [
+     "George Orwell",
+     "Easton Press"
+    ],
+    "publishedDate": "1992",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:36813769"
+     }
+    ],
+    "pageCount": 314,
+    "printType": "BOOK",
+    "categories": [
+     "Totalitarianism"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 8295,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIEwRkgAACAAJ&dq\u003dEaston+Press&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIEwRkgAACAAJ&dq\u003dEaston+Press&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 591
+}

@@ -1,0 +1,533 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "P842fHCIOq0C",
+   "etag": "Tdy6d0VQw+Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/P842fHCIOq0C",
+   "volumeInfo": {
+    "title": "Best books for young adults",
+    "authors": [
+     "Holly Koelling",
+     "Betty Carter",
+     "Young Adult Library Services Association"
+    ],
+    "publisher": "Amer Library Assn",
+    "publishedDate": "2007-08-30",
+    "description": "Provides reviews for classic and contemporary young adult books, identifies teenagers&#39; interests and best book selections, and includes guidelines for creating ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0838935699"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780838935699"
+     }
+    ],
+    "pageCount": 346,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dP842fHCIOq0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dP842fHCIOq0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dP842fHCIOq0C&printsec\u003dfrontcover&dq\u003dYoung+Adult&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dP842fHCIOq0C&dq\u003dYoung+Adult&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.8,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 29.07,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dP842fHCIOq0C&dq\u003dYoung+Adult&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KPNotFXqXQ0C",
+   "etag": "cDQH5sTswvE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KPNotFXqXQ0C",
+   "volumeInfo": {
+    "title": "Young adult literature in the classroom",
+    "subtitle": "reading it, teaching it, loving it",
+    "authors": [
+     "Joan B. Elliott",
+     "Mary M. Dupuis"
+    ],
+    "publisher": "Intl Reading Assn",
+    "publishedDate": "2002-01",
+    "description": "This new volume answers both questions by explaining how YA literature promotes learning across cultures, genres, disciplines, and grade levels, and by giving ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0872071731"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780872071735"
+     }
+    ],
+    "pageCount": 248,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dKPNotFXqXQ0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dKPNotFXqXQ0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKPNotFXqXQ0C&printsec\u003dfrontcover&dq\u003dYoung+Adult&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKPNotFXqXQ0C&dq\u003dYoung+Adult&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iqNoAAAAIAAJ",
+   "etag": "IjofC5sSBMA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iqNoAAAAIAAJ",
+   "volumeInfo": {
+    "title": "The Young adult",
+    "subtitle": "development after adolescence",
+    "authors": [
+     "Gene Bocknek"
+    ],
+    "publisher": "Gardner Pr",
+    "publishedDate": "1986",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105002617376"
+     }
+    ],
+    "pageCount": 232,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003diqNoAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003diqNoAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003diqNoAAAAIAAJ&q\u003dYoung+Adult&dq\u003dYoung+Adult&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003diqNoAAAAIAAJ&dq\u003dYoung+Adult&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mvbmPAAACAAJ",
+   "etag": "3lD4NCuFFrY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mvbmPAAACAAJ",
+   "volumeInfo": {
+    "title": "Young Adult",
+    "subtitle": "A Reader's Checklist and Reference Guide",
+    "authors": [
+     "Checker Bee Publishing",
+     "CheckerBee Publishing Staff"
+    ],
+    "publisher": "Checkerbee Pub",
+    "publishedDate": "1999-10",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1585980056"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781585980055"
+     }
+    ],
+    "pageCount": 95,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dmvbmPAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dmvbmPAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmvbmPAAACAAJ&dq\u003dYoung+Adult&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmvbmPAAACAAJ&dq\u003dYoung+Adult&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ikkySgAACAAJ",
+   "etag": "KafoDJqxTa4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ikkySgAACAAJ",
+   "volumeInfo": {
+    "title": "Young Adult",
+    "subtitle": "Quarter-Life Crisis, Boomerang Generation, Twixter, Single Adult, Emerging Adulthood, Twentysomething",
+    "authors": [
+     "Books, LLC"
+    ],
+    "publisher": "Books LLC",
+    "publishedDate": "2010-05",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1156908620"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781156908624"
+     }
+    ],
+    "pageCount": 54,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dikkySgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dikkySgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dikkySgAACAAJ&dq\u003dYoung+Adult&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dikkySgAACAAJ&dq\u003dYoung+Adult&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JVRyQgAACAAJ",
+   "etag": "uCIBNCPI7M4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JVRyQgAACAAJ",
+   "volumeInfo": {
+    "title": "The young adult",
+    "subtitle": "identity and awareness",
+    "authors": [
+     "Gerald D. Winter",
+     "Eugene M. Nuss"
+    ],
+    "publishedDate": "1969",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:70075378"
+     }
+    ],
+    "pageCount": 343,
+    "printType": "BOOK",
+    "categories": [
+     "Adolescence"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJVRyQgAACAAJ&dq\u003dYoung+Adult&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJVRyQgAACAAJ&dq\u003dYoung+Adult&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YpRw6V72wH8C",
+   "etag": "xkQFgMfR04Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YpRw6V72wH8C",
+   "volumeInfo": {
+    "title": "Young Adult Mental Health",
+    "authors": [
+     "Jon E. Grant",
+     "Marc N. Potenza"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2009-08",
+    "description": "Finally, the book examines current research on mental health issues in young adults and reviews the strengths of the evidence, providing mental health ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0195332717"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195332711"
+     }
+    ],
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dYpRw6V72wH8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dYpRw6V72wH8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYpRw6V72wH8C&printsec\u003dfrontcover&dq\u003dYoung+Adult&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYpRw6V72wH8C&dq\u003dYoung+Adult&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IiRYGQAACAAJ",
+   "etag": "d0KoCTQcDto",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IiRYGQAACAAJ",
+   "volumeInfo": {
+    "title": "The young adult",
+    "subtitle": "being a report prepared in cooperation with young men in Cardiff, Newport and Pontypridd, under the auspices of the Carnegie United Kingdom Trust",
+    "authors": [
+     "Archibald James Lush",
+     "Carnegie United Kingdom Trust",
+     "South Wales and Monmouthshire Council of Social Service"
+    ],
+    "publishedDate": "1941",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:l42000054"
+     }
+    ],
+    "pageCount": 89,
+    "printType": "BOOK",
+    "categories": [
+     "Unemployed"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIiRYGQAACAAJ&dq\u003dYoung+Adult&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIiRYGQAACAAJ&dq\u003dYoung+Adult&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "flTp_stUTCwC",
+   "etag": "iJomGyD7jIo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/flTp_stUTCwC",
+   "volumeInfo": {
+    "title": "Bare bones young adult services",
+    "subtitle": "tips for public library generalists",
+    "authors": [
+     "Renée J. Vaillancourt",
+     "Renée Vaillancourt McGrath",
+     "Young Adult Library Services Association"
+    ],
+    "publisher": "Amer Library Assn",
+    "publishedDate": "2000",
+    "description": "Offers librarians advice on working with young adults and coping with troublesome behavior, including guidelines for providing young adults with homework ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0838934978"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780838934975"
+     }
+    ],
+    "pageCount": 142,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dflTp_stUTCwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dflTp_stUTCwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dflTp_stUTCwC&printsec\u003dfrontcover&dq\u003dYoung+Adult&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dflTp_stUTCwC&dq\u003dYoung+Adult&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vJStFTHncBYC",
+   "etag": "PebniM0Gv5s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vJStFTHncBYC",
+   "volumeInfo": {
+    "title": "New directions for library service to young adults",
+    "authors": [
+     "Patrick Jones",
+     "Linda L. Waddle",
+     "Young Adult Library Services Association"
+    ],
+    "publisher": "Amer Library Assn",
+    "publishedDate": "2002-06",
+    "description": "This exciting new book has an ambitious goal-to help libraries, with their communities, strike a true partnership with the young adults in their communities.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0838908276"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780838908273"
+     }
+    ],
+    "pageCount": 146,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dvJStFTHncBYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dvJStFTHncBYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvJStFTHncBYC&printsec\u003dfrontcover&dq\u003dYoung+Adult&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvJStFTHncBYC&dq\u003dYoung+Adult&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 28.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 15.12,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dvJStFTHncBYC&dq\u003dYoung+Adult&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 584
+}

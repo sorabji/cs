@@ -1,0 +1,550 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "0SYVAAAAYAAJ",
+   "etag": "FjlX+LX7vaQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0SYVAAAAYAAJ",
+   "volumeInfo": {
+    "title": "What is art?",
+    "authors": [
+     "Leo Tolstoy (graf)"
+    ],
+    "publishedDate": "1899",
+    "description": "WHAT IS \u003cb\u003eART\u003c/b\u003e? CHAPTER I TAKE up any one of our ordinary newspapers, and you will \u003cbr\u003e\r\nfind a part devoted to the theater and music. In almost every number you \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433073356572"
+     }
+    ],
+    "pageCount": 203,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 7,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d0SYVAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d0SYVAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0SYVAAAAYAAJ&printsec\u003dfrontcover&dq\u003dArt&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0SYVAAAAYAAJ&dq\u003dArt&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/What_is_art.epub?id\u003d0SYVAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/What_is_art.pdf?id\u003d0SYVAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2PUKv6Eg0A-_PUJVmkklJCF1hHPA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WRktAAAAYAAJ",
+   "etag": "FEmfllLzSsw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WRktAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Art",
+    "authors": [
+     "Auguste Rodin",
+     "Paul Gsell"
+    ],
+    "publishedDate": "1912",
+    "description": "To-day \u003cb\u003eArt\u003c/b\u003e is banished from daily life. People say that the useful need not be \u003cbr\u003e\r\nbeautiful. All is ugly, all is made in haste and without grace by stupid \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PRNC:32101067687325"
+     }
+    ],
+    "pageCount": 259,
+    "printType": "BOOK",
+    "categories": [
+     "Artists"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dWRktAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dWRktAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWRktAAAAYAAJ&printsec\u003dfrontcover&dq\u003dArt&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWRktAAAAYAAJ&dq\u003dArt&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Art.epub?id\u003dWRktAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Art.pdf?id\u003dWRktAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3YRwebagPNUKUVkax9OXlwwU81ug&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nKV4PgAACAAJ",
+   "etag": "qI9hD141h9g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nKV4PgAACAAJ",
+   "volumeInfo": {
+    "title": "Art",
+    "authors": [
+     "Clive Bell",
+     "Arthur Clive Heward Bell"
+    ],
+    "publisher": "Book Jungle",
+    "publishedDate": "2009-02",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1438508948"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781438508948"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dnKV4PgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dnKV4PgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnKV4PgAACAAJ&dq\u003dArt&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnKV4PgAACAAJ&dq\u003dArt&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XwKfeb9wOagC",
+   "etag": "bkZ3zJbxm/U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XwKfeb9wOagC",
+   "volumeInfo": {
+    "title": "The Art Spirit",
+    "authors": [
+     "Robert Henri"
+    ],
+    "publisher": "ReadHowYouWant.com",
+    "publishedDate": "2010-10-01",
+    "description": "Embodying the entire system of Robert Henri&#39;s teaching, The Art Spirit contains much valuable advice, critical comment, and inspiration to every student of the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1458758966"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781458758965"
+     }
+    ],
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 43,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dXwKfeb9wOagC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dXwKfeb9wOagC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXwKfeb9wOagC&printsec\u003dfrontcover&dq\u003dArt&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXwKfeb9wOagC&dq\u003dArt&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Y5NTPwAACAAJ",
+   "etag": "wQYum+D8KiY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Y5NTPwAACAAJ",
+   "volumeInfo": {
+    "title": "Art",
+    "subtitle": "A Brief History",
+    "authors": [
+     "Marilyn Stokstad",
+     "Michael W. Cothren"
+    ],
+    "publisher": "Pearson College Div",
+    "publishedDate": "2009-10-25",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0136059090"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780136059097"
+     }
+    ],
+    "pageCount": 634,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dY5NTPwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dY5NTPwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dY5NTPwAACAAJ&dq\u003dArt&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dY5NTPwAACAAJ&dq\u003dArt&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "urKP3aRB4u8C",
+   "etag": "lD+G1yjvFsM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/urKP3aRB4u8C",
+   "volumeInfo": {
+    "title": "The art of war",
+    "authors": [
+     "Sun Tzu",
+     "Lionel Giles"
+    ],
+    "publisher": "El Paso Norte Pr",
+    "publishedDate": "2005-03",
+    "description": "This Special Edition of The Art of War by Sun Tzu presents this timeless classic in two forms:Section I contains the complete thirteen chapters of Sun Tzu&#39;s ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0976072696"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780976072690"
+     }
+    ],
+    "pageCount": 268,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003durKP3aRB4u8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003durKP3aRB4u8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003durKP3aRB4u8C&printsec\u003dfrontcover&dq\u003dArt&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003durKP3aRB4u8C&dq\u003dArt&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.98,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.38,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003durKP3aRB4u8C&dq\u003dArt&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_art_of_war-sample-epub.acsm?id\u003durKP3aRB4u8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_art_of_war-sample-pdf.acsm?id\u003durKP3aRB4u8C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bHu8cGGs_nQC",
+   "etag": "2UbtJKk3N6k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bHu8cGGs_nQC",
+   "volumeInfo": {
+    "title": "Art",
+    "subtitle": "a history of painting, sculpture, architecture",
+    "authors": [
+     "Frederick Hartt"
+    ],
+    "publisher": "Harry N Abrams Inc",
+    "publishedDate": "1989-06",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "MINN:31951P004852939"
+     }
+    ],
+    "pageCount": 1087,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dbHu8cGGs_nQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dbHu8cGGs_nQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbHu8cGGs_nQC&q\u003dArt&dq\u003dArt&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbHu8cGGs_nQC&dq\u003dArt&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aAbqAGo5MwwC",
+   "etag": "3z/MWMfZSyI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aAbqAGo5MwwC",
+   "volumeInfo": {
+    "title": "Art as experience",
+    "authors": [
+     "John Dewey"
+    ],
+    "publisher": "Perigee",
+    "publishedDate": "2005",
+    "description": "Based on John Dewey&#39;s lectures on esthetics, delivered as the first William James Lecturer at Harvard in 1932, Art as Experiencehas grown to be considered ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0399531971"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780399531972"
+     }
+    ],
+    "pageCount": 371,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 39,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003daAbqAGo5MwwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003daAbqAGo5MwwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daAbqAGo5MwwC&printsec\u003dfrontcover&dq\u003dArt&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daAbqAGo5MwwC&dq\u003dArt&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Q6DtO_PBntIC",
+   "etag": "ve5GZoIX8w4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Q6DtO_PBntIC",
+   "volumeInfo": {
+    "title": "Pop Art",
+    "authors": [
+     "Tilman Osterwold"
+    ],
+    "publisher": "Taschen America Llc",
+    "publishedDate": "2003-08-01",
+    "description": "The author gives us a detailed account of the styles, themes and sources of Pop Art, investigating its development in different countries and providing ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3822820709"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783822820704"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dQ6DtO_PBntIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dQ6DtO_PBntIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQ6DtO_PBntIC&printsec\u003dfrontcover&dq\u003dArt&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQ6DtO_PBntIC&dq\u003dArt&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hIg80jT5aOIC",
+   "etag": "uo6xvYFT1GI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hIg80jT5aOIC",
+   "volumeInfo": {
+    "title": "What art is",
+    "subtitle": "the esthetic theory of Ayn Rand",
+    "authors": [
+     "Louis Torres",
+     "Michelle Marder Kamhi"
+    ],
+    "publisher": "Open Court Pub Co",
+    "publishedDate": "2000-06-20",
+    "description": "In What Art Is, the authors demonstrate that Rand&#39;s ideas are supported by evidence from other academic fields.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0812693728"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780812693720"
+     }
+    ],
+    "pageCount": 523,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dhIg80jT5aOIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dhIg80jT5aOIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhIg80jT5aOIC&printsec\u003dfrontcover&dq\u003dArt&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhIg80jT5aOIC&dq\u003dArt&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 584
+}

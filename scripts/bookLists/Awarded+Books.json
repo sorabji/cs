@@ -1,0 +1,518 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "bI5LAAAAYAAJ",
+   "etag": "EOyqLU3m6KY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bI5LAAAAYAAJ",
+   "volumeInfo": {
+    "title": "The reading teacher's book of lists",
+    "authors": [
+     "Edward Bernard Fry",
+     "Jacqueline E. Kress",
+     "Dona Fountoukidis"
+    ],
+    "publisher": "Jossey-Bass",
+    "publishedDate": "2000-04-25",
+    "description": "American \u003cb\u003eBook Award\u003c/b\u003e was established in 1979, replacing The National \u003cb\u003eBook Award\u003c/b\u003e, \u003cbr\u003e\r\nand is \u003cb\u003eawarded\u003c/b\u003e annually for a juvenile title. The \u003cb\u003eaward\u003c/b\u003e-winning \u003cb\u003ebook\u003c/b\u003e must be \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X004214909"
+     }
+    ],
+    "pageCount": 464,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dbI5LAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dbI5LAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbI5LAAAAYAAJ&q\u003dAwarded+Books&dq\u003dAwarded+Books&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbI5LAAAAYAAJ&dq\u003dAwarded+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Wi5-O4rtdOQC",
+   "etag": "NPci4rXfoUo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Wi5-O4rtdOQC",
+   "volumeInfo": {
+    "title": "Cousins",
+    "authors": [
+     "Virginia Hamilton"
+    ],
+    "publisher": "Scholastic Paperbacks",
+    "publishedDate": "1992-01-01",
+    "description": "Winner of the National \u003cb\u003eBook Award\u003c/b\u003e and the Hans Christian Andersen Medal, \u003cb\u003e...\u003c/b\u003e She \u003cbr\u003e\r\nis the only writer of children&#39;s \u003cb\u003ebooks\u003c/b\u003e to have been \u003cb\u003eawarded\u003c/b\u003e a MacArthur \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0590454366"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780590454360"
+     }
+    ],
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 10,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dWi5-O4rtdOQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dWi5-O4rtdOQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWi5-O4rtdOQC&pg\u003dPA127&dq\u003dAwarded+Books&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWi5-O4rtdOQC&dq\u003dAwarded+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uuqsNwAACAAJ",
+   "etag": "CUkMRAp2X1w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uuqsNwAACAAJ",
+   "volumeInfo": {
+    "title": "A comparison of books awarded prizes by adults and by children",
+    "authors": [
+     "Janet Hickman"
+    ],
+    "publishedDate": "1964",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:51678492"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Children's literature"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003duuqsNwAACAAJ&dq\u003dAwarded+Books&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003duuqsNwAACAAJ&dq\u003dAwarded+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7ulGRwKrXLAC",
+   "etag": "yBvmKmJ28yI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7ulGRwKrXLAC",
+   "volumeInfo": {
+    "title": "The world almanac and book of facts 2004",
+    "authors": [
+     "William A. McGeveran"
+    ],
+    "publisher": "World Almanac Education",
+    "publishedDate": "2004",
+    "description": "Coretta Scon King \u003cb\u003eAward\u003c/b\u003e, by American Library Assn.. for African American authors \u003cbr\u003e\r\nand illustrators of outstanding \u003cb\u003ebooks\u003c/b\u003e for children and young adults. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0886879108"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780886879105"
+     }
+    ],
+    "pageCount": 1008,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d7ulGRwKrXLAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d7ulGRwKrXLAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7ulGRwKrXLAC&q\u003dAwarded+Books&dq\u003dAwarded+Books&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7ulGRwKrXLAC&dq\u003dAwarded+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "piBn_gnZimsC",
+   "etag": "YDdh5r9y4+M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/piBn_gnZimsC",
+   "volumeInfo": {
+    "title": "The Paris Review Interviews, IV",
+    "authors": [
+     "Salman Rushdie",
+     "The Paris Review"
+    ],
+    "publisher": "Picador USA",
+    "publishedDate": "2009-10-27",
+    "description": "Peter Matthiessen is the author of more than twenty-five works of fiction and \u003cbr\u003e\r\nnonfiction, including National \u003cb\u003eBook Award\u003c/b\u003e winners The Snow Leopard (1979) and \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0312427441"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780312427443"
+     }
+    ],
+    "pageCount": 496,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 103,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dpiBn_gnZimsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dpiBn_gnZimsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpiBn_gnZimsC&pg\u003dPA475&dq\u003dAwarded+Books&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpiBn_gnZimsC&dq\u003dAwarded+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dpiBn_gnZimsC&dq\u003dAwarded+Books&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Paris_Review_Interviews_IV-sample-epub.acsm?id\u003dpiBn_gnZimsC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Paris_Review_Interviews_IV-sample-pdf.acsm?id\u003dpiBn_gnZimsC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B71WAAAAYAAJ",
+   "etag": "vihRA0bZIps",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B71WAAAAYAAJ",
+   "volumeInfo": {
+    "title": "The college blue book",
+    "publishedDate": "2010",
+    "description": "Title of \u003cb\u003eAward\u003c/b\u003e: Business, Education and Technology Scholarships Area, Field, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e\r\nLevel of Education for which \u003cb\u003eAward\u003c/b\u003e is Granted: Graduate, Undergraduate, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0028661060"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780028661063"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dB71WAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dB71WAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dB71WAAAAYAAJ&q\u003dAwarded+Books&dq\u003dAwarded+Books&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dB71WAAAAYAAJ&dq\u003dAwarded+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ggVmAAAAMAAJ",
+   "etag": "URqSzj5F0DA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ggVmAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Chosen for children",
+    "subtitle": "an account of the books which have been awarded the Library Association Carnegie Medal, 1936-1965",
+    "authors": [
+     "Library Association"
+    ],
+    "publishedDate": "1967",
+    "description": "The Medal has not yet been \u003cb\u003eawarded\u003c/b\u003e for a \u003cb\u003ebook\u003c/b\u003e of poetry. The shelf of Carnegie \u003cbr\u003e\r\nMedal winners shows a varied collection of \u003cb\u003ebooks\u003c/b\u003e. It may no doubt be assumed \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015066378269"
+     }
+    ],
+    "pageCount": 136,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dggVmAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dggVmAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dggVmAAAAMAAJ&q\u003dAwarded+Books&dq\u003dAwarded+Books&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dggVmAAAAMAAJ&dq\u003dAwarded+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FOQSAAAAIAAJ",
+   "etag": "xjzHUrshcQo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FOQSAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Proceedings",
+    "authors": [
+     "Chicago (Ill.). Board of Education"
+    ],
+    "publishedDate": "1891",
+    "description": "\u003cb\u003eAward\u003c/b\u003e of contract for opaque shades 182 Authority granted to purcha-c reference \u003cbr\u003e\r\n\u003cb\u003ebooks\u003c/b\u003e and charts 174, 359 Aotbority granted to purchnse supplementary \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433075985642"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Public schools"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dFOQSAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dFOQSAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFOQSAAAAIAAJ&pg\u003dPR43&dq\u003dAwarded+Books&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFOQSAAAAIAAJ&dq\u003dAwarded+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Proceedings.pdf?id\u003dFOQSAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0FFY2UTGL_I5uwIe9x7XIG0rAcCQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QSGcAAAAMAAJ",
+   "etag": "mcOUg5rtz6s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QSGcAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The College blue book",
+    "authors": [
+     "Gale Group",
+     "Thomson Gale (Firm)"
+    ],
+    "publishedDate": "2007",
+    "description": "Additional Information: Recipients must use the \u003cb\u003eawarded\u003c/b\u003e money within 20 months \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e Funds are disbursed directly to the school to be used for tuition, \u003cb\u003ebooks\u003c/b\u003e, \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0028660110"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780028660110"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dQSGcAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dQSGcAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQSGcAAAAMAAJ&q\u003dAwarded+Books&dq\u003dAwarded+Books&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQSGcAAAAMAAJ&dq\u003dAwarded+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zXdDJPmJslQC",
+   "etag": "uK2IJQHghms",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zXdDJPmJslQC",
+   "volumeInfo": {
+    "title": "Losing the news",
+    "subtitle": "the future of the news that feeds democracy",
+    "authors": [
+     "Alex S. Jones",
+     "Annenberg Public Policy Center"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2009-09-23",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0195181239"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195181234"
+     }
+    ],
+    "pageCount": 234,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 11,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dzXdDJPmJslQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dzXdDJPmJslQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzXdDJPmJslQC&dq\u003dAwarded+Books&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzXdDJPmJslQC&dq\u003dAwarded+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 583
+}

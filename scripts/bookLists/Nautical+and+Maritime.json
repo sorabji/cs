@@ -1,0 +1,479 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "nlIYDrgc1ncC",
+   "etag": "0EWS2yRtCG4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nlIYDrgc1ncC",
+   "volumeInfo": {
+    "title": "Farwell's rules of the nautical road",
+    "authors": [
+     "Craig H. Allen",
+     "Raymond Forrest Farwell",
+     "Richard Arthur Smith"
+    ],
+    "publisher": "Naval Inst Pr",
+    "publishedDate": "2005",
+    "description": "Data compiled by various government \u003cb\u003emaritime\u003c/b\u003e safety agencies, \u003cb\u003emarine\u003c/b\u003e insurers, \u003cbr\u003e\r\n\u003cb\u003emaritime\u003c/b\u003e periodicals, law journals, and the \u003cb\u003eNautical\u003c/b\u003e Institute&#39;s \u003cb\u003emarine\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1591140080"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781591140085"
+     }
+    ],
+    "pageCount": 719,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dnlIYDrgc1ncC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dnlIYDrgc1ncC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnlIYDrgc1ncC&pg\u003dPA1&dq\u003dNautical+and+Maritime&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnlIYDrgc1ncC&dq\u003dNautical+and+Maritime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "obxJAAAAMAAJ",
+   "etag": "k5umAgaRZFA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/obxJAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The Merchants' magazine and commercial review",
+    "authors": [
+     "Freeman Hunt",
+     "William B. Dana"
+    ],
+    "publishedDate": "1854",
+    "description": "\u003cb\u003eNAUTICAL\u003c/b\u003e INTELLIGENCE. NOTICES TO MARINERS. \u003cb\u003e...\u003c/b\u003e NOTICE OF THE JK CENTRAL \u003cbr\u003e\r\n\u003cb\u003eMARITIME\u003c/b\u003e GOVERNMENT, IMPOSING LIKEWISE UPON FOREIGN VESSELS THE OBLIGATION OK \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015067317936"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "0.1.0.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dobxJAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dobxJAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dobxJAAAAMAAJ&pg\u003dPA118&dq\u003dNautical+and+Maritime&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dobxJAAAAMAAJ&dq\u003dNautical+and+Maritime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Merchants_magazine_and_commercial_re.pdf?id\u003dobxJAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2ROjD0KeAk351OZAE9ulXGhSCdGg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GmoLSQAACAAJ",
+   "etag": "nuPXxfKHuSY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GmoLSQAACAAJ",
+   "volumeInfo": {
+    "title": "Nautical Museum, Maritime Museum. Saint Michael Wharf, Dun Laoghaire",
+    "authors": [
+     "Adrian J. English"
+    ],
+    "publishedDate": "1964",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:606040697"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "MUSEUMS"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGmoLSQAACAAJ&dq\u003dNautical+and+Maritime&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGmoLSQAACAAJ&dq\u003dNautical+and+Maritime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Q3gaAAAAMAAJ",
+   "etag": "HDgmsNFsO2I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Q3gaAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Hearings",
+    "authors": [
+     "United States. Congress. Senate. Committee on Appropriations"
+    ],
+    "publishedDate": "1956",
+    "description": "It is the only educational institution west of the Atlantic coast devoted \u003cbr\u003e\r\nexclusively to the teaching of \u003cb\u003enautical\u003c/b\u003e sciences and \u003cb\u003emarine\u003c/b\u003e engineering so as to \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015035097099"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dQ3gaAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dQ3gaAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQ3gaAAAAMAAJ&q\u003dNautical+and+Maritime&dq\u003dNautical+and+Maritime&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQ3gaAAAAMAAJ&dq\u003dNautical+and+Maritime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "R8bmQL-ijCMC",
+   "etag": "Ns9b2sHmJYA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/R8bmQL-ijCMC",
+   "volumeInfo": {
+    "title": "The Dictionary of Nautical Literacy",
+    "authors": [
+     "Robert McKenna"
+    ],
+    "publisher": "International Marine/Ragged Mountain Press",
+    "publishedDate": "2003-06-10",
+    "description": "On every page this work offers fascinating testimony to the enduring importance of the sea to our culture.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0071419500"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071419505"
+     }
+    ],
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dR8bmQL-ijCMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dR8bmQL-ijCMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dR8bmQL-ijCMC&printsec\u003dfrontcover&dq\u003dNautical+and+Maritime&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dR8bmQL-ijCMC&dq\u003dNautical+and+Maritime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3nGiFvq5_P8C",
+   "etag": "Z4BycuYLcDo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3nGiFvq5_P8C",
+   "volumeInfo": {
+    "title": "The regime for the exploitation of transboundary marine fisheries resources",
+    "subtitle": "the United Nations Law of the Sea Convention cooperation between states",
+    "authors": [
+     "Ellen Hey"
+    ],
+    "publisher": "Martinus Nijhoff",
+    "publishedDate": "1989",
+    "description": "The South Pacific System primarily applies to the 200 \u003cb\u003enautical\u003c/b\u003e mile \u003cb\u003emaritime\u003c/b\u003e \u003cbr\u003e\r\nzones of the parties in the Pacific Ocean27. In addition it seeks, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0792304586"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780792304586"
+     }
+    ],
+    "pageCount": 306,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d3nGiFvq5_P8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d3nGiFvq5_P8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3nGiFvq5_P8C&pg\u003dPA211&dq\u003dNautical+and+Maritime&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3nGiFvq5_P8C&dq\u003dNautical+and+Maritime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7bwKAAAAYAAJ",
+   "etag": "dgCl36k0oIc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7bwKAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Lawyers' reports annotated",
+    "publishedDate": "1905",
+    "description": "The opinion, in speaking of maritime contracts, does so in such a manner as \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e\r\nexclusively for \u003cb\u003enautical and maritime\u003c/b\u003e use ; and almost every question that \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044103142873"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d7bwKAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d7bwKAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7bwKAAAAYAAJ&pg\u003dPA217&dq\u003dNautical+and+Maritime&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7bwKAAAAYAAJ&dq\u003dNautical+and+Maritime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Lawyers_reports_annotated.pdf?id\u003d7bwKAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2OKqQRfi3vm39wH3o7U1YIdfXkJw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "O2crAAAAYAAJ",
+   "etag": "32q0uCmH4os",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/O2crAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Decisions of Hon. Peleg Sprague, in admiralty and maritime causes, in the District Court of the United States for the District of Massachusetts",
+    "publishedDate": "1861",
+    "description": "The vessel is designed exclusively for maritime purposes ; she is to be used \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e\r\nexclusively for \u003cb\u003enautical and maritime\u003c/b\u003e use, and almost every question that \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044064970551"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dO2crAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dO2crAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dO2crAAAAYAAJ&pg\u003dPA445&dq\u003dNautical+and+Maritime&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dO2crAAAAYAAJ&dq\u003dNautical+and+Maritime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Decisions_of_Hon_Peleg_Sprague_in_admira.epub?id\u003dO2crAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Decisions_of_Hon_Peleg_Sprague_in_admira.pdf?id\u003dO2crAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0LKcrS_TGKo98aAC45aAASGd3gOA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pvQ6AQAAIAAJ",
+   "etag": "ovJRGCxwaIU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pvQ6AQAAIAAJ",
+   "volumeInfo": {
+    "title": "The Federal cases",
+    "subtitle": "comprising cases argued and determined in the circuit and district courts of the United States from the earliest times to the beginning of the Federal reporter, arranged alphabetically by the titles of the cases, and numbered consecutively",
+    "authors": [
+     "West Publishing Company"
+    ],
+    "publishedDate": "1895",
+    "description": "The vessel is designed exclusively for maritime purposes; \u003cb\u003e...\u003c/b\u003e exclusively for \u003cbr\u003e\r\n\u003cb\u003enautical and maritime\u003c/b\u003e use, and almost every question that can arise under such \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105060862112"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dpvQ6AQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dpvQ6AQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpvQ6AQAAIAAJ&pg\u003dPA685&dq\u003dNautical+and+Maritime&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpvQ6AQAAIAAJ&dq\u003dNautical+and+Maritime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Federal_cases.pdf?id\u003dpvQ6AQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3YhQMaQeCr3nfb0TaT-ldBqQZe7Q&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gggIAAAAQAAJ",
+   "etag": "7Z9IC6k74qY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gggIAAAAQAAJ",
+   "volumeInfo": {
+    "title": "The nautical gazetteer; or, Dictionary of maritime geography",
+    "authors": [
+     "Nautical gazetteer"
+    ],
+    "publishedDate": "1847",
+    "description": "THE \u003cb\u003eNAUTICAL\u003c/b\u003e GAZETTEER; OR DICTIONARY OF \u003cb\u003eMARITIME\u003c/b\u003e GEOGRAPHY. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:590712932"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgggIAAAAQAAJ&printsec\u003dfrontcover&dq\u003dNautical+and+Maritime&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgggIAAAAQAAJ&dq\u003dNautical+and+Maritime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_nautical_gazetteer_or_Dictionary_of.pdf?id\u003dgggIAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3rgYM6-QnM0Q1Kq-XHVZErYpgTeQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 530
+}

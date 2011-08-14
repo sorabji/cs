@@ -1,0 +1,524 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ZaFHUfaw9L0C",
+   "etag": "lXNlBhxHbCA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZaFHUfaw9L0C",
+   "volumeInfo": {
+    "title": "Commercial aviation safety",
+    "authors": [
+     "Alexander T. Wells",
+     "Clarence C. Rodrigues"
+    ],
+    "publisher": "McGraw-Hill Professional",
+    "publishedDate": "2004-08-17",
+    "description": "*An overview of airline industry safety statistics, standards, and mandates *Covers FAA regulatory structure, development of technologies, management roles, air ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0071417427"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071417426"
+     }
+    ],
+    "pageCount": 399,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dZaFHUfaw9L0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dZaFHUfaw9L0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZaFHUfaw9L0C&printsec\u003dfrontcover&dq\u003dAviation&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZaFHUfaw9L0C&dq\u003dAviation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wb05VYhhhM8C",
+   "etag": "hWu26DBg5Mg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wb05VYhhhM8C",
+   "volumeInfo": {
+    "title": "General Aviation Law",
+    "authors": [
+     "Jerry A. Eichenberger"
+    ],
+    "publisher": "McGraw-Hill Professional",
+    "publishedDate": "1996-11-01",
+    "description": "An accessible guide to the legal issues that affect general aviation pilots, this highly readable second edition adds case studies, covers important new ground ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0070151040"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780070151048"
+     }
+    ],
+    "pageCount": 226,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dwb05VYhhhM8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dwb05VYhhhM8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwb05VYhhhM8C&printsec\u003dfrontcover&dq\u003dAviation&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwb05VYhhhM8C&dq\u003dAviation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QBSXXe9p2fMC",
+   "etag": "yDY4k+bwaII",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QBSXXe9p2fMC",
+   "volumeInfo": {
+    "title": "Aviation Internet directory",
+    "subtitle": "a guide to 500 best aviation sites",
+    "authors": [
+     "John A. Merry"
+    ],
+    "publisher": "McGraw-Hill Professional",
+    "publishedDate": "2001-08-08",
+    "description": "The only directory dedicated to aviation on the Internet, the book covers 500 sites: 350 &quot;fully reviewed&quot; and 150 &quot;bookmarkable.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0071372164"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071372169"
+     }
+    ],
+    "pageCount": 395,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dQBSXXe9p2fMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dQBSXXe9p2fMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQBSXXe9p2fMC&printsec\u003dfrontcover&dq\u003dAviation&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQBSXXe9p2fMC&dq\u003dAviation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LdEOAAAAQAAJ",
+   "etag": "/bO4bn8FHH8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LdEOAAAAQAAJ",
+   "volumeInfo": {
+    "title": "aviation",
+    "description": "11); Hawker Siddeley \u003cb\u003eAviation\u003c/b\u003e Ltd (photos nos. 1 and 25); High Commissioner for \u003cbr\u003e\r\nNew Zealand (photos nos. 36 and 37); OXFAM (photo no. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:3GDPS2PH8J3"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dLdEOAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dLdEOAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLdEOAAAAQAAJ&printsec\u003dfrontcover&dq\u003dAviation&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLdEOAAAAQAAJ&dq\u003dAviation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dgQvBHLD-BgC",
+   "etag": "dD+cQGk4Fn8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dgQvBHLD-BgC",
+   "volumeInfo": {
+    "title": "Corporate Aviation Management",
+    "authors": [
+     "Raoul Castro",
+     "Torch LEWIS"
+    ],
+    "publisher": "Southern Illinois Univ Pr",
+    "publishedDate": "2011-04-08",
+    "description": "1 A Description of Corporate \u003cb\u003eAviation\u003c/b\u003e The objective of this chapter is to define \u003cbr\u003e\r\nand describe corporate and business \u003cb\u003eaviation\u003c/b\u003e, and to explain the role of \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0809330393"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780809330393"
+     }
+    ],
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003ddgQvBHLD-BgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003ddgQvBHLD-BgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddgQvBHLD-BgC&printsec\u003dfrontcover&dq\u003dAviation&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddgQvBHLD-BgC&dq\u003dAviation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-TJ8k0iR7R8C",
+   "etag": "fYe0I+p2aq8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-TJ8k0iR7R8C",
+   "volumeInfo": {
+    "title": "Fundamentals of Aviation Law",
+    "authors": [
+     "Raymond C. Speciale"
+    ],
+    "publisher": "McGraw-Hill Professional",
+    "publishedDate": "2006-05-23",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0071458670"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071458672"
+     }
+    ],
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d-TJ8k0iR7R8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d-TJ8k0iR7R8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-TJ8k0iR7R8C&dq\u003dAviation&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-TJ8k0iR7R8C&dq\u003dAviation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nLoDEY6qdnEC",
+   "etag": "Fd7uHDWU58Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nLoDEY6qdnEC",
+   "volumeInfo": {
+    "title": "Towards sustainable aviation",
+    "authors": [
+     "Paul Upham"
+    ],
+    "publisher": "Earthscan",
+    "publishedDate": "2003-04-29",
+    "description": "This comprehensive volume contains vital industry intelligence and foresight, making it an essential source of information for managers, consultants, regulators ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1853838187"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781853838187"
+     }
+    ],
+    "pageCount": 248,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dnLoDEY6qdnEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dnLoDEY6qdnEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnLoDEY6qdnEC&printsec\u003dfrontcover&dq\u003dAviation&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnLoDEY6qdnEC&dq\u003dAviation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Towards_sustainable_aviation-sample-epub.acsm?id\u003dnLoDEY6qdnEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ohjZXuvVTc0C",
+   "etag": "LlAubPnAcfI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ohjZXuvVTc0C",
+   "volumeInfo": {
+    "title": "Human factors in aviation",
+    "authors": [
+     "Eduardo Salas",
+     "Daniel E. Maurino"
+    ],
+    "publisher": "Academic Press",
+    "publishedDate": "2010-02-11",
+    "description": "Other new topics include: High Reliability Organizational Perspective, Situation Awareness &amp; Workload in Aviation, Human Error Analysis, Human-System Risk ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0123745187"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780123745187"
+     }
+    ],
+    "pageCount": 732,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "contentVersion": "1.3.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dohjZXuvVTc0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dohjZXuvVTc0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dohjZXuvVTc0C&printsec\u003dfrontcover&dq\u003dAviation&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dohjZXuvVTc0C&dq\u003dAviation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 99.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 79.96,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dohjZXuvVTc0C&dq\u003dAviation&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Human_factors_in_aviation-sample-epub.acsm?id\u003dohjZXuvVTc0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Human_factors_in_aviation-sample-pdf.acsm?id\u003dohjZXuvVTc0C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cnFTAAAAMAAJ",
+   "etag": "OLs1OjqDNCU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cnFTAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Aviation",
+    "subtitle": "the creative ideas",
+    "authors": [
+     "Oliver Stewart"
+    ],
+    "publisher": "Faber",
+    "publishedDate": "1966",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015047880458"
+     }
+    ],
+    "pageCount": 244,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dcnFTAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dcnFTAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcnFTAAAAMAAJ&q\u003dAviation&dq\u003dAviation&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcnFTAAAAMAAJ&dq\u003dAviation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PXbVAAAAMAAJ",
+   "etag": "TUU0YUudKAc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PXbVAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Aviation ...",
+    "authors": [
+     "American Academy of Political and Social Science"
+    ],
+    "publishedDate": "1927",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015021075661"
+     }
+    ],
+    "pageCount": 205,
+    "printType": "BOOK",
+    "categories": [
+     "Aeronautics, Commercial"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dPXbVAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dPXbVAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPXbVAAAAMAAJ&q\u003dAviation&dq\u003dAviation&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPXbVAAAAMAAJ&dq\u003dAviation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 589
+}

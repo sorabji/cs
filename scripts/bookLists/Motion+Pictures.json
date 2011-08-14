@@ -1,0 +1,497 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "daHmkclqERYC",
+   "etag": "DP49Bvi1znA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/daHmkclqERYC",
+   "volumeInfo": {
+    "title": "Motion Pictures",
+    "subtitle": "Making Cinema Magic",
+    "authors": [
+     "Gina DeAngelis"
+    ],
+    "publisher": "Oliver Pr Inc",
+    "publishedDate": "2003-09",
+    "description": "Profiles eight inventors of motion picture technology, including W.K.L. Dickson, Auguste and Louis Lumiere, Lee de Forest, Herbert Kalmus, Linwood Dunn, Mike ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1881508781"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781881508786"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003ddaHmkclqERYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003ddaHmkclqERYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddaHmkclqERYC&printsec\u003dfrontcover&dq\u003dMotion+Pictures&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddaHmkclqERYC&dq\u003dMotion+Pictures&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "c96CZuR6TigC",
+   "etag": "vSMyIko70as",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/c96CZuR6TigC",
+   "volumeInfo": {
+    "title": "Motion pictures",
+    "authors": [
+     "LaMond F. Beatty"
+    ],
+    "publisher": "Educational Technology Pubns",
+    "publishedDate": "1981-06",
+    "description": "This lantern was the first attempt to project still \u003cb\u003epictures\u003c/b\u003e using sunlight at \u003cbr\u003e\r\nfirst, then oil, kerosene, gas, and finally, electricity as a source of \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0877781680"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780877781684"
+     }
+    ],
+    "pageCount": 100,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dc96CZuR6TigC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dc96CZuR6TigC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dc96CZuR6TigC&printsec\u003dfrontcover&dq\u003dMotion+Pictures&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dc96CZuR6TigC&dq\u003dMotion+Pictures&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 15.37,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dc96CZuR6TigC&dq\u003dMotion+Pictures&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Motion_pictures-sample-epub.acsm?id\u003dc96CZuR6TigC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Motion_pictures-sample-pdf.acsm?id\u003dc96CZuR6TigC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "y3LjzFQXdPIC",
+   "etag": "2xxbpXQL9yc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/y3LjzFQXdPIC",
+   "volumeInfo": {
+    "title": "Motion pictures",
+    "subtitle": "a study in social legislation",
+    "authors": [
+     "Donald Ramsey Young"
+    ],
+    "publishedDate": "1922",
+    "description": "\u003cb\u003eMotion Pictures\u003c/b\u003e as a Factor in American Environment &quot;Three billion is our \u003cbr\u003e\r\nestimate of the annual admissions to \u003cb\u003emotion picture\u003c/b\u003e houses in the United States,\u003cbr\u003e\r\n&quot; \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044011805843"
+     }
+    ],
+    "pageCount": 109,
+    "printType": "BOOK",
+    "categories": [
+     "Motion pictures"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dy3LjzFQXdPIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dy3LjzFQXdPIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dy3LjzFQXdPIC&printsec\u003dfrontcover&dq\u003dMotion+Pictures&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dy3LjzFQXdPIC&dq\u003dMotion+Pictures&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Motion_pictures.epub?id\u003dy3LjzFQXdPIC&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Motion_pictures.pdf?id\u003dy3LjzFQXdPIC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0qMRTaw2ndxiVgGXZQEKMZYiTKew&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-sIOAQAAIAAJ",
+   "etag": "3CCQnisaL6A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-sIOAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Motion pictures",
+    "subtitle": "the development of an art from silent films to the age of television",
+    "authors": [
+     "Albert Rondthaler Fulton"
+    ],
+    "publishedDate": "1960",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSC:32106017810380"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d-sIOAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d-sIOAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-sIOAQAAIAAJ&q\u003dMotion+Pictures&dq\u003dMotion+Pictures&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-sIOAQAAIAAJ&dq\u003dMotion+Pictures&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lXtZAAAAMAAJ",
+   "etag": "yo0+/4A54og",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lXtZAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Motion pictures",
+    "subtitle": "an outline of the history and achievements of the screen from its earliest beginnings to the present day",
+    "authors": [
+     "Will Harrison Hays"
+    ],
+    "publishedDate": "1929",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015003841874"
+     }
+    ],
+    "pageCount": 1,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dlXtZAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dlXtZAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlXtZAAAAMAAJ&q\u003dMotion+Pictures&dq\u003dMotion+Pictures&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlXtZAAAAMAAJ&dq\u003dMotion+Pictures&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JSNDAQAAIAAJ",
+   "etag": "kZFA0gLjHVQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JSNDAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Motion pictures",
+    "subtitle": "business and legal problems",
+    "authors": [
+     "Richard Zimbert",
+     "Edith Tolkin",
+     "Entertainment Law Institute (University of Southern California)"
+    ],
+    "publishedDate": "1985",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105044026180"
+     }
+    ],
+    "pageCount": 714,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dJSNDAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dJSNDAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJSNDAQAAIAAJ&q\u003dMotion+Pictures&dq\u003dMotion+Pictures&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJSNDAQAAIAAJ&dq\u003dMotion+Pictures&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QGLtNwAACAAJ",
+   "etag": "XVe+axJaLog",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QGLtNwAACAAJ",
+   "volumeInfo": {
+    "title": "Motion Pictures",
+    "authors": [
+     "Robyn Conley"
+    ],
+    "publishedDate": "2008-08-11",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1439525293"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781439525296"
+     }
+    ],
+    "pageCount": 80,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dQGLtNwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dQGLtNwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQGLtNwAACAAJ&dq\u003dMotion+Pictures&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQGLtNwAACAAJ&dq\u003dMotion+Pictures&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RJdmAAAAMAAJ",
+   "etag": "C6ZndTr4D3w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RJdmAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Motion pictures",
+    "authors": [
+     "Library of Congress. Copyright Office",
+     "Howard Lamarr Walls"
+    ],
+    "publishedDate": "1960",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015066318042"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dRJdmAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dRJdmAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRJdmAAAAMAAJ&q\u003dMotion+Pictures&dq\u003dMotion+Pictures&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRJdmAAAAMAAJ&dq\u003dMotion+Pictures&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "l0_0HAAACAAJ",
+   "etag": "WT5OmdvhLZg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/l0_0HAAACAAJ",
+   "volumeInfo": {
+    "title": "Motion pictures",
+    "subtitle": "report of the Senate Interim Committee to the 62nd Legislature of the State of Texas",
+    "authors": [
+     "Texas. Legislature. Senate. Interim Committee to Study the Motion Picture Theatre Industry"
+    ],
+    "publishedDate": "1971*",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:5369737"
+     }
+    ],
+    "pageCount": 46,
+    "printType": "BOOK",
+    "categories": [
+     "Obscenity (Law)"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dl0_0HAAACAAJ&dq\u003dMotion+Pictures&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dl0_0HAAACAAJ&dq\u003dMotion+Pictures&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zUP5GgAACAAJ",
+   "etag": "rW7oC1yHizo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zUP5GgAACAAJ",
+   "volumeInfo": {
+    "title": "Motion pictures",
+    "subtitle": "report of the special committee appointed to make an investigation into the matter of the regulation of motion pictures, submitted to, and adopted by the New York State Conference of Mayors at the semiannual meeting held in Albany, N.Y., February 24, 1920",
+    "authors": [
+     "New York State Conference of Mayors and Other Municipal Officials"
+    ],
+    "publishedDate": "1920",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:15538085"
+     }
+    ],
+    "pageCount": 20,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzUP5GgAACAAJ&dq\u003dMotion+Pictures&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzUP5GgAACAAJ&dq\u003dMotion+Pictures&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 584
+}

@@ -1,0 +1,493 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "FkHrTitPek8C",
+   "etag": "GJFkFFgGcZ4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FkHrTitPek8C",
+   "volumeInfo": {
+    "title": "Selecting instructional materials",
+    "subtitle": "a guide for K-12 science",
+    "authors": [
+     "Center for Science, Mathematics, and Engineering Education. Committee on Developing the Capacity to Select Effective Instructional Materials",
+     "Maxine Singer",
+     "Jan Tuomi"
+    ],
+    "publisher": "National Academies Press",
+    "publishedDate": "1999-11-17",
+    "description": "Selecting Instructional Materials provides a rigorously field-tested procedure to help education decisionmakers evaluate and choose materials for the science ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "030906533X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780309065337"
+     }
+    ],
+    "pageCount": 121,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dFkHrTitPek8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dFkHrTitPek8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFkHrTitPek8C&printsec\u003dfrontcover&dq\u003dInstructional+Materials&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFkHrTitPek8C&dq\u003dInstructional+Materials&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oOIWAAAAIAAJ",
+   "etag": "L1ZmZ1L7/u0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oOIWAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Instructional materials",
+    "subtitle": "an introduction for teachers",
+    "authors": [
+     "Louis Shores"
+    ],
+    "publishedDate": "1960",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105033382792"
+     }
+    ],
+    "pageCount": 408,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003doOIWAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003doOIWAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doOIWAAAAIAAJ&q\u003dInstructional+Materials&dq\u003dInstructional+Materials&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doOIWAAAAIAAJ&dq\u003dInstructional+Materials&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JMUcAAAAMAAJ",
+   "etag": "k53L0zzxlZE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JMUcAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Instructional materials",
+    "subtitle": "an illustrated handbook of ideas, skills, and techniques for producing and using audiovisual materials",
+    "authors": [
+     "Raymond V. Wiman"
+    ],
+    "publisher": "C. A. Jones Pub. Co",
+    "publishedDate": "1972",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015048436789"
+     }
+    ],
+    "pageCount": 170,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dJMUcAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dJMUcAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJMUcAAAAMAAJ&q\u003dInstructional+Materials&dq\u003dInstructional+Materials&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJMUcAAAAMAAJ&dq\u003dInstructional+Materials&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nbTgAAAAMAAJ",
+   "etag": "i5XZ7TRc9uw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nbTgAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Instructional materials",
+    "subtitle": "selection policies and procedures",
+    "authors": [
+     "California Association of School Librarians"
+    ],
+    "publishedDate": "1965",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015003986174"
+     }
+    ],
+    "pageCount": 61,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dnbTgAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dnbTgAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnbTgAAAAMAAJ&q\u003dInstructional+Materials&dq\u003dInstructional+Materials&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnbTgAAAAMAAJ&dq\u003dInstructional+Materials&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XgoiAQAAMAAJ",
+   "etag": "DPuh5D4ybFo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XgoiAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Instructional materials",
+    "authors": [
+     "National Education Association of the United States. Dept. of Audiovisual Instruction"
+    ],
+    "publishedDate": "1956",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "MINN:31951D000242306"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXgoiAQAAMAAJ&q\u003dInstructional+Materials&dq\u003dInstructional+Materials&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXgoiAQAAMAAJ&dq\u003dInstructional+Materials&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vJ5dXqr5KHsC",
+   "etag": "/jU9FXj9fdw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vJ5dXqr5KHsC",
+   "volumeInfo": {
+    "title": "Instructional materials",
+    "subtitle": "selection and purchase",
+    "authors": [
+     "National Education Association of the United States",
+     "Joint Committee of the National Education Association and Association of American Publishers"
+    ],
+    "publishedDate": "1976",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015035757718"
+     }
+    ],
+    "pageCount": 72,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dvJ5dXqr5KHsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dvJ5dXqr5KHsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvJ5dXqr5KHsC&q\u003dInstructional+Materials&dq\u003dInstructional+Materials&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvJ5dXqr5KHsC&dq\u003dInstructional+Materials&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "m41RxCXPck0C",
+   "etag": "Elfw8UJQx4Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/m41RxCXPck0C",
+   "volumeInfo": {
+    "title": "Self-publishing textbooks and instructional materials",
+    "subtitle": "a practical guide to successful--and respectable--self-publishing",
+    "authors": [
+     "Franklin H. Silverman",
+     "Dan Poynter"
+    ],
+    "publisher": "Atlantic Path Publishing",
+    "publishedDate": "2004-03",
+    "description": "This practical guide is for academic and scholarly writers, college instructors, and curriculum developers who are considering authoring and publishing their ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0972816437"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780972816434"
+     }
+    ],
+    "pageCount": 186,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dm41RxCXPck0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dm41RxCXPck0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dm41RxCXPck0C&printsec\u003dfrontcover&dq\u003dInstructional+Materials&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dm41RxCXPck0C&dq\u003dInstructional+Materials&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ejgg9IGD6nYC",
+   "etag": "DjLxFEiVWLQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ejgg9IGD6nYC",
+   "volumeInfo": {
+    "title": "Instructional materials centers",
+    "authors": [
+     "LaMond F. Beatty"
+    ],
+    "publisher": "Educational Technology Pubns",
+    "publishedDate": "1981-06",
+    "description": "1. Introduction Information processing is not something done only through modern\u003cbr\u003e\r\n, technological methods; it is as old as man. Man&#39;s earliest system for \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0877781656"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780877781653"
+     }
+    ],
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dEjgg9IGD6nYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dEjgg9IGD6nYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEjgg9IGD6nYC&printsec\u003dfrontcover&dq\u003dInstructional+Materials&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEjgg9IGD6nYC&dq\u003dInstructional+Materials&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 15.37,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dEjgg9IGD6nYC&dq\u003dInstructional+Materials&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Instructional_materials_centers-sample-epub.acsm?id\u003dEjgg9IGD6nYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Instructional_materials_centers-sample-pdf.acsm?id\u003dEjgg9IGD6nYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kwlGPgAACAAJ",
+   "etag": "8+DsXqlkNQU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kwlGPgAACAAJ",
+   "volumeInfo": {
+    "title": "Instructional materials",
+    "authors": [
+     "Illinois Curriculum Program"
+    ],
+    "publishedDate": "1963",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:5139256"
+     }
+    ],
+    "pageCount": 146,
+    "printType": "BOOK",
+    "categories": [
+     "Audio-visual materials"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkwlGPgAACAAJ&dq\u003dInstructional+Materials&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkwlGPgAACAAJ&dq\u003dInstructional+Materials&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "q8O_NAAACAAJ",
+   "etag": "ZGsUs0ZYo6k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/q8O_NAAACAAJ",
+   "volumeInfo": {
+    "title": "Instructional materials",
+    "subtitle": "a new approach for law teachers. Discussion draft",
+    "authors": [
+     "Richard Johnstone",
+     "University of Melbourne. Centre for the Study of Higher Education"
+    ],
+    "publishedDate": "1992*",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:226097668"
+     }
+    ],
+    "pageCount": 140,
+    "printType": "BOOK",
+    "categories": [
+     "Teaching"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dq8O_NAAACAAJ&dq\u003dInstructional+Materials&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dq8O_NAAACAAJ&dq\u003dInstructional+Materials&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 592
+}

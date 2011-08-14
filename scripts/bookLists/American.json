@@ -1,0 +1,594 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ey40VW6QcVsC",
+   "etag": "CsgMUu8y7b0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ey40VW6QcVsC",
+   "volumeInfo": {
+    "title": "American Psycho",
+    "authors": [
+     "Bret Easton Ellis"
+    ],
+    "publisher": "Picador",
+    "publishedDate": "2010-12-10",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0330474111"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780330474115"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2514,
+    "contentVersion": "1.1.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dey40VW6QcVsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dey40VW6QcVsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dey40VW6QcVsC&dq\u003dAmerican&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dey40VW6QcVsC&dq\u003dAmerican&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xhQS1USjWh8C",
+   "etag": "vaYrHhDYRTA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xhQS1USjWh8C",
+   "volumeInfo": {
+    "title": "American",
+    "subtitle": "Beyond Our Grandest Notions",
+    "authors": [
+     "Chris Matthews"
+    ],
+    "publisher": "Free Press",
+    "publishedDate": "2003-10-28",
+    "description": "A celebration of the American spirit argues that there is unity and strength beneath the nation&#39;s post-September 11th toughness and examines such distinctively ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0743240871"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780743240871"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dxhQS1USjWh8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dxhQS1USjWh8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxhQS1USjWh8C&printsec\u003dfrontcover&dq\u003dAmerican&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxhQS1USjWh8C&dq\u003dAmerican&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Hs8o5pfa-mAC",
+   "etag": "7nvsg+LkvCY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Hs8o5pfa-mAC",
+   "volumeInfo": {
+    "title": "American Pastoral",
+    "authors": [
+     "Philip Roth"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "2011-10-03",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0099563193"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780099563198"
+     }
+    ],
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 851,
+    "contentVersion": "0.5.0.0.preview.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHs8o5pfa-mAC&dq\u003dAmerican&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHs8o5pfa-mAC&dq\u003dAmerican&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "la8CBOQvDPwC",
+   "etag": "QPeeQSJq9L8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/la8CBOQvDPwC",
+   "volumeInfo": {
+    "title": "American Gods: The Tenth Anniversary Edition",
+    "subtitle": "A Novel",
+    "authors": [
+     "Neil Gaiman"
+    ],
+    "publisher": "William Morrow",
+    "publishedDate": "2011-06-21",
+    "description": "Newly updated and expanded with the author’s preferred text, this commemorative volume is a true celebration of a modern masterpiece by the one, the only, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0062059882"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780062059888"
+     }
+    ],
+    "pageCount": 560,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dla8CBOQvDPwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dla8CBOQvDPwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dla8CBOQvDPwC&printsec\u003dfrontcover&dq\u003dAmerican&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dla8CBOQvDPwC&dq\u003dAmerican&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dla8CBOQvDPwC&dq\u003dAmerican&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/American_Gods_The_Tenth_Anniversary_Edit-sample-epub.acsm?id\u003dla8CBOQvDPwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "812lbix0oH4C",
+   "etag": "JHDto2PkQd4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/812lbix0oH4C",
+   "volumeInfo": {
+    "title": "American exceptionalism",
+    "subtitle": "a double-edged sword",
+    "authors": [
+     "Seymour Martin Lipset"
+    ],
+    "publisher": "W. W. Norton & Company",
+    "publishedDate": "1997",
+    "description": "Is America unique?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0393316149"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780393316148"
+     }
+    ],
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d812lbix0oH4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d812lbix0oH4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d812lbix0oH4C&printsec\u003dfrontcover&dq\u003dAmerican&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d812lbix0oH4C&dq\u003dAmerican&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "n318r17VWCMC",
+   "etag": "Du2yq949WIY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/n318r17VWCMC",
+   "volumeInfo": {
+    "title": "American Grace",
+    "subtitle": "How Religion Divides and Unites Us",
+    "authors": [
+     "Robert D. Putnam",
+     "David E. Campbell"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2010-10-05",
+    "description": "Based on two new studies, American Grace examines the impact of religion on American life and how that impact has changed in the last half-century.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1416566716"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781416566717"
+     }
+    ],
+    "pageCount": 688,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 29,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dn318r17VWCMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dn318r17VWCMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dn318r17VWCMC&printsec\u003dfrontcover&dq\u003dAmerican&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dn318r17VWCMC&dq\u003dAmerican&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dn318r17VWCMC&dq\u003dAmerican&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/American_Grace-sample-epub.acsm?id\u003dn318r17VWCMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "osQAtpUtDvkC",
+   "etag": "Cf5/FVl4yaw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/osQAtpUtDvkC",
+   "volumeInfo": {
+    "title": "The American Language",
+    "subtitle": "A Preliminary Inquiry Into the Development of English in the United States",
+    "authors": [
+     "Professor H L Mencken"
+    ],
+    "publisher": "Cosimo Classics",
+    "publishedDate": "2010-07-30",
+    "description": "Perhaps the first truly important book about the divergence of American English from its British roots, this survey of the language as it was spoken-and as it ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1616402598"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781616402594"
+     }
+    ],
+    "pageCount": 512,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 14,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dosQAtpUtDvkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dosQAtpUtDvkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dosQAtpUtDvkC&printsec\u003dfrontcover&dq\u003dAmerican&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dosQAtpUtDvkC&dq\u003dAmerican&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "F7HD-vfa8yAC",
+   "etag": "32azRCcxb7g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/F7HD-vfa8yAC",
+   "volumeInfo": {
+    "title": "American Rust",
+    "authors": [
+     "Philipp Meyer"
+    ],
+    "publishedDate": "2010-08-12",
+    "description": "From local bars to trainyards to prison, it is the story of two young men, bound to the town by family, responsibility, inertia, and the beauty around them, who ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1742374778"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781742374772"
+     }
+    ],
+    "pageCount": 367,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 307,
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dF7HD-vfa8yAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dF7HD-vfa8yAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dF7HD-vfa8yAC&printsec\u003dfrontcover&dq\u003dAmerican&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dF7HD-vfa8yAC&dq\u003dAmerican&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/American_Rust-sample-epub.acsm?id\u003dF7HD-vfa8yAC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/American_Rust-sample-pdf.acsm?id\u003dF7HD-vfa8yAC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lQZudVsYqPAC",
+   "etag": "B4IvtWpaqGI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lQZudVsYqPAC",
+   "volumeInfo": {
+    "title": "American Transcendentalism",
+    "subtitle": "A History",
+    "authors": [
+     "Philip F. Gura"
+    ],
+    "publisher": "Hill and Wang",
+    "publishedDate": "2008-09-02",
+    "description": "This is a book all students of American literature and especially Transcendentalism should read.&quot;—Joel Myerson, editor of Transcendentalism: A Reader &quot;Philip ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0809016443"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780809016440"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 8,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dlQZudVsYqPAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dlQZudVsYqPAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlQZudVsYqPAC&printsec\u003dfrontcover&dq\u003dAmerican&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlQZudVsYqPAC&dq\u003dAmerican&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dlQZudVsYqPAC&dq\u003dAmerican&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/American_Transcendentalism-sample-epub.acsm?id\u003dlQZudVsYqPAC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EaeEYXEf1gUC",
+   "etag": "/NPYkq+g13c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EaeEYXEf1gUC",
+   "volumeInfo": {
+    "title": "Restoring the American Dream",
+    "subtitle": "The Defining Voice in the Movement for Liberty",
+    "authors": [
+     "Robert Ringer",
+     "Stephen Moore"
+    ],
+    "publisher": "Wiley",
+    "publishedDate": "2010-09-07",
+    "description": "This vital book arrives not a moment too soon. Robert Ringer will be read for generations to come.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "047062762X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470627624"
+     }
+    ],
+    "pageCount": 227,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dEaeEYXEf1gUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dEaeEYXEf1gUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEaeEYXEf1gUC&printsec\u003dfrontcover&dq\u003dAmerican&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEaeEYXEf1gUC&dq\u003dAmerican&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 18.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dEaeEYXEf1gUC&dq\u003dAmerican&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Restoring_the_American_Dream-sample-epub.acsm?id\u003dEaeEYXEf1gUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Restoring_the_American_Dream-sample-pdf.acsm?id\u003dEaeEYXEf1gUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 595
+}

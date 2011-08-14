@@ -1,0 +1,527 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "8d4NAAAAYAAJ",
+   "etag": "RjKANo2UyKg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8d4NAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Spiritualism",
+    "authors": [
+     "John Worth Edmonds",
+     "George T. Dexter",
+     "Nathaniel Pitcher Tallmadge"
+    ],
+    "publishedDate": "1853",
+    "description": "JOHN W. EDMONDS AND GEORGE T. DEXTER, MD Wty an appnftii, By NATHANIEL P. \u003cbr\u003e\r\nTALLMADGE, LATE L\\ 8. SENATOR, AND GOVERNOR OP WISCONSIN. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433081614590"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Spiritualism"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d8d4NAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d8d4NAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8d4NAAAAYAAJ&printsec\u003dfrontcover&dq\u003dSpiritualism&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8d4NAAAAYAAJ&dq\u003dSpiritualism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Spiritualism.epub?id\u003d8d4NAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Spiritualism.pdf?id\u003d8d4NAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3IoA2f8R2hZClT7_cbBVc3XOq5zA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3EvAf7IvGYwC",
+   "etag": "djwx3I4dZ/I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3EvAf7IvGYwC",
+   "volumeInfo": {
+    "title": "Spiritualism",
+    "subtitle": "Its History, Phenomena and",
+    "authors": [
+     "J. Arthur Hill"
+    ],
+    "publisher": "Kessinger Publishing",
+    "publishedDate": "2006-05-26",
+    "description": "\u003cb\u003eSPIRITUALISM\u003c/b\u003e CHAPTER I ANTECEDENTS OF MODERN \u003cb\u003eSPIRITUALISM\u003c/b\u003e The fundamental \u003cbr\u003e\r\nprinciple of \u003cb\u003espiritualism\u003c/b\u003e is that human beings survive bodily death, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1428613862"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781428613867"
+     }
+    ],
+    "pageCount": 292,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d3EvAf7IvGYwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d3EvAf7IvGYwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3EvAf7IvGYwC&printsec\u003dfrontcover&dq\u003dSpiritualism&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3EvAf7IvGYwC&dq\u003dSpiritualism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "S3EAAAAAMAAJ",
+   "etag": "i9Wb2KHec/c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/S3EAAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Spiritualism",
+    "subtitle": "a popular history from 1847",
+    "authors": [
+     "Joseph McCabe"
+    ],
+    "publishedDate": "1920",
+    "description": "\u003cb\u003eSPIRITUALISM\u003c/b\u003e CHAPTER I THE PREPARATION OP THE WORLD \u003cb\u003eSpiritualism\u003c/b\u003e began in the \u003cbr\u003e\r\nyear 1848. Seeing that the \u003cb\u003eSpiritualists\u003c/b\u003e of London invited the public, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433068178106"
+     }
+    ],
+    "pageCount": 243,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dS3EAAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dS3EAAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dS3EAAAAAMAAJ&printsec\u003dfrontcover&dq\u003dSpiritualism&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dS3EAAAAAMAAJ&dq\u003dSpiritualism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Spiritualism.epub?id\u003dS3EAAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Spiritualism.pdf?id\u003dS3EAAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0mMZ60MHX2bRtP_L1amh4zbte--Q&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "suY0AAAAMAAJ",
+   "etag": "6XwfX+pKjkU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/suY0AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Spiritualism",
+    "subtitle": "a personal experience and a warning",
+    "authors": [
+     "Coulson Kernahan"
+    ],
+    "publishedDate": "1920",
+    "description": "I write not in the expectation of dissuading \u003cb\u003espiritualists\u003c/b\u003e from their beliefs \u003cbr\u003e\r\nand practices, for, as I shall show later, \u003cb\u003espiritualism\u003c/b\u003e seems to me something \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015034810468"
+     }
+    ],
+    "pageCount": 59,
+    "printType": "BOOK",
+    "categories": [
+     "Bible and spiritualism"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dsuY0AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dsuY0AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dsuY0AAAAMAAJ&printsec\u003dfrontcover&dq\u003dSpiritualism&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dsuY0AAAAMAAJ&dq\u003dSpiritualism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Spiritualism.epub?id\u003dsuY0AAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Spiritualism.pdf?id\u003dsuY0AAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1yqJ0SdV2320Di5pUm82LWq_r0uw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EIgOAAAAIAAJ",
+   "etag": "sOguwIb1YW0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EIgOAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Spiritualism",
+    "subtitle": "the open door to the unseen universe, being thirty years of personal observation and experience concerning intercourse between the material and spiritual worlds",
+    "authors": [
+     "James Robertson"
+    ],
+    "publishedDate": "1908",
+    "description": "\u003cb\u003eSpiritualism\u003c/b\u003e The Open Door to the Unseen Universe CHAPTER I THE STARTING POINT \u003cbr\u003e\r\nThe year 1876 was to me the most eventful year in my life&#39;s history. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433070254192"
+     }
+    ],
+    "pageCount": 413,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dEIgOAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dEIgOAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEIgOAAAAIAAJ&printsec\u003dfrontcover&dq\u003dSpiritualism&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEIgOAAAAIAAJ&dq\u003dSpiritualism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Spiritualism.epub?id\u003dEIgOAAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Spiritualism.pdf?id\u003dEIgOAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2vAkDrwYnoqK0TEBO18rgStLL91A&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "98FeLHzaLmYC",
+   "etag": "kgIBCZR5dac",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/98FeLHzaLmYC",
+   "volumeInfo": {
+    "title": "Spiritualism, a satanic delusion, and a sign of the times",
+    "authors": [
+     "William Ramsey",
+     "Horace Lorenzo Hastings"
+    ],
+    "publishedDate": "1856",
+    "description": ". 6 THE VOICE OF THE CHURCH, ON THE REIGN OF CHRIST. BY DT TAYLOR. Prioe SI. 00. \u003cbr\u003e\r\nPostage 18 cts — 12mb. pp. 420. This work is \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044010748341"
+     }
+    ],
+    "pageCount": 122,
+    "printType": "BOOK",
+    "categories": [
+     "Spiritualism"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d98FeLHzaLmYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d98FeLHzaLmYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d98FeLHzaLmYC&printsec\u003dfrontcover&dq\u003dSpiritualism&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d98FeLHzaLmYC&dq\u003dSpiritualism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Spiritualism_a_satanic_delusion_and_a_si.epub?id\u003d98FeLHzaLmYC&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Spiritualism_a_satanic_delusion_and_a_si.pdf?id\u003d98FeLHzaLmYC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2SyczACmOMuUVeLYsE_S2LqgQvzg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IqZ3QEw3kt8C",
+   "etag": "ZF52f2aific",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IqZ3QEw3kt8C",
+   "volumeInfo": {
+    "title": "SPIRITUALISM",
+    "authors": [
+     "W. M'DONALD"
+    ],
+    "publishedDate": "1866",
+    "description": "A beief description of modern \u003cb\u003espiritualism\u003c/b\u003e in its history, mediums, phenomena, \u003cbr\u003e\r\nand theology, will aid ns in our investigation of its general history. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOMDLP:aca2707:0001.001"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dIqZ3QEw3kt8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dIqZ3QEw3kt8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIqZ3QEw3kt8C&printsec\u003dfrontcover&dq\u003dSpiritualism&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIqZ3QEw3kt8C&dq\u003dSpiritualism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/SPIRITUALISM.epub?id\u003dIqZ3QEw3kt8C&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/SPIRITUALISM.pdf?id\u003dIqZ3QEw3kt8C&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0ucUwlfIlXVotDD4zaD0-LCNG2Tw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oyQPAAAAIAAJ",
+   "etag": "4QUA58i0UZc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oyQPAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Spiritualism",
+    "subtitle": "its truth, helpfulness and danger",
+    "authors": [
+     "James Henry Fletcher"
+    ],
+    "publishedDate": "1915",
+    "description": "CHAPTER I. &quot;Are they not all ministering spirits?&quot; —Eel. 1, 14. SPIRIT EETURN. \u003cbr\u003e\r\nThe quotations from the Bible are not given because they are there, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433068177991"
+     }
+    ],
+    "pageCount": 254,
+    "printType": "BOOK",
+    "categories": [
+     "Spiritualism"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003doyQPAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003doyQPAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doyQPAAAAIAAJ&printsec\u003dfrontcover&dq\u003dSpiritualism&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doyQPAAAAIAAJ&dq\u003dSpiritualism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Spiritualism.epub?id\u003doyQPAAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Spiritualism.pdf?id\u003doyQPAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0yoHwCn4HFEErD2xrH5qhvF0AWCg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ng7pmRaXzs0C",
+   "etag": "nDbyx3x8rZs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ng7pmRaXzs0C",
+   "volumeInfo": {
+    "title": "Spiritualism",
+    "subtitle": "Its Truth, Helpfulness and Danger",
+    "authors": [
+     "James Henry Fletcher"
+    ],
+    "publisher": "Kessinger Publishing",
+    "publishedDate": "2006-06-08",
+    "description": "The Author Endeavors To Present His Views By Presenting The Testimony Of Some Of The Seers, Prophets, And Healers Of Bible History, Early Civilization, And The ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1428629009"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781428629004"
+     }
+    ],
+    "pageCount": 276,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dNg7pmRaXzs0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dNg7pmRaXzs0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNg7pmRaXzs0C&printsec\u003dfrontcover&dq\u003dSpiritualism&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNg7pmRaXzs0C&dq\u003dSpiritualism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wMZvDwEACAAJ",
+   "etag": "Lh97KD/9igI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wMZvDwEACAAJ",
+   "volumeInfo": {
+    "title": "Spiritualism",
+    "subtitle": "The Open Door to the Unseen Universe; Being Thirty Years of Personal Observation and Experience",
+    "authors": [
+     "James Robertson"
+    ],
+    "publishedDate": "2010-09-10",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1163580031"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781163580035"
+     }
+    ],
+    "pageCount": 424,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dwMZvDwEACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dwMZvDwEACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwMZvDwEACAAJ&dq\u003dSpiritualism&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwMZvDwEACAAJ&dq\u003dSpiritualism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 582
+}

@@ -1,0 +1,470 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "WgFAAAAAYAAJ",
+   "etag": "szNNfu1Y0WE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WgFAAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Ephemera",
+    "authors": [
+     "George Edward Rice",
+     "John Howard Wainwright"
+    ],
+    "publishedDate": "1852",
+    "description": "\u003cb\u003eEPHEMERA\u003c/b\u003e. ADDRESS TO THE MERMAID. &quot; Thou comest in such a questionable shape \u003cbr\u003e\r\nThat I will speak to thee.&quot; HAHLIT. MYSTERIOUS HYBRID! \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HXDNCQ"
+     }
+    ],
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dWgFAAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dWgFAAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWgFAAAAAYAAJ&printsec\u003dfrontcover&dq\u003dEphemera&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWgFAAAAAYAAJ&dq\u003dEphemera&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Ephemera.pdf?id\u003dWgFAAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2iOA00SUP1ZlBLRF4PGvhhv1YmlQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "T4O3vIHhjoUC",
+   "etag": "03PBEaY1gHo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/T4O3vIHhjoUC",
+   "volumeInfo": {
+    "title": "The encyclopedia of ephemera",
+    "subtitle": "a guide to the fragmentary documents of everyday life for the collector, curator, and historian",
+    "authors": [
+     "Maurice Rickards",
+     "Michael Twyman"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2000",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415926483"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415926485"
+     }
+    ],
+    "pageCount": 402,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dT4O3vIHhjoUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dT4O3vIHhjoUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dT4O3vIHhjoUC&dq\u003dEphemera&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dT4O3vIHhjoUC&dq\u003dEphemera&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RfkCAAAAMAAJ",
+   "etag": "1rcRie8b2js",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RfkCAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Ephemera",
+    "authors": [
+     "Baron George William Lyttelton Lyttelton"
+    ],
+    "publishedDate": "1865",
+    "description": "SPEECH IN THE HOUSE OF LORDS, OH The Ecclesiastical Duties and Revenues Bill. \u003cbr\u003e\r\nMonday, July 27, 1840. My Lords — I have heard with great regret the \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015063700028"
+     }
+    ],
+    "pageCount": 377,
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dRfkCAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dRfkCAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRfkCAAAAMAAJ&printsec\u003dfrontcover&dq\u003dEphemera&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRfkCAAAAMAAJ&dq\u003dEphemera&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Ephemera.epub?id\u003dRfkCAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Ephemera.pdf?id\u003dRfkCAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3BVsjdeHzj5g50ks4kMZeRFnPruw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HzJLAAAAIAAJ",
+   "etag": "oS6nF0YhlhM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HzJLAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Ephemera",
+    "subtitle": "Greek prose poems",
+    "authors": [
+     "Mitchell Starrett Buck"
+    ],
+    "publishedDate": "1916",
+    "description": "INTRODUCTION Twenty-five of these pastels, under the title of &quot;Syrinx,&quot; were \u003cbr\u003e\r\npublished in the spring of 1914. The others, which make up the present volume, \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B248658"
+     }
+    ],
+    "pageCount": 65,
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dHzJLAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dHzJLAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHzJLAAAAIAAJ&printsec\u003dfrontcover&dq\u003dEphemera&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHzJLAAAAIAAJ&dq\u003dEphemera&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Ephemera.epub?id\u003dHzJLAAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Ephemera.pdf?id\u003dHzJLAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3R9YsH9IzJdYVpl4R_0MhWcsjSaA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eefgAAAAMAAJ",
+   "etag": "CvJifn6yjiw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eefgAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Ephemera",
+    "subtitle": "a book on its collection, conservation, and use",
+    "authors": [
+     "Chris E. Makepeace"
+    ],
+    "publisher": "Gower Pub Co",
+    "publishedDate": "1985-06",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015009184139"
+     }
+    ],
+    "pageCount": 247,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003deefgAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003deefgAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deefgAAAAMAAJ&q\u003dEphemera&dq\u003dEphemera&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deefgAAAAMAAJ&dq\u003dEphemera&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uTgBkgwaiwgC",
+   "etag": "4SQ5d7BiGx4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uTgBkgwaiwgC",
+   "volumeInfo": {
+    "title": "Ephemera",
+    "authors": [
+     "Geoffrey Drage"
+    ],
+    "publishedDate": "1915",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105025834099"
+     }
+    ],
+    "pageCount": 477,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003duTgBkgwaiwgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003duTgBkgwaiwgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003duTgBkgwaiwgC&q\u003dEphemera&dq\u003dEphemera&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003duTgBkgwaiwgC&dq\u003dEphemera&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EN_7OwAACAAJ",
+   "etag": "O89MZ4bNtJA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EN_7OwAACAAJ",
+   "volumeInfo": {
+    "title": "Ephemera",
+    "subtitle": "the stuff of history : report of the working party on ephemera set up by CILIP (the Chartered Institute of Library and Information Professionals).",
+    "authors": [
+     "Chartered Institute of Library and Information Professionals (Great Britain)"
+    ],
+    "publishedDate": "2003",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:54786662"
+     }
+    ],
+    "pageCount": 41,
+    "printType": "BOOK",
+    "categories": [
+     "Printed ephemera"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEN_7OwAACAAJ&dq\u003dEphemera&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEN_7OwAACAAJ&dq\u003dEphemera&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2r2XQQAACAAJ",
+   "etag": "0gvG5/HH5lw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2r2XQQAACAAJ",
+   "volumeInfo": {
+    "title": "Ephemera",
+    "authors": [
+     "George William Lyttelton Lyttelton",
+     "Baron George William Lyttelton"
+    ],
+    "publisher": "General Books",
+    "publishedDate": "2009-08",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0217470343"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780217470346"
+     }
+    ],
+    "pageCount": 174,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d2r2XQQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d2r2XQQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2r2XQQAACAAJ&dq\u003dEphemera&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2r2XQQAACAAJ&dq\u003dEphemera&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oOZ_QgAACAAJ",
+   "etag": "p8r5PVA+ep4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oOZ_QgAACAAJ",
+   "volumeInfo": {
+    "title": "Ephemera",
+    "authors": [
+     "Committee for Human Rights in South Africa"
+    ],
+    "publishedDate": "1964",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:271819304"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doOZ_QgAACAAJ&dq\u003dEphemera&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doOZ_QgAACAAJ&dq\u003dEphemera&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YynnQgAACAAJ",
+   "etag": "frqDqAUrFZo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YynnQgAACAAJ",
+   "volumeInfo": {
+    "title": "Ephemera",
+    "authors": [
+     "Australia Party. Queensland Branch"
+    ],
+    "publishedDate": "1969",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:225431909"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYynnQgAACAAJ&dq\u003dEphemera&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYynnQgAACAAJ&dq\u003dEphemera&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 595
+}

@@ -1,0 +1,554 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "V0lLSFN-4m4C",
+   "etag": "KaCi8kzfvYE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/V0lLSFN-4m4C",
+   "volumeInfo": {
+    "title": "The Complete Idiot's Guide to Irish History and Culture",
+    "authors": [
+     "Sonja Massie"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "1999-01-01",
+    "description": "Presents a history of the Irish people from the time of the Celts through the Irish assimilation into America to the troubles in Northern Ireland",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0028627105"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780028627106"
+     }
+    ],
+    "pageCount": 268,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dV0lLSFN-4m4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dV0lLSFN-4m4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dV0lLSFN-4m4C&printsec\u003dfrontcover&dq\u003dIrish+History&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dV0lLSFN-4m4C&dq\u003dIrish+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dV0lLSFN-4m4C&dq\u003dIrish+History&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Complete_Idiot_s_Guide_to_Irish_Hist-sample-epub.acsm?id\u003dV0lLSFN-4m4C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Complete_Idiot_s_Guide_to_Irish_Hist-sample-pdf.acsm?id\u003dV0lLSFN-4m4C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QbQm07QoApIC",
+   "etag": "nQqpBfplAaU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QbQm07QoApIC",
+   "volumeInfo": {
+    "title": "Irish history",
+    "authors": [
+     "Séamus Mac Annaidh"
+    ],
+    "publishedDate": "2005",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1405447621"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405447621"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dQbQm07QoApIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dQbQm07QoApIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQbQm07QoApIC&q\u003dIrish+History&dq\u003dIrish+History&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQbQm07QoApIC&dq\u003dIrish+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "p0CpvgRUqK8C",
+   "etag": "cwk+8vbFyC8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/p0CpvgRUqK8C",
+   "volumeInfo": {
+    "title": "An Irish history of civilization",
+    "authors": [
+     "Donald H. Akenson"
+    ],
+    "publisher": "McGill Queens Univ Pr",
+    "publishedDate": "2005-03-01",
+    "description": "Like the archetypal stories in the Talmuds, Akenson&#39;s model, the stories inAn Irish History of Civilizationare universal for big truths require a big canvas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0773528911"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780773528918"
+     }
+    ],
+    "pageCount": 696,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dp0CpvgRUqK8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dp0CpvgRUqK8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dp0CpvgRUqK8C&printsec\u003dfrontcover&dq\u003dIrish+History&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dp0CpvgRUqK8C&dq\u003dIrish+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/An_Irish_history_of_civilization-sample-epub.acsm?id\u003dp0CpvgRUqK8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/An_Irish_history_of_civilization-sample-pdf.acsm?id\u003dp0CpvgRUqK8C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oVaUkHKOyLAC",
+   "etag": "MQ4Mjf+chJ8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oVaUkHKOyLAC",
+   "volumeInfo": {
+    "title": "Eyewitness to Irish History",
+    "authors": [
+     "Peter Berresford Ellis"
+    ],
+    "publisher": "Wiley",
+    "publishedDate": "2007-01-26",
+    "description": "This volume does full justice to [Ellis&#39;s] reputation as a prodigious researcher and judicial commentator on the great sweep of Irish history.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0470053127"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470053126"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003doVaUkHKOyLAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003doVaUkHKOyLAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doVaUkHKOyLAC&printsec\u003dfrontcover&dq\u003dIrish+History&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doVaUkHKOyLAC&dq\u003dIrish+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TWs2AAAAMAAJ",
+   "etag": "dZWay52QPX8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TWs2AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Young Ireland",
+    "subtitle": "a fragment of Irish history, 1840-1850",
+    "authors": [
+     "Sir Charles Gavan Duffy"
+    ],
+    "publishedDate": "1880",
+    "description": "YOUNG \u003cb\u003eIRELAND\u003c/b\u003e. Book L CHAPTER I. HOW THE REPEAL MOVEMENT BEGAN. In the spring of \u003cbr\u003e\r\nthe year 1840 an event occurred in \u003cb\u003eIreland\u003c/b\u003e charged with grave and \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015011416784"
+     }
+    ],
+    "pageCount": 778,
+    "printType": "BOOK",
+    "categories": [
+     "Ireland"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dTWs2AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dTWs2AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTWs2AAAAMAAJ&printsec\u003dfrontcover&dq\u003dIrish+History&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTWs2AAAAMAAJ&dq\u003dIrish+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Young_Ireland.epub?id\u003dTWs2AAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Young_Ireland.pdf?id\u003dTWs2AAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0Urc5yZtNkxYsW1Q0mrWjbxgoypQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Rw4vAAAAMAAJ",
+   "etag": "q8uLxEINalA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Rw4vAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Irish history and Irish character",
+    "authors": [
+     "Goldwin Smith"
+    ],
+    "publishedDate": "1861",
+    "description": "\u003cb\u003eIRISH HISTORY\u003c/b\u003e AND IRISH CHARACTER. history of Ireland from the Conquest to the \u003cbr\u003e\r\nUnion is the miserable history of a half-subdued dependency. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433069331290"
+     }
+    ],
+    "pageCount": 197,
+    "printType": "BOOK",
+    "categories": [
+     "Ireland"
+    ],
+    "contentVersion": "full-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRw4vAAAAMAAJ&printsec\u003dfrontcover&dq\u003dIrish+History&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRw4vAAAAMAAJ&dq\u003dIrish+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Irish_history_and_Irish_character.epub?id\u003dRw4vAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Irish_history_and_Irish_character.pdf?id\u003dRw4vAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1UXH5yiP1Rmy5XMFos_xfEP29HiQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fK9nAAAAMAAJ",
+   "etag": "5iPvPIqxV8w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fK9nAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Irish history",
+    "subtitle": "a research yearbook",
+    "authors": [
+     "Irish History Students' Association"
+    ],
+    "publisher": "Four Courts Pr Ltd",
+    "publishedDate": "2003-12",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1851827846"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781851827848"
+     }
+    ],
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dfK9nAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dfK9nAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfK9nAAAAMAAJ&q\u003dIrish+History&dq\u003dIrish+History&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfK9nAAAAMAAJ&dq\u003dIrish+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CQ3_PAAACAAJ",
+   "etag": "IaqGaXFfIU4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CQ3_PAAACAAJ",
+   "volumeInfo": {
+    "title": "Irish History",
+    "authors": [
+     "Guy De la Bédoyère"
+    ],
+    "publisher": "Konecky & Konecky",
+    "publishedDate": "2005-02-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1568525524"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781568525525"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dCQ3_PAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dCQ3_PAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCQ3_PAAACAAJ&dq\u003dIrish+History&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCQ3_PAAACAAJ&dq\u003dIrish+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7SckintZ0eEC",
+   "etag": "RjmZccrKnYc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7SckintZ0eEC",
+   "volumeInfo": {
+    "title": "An atlas of Irish history",
+    "authors": [
+     "Ruth Dudley Edwards",
+     "Bridget Hourican"
+    ],
+    "publisher": "Theatre Arts Books",
+    "publishedDate": "2005",
+    "description": "This third edition has been comprehensively revised and updated to include coverage of the many changes that have occurred in Ireland and among its people ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415339529"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415339520"
+     }
+    ],
+    "pageCount": 299,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d7SckintZ0eEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d7SckintZ0eEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7SckintZ0eEC&printsec\u003dfrontcover&dq\u003dIrish+History&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7SckintZ0eEC&dq\u003dIrish+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 31.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 17.25,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d7SckintZ0eEC&dq\u003dIrish+History&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/An_atlas_of_Irish_history-sample-epub.acsm?id\u003d7SckintZ0eEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/An_atlas_of_Irish_history-sample-pdf.acsm?id\u003d7SckintZ0eEC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FcILAQAAIAAJ",
+   "etag": "0uIWt0lYbIM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FcILAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Irish history",
+    "subtitle": "a select bibliography",
+    "authors": [
+     "Edith Mary Johnston",
+     "E. M. Johnston-Liik"
+    ],
+    "publishedDate": "1969",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105037169765"
+     }
+    ],
+    "pageCount": 63,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dFcILAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dFcILAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFcILAQAAIAAJ&q\u003dIrish+History&dq\u003dIrish+History&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFcILAQAAIAAJ&dq\u003dIrish+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 581
+}

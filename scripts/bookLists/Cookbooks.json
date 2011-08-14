@@ -1,0 +1,531 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "E6vQPQAACAAJ",
+   "etag": "rqprHkicWvo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/E6vQPQAACAAJ",
+   "volumeInfo": {
+    "title": "Best of the Best",
+    "subtitle": "The Best Recipes from the 25 Best Cookbooks of the Year",
+    "authors": [
+     "Dana Cowin",
+     "Kate Heddings"
+    ],
+    "publisher": "American Express Publishing",
+    "publishedDate": "2008-08-05",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1932624325"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781932624328"
+     }
+    ],
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dE6vQPQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dE6vQPQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dE6vQPQAACAAJ&dq\u003dCookbooks&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dE6vQPQAACAAJ&dq\u003dCookbooks&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iG9CZo9rmxoC",
+   "etag": "cIRKx2+QPM8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iG9CZo9rmxoC",
+   "volumeInfo": {
+    "title": "Manly meals and mom's home cooking",
+    "subtitle": "cookbooks and gender in modern America",
+    "authors": [
+     "Jessamyn Neuhaus"
+    ],
+    "publisher": "Johns Hopkins Univ Pr",
+    "publishedDate": "2003-06",
+    "description": "In Manly Meals and Mom&#39;s Home Cooking, Jessamyn Neuhaus offers a perceptive and piquant analysis of the tone and content of American cookbooks published between ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0801871255"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780801871252"
+     }
+    ],
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003diG9CZo9rmxoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003diG9CZo9rmxoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003diG9CZo9rmxoC&printsec\u003dfrontcover&dq\u003dCookbooks&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003diG9CZo9rmxoC&dq\u003dCookbooks&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yNb-6en3yGwC",
+   "etag": "WYcaVGAcaiQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yNb-6en3yGwC",
+   "volumeInfo": {
+    "title": "Danish cookbooks",
+    "subtitle": "domesticity & national identity, 1616-1901",
+    "authors": [
+     "Carol Gold"
+    ],
+    "publisher": "Univ of Washington Pr",
+    "publishedDate": "2007",
+    "description": "Danish Cookbooks: Domesticity and National Identity, 1616-1901 draws from three hundred years of Danish cookbooks to trace the growth of a bourgeois ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0295986824"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780295986821"
+     }
+    ],
+    "pageCount": 220,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dyNb-6en3yGwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dyNb-6en3yGwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyNb-6en3yGwC&printsec\u003dfrontcover&dq\u003dCookbooks&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyNb-6en3yGwC&dq\u003dCookbooks&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JF0RQ3MVudcC",
+   "etag": "DfLxjquJjig",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JF0RQ3MVudcC",
+   "volumeInfo": {
+    "title": "Recipes for reading",
+    "subtitle": "community cookbooks, stories, histories",
+    "authors": [
+     "Anne Bower"
+    ],
+    "publisher": "Univ of Massachusetts Pr",
+    "publishedDate": "1997-11",
+    "description": "But this is hardly the case.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1558490892"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781558490895"
+     }
+    ],
+    "pageCount": 271,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dJF0RQ3MVudcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dJF0RQ3MVudcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJF0RQ3MVudcC&printsec\u003dfrontcover&dq\u003dCookbooks&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJF0RQ3MVudcC&dq\u003dCookbooks&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.96,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dJF0RQ3MVudcC&dq\u003dCookbooks&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Recipes_for_reading-sample-pdf.acsm?id\u003dJF0RQ3MVudcC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1NMUI0HaJsgC",
+   "etag": "PfPVg+jm1gk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1NMUI0HaJsgC",
+   "volumeInfo": {
+    "title": "Cookbooks",
+    "subtitle": "Webster's Facts and Phrases",
+    "authors": [
+     "Inc Icon Group International"
+    ],
+    "publisher": "Icon Group International, Inc.",
+    "publishedDate": "2008-11-26",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0546698921"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780546698923"
+     }
+    ],
+    "pageCount": 34,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "contentVersion": "1.0.0.0.preview.1",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1NMUI0HaJsgC&dq\u003dCookbooks&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1NMUI0HaJsgC&dq\u003dCookbooks&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6H7jZwEACAAJ",
+   "etag": "lEzdNZQI944",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6H7jZwEACAAJ",
+   "volumeInfo": {
+    "title": "Cookbooks",
+    "subtitle": "the Sandy Michell collection : an exhibition of material from the Monash University Rare Books Collection",
+    "authors": [
+     "Monash University. Library"
+    ],
+    "publishedDate": "2011",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:713269390"
+     }
+    ],
+    "pageCount": 17,
+    "printType": "BOOK",
+    "categories": [
+     "Cookbooks"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6H7jZwEACAAJ&dq\u003dCookbooks&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6H7jZwEACAAJ&dq\u003dCookbooks&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qsNKmvcNBaMC",
+   "etag": "3ZatKyYXXD8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qsNKmvcNBaMC",
+   "volumeInfo": {
+    "title": "Potluck Paradise",
+    "subtitle": "Favorite Fare from Church and Community Cookbooks",
+    "authors": [
+     "Rae Katherine Eighmey",
+     "Debbie Miller",
+     "Dave Wood"
+    ],
+    "publisher": "Minnesota Historical Society Pr",
+    "publishedDate": "2008-11-01",
+    "description": "Here is the book that answers the age-old question: What should I bring?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0873516257"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780873516259"
+     }
+    ],
+    "pageCount": 184,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dqsNKmvcNBaMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dqsNKmvcNBaMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dqsNKmvcNBaMC&printsec\u003dfrontcover&dq\u003dCookbooks&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dqsNKmvcNBaMC&dq\u003dCookbooks&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HUeEbvtA68IC",
+   "etag": "lg53KQpEXTw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HUeEbvtA68IC",
+   "volumeInfo": {
+    "title": "Diabetes Cookbook for Dummies",
+    "authors": [
+     "Alan L. Rubin",
+     "Cait James"
+    ],
+    "publisher": "For Dummies",
+    "publishedDate": "2010-01-07",
+    "description": "With revised and updated information, &quot;Diabetes Cookbook For Dummies, 3rd Edition&quot; shows you how easy it is to manage diabetes through diet, offers up tons of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0470536446"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470536445"
+     }
+    ],
+    "pageCount": 392,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dHUeEbvtA68IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dHUeEbvtA68IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHUeEbvtA68IC&pg\u003dPA341&dq\u003dCookbooks&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHUeEbvtA68IC&dq\u003dCookbooks&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dHUeEbvtA68IC&dq\u003dCookbooks&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Diabetes_Cookbook_for_Dummies-sample-pdf.acsm?id\u003dHUeEbvtA68IC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IWsKtwAACAAJ",
+   "etag": "DKAeOZhdmm0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IWsKtwAACAAJ",
+   "volumeInfo": {
+    "title": "Cookbooks",
+    "publishedDate": "1992",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:25771478"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIWsKtwAACAAJ&dq\u003dCookbooks&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIWsKtwAACAAJ&dq\u003dCookbooks&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ez1cr0ifjDIC",
+   "etag": "jYy/gSR9dkk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ez1cr0ifjDIC",
+   "volumeInfo": {
+    "title": "Beef Today!",
+    "authors": [
+     "Jean Paré",
+     "Companys Coming Cookbooks"
+    ],
+    "publisher": "Company's Coming Publishing Limited",
+    "publishedDate": "1997-02-01",
+    "description": "-- Recipes for today&#39;s lifestyle-- Over 200 delicious recipes-- Accompaniments, appetizers, barbecues, casseroles, entrees, roasts, salads, sandwiches, steaks, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1896891004"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781896891002"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dez1cr0ifjDIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dez1cr0ifjDIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dez1cr0ifjDIC&printsec\u003dfrontcover&dq\u003dCookbooks&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dez1cr0ifjDIC&dq\u003dCookbooks&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 585
+}

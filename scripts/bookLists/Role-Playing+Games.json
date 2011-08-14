@@ -1,0 +1,587 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "rVOlQL-ERBUC",
+   "etag": "+hrBYMGWt84",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rVOlQL-ERBUC",
+   "volumeInfo": {
+    "title": "Role-playing games",
+    "authors": [
+     "Dave Morris",
+     "Leo Hartas"
+    ],
+    "publisher": "The Ilex Press Ltd",
+    "publishedDate": "2004-11-30",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1904705448"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781904705444"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Games"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003drVOlQL-ERBUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003drVOlQL-ERBUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003drVOlQL-ERBUC&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003drVOlQL-ERBUC&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Pn3wR74wDCgC",
+   "etag": "+ZBOCoKKn68",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Pn3wR74wDCgC",
+   "volumeInfo": {
+    "title": "The functions of role-playing games",
+    "subtitle": "how participants create community, solve problems and explore identity",
+    "authors": [
+     "Sarah Lynne Bowman"
+    ],
+    "publisher": "McFarland & Company",
+    "publishedDate": "2010-05-30",
+    "description": "This analytical study takes a deeper look at the world of role-playing games, providing a theoretical framework for understanding their more acute psychological ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0786447109"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786447107"
+     }
+    ],
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Games"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dPn3wR74wDCgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dPn3wR74wDCgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPn3wR74wDCgC&printsec\u003dfrontcover&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPn3wR74wDCgC&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.74,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dPn3wR74wDCgC&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_functions_of_role_playing_games-sample-epub.acsm?id\u003dPn3wR74wDCgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_functions_of_role_playing_games-sample-pdf.acsm?id\u003dPn3wR74wDCgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s8YRVbDknyUC",
+   "etag": "HEtD/kxrGaY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s8YRVbDknyUC",
+   "volumeInfo": {
+    "title": "The fantasy role-playing game",
+    "subtitle": "a new performing art",
+    "authors": [
+     "Daniel Mackay"
+    ],
+    "publisher": "McFarland & Company",
+    "publishedDate": "2001-02",
+    "description": "The game is played orally with no game board, and although the referee usually has a storyline planned for a game, much of the action is impromptu.Performance ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0786408154"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786408153"
+     }
+    ],
+    "pageCount": 201,
+    "printType": "BOOK",
+    "categories": [
+     "Games"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003ds8YRVbDknyUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003ds8YRVbDknyUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ds8YRVbDknyUC&printsec\u003dfrontcover&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ds8YRVbDknyUC&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.74,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003ds8YRVbDknyUC&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_fantasy_role_playing_game-sample-epub.acsm?id\u003ds8YRVbDknyUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_fantasy_role_playing_game-sample-pdf.acsm?id\u003ds8YRVbDknyUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "O8VsSwAACAAJ",
+   "etag": "kTTM7dmzQok",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/O8VsSwAACAAJ",
+   "volumeInfo": {
+    "title": "Role-Playing Games",
+    "subtitle": "Role-Playing Game, Online Text-Based Role-Playing Game, Role-Playing Game Theory, Free Rpg Day, Daredevils",
+    "authors": [
+     "Books, LLC"
+    ],
+    "publisher": "Books LLC",
+    "publishedDate": "2010-05",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1157269044"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781157269045"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dO8VsSwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dO8VsSwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dO8VsSwAACAAJ&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dO8VsSwAACAAJ&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rLlLbN0XuSEC",
+   "etag": "N3DKiLTm65k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rLlLbN0XuSEC",
+   "volumeInfo": {
+    "title": "Shared fantasy",
+    "subtitle": "role-playing games as social worlds",
+    "authors": [
+     "Gary Alan Fine"
+    ],
+    "publisher": "University Of Chicago Press",
+    "publishedDate": "2002-08-14",
+    "description": "Gary Alan Fine immerses himself in several different gaming systems, offering insightful details on the nature of the games and the patterns of interaction ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0226249441"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780226249445"
+     }
+    ],
+    "pageCount": 298,
+    "printType": "BOOK",
+    "categories": [
+     "Games"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003drLlLbN0XuSEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003drLlLbN0XuSEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003drLlLbN0XuSEC&printsec\u003dfrontcover&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003drLlLbN0XuSEC&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Shared_fantasy-sample-epub.acsm?id\u003drLlLbN0XuSEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s6AeNAAACAAJ",
+   "etag": "eXsw/uGDLfU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s6AeNAAACAAJ",
+   "volumeInfo": {
+    "title": "Role playing games",
+    "subtitle": "application and relevance to the pre-school situation",
+    "authors": [
+     "Margaret Adam"
+    ],
+    "publishedDate": "1974",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:221780204"
+     }
+    ],
+    "pageCount": 252,
+    "printType": "BOOK",
+    "categories": [
+     "Kindergarten teachers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ds6AeNAAACAAJ&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ds6AeNAAACAAJ&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RKQ5OAAACAAJ",
+   "etag": "Kl7UsHnLEHU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RKQ5OAAACAAJ",
+   "volumeInfo": {
+    "title": "Role-playing games",
+    "subtitle": "a technical writing approach",
+    "authors": [
+     "W. Everett Chesnut"
+    ],
+    "publishedDate": "1992",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:29766384"
+     }
+    ],
+    "pageCount": 172,
+    "printType": "BOOK",
+    "categories": [
+     "Technical writing"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRKQ5OAAACAAJ&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRKQ5OAAACAAJ&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "819qfx2AjWsC",
+   "etag": "YvQ4HVZiVcs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/819qfx2AjWsC",
+   "volumeInfo": {
+    "title": "Massively multiplayer online role-playing games",
+    "subtitle": "the people, the addiction and the playing experience",
+    "authors": [
+     "R. V. Kelly"
+    ],
+    "publisher": "McFarland & Co Inc Pub",
+    "publishedDate": "2004-08",
+    "description": "This book is about the fastest growing form of electronic game in the world-the Massively Multiplayer Online Role Playing Game (MMORPG).",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0786419156"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786419159"
+     }
+    ],
+    "pageCount": 201,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d819qfx2AjWsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d819qfx2AjWsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d819qfx2AjWsC&printsec\u003dfrontcover&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d819qfx2AjWsC&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.74,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d819qfx2AjWsC&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Massively_multiplayer_online_role_playin-sample-epub.acsm?id\u003d819qfx2AjWsC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Massively_multiplayer_online_role_playin-sample-pdf.acsm?id\u003d819qfx2AjWsC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xl7P7GwME3gC",
+   "etag": "bqX/iI24X+E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xl7P7GwME3gC",
+   "volumeInfo": {
+    "title": "The Creation of Narrative in Tabletop Role-Playing Games",
+    "authors": [
+     "Jennifer Grouling Cover"
+    ],
+    "publisher": "McFarland & Company",
+    "publishedDate": "2010-07-01",
+    "description": "This work explores tabletop role playing game (TRPG) as a genre separate from computer role playing games.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0786444517"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786444519"
+     }
+    ],
+    "pageCount": 205,
+    "printType": "BOOK",
+    "categories": [
+     "Games"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dxl7P7GwME3gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dxl7P7GwME3gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxl7P7GwME3gC&printsec\u003dfrontcover&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxl7P7GwME3gC&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.74,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dxl7P7GwME3gC&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Creation_of_Narrative_in_Tabletop_Ro-sample-epub.acsm?id\u003dxl7P7GwME3gC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Creation_of_Narrative_in_Tabletop_Ro-sample-pdf.acsm?id\u003dxl7P7GwME3gC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8H8bzqj6S4sC",
+   "etag": "ThhY+nVc83M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8H8bzqj6S4sC",
+   "volumeInfo": {
+    "title": "The Evolution of Fantasy Role-Playing Games",
+    "authors": [
+     "Michael J. Tresca"
+    ],
+    "publisher": "McFarland & Company",
+    "publishedDate": "2010-11-16",
+    "description": "Tracing the evolution of fantasy gaming from its origins in tabletop war and collectible card games to contemporary web-based live action and massive multi ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "078645895X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786458950"
+     }
+    ],
+    "pageCount": 228,
+    "printType": "BOOK",
+    "categories": [
+     "Games"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d8H8bzqj6S4sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d8H8bzqj6S4sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8H8bzqj6S4sC&printsec\u003dfrontcover&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8H8bzqj6S4sC&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.74,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d8H8bzqj6S4sC&dq\u003dRole-Playing+Games&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Evolution_of_Fantasy_Role_Playing_Ga-sample-epub.acsm?id\u003d8H8bzqj6S4sC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Evolution_of_Fantasy_Role_Playing_Ga-sample-pdf.acsm?id\u003d8H8bzqj6S4sC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 596
+}

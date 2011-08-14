@@ -1,0 +1,560 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "dYSdmKGJreEC",
+   "etag": "h3hJnXucaAU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dYSdmKGJreEC",
+   "volumeInfo": {
+    "title": "The trouble with textbooks",
+    "subtitle": "distorting history and religion",
+    "authors": [
+     "Gary A. Tobin",
+     "Dennis R. Ybarra"
+    ],
+    "publisher": "Rowman & Littlefield",
+    "publishedDate": "2008-08",
+    "description": "The Trouble with Textbooks sounds the alarm about how textbooks disparage some groups and teach historical distortions.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0739130943"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780739130940"
+     }
+    ],
+    "pageCount": 209,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003ddYSdmKGJreEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003ddYSdmKGJreEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddYSdmKGJreEC&printsec\u003dfrontcover&dq\u003dTextbooks&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddYSdmKGJreEC&dq\u003dTextbooks&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.17,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003ddYSdmKGJreEC&dq\u003dTextbooks&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_trouble_with_textbooks-sample-epub.acsm?id\u003ddYSdmKGJreEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_trouble_with_textbooks-sample-pdf.acsm?id\u003ddYSdmKGJreEC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fezb-OO1qToC",
+   "etag": "TZ8TudIor1k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fezb-OO1qToC",
+   "volumeInfo": {
+    "title": "Textbooks for learning",
+    "subtitle": "nurturing children's minds",
+    "authors": [
+     "Marilyn J. Chambliss",
+     "Robert C. Calfee"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "1998-12-14",
+    "description": "This book is one of the most comprehensive texts discussing the design, selection and adoption of expository textbooks.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1557864128"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781557864123"
+     }
+    ],
+    "pageCount": 316,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dfezb-OO1qToC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dfezb-OO1qToC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfezb-OO1qToC&printsec\u003dfrontcover&dq\u003dTextbooks&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfezb-OO1qToC&dq\u003dTextbooks&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kOP9TRLMUaYC",
+   "etag": "Y8wT2BCMf88",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kOP9TRLMUaYC",
+   "volumeInfo": {
+    "title": "College textbooks enhanced offerings appear to drive recent price increases",
+    "authors": [
+     "United States. Government Accountability Office"
+    ],
+    "publisher": "DIANE Publishing",
+    "description": "Consequently, the overall cost of postsecondary attendance, including components \u003cbr\u003e\r\nsuch as tuition and \u003cb\u003etextbooks\u003c/b\u003e, is of national importance because escalating \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1428932410"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781428932418"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dkOP9TRLMUaYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dkOP9TRLMUaYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkOP9TRLMUaYC&printsec\u003dfrontcover&dq\u003dTextbooks&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkOP9TRLMUaYC&dq\u003dTextbooks&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dkOP9TRLMUaYC&dq\u003dTextbooks&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LMV9c_dcNJAC",
+   "etag": "n37JTxV97/c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LMV9c_dcNJAC",
+   "volumeInfo": {
+    "title": "Interculturality in Textbooks for English Language Teaching",
+    "authors": [
+     "Steffen Laaß"
+    ],
+    "publisher": "GRIN Verlag",
+    "publishedDate": "2008-09-04",
+    "description": "Seminar paper from the year 2007 in the subject English, printed single-sided, grade: 1,3, Otto-von-Guericke-University Magdeburg (Institut f r fremdsprachliche ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3640154495"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783640154494"
+     }
+    ],
+    "pageCount": 40,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dLMV9c_dcNJAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dLMV9c_dcNJAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLMV9c_dcNJAC&printsec\u003dfrontcover&dq\u003dTextbooks&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLMV9c_dcNJAC&dq\u003dTextbooks&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Interculturality_in_Textbooks_for_Englis-sample-epub.acsm?id\u003dLMV9c_dcNJAC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZWaDzmUwW2wC",
+   "etag": "b2PR9HBj+SE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZWaDzmUwW2wC",
+   "volumeInfo": {
+    "title": "Learning from textbooks",
+    "subtitle": "theory and practice",
+    "authors": [
+     "Bruce K. Britton",
+     "Arthur Woodward",
+     "Marilyn R. Binkley"
+    ],
+    "publisher": "Lawrence Erlbaum",
+    "publishedDate": "1993-04-01",
+    "description": "This volume demonstrates how research on important issues relative to textbook design can advance our knowledge about what makes textbooks effective learning ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0805806776"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780805806779"
+     }
+    ],
+    "pageCount": 197,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dZWaDzmUwW2wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dZWaDzmUwW2wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZWaDzmUwW2wC&printsec\u003dfrontcover&dq\u003dTextbooks&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZWaDzmUwW2wC&dq\u003dTextbooks&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IjRJELypv_gC",
+   "etag": "GOzB+TD2oL0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IjRJELypv_gC",
+   "volumeInfo": {
+    "title": "Textbooks in American society",
+    "subtitle": "politics, policy, and pedagogy",
+    "authors": [
+     "Philip G. Altbach"
+    ],
+    "publisher": "State Univ of New York Pr",
+    "publishedDate": "1991-10",
+    "description": "\u003cb\u003e...\u003c/b\u003e over power and control.2 THE POLITICS OF OFFICIAL KNOWLEDGE The \u003cb\u003etextbook\u003c/b\u003e is \u003cbr\u003e\r\nuniquely qualified to help us understand these complicated relationships. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0791406695"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780791406694"
+     }
+    ],
+    "pageCount": 261,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dIjRJELypv_gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dIjRJELypv_gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIjRJELypv_gC&printsec\u003dfrontcover&dq\u003dTextbooks&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIjRJELypv_gC&dq\u003dTextbooks&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.17,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dIjRJELypv_gC&dq\u003dTextbooks&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Textbooks_in_American_society-sample-epub.acsm?id\u003dIjRJELypv_gC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Textbooks_in_American_society-sample-pdf.acsm?id\u003dIjRJELypv_gC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YgbhSAAACAAJ",
+   "etag": "y6H9wJil0mo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YgbhSAAACAAJ",
+   "volumeInfo": {
+    "title": "Textbooks",
+    "subtitle": "tools or tyrants? : an investigation of specific aspects of the teacher-textbook relationship with reference to the population of primary teachers in the Craobh Chualann Branch of the Irish National Teachers'Organisation",
+    "authors": [
+     "Seán Balfe",
+     "University College Dublin. Department of Education"
+    ],
+    "publishedDate": "1998",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:605708252"
+     }
+    ],
+    "pageCount": 137,
+    "printType": "BOOK",
+    "categories": [
+     "Textbooks"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYgbhSAAACAAJ&dq\u003dTextbooks&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYgbhSAAACAAJ&dq\u003dTextbooks&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wQqYIUua9kIC",
+   "etag": "9JW7EUl/KWE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wQqYIUua9kIC",
+   "volumeInfo": {
+    "title": "(Re)visioning composition textbooks",
+    "subtitle": "conflicts of culture, ideology, and pedagogy",
+    "authors": [
+     "Xin Liu Gale",
+     "Fredric G. Gale"
+    ],
+    "publisher": "State Univ of New York Pr",
+    "publishedDate": "1999-04",
+    "description": "Different perspectives are used to discuss the cultures, ideologies, traditions, and the material and political conditions that influence the writing and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0791441210"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780791441213"
+     }
+    ],
+    "pageCount": 274,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dwQqYIUua9kIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dwQqYIUua9kIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwQqYIUua9kIC&printsec\u003dfrontcover&dq\u003dTextbooks&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwQqYIUua9kIC&dq\u003dTextbooks&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.17,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dwQqYIUua9kIC&dq\u003dTextbooks&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Re_visioning_composition_textbooks-sample-epub.acsm?id\u003dwQqYIUua9kIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Re_visioning_composition_textbooks-sample-pdf.acsm?id\u003dwQqYIUua9kIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TImvQAAACAAJ",
+   "etag": "F+4YQSXO7gk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TImvQAAACAAJ",
+   "volumeInfo": {
+    "title": "Textbooks",
+    "authors": [
+     "National Association of Real Estate Boards"
+    ],
+    "publishedDate": "1921",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:63649655"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTImvQAAACAAJ&dq\u003dTextbooks&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTImvQAAACAAJ&dq\u003dTextbooks&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "v4f9Z0-hnrwC",
+   "etag": "lGCujU9sVuQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/v4f9Z0-hnrwC",
+   "volumeInfo": {
+    "title": "Textbooks for diverse learners",
+    "subtitle": "a critical analysis of learning materials used in South African schools",
+    "authors": [
+     "Carolyn McKinney",
+     "Human Sciences Research Council. Child, Youth and Family Development Research Programme. School Integration Project"
+    ],
+    "publisher": "HSRC Publishers",
+    "publishedDate": "2005",
+    "description": "List of Tables Table 1 Gender representation on cover of book 13 Table 2 Gender \u003cbr\u003e\r\nrepresentation in main characters 14 Table 3 All characters - gender 15 \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0796920931"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780796920935"
+     }
+    ],
+    "pageCount": 51,
+    "printType": "BOOK",
+    "categories": [
+     "Multicultural education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dv4f9Z0-hnrwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dv4f9Z0-hnrwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dv4f9Z0-hnrwC&printsec\u003dfrontcover&dq\u003dTextbooks&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dv4f9Z0-hnrwC&dq\u003dTextbooks&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 594
+}

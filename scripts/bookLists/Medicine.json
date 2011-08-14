@@ -1,0 +1,540 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ne7UhZHCqdgC",
+   "etag": "bgELHQCZiio",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ne7UhZHCqdgC",
+   "volumeInfo": {
+    "title": "Medicine",
+    "authors": [
+     "Terence J. Sacks"
+    ],
+    "publisher": "McGraw-Hill Professional",
+    "publishedDate": "2006-03-22",
+    "description": "A practical guide to careers in the medical field including family practice, internal medicine, obstetrics and gynecology, and pediatrics; and provides ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0071487271"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071487276"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dne7UhZHCqdgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dne7UhZHCqdgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dne7UhZHCqdgC&printsec\u003dfrontcover&dq\u003dMedicine&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dne7UhZHCqdgC&dq\u003dMedicine&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uLcfBf5bbBcC",
+   "etag": "0JCpksabavo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uLcfBf5bbBcC",
+   "volumeInfo": {
+    "title": "Pocket Medicine",
+    "subtitle": "The Massachusetts General Hospital Handbook of Internal Medicine",
+    "authors": [
+     "Marc Sabatine"
+    ],
+    "publishedDate": "2010-09-13",
+    "description": "This Fourth Edition is fully updated and includes an eight-page color insert with key and classic abnormal images.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1608319059"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781608319053"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003duLcfBf5bbBcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003duLcfBf5bbBcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003duLcfBf5bbBcC&printsec\u003dfrontcover&dq\u003dMedicine&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003duLcfBf5bbBcC&dq\u003dMedicine&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "V0ngbGrInAIC",
+   "etag": "8vwg16ZfxJA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/V0ngbGrInAIC",
+   "volumeInfo": {
+    "title": "Medicine",
+    "subtitle": "preserving the passion in the 21st century",
+    "authors": [
+     "Phil R. Manning",
+     "Lois DeBakey"
+    ],
+    "publisher": "Springer Verlag",
+    "publishedDate": "2004",
+    "description": "Phil R. Manning has dedicated almost all of his professional life to demonstrating that continual medical education should occur precisely in this fashion.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0387004262"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780387004266"
+     }
+    ],
+    "pageCount": 470,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dV0ngbGrInAIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dV0ngbGrInAIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dV0ngbGrInAIC&printsec\u003dfrontcover&dq\u003dMedicine&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dV0ngbGrInAIC&dq\u003dMedicine&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PlCZ-TWwRekC",
+   "etag": "7Cz6yU05omM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PlCZ-TWwRekC",
+   "volumeInfo": {
+    "title": "Medicine Cards",
+    "subtitle": "The Discovery of Power Through the Ways of Animals",
+    "authors": [
+     "Jamie Sams",
+     "David Carson",
+     "Angela C. Werneke"
+    ],
+    "publisher": "St Martins Pr",
+    "publishedDate": "1999-07-13",
+    "description": "A revised and expanded edition of a best-selling divination system, based on ancient Native American traditions, uses fifty-two power animals to help heal the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0312204914"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780312204914"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 14,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dPlCZ-TWwRekC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dPlCZ-TWwRekC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPlCZ-TWwRekC&printsec\u003dfrontcover&dq\u003dMedicine&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPlCZ-TWwRekC&dq\u003dMedicine&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4fQUEkqRAwYC",
+   "etag": "mEviSDm/ROA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4fQUEkqRAwYC",
+   "volumeInfo": {
+    "title": "Medicine",
+    "authors": [
+     "Melissa Williams"
+    ],
+    "publishedDate": "2006-05-19",
+    "description": "The big picture The big picture Why \u003cb\u003emedicine\u003c/b\u003e? Can you bear the sight of blood? \u003cbr\u003e\r\nAre you a compassionate person and a good communicator? Do you enjoy science? \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1921106255"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781921106255"
+     }
+    ],
+    "pageCount": 164,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d4fQUEkqRAwYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d4fQUEkqRAwYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4fQUEkqRAwYC&printsec\u003dfrontcover&dq\u003dMedicine&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4fQUEkqRAwYC&dq\u003dMedicine&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NbKmHgAACAAJ",
+   "etag": "STtr8H9MOuw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NbKmHgAACAAJ",
+   "volumeInfo": {
+    "title": "Medicine",
+    "subtitle": "PreTest self-assessment and review",
+    "authors": [
+     "Steven L. Berk"
+    ],
+    "publisher": "McGraw-Hill Medical",
+    "publishedDate": "2006-03-21",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0071455531"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071455534"
+     }
+    ],
+    "pageCount": 347,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dNbKmHgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dNbKmHgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNbKmHgAACAAJ&dq\u003dMedicine&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNbKmHgAACAAJ&dq\u003dMedicine&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WSE9ROkQ56EC",
+   "etag": "XBqQz6ctGmA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WSE9ROkQ56EC",
+   "volumeInfo": {
+    "title": "Medicine",
+    "authors": [
+     "Anne Rooney"
+    ],
+    "publisher": "Heinemann/Raintree",
+    "publishedDate": "2005-12-01",
+    "description": "Find out:",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1403474346"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781403474346"
+     }
+    ],
+    "pageCount": 56,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dWSE9ROkQ56EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dWSE9ROkQ56EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWSE9ROkQ56EC&printsec\u003dfrontcover&dq\u003dMedicine&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWSE9ROkQ56EC&dq\u003dMedicine&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6_sIAAAAIAAJ",
+   "etag": "DjLboNc/K48",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6_sIAAAAIAAJ",
+   "volumeInfo": {
+    "title": "What is medicine?",
+    "authors": [
+     "Albert Leary Gihon"
+    ],
+    "publishedDate": "1886",
+    "description": "WHAT IS \u003cb\u003eMEDICINE\u003c/b\u003e? ANNUAL ADDRESS DELIVERED BEFORE THE HT NEW YORK, OCTOBER 28TH \u003cbr\u003e\r\n1885. ALBERT L. GIHON, AM, MD, Medical Director US Navy, PRESIDENT OF THE \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:24502701671"
+     }
+    ],
+    "pageCount": 28,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d6_sIAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d6_sIAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6_sIAAAAIAAJ&printsec\u003dfrontcover&dq\u003dMedicine&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6_sIAAAAIAAJ&dq\u003dMedicine&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/What_is_medicine.epub?id\u003d6_sIAAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/What_is_medicine.pdf?id\u003d6_sIAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1i_NkKka9_NWU3aGvy3yRFGXfz9A&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cJn-FI-MN0QC",
+   "etag": "L7AsfQjOhqQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cJn-FI-MN0QC",
+   "volumeInfo": {
+    "title": "Energy Medicine",
+    "subtitle": "Balancing Your Body's Energies for Optimal Health, Joy, and Vitality",
+    "authors": [
+     "Donna Eden",
+     "David Feinstein"
+    ],
+    "publisher": "J P Tarcher",
+    "publishedDate": "2008-08-26",
+    "description": "In this updated and expanded edition of her alternative-health classic, Eden shows readers how they can understand their body&#39;s energy systems to promote ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1585426504"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781585426508"
+     }
+    ],
+    "pageCount": 404,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 37,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dcJn-FI-MN0QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dcJn-FI-MN0QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcJn-FI-MN0QC&printsec\u003dfrontcover&dq\u003dMedicine&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcJn-FI-MN0QC&dq\u003dMedicine&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dcJn-FI-MN0QC&dq\u003dMedicine&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Energy_Medicine-sample-epub.acsm?id\u003dcJn-FI-MN0QC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mbAkcBw697cC",
+   "etag": "Roagb5b/cjk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mbAkcBw697cC",
+   "volumeInfo": {
+    "title": "Medicine",
+    "authors": [
+     "Trotman Publishing"
+    ],
+    "publisher": "Trotman & Company, Limited",
+    "publishedDate": "2001-03-01",
+    "description": "What about working in \u003cb\u003emedicine\u003c/b\u003e? What does the word &#39;\u003cb\u003emedicine\u003c/b\u003e&#39; conjure up in your \u003cbr\u003e\r\nmind? A TV hospital drama? Your local GP? A scientist looking for a cure \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0856606618"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780856606618"
+     }
+    ],
+    "pageCount": 44,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dmbAkcBw697cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dmbAkcBw697cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmbAkcBw697cC&printsec\u003dfrontcover&dq\u003dMedicine&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmbAkcBw697cC&dq\u003dMedicine&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 597
+}

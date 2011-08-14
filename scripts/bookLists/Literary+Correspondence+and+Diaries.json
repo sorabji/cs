@@ -1,0 +1,512 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "CVbQAAAAMAAJ",
+   "etag": "hUvJHpLDgf4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CVbQAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The Literary news",
+    "subtitle": "a monthly journal of current literature",
+    "authors": [
+     "Frederick Leypoldt",
+     "Augusta Harriet Garrigue Leypoldt"
+    ],
+    "publishedDate": "1885",
+    "description": "The Croker papers: the \u003cb\u003ecorrespondence and diaries\u003c/b\u003e of the late Right Hon. \u003cb\u003e...\u003c/b\u003e He \u003cbr\u003e\r\nkept a \u003cb\u003ediary\u003c/b\u003e and he had extensive \u003cb\u003ecorrespondence\u003c/b\u003e — all of which he preserved \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015071098019"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dCVbQAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dCVbQAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCVbQAAAAMAAJ&pg\u003dPA23&dq\u003dLiterary+Correspondence+and+Diaries&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCVbQAAAAMAAJ&dq\u003dLiterary+Correspondence+and+Diaries&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Literary_news.pdf?id\u003dCVbQAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3FCOfMi_zjjdyGgTLyZelmFxT24g&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6Q4eo7h_cPkC",
+   "etag": "piP2pRDsDjs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6Q4eo7h_cPkC",
+   "volumeInfo": {
+    "title": "The Dial",
+    "subtitle": "a monthly review and index of current literature",
+    "authors": [
+     "Francis Fisher Browne",
+     "Waldo Ralph Browne",
+     "Scofield Thayer",
+     "Marianne Moore"
+    ],
+    "publishedDate": "1885",
+    "description": "The &quot; \u003cb\u003eCorrespondence and Diaries\u003c/b\u003e of John Wilson Croker,&quot; edited by Louis J. \u003cbr\u003e\r\nJennings, \u003cb\u003e...\u003c/b\u003e He had previously acquired considerable \u003cb\u003eliterary\u003c/b\u003e repute by the \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015030979523"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d6Q4eo7h_cPkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d6Q4eo7h_cPkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6Q4eo7h_cPkC&pg\u003dPA271&dq\u003dLiterary+Correspondence+and+Diaries&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6Q4eo7h_cPkC&dq\u003dLiterary+Correspondence+and+Diaries&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Dial.pdf?id\u003d6Q4eo7h_cPkC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1IG49nKS8FoCjvPNAntlUBBm-dZQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1eCT7vYHwPkC",
+   "etag": "VrCoDhRIiwY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1eCT7vYHwPkC",
+   "volumeInfo": {
+    "title": "The Edinburgh review",
+    "subtitle": "or Critical journal",
+    "publishedDate": "1831",
+    "description": "THE \u003cb\u003eLITERARY CORRESPONDENCE\u003c/b\u003e of JOHN PINKERTON, Esq. Now first printed from the \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e 8vo. with considerable additions, among which is a \u003cb\u003eDiary\u003c/b\u003e of Lord Chan&#39; \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "BML:37001103147083"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d1eCT7vYHwPkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d1eCT7vYHwPkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1eCT7vYHwPkC&pg\u003dPA594&dq\u003dLiterary+Correspondence+and+Diaries&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1eCT7vYHwPkC&dq\u003dLiterary+Correspondence+and+Diaries&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Edinburgh_review.pdf?id\u003d1eCT7vYHwPkC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2HvAjQHRabMvUfh991HZMPqcI-Wg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "67t4AAAAIAAJ",
+   "etag": "ZTOJ/U0osP0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/67t4AAAAIAAJ",
+   "volumeInfo": {
+    "title": "The Croker papers",
+    "subtitle": "The correspondence and diaries of the late Right Honourable John Wilson Croker...1809 to 1830",
+    "authors": [
+     "John Wilson Croker"
+    ],
+    "publishedDate": "1884",
+    "description": "Such portions of the general \u003cb\u003eliterary correspondence\u003c/b\u003e of this year as are still \u003cbr\u003e\r\nof interest may be brought together here. Mr. Murray to Mr. Croker. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105120345611"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Great Britain"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d67t4AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d67t4AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d67t4AAAAIAAJ&pg\u003dPA93&dq\u003dLiterary+Correspondence+and+Diaries&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d67t4AAAAIAAJ&dq\u003dLiterary+Correspondence+and+Diaries&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Croker_papers.pdf?id\u003d67t4AAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3jjZEwlfKpiFYtW_pR7Gd71wnJ2g&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "E5bRAAAAMAAJ",
+   "etag": "U7e3/tqZg8E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/E5bRAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Memoirs of the political and literary life of Robert Plumer Ward ...",
+    "subtitle": "with selections from his correspondence, diaries, and unpublished literary remains ...",
+    "authors": [
+     "Edmund Phipps"
+    ],
+    "publishedDate": "1850",
+    "description": "MEMOIRS OF ROBERT PLUMER WARD, ESQ. CHAPTER I. PARENTAGE OF MB. WARD. — MOTHER A \u003cbr\u003e\r\nSPANIARD. — HER PREMATURE DEATH. GREAT KINDNESS OF GENERAL AND MRS. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015027615619"
+     }
+    ],
+    "pageCount": 421,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dE5bRAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dE5bRAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dE5bRAAAAMAAJ&printsec\u003dfrontcover&dq\u003dLiterary+Correspondence+and+Diaries&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dE5bRAAAAMAAJ&dq\u003dLiterary+Correspondence+and+Diaries&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Memoirs_of_the_political_and_literary_li.epub?id\u003dE5bRAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Memoirs_of_the_political_and_literary_li.pdf?id\u003dE5bRAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U22nLGxz7zoyUE0JgTIniidOAS8oA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ValsAAAAMAAJ",
+   "etag": "Od4QaS/rhqs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ValsAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The life of Thomas Ken, D. D.",
+    "subtitle": "Bishop of Bath and Wells",
+    "authors": [
+     "Edward Hayes Plumptre"
+    ],
+    "publishedDate": "1890",
+    "description": "\u003cb\u003eLITERARY CORRESPONDENCE\u003c/b\u003e WITH DR. THOMAS SMITH. \u003cb\u003e...\u003c/b\u003e Hearne and Dodwell type, and \u003cbr\u003e\r\nhis name appears frequently in the \u003cb\u003eDiary\u003c/b\u003e and \u003cb\u003ecorrespondence\u003c/b\u003e of the former. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "WISC:89089955314"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dValsAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dValsAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dValsAAAAMAAJ&pg\u003dPA179&dq\u003dLiterary+Correspondence+and+Diaries&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dValsAAAAMAAJ&dq\u003dLiterary+Correspondence+and+Diaries&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/The_life_of_Thomas_Ken_D_D.epub?id\u003dValsAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_life_of_Thomas_Ken_D_D.pdf?id\u003dValsAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0kaKGMGotYMGy0gNtN-Da3jMIDdQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OIa_s3rtDFkC",
+   "etag": "06aAs39tkrE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OIa_s3rtDFkC",
+   "volumeInfo": {
+    "title": "The Routledge Concise History of Nineteenth-Century Literature",
+    "authors": [
+     "Josephine Guy",
+     "Ian Small"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2010-12-17",
+    "description": "It is also worth noting that some writers or their descendants, wary of the \u003cbr\u003e\r\njudgements of posterity, took care to destroy \u003cb\u003ecorrespondence and diaries\u003c/b\u003e: \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415487102"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415487108"
+     }
+    ],
+    "pageCount": 275,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dOIa_s3rtDFkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dOIa_s3rtDFkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOIa_s3rtDFkC&pg\u003dPA113&dq\u003dLiterary+Correspondence+and+Diaries&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOIa_s3rtDFkC&dq\u003dLiterary+Correspondence+and+Diaries&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 28.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 15.63,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dOIa_s3rtDFkC&dq\u003dLiterary+Correspondence+and+Diaries&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Routledge_Concise_History_of_Ninetee-sample-epub.acsm?id\u003dOIa_s3rtDFkC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Routledge_Concise_History_of_Ninetee-sample-pdf.acsm?id\u003dOIa_s3rtDFkC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aPoDAAAAQAAJ",
+   "etag": "JpNQ5xv8Ps8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aPoDAAAAQAAJ",
+   "volumeInfo": {
+    "title": "The Christian remembrancer; or, The Churchman's Biblical, ecclesiastical & literary miscellany",
+    "publishedDate": "1845",
+    "description": "Akt. I. — \u003cb\u003eDiaries\u003c/b\u003e and \u003cb\u003eCorrespondence\u003c/b\u003e of James Harris, First Earl of Malmesbury. \u003cbr\u003e\r\nEdited by his Grandson, the third Earl. 4 vols. 8 vo. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:555005855"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003daPoDAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003daPoDAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daPoDAAAAQAAJ&pg\u003dPA1&dq\u003dLiterary+Correspondence+and+Diaries&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daPoDAAAAQAAJ&dq\u003dLiterary+Correspondence+and+Diaries&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/The_Christian_remembrancer_or_The_Church.epub?id\u003daPoDAAAAQAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Christian_remembrancer_or_The_Church.pdf?id\u003daPoDAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U12Jkvdn5-MGnhrJSROWfzReUaUcg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wbDRAAAAMAAJ",
+   "etag": "dhCAf57fLU0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wbDRAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The diary and correspondence of Dr. John Worthington ...",
+    "subtitle": "from the Baker mss. in the British museum and the Cambridge university library and other sources",
+    "authors": [
+     "John Worthington",
+     "Richard Copley Christie"
+    ],
+    "publishedDate": "1844",
+    "description": "HISTORICAL &amp; \u003cb\u003eLITERARY\u003c/b\u003e CONNECTED WITH THE PALATINE COUNTIES OF LANCASTER AND \u003cbr\u003e\r\nCHESTER PUBLISHED BY THE CHETHAM SOCIETY. VOL. II. •&#39;&lt;&#39;. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "IND:30000077474215"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dwbDRAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dwbDRAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwbDRAAAAMAAJ&pg\u003dPP7&dq\u003dLiterary+Correspondence+and+Diaries&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwbDRAAAAMAAJ&dq\u003dLiterary+Correspondence+and+Diaries&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/The_diary_and_correspondence_of_Dr_John.epub?id\u003dwbDRAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_diary_and_correspondence_of_Dr_John.pdf?id\u003dwbDRAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2zg4BFytoN0CK9QdA9whyZUxsT6w&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9kkDAAAAYAAJ",
+   "etag": "1uOVUPM7oC0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9kkDAAAAYAAJ",
+   "volumeInfo": {
+    "title": "The Literary world",
+    "publishedDate": "1870",
+    "description": "With Selections from his \u003cb\u003eDiaries\u003c/b\u003e and \u003cb\u003eCorrespondence\u003c/b\u003e. By the lit. Hon. Sir Henry \u003cbr\u003e\r\nLytton Bulwcr. 2 vole. limo. $0.00. Complete Triumph of Moral Good Over Evil \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044094025426"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d9kkDAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d9kkDAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9kkDAAAAYAAJ&pg\u003dPA110&dq\u003dLiterary+Correspondence+and+Diaries&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9kkDAAAAYAAJ&dq\u003dLiterary+Correspondence+and+Diaries&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Literary_world.pdf?id\u003d9kkDAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0ntU9UVkeKmJPKMLRNCd1KAdX3nQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 571
+}

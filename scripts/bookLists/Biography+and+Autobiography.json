@@ -1,0 +1,483 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "FHMrAQAAIAAJ",
+   "etag": "Jb61HYphapo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FHMrAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Biography and autobiography",
+    "subtitle": "essays on Irish and Canadian history and literature",
+    "authors": [
+     "James Noonan",
+     "Canadian Association for Irish Studies. Conference"
+    ],
+    "publisher": "Carleton Univ Pr",
+    "publishedDate": "1993",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105004412735"
+     }
+    ],
+    "pageCount": 292,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dFHMrAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dFHMrAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFHMrAQAAIAAJ&q\u003dBiography+and+Autobiography&dq\u003dBiography+and+Autobiography&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFHMrAQAAIAAJ&dq\u003dBiography+and+Autobiography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jx8U0RjSIhwC",
+   "etag": "rMoJ+9YpWeE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jx8U0RjSIhwC",
+   "volumeInfo": {
+    "title": "Biography and autobiography",
+    "authors": [
+     "Prentice Hall PTR"
+    ],
+    "publishedDate": "2000",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0134372077"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780134372075"
+     }
+    ],
+    "pageCount": 154,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003djx8U0RjSIhwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003djx8U0RjSIhwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djx8U0RjSIhwC&q\u003dBiography+and+Autobiography&dq\u003dBiography+and+Autobiography&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djx8U0RjSIhwC&dq\u003dBiography+and+Autobiography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "na76GAAACAAJ",
+   "etag": "1Eg45iqysSU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/na76GAAACAAJ",
+   "volumeInfo": {
+    "title": "Biography and autobiography",
+    "authors": [
+     "A. A. Allinson",
+     "F. E. Hotchin"
+    ],
+    "publishedDate": "1969",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:68028971"
+     }
+    ],
+    "pageCount": 42,
+    "printType": "BOOK",
+    "categories": [
+     "Biography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dna76GAAACAAJ&dq\u003dBiography+and+Autobiography&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dna76GAAACAAJ&dq\u003dBiography+and+Autobiography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rNWoNwAACAAJ",
+   "etag": "iMF2Edrumbs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rNWoNwAACAAJ",
+   "volumeInfo": {
+    "title": "Biography and autobiography",
+    "authors": [
+     "Russell McDougall"
+    ],
+    "publishedDate": "1989",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:227013660"
+     }
+    ],
+    "pageCount": 75,
+    "printType": "BOOK",
+    "categories": [
+     "Biography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003drNWoNwAACAAJ&dq\u003dBiography+and+Autobiography&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003drNWoNwAACAAJ&dq\u003dBiography+and+Autobiography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VuZCQwAACAAJ",
+   "etag": "upT2iOYSwWg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VuZCQwAACAAJ",
+   "volumeInfo": {
+    "title": "Biography and autobiography",
+    "authors": [
+     "Amos Levi Fuller"
+    ],
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:367517586"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Salt Lake City (Utah)"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVuZCQwAACAAJ&dq\u003dBiography+and+Autobiography&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVuZCQwAACAAJ&dq\u003dBiography+and+Autobiography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oyE0swUW0RkC",
+   "etag": "IyAF7FzHWEc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oyE0swUW0RkC",
+   "volumeInfo": {
+    "title": "Indigenous biography and autobiography",
+    "authors": [
+     "Peter Read",
+     "Frances Peters-Little",
+     "Anna Haebich"
+    ],
+    "publishedDate": "2008-12-01",
+    "description": "In this absorbing collection of papers Aboriginal, Maori, Dalit and western scholars discuss and analyse the difficulties they have faced in writing Indigenous ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1921536349"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781921536342"
+     }
+    ],
+    "pageCount": 180,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003doyE0swUW0RkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003doyE0swUW0RkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doyE0swUW0RkC&printsec\u003dfrontcover&dq\u003dBiography+and+Autobiography&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doyE0swUW0RkC&dq\u003dBiography+and+Autobiography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Indigenous_biography_and_autobiography-sample-epub.acsm?id\u003doyE0swUW0RkC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9tERAAAAYAAJ",
+   "etag": "U/w6FoDPyp0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9tERAAAAYAAJ",
+   "volumeInfo": {
+    "title": "New Hampshire biography and autobiography",
+    "authors": [
+     "Franklin Benjamin Sanborn"
+    ],
+    "publishedDate": "1905",
+    "description": "\u003cb\u003e...\u003c/b\u003e CHATTER I. — CHILDHOOD. At the request of the editor of the Gran1te Monthly, \u003cbr\u003e\r\nwho desires to preserve and publish in this magazine all that relates to \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044015507403"
+     }
+    ],
+    "pageCount": 78,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d9tERAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d9tERAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9tERAAAAYAAJ&printsec\u003dfrontcover&dq\u003dBiography+and+Autobiography&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9tERAAAAYAAJ&dq\u003dBiography+and+Autobiography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/New_Hampshire_biography_and_autobiograph.pdf?id\u003d9tERAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1S6pLQGSKJhUjhoYDEKb-V6KXgtA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QzVzHQAACAAJ",
+   "etag": "sUsi74++lbc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QzVzHQAACAAJ",
+   "volumeInfo": {
+    "title": "Writing Biography and Autobiography",
+    "authors": [
+     "Brian D. Osborne"
+    ],
+    "publisher": "A&C Black",
+    "publishedDate": "2004-06-15",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0713667427"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780713667424"
+     }
+    ],
+    "pageCount": 156,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dQzVzHQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dQzVzHQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQzVzHQAACAAJ&dq\u003dBiography+and+Autobiography&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQzVzHQAACAAJ&dq\u003dBiography+and+Autobiography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5iLpDAu6XBgC",
+   "etag": "XBhjJ0OHTw8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5iLpDAu6XBgC",
+   "volumeInfo": {
+    "title": "Biography & Autobiography Grades 3-4",
+    "authors": [
+     "Susan Mackey Collins"
+    ],
+    "publisher": "Teacher Created Materials",
+    "publishedDate": "2008-05",
+    "description": "Similarly, a teacher can select pages that provide additional explanation for \u003cbr\u003e\r\nthe class about autobiographies and \u003cb\u003ebiographies\u003c/b\u003e. Both parents and teachers \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1420690485"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781420690484"
+     }
+    ],
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d5iLpDAu6XBgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d5iLpDAu6XBgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5iLpDAu6XBgC&printsec\u003dfrontcover&dq\u003dBiography+and+Autobiography&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5iLpDAu6XBgC&dq\u003dBiography+and+Autobiography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MZqSyk5PiBkC",
+   "etag": "h4eXh9mn/6k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MZqSyk5PiBkC",
+   "volumeInfo": {
+    "title": "TOUSSAINT L'OUVERTURE: A BIOGRAPHY AND AUTOBIOGRAPHY",
+    "authors": [
+     "JAMES REDPATH"
+    ],
+    "publishedDate": "1863",
+    "description": "CHAPTEE I. Description of Hayti— -Its name, mountains, rivers, climate, \u003cbr\u003e\r\nproductions, and chief cities and towns. &#39; AM about to sketch the history and \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOMDLP:agd8957:0001.001"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dMZqSyk5PiBkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dMZqSyk5PiBkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMZqSyk5PiBkC&printsec\u003dfrontcover&dq\u003dBiography+and+Autobiography&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMZqSyk5PiBkC&dq\u003dBiography+and+Autobiography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/TOUSSAINT_L_OUVERTURE_A_BIOGRAPHY_AND_AU.epub?id\u003dMZqSyk5PiBkC&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/TOUSSAINT_L_OUVERTURE_A_BIOGRAPHY_AND_AU.pdf?id\u003dMZqSyk5PiBkC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U26m6IwTNl40rv_FOEkUpn6kf2X7w&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 599
+}

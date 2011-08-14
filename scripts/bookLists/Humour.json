@@ -1,0 +1,542 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "9GNXp45DnGUC",
+   "etag": "CQdC4ba85Pc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9GNXp45DnGUC",
+   "volumeInfo": {
+    "title": "On humour",
+    "authors": [
+     "Simon Critchley"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2002-06-14",
+    "description": "Above all, Simon Critchley argues that humor can tell us much about the human condition, the meaning of life and why comedy itself begins in philosophy.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415251206"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415251204"
+     }
+    ],
+    "pageCount": 132,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d9GNXp45DnGUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d9GNXp45DnGUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9GNXp45DnGUC&printsec\u003dfrontcover&dq\u003dHumour&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9GNXp45DnGUC&dq\u003dHumour&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RHcHAQAAMAAJ",
+   "etag": "2lkAw8tIY3g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RHcHAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Humour",
+    "subtitle": "an anatomy & physiology : mechanisms of humour in English and Romanian humorous verse",
+    "authors": [
+     "Cristina Tătaru"
+    ],
+    "publishedDate": "1999",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9739949010"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789739949019"
+     }
+    ],
+    "pageCount": 266,
+    "printType": "BOOK",
+    "categories": [
+     "Humor"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dRHcHAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dRHcHAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRHcHAQAAMAAJ&q\u003dHumour&dq\u003dHumour&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRHcHAQAAMAAJ&dq\u003dHumour&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oJuGQgAACAAJ",
+   "etag": "lZHdcA8/8eI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oJuGQgAACAAJ",
+   "volumeInfo": {
+    "title": "On humour",
+    "subtitle": "its nature and its place in modern society",
+    "authors": [
+     "Michael Joseph Mulkay"
+    ],
+    "publisher": "Blackwell Pub",
+    "publishedDate": "1988",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0745605435"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780745605432"
+     }
+    ],
+    "pageCount": 232,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doJuGQgAACAAJ&dq\u003dHumour&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doJuGQgAACAAJ&dq\u003dHumour&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hEKuu7nSdDoC",
+   "etag": "XVDxyqBRZbE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hEKuu7nSdDoC",
+   "volumeInfo": {
+    "title": "Taking humour seriously",
+    "authors": [
+     "Jerry Palmer"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1994",
+    "description": "examines those things which prevent enjoyment of humour, and explores the values of comedic enjoyment.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415102669"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415102667"
+     }
+    ],
+    "pageCount": 203,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dhEKuu7nSdDoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dhEKuu7nSdDoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhEKuu7nSdDoC&printsec\u003dfrontcover&dq\u003dHumour&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhEKuu7nSdDoC&dq\u003dHumour&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 33.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 18.33,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dhEKuu7nSdDoC&dq\u003dHumour&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Taking_humour_seriously-sample-epub.acsm?id\u003dhEKuu7nSdDoC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Taking_humour_seriously-sample-pdf.acsm?id\u003dhEKuu7nSdDoC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SfcMAQAAMAAJ",
+   "etag": "et2QP3sZ6Xo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SfcMAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Laughter and ridicule",
+    "subtitle": "towards a social critique of humour",
+    "authors": [
+     "Michael Billig"
+    ],
+    "publisher": "Sage Publications Ltd",
+    "publishedDate": "2005",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015062878098"
+     }
+    ],
+    "pageCount": 264,
+    "printType": "BOOK",
+    "categories": [
+     "Humor"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dSfcMAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dSfcMAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSfcMAQAAMAAJ&q\u003dHumour&dq\u003dHumour&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSfcMAQAAMAAJ&dq\u003dHumour&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LtldDJ-GjLwC",
+   "etag": "PO6O2YMZd64",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LtldDJ-GjLwC",
+   "volumeInfo": {
+    "title": "The language of humour",
+    "authors": [
+     "Alison Ross"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1998",
+    "description": "The Language of Humour: * examines the importance of the social context for humour * explores the issue of gender and humour in areas such as the New Lad ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415169127"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415169127"
+     }
+    ],
+    "pageCount": 118,
+    "printType": "BOOK",
+    "categories": [
+     "Humor"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dLtldDJ-GjLwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dLtldDJ-GjLwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLtldDJ-GjLwC&printsec\u003dfrontcover&dq\u003dHumour&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLtldDJ-GjLwC&dq\u003dHumour&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.55,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dLtldDJ-GjLwC&dq\u003dHumour&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_language_of_humour-sample-epub.acsm?id\u003dLtldDJ-GjLwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_language_of_humour-sample-pdf.acsm?id\u003dLtldDJ-GjLwC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JI9aKq-B5ysC",
+   "etag": "7R5UZdTH2cs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JI9aKq-B5ysC",
+   "volumeInfo": {
+    "title": "Humour and history",
+    "authors": [
+     "Keith Cameron"
+    ],
+    "publisher": "Intellect Books",
+    "publishedDate": "1993",
+    "description": "Keith Cameron \u003cb\u003eHumour\u003c/b\u003e and History Mieulx est de ris que de larmes escrire Pour ce \u003cbr\u003e\r\nque rire est le propre de I&#39;homme. [Better of laughter than of tears to \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1871516803"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781871516807"
+     }
+    ],
+    "pageCount": 158,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dJI9aKq-B5ysC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dJI9aKq-B5ysC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJI9aKq-B5ysC&printsec\u003dfrontcover&dq\u003dHumour&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJI9aKq-B5ysC&dq\u003dHumour&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Humour_and_history-sample-pdf.acsm?id\u003dJI9aKq-B5ysC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zioy07JVHcwC",
+   "etag": "MvJ6poghKJg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zioy07JVHcwC",
+   "volumeInfo": {
+    "title": "Aspects of verbal humour in English",
+    "authors": [
+     "Richard Alexander"
+    ],
+    "publisher": "Gunter Narr Verlag",
+    "publishedDate": "1997",
+    "description": "Chapter 1 \u003cb\u003eHumour\u003c/b\u003e and Verbal \u003cb\u003eHumour\u003c/b\u003e 1 .0 \u003cb\u003eHumour\u003c/b\u003e and language studies What makes \u003cbr\u003e\r\n\u003cb\u003ehumour\u003c/b\u003e of interest to the linguist or the applied linguist? \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3823349368"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783823349365"
+     }
+    ],
+    "pageCount": 217,
+    "printType": "BOOK",
+    "categories": [
+     "English language"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dzioy07JVHcwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dzioy07JVHcwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzioy07JVHcwC&printsec\u003dfrontcover&dq\u003dHumour&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzioy07JVHcwC&dq\u003dHumour&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "r_E8sHpsEl8C",
+   "etag": "mKoWUewCRRk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/r_E8sHpsEl8C",
+   "volumeInfo": {
+    "title": "L'humour",
+    "authors": [
+     "Père OGER"
+    ],
+    "description": "DU MEME AUTEUR * Aux Editions Arthaud, Paris : - Les Anglais chez eux (Série \u003cbr\u003e\r\n\u003cb\u003eHumour\u003c/b\u003e), épuisé - Les Anglais dans l&#39;intimité (Série \u003cb\u003eHumour\u003c/b\u003e), \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "2870950977"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9782870950975"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dr_E8sHpsEl8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dr_E8sHpsEl8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "fr",
+    "previewLink": "http://books.google.com/books?id\u003dr_E8sHpsEl8C&printsec\u003dfrontcover&dq\u003dHumour&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dr_E8sHpsEl8C&dq\u003dHumour&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qdWFyFO94j4C",
+   "etag": "tbT+ETASNTk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qdWFyFO94j4C",
+   "volumeInfo": {
+    "title": "Humour and social protest",
+    "authors": [
+     "Marjolein C. 't Hart",
+     "Dennis Bos"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "2007",
+    "description": "The essays deal with a broad variety of historical and spatial settings, in quite different political structures, from open democratic societies to harsh ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521722144"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521722148"
+     }
+    ],
+    "pageCount": 305,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dqdWFyFO94j4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dqdWFyFO94j4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dqdWFyFO94j4C&printsec\u003dfrontcover&dq\u003dHumour&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dqdWFyFO94j4C&dq\u003dHumour&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 581
+}

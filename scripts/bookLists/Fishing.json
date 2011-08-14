@@ -1,0 +1,533 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Wsok8v2SC_MC",
+   "etag": "6Bj7UQMAt4Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Wsok8v2SC_MC",
+   "volumeInfo": {
+    "title": "Fishing tips & tricks",
+    "authors": [
+     "Greg Breining",
+     "Dick Sternberg"
+    ],
+    "publisher": "Creative Publishing International",
+    "publishedDate": "1990-09-27",
+    "description": "A good fishing tip isn&#39;t a sales pitch for a high-priced, high-tech gizmo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0865730334"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780865730335"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "contentVersion": "2.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dWsok8v2SC_MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dWsok8v2SC_MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWsok8v2SC_MC&printsec\u003dfrontcover&dq\u003dFishing&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWsok8v2SC_MC&dq\u003dFishing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dWsok8v2SC_MC&dq\u003dFishing&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Fishing_tips_tricks-sample-pdf.acsm?id\u003dWsok8v2SC_MC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aNe_HwAACAAJ",
+   "etag": "QPG3N8r87FM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aNe_HwAACAAJ",
+   "volumeInfo": {
+    "title": "Fishing",
+    "authors": [
+     "Henry Gilbey"
+    ],
+    "publisher": "Gardners Books",
+    "publishedDate": "2008-04-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1405328126"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405328128"
+     }
+    ],
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003daNe_HwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003daNe_HwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daNe_HwAACAAJ&dq\u003dFishing&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daNe_HwAACAAJ&dq\u003dFishing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "19BAAAAAIAAJ",
+   "etag": "xyf5hraisEE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/19BAAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Fishing",
+    "authors": [
+     "Henry Cholmondeley-Pennell"
+    ],
+    "publishedDate": "1885",
+    "description": "\u003cb\u003eFISHING\u003c/b\u003e. SALMON AND TROUT. A CHAPTER ON TACKLE AND \u003cb\u003eFISHING\u003c/b\u003e GEAR. Tell me what \u003cbr\u003e\r\nyour tackle is, and I will tell you what your bag is. Angling Paraphrases. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B98662"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Fishes"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d19BAAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d19BAAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d19BAAAAAIAAJ&printsec\u003dfrontcover&dq\u003dFishing&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d19BAAAAAIAAJ&dq\u003dFishing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Fishing.epub?id\u003d19BAAAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Fishing.pdf?id\u003d19BAAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3ELJnMGoG12bAnJHJJ8hP76Qm49g&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CYwsvX3DkPEC",
+   "etag": "e8Xnai3EbWU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CYwsvX3DkPEC",
+   "volumeInfo": {
+    "title": "Fishing",
+    "authors": [
+     "Nick Ross"
+    ],
+    "publisher": "PowerKids Press",
+    "publishedDate": "2009-09-01",
+    "description": "Looks at the sport and recreation of fishing, with information on the equipment and bait used, types of fish, fishing techniques, and the different types of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1435830423"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781435830424"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dCYwsvX3DkPEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dCYwsvX3DkPEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCYwsvX3DkPEC&printsec\u003dfrontcover&dq\u003dFishing&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCYwsvX3DkPEC&dq\u003dFishing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "afZ4gxp4N-8C",
+   "etag": "Q3QcjeLrxQY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/afZ4gxp4N-8C",
+   "volumeInfo": {
+    "title": "Fishing",
+    "subtitle": "An Angler's Dictionary",
+    "authors": [
+     "Henry Beard",
+     "Roy McKie"
+    ],
+    "publisher": "Workman Publishing",
+    "publishedDate": "2002-04-01",
+    "description": "A lexicon with over 200 dead-on definitions for anglers and 50 witty line illustrations, this revised edition is perfectly sized for one of those mysterious ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0761126422"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761126423"
+     }
+    ],
+    "pageCount": 280,
+    "printType": "BOOK",
+    "categories": [
+     "Humor"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dafZ4gxp4N-8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dafZ4gxp4N-8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dafZ4gxp4N-8C&printsec\u003dfrontcover&dq\u003dFishing&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dafZ4gxp4N-8C&dq\u003dFishing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "M5sKKMKXUysC",
+   "etag": "ac/fFG277t4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/M5sKKMKXUysC",
+   "volumeInfo": {
+    "title": "Fishing",
+    "authors": [
+     "Gary Newman"
+    ],
+    "publisher": "Crabtree Pub Co",
+    "publishedDate": "2008-10",
+    "description": "This entertaining book takes a look at the wild and colorful world of fishing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0778737691"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780778737698"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dM5sKKMKXUysC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dM5sKKMKXUysC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dM5sKKMKXUysC&printsec\u003dfrontcover&dq\u003dFishing&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dM5sKKMKXUysC&dq\u003dFishing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wCc9AAAAYAAJ",
+   "etag": "+RSQ76S8/Zk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wCc9AAAAYAAJ",
+   "volumeInfo": {
+    "title": "Fishing",
+    "authors": [
+     "Horace Gordon Hutchinson"
+    ],
+    "publishedDate": "1904",
+    "description": "CHAPTER I THE SALMON FAMILY (SALMONIDjE) Class1f1cation and D1str1but1on By GA \u003cbr\u003e\r\nBoulenger, FRS, VPZS, &amp;c. The Salmonids belong \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HWAWDR"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Fishing"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dwCc9AAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dwCc9AAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwCc9AAAAYAAJ&printsec\u003dfrontcover&dq\u003dFishing&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwCc9AAAAYAAJ&dq\u003dFishing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Fishing.epub?id\u003dwCc9AAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Fishing.pdf?id\u003dwCc9AAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U18OZfgDooxMnCGW-11EhR2SY3pSw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cRf5EKR8KYIC",
+   "etag": "czB4bn11oAg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cRf5EKR8KYIC",
+   "volumeInfo": {
+    "title": "Fishing",
+    "authors": [
+     "George S. Fichter",
+     "Phil Francis",
+     "Tom Dolan"
+    ],
+    "publisher": "Golden Guides from St. Martin's Press",
+    "publishedDate": "2001-02-27",
+    "description": "This compact guide to both salt-and fresh-water fishing will help you to: -Identify the principal sport fishes of North America -Select baits and tackle -Hook ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1582381410"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781582381411"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dcRf5EKR8KYIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dcRf5EKR8KYIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcRf5EKR8KYIC&printsec\u003dfrontcover&dq\u003dFishing&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcRf5EKR8KYIC&dq\u003dFishing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "N4C6l99WwzAC",
+   "etag": "KtrGrIkJPMU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/N4C6l99WwzAC",
+   "volumeInfo": {
+    "title": "Fishing",
+    "authors": [
+     "Ann Love",
+     "Jane Drake",
+     "Pat Cupples"
+    ],
+    "publisher": "Kids Can Pr",
+    "publishedDate": "1997-08-01",
+    "description": "Visits a fishing village in Maine and a salmon hatchery in Alaska to explain the different techniques and equipment used in commercial fishing, and discusses ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1553374223"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781553374220"
+     }
+    ],
+    "pageCount": 31,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dN4C6l99WwzAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dN4C6l99WwzAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dN4C6l99WwzAC&printsec\u003dfrontcover&dq\u003dFishing&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dN4C6l99WwzAC&dq\u003dFishing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WQBJAAAAIAAJ",
+   "etag": "DnEJMbd1+vI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WQBJAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Fishing",
+    "authors": [
+     "Jacques Vanière"
+    ],
+    "publishedDate": "1809",
+    "description": "\u003cb\u003eFISHING Fishing\u003c/b\u003e may probably claim origin with the expiration of the poet&#39;s \u003cbr\u003e\r\ngolden age. When the vitiated palate of man first imbibed the savoury \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B271850"
+     }
+    ],
+    "pageCount": 44,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dWQBJAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dWQBJAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWQBJAAAAIAAJ&printsec\u003dfrontcover&dq\u003dFishing&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWQBJAAAAIAAJ&dq\u003dFishing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Fishing.pdf?id\u003dWQBJAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3CxmvXDlovrUBLmPRLBh96MJrObw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 590
+}

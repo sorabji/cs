@@ -1,0 +1,616 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "x0ep4xGAc2UC",
+   "etag": "gJ2QZtwK7w4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/x0ep4xGAc2UC",
+   "volumeInfo": {
+    "title": "Mystery",
+    "authors": [
+     "Arthur Geisert"
+    ],
+    "publisher": "Houghton Mifflin Books for Children",
+    "publishedDate": "2003-09-01",
+    "description": "Clues in the illustrations give readers a chance to solve the mystery along with the heroine.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0618272933"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780618272938"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dx0ep4xGAc2UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dx0ep4xGAc2UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dx0ep4xGAc2UC&printsec\u003dfrontcover&dq\u003dMystery&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dx0ep4xGAc2UC&dq\u003dMystery&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eYcyOAAACAAJ",
+   "etag": "r2iLuH5HB5U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eYcyOAAACAAJ",
+   "volumeInfo": {
+    "title": "Mystery",
+    "subtitle": "The case of the perfect maid, The third-floor flat, The image in the mirror, The red-headed league",
+    "authors": [
+     "Agatha Christie",
+     "Dorothy Leigh Sayers",
+     "Sir Arthur Conan Doyle"
+    ],
+    "publishedDate": "1989",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0395459966"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780395459966"
+     }
+    ],
+    "pageCount": 151,
+    "printType": "BOOK",
+    "categories": [
+     "Detective and mystery stories"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deYcyOAAACAAJ&dq\u003dMystery&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deYcyOAAACAAJ&dq\u003dMystery&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wP89Ye2xV18C",
+   "etag": "cHSsp/Ec4lY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wP89Ye2xV18C",
+   "volumeInfo": {
+    "title": "Mystery",
+    "authors": [
+     "Peter Straub"
+    ],
+    "publisher": "Anchor",
+    "publishedDate": "2010-01-12",
+    "description": "MYSTERY. Tom Pasmore, ten years old, survives a near fatal accident.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0307472221"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780307472229"
+     }
+    ],
+    "pageCount": 560,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dwP89Ye2xV18C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dwP89Ye2xV18C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwP89Ye2xV18C&printsec\u003dfrontcover&dq\u003dMystery&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwP89Ye2xV18C&dq\u003dMystery&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dwP89Ye2xV18C&dq\u003dMystery&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Mystery-sample-epub.acsm?id\u003dwP89Ye2xV18C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8d_zuJ-H4-UC",
+   "etag": "IcWdKeY55A8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8d_zuJ-H4-UC",
+   "volumeInfo": {
+    "title": "The Pickup Artist",
+    "subtitle": "The New and Improved Art of Seduction",
+    "authors": [
+     "Mystery",
+     "Chris Odom"
+    ],
+    "publisher": "Villard",
+    "publishedDate": "2010-01-26",
+    "description": "The creator of the &quot;Mystery Method&quot; introduced in Neil Strauss&#39;s best-selling The Game imparts salacious techniques for picking up and seducing women, in a ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0345518195"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780345518194"
+     }
+    ],
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d8d_zuJ-H4-UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d8d_zuJ-H4-UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8d_zuJ-H4-UC&printsec\u003dfrontcover&dq\u003dMystery&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8d_zuJ-H4-UC&dq\u003dMystery&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d8d_zuJ-H4-UC&dq\u003dMystery&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Pickup_Artist-sample-epub.acsm?id\u003d8d_zuJ-H4-UC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Pickup_Artist-sample-pdf.acsm?id\u003d8d_zuJ-H4-UC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "epDlSPRlP64C",
+   "etag": "tod3g7HgE1A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/epDlSPRlP64C",
+   "volumeInfo": {
+    "title": "Mystery",
+    "subtitle": "An Alex Delaware Novel",
+    "authors": [
+     "Jonathan Kellerman"
+    ],
+    "publisher": "Ballantine Books",
+    "publishedDate": "2011-03-29",
+    "description": "Investigating the brutal murder of a woman seen at a restaurant closing two nights earlier, LAPD homicide detective Milo Sturgis and psychologist Alex Delaware ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0345505697"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780345505699"
+     }
+    ],
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 54,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003depDlSPRlP64C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003depDlSPRlP64C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003depDlSPRlP64C&printsec\u003dfrontcover&dq\u003dMystery&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003depDlSPRlP64C&dq\u003dMystery&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003depDlSPRlP64C&dq\u003dMystery&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Mystery-sample-epub.acsm?id\u003depDlSPRlP64C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "b757QgAACAAJ",
+   "etag": "Cco3H8F2EPo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/b757QgAACAAJ",
+   "volumeInfo": {
+    "title": "Mystery!",
+    "subtitle": "a celebration : stalking public television's greatest sleuths",
+    "authors": [
+     "Ron Miller",
+     "Karen Sharpe",
+     "Edward Gorey"
+    ],
+    "publisher": "KQED Books & Tapes",
+    "publishedDate": "1996-12-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0912333898"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780912333892"
+     }
+    ],
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003db757QgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003db757QgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003db757QgAACAAJ&dq\u003dMystery&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003db757QgAACAAJ&dq\u003dMystery&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sci19Gnz_ZAC",
+   "etag": "WXsEXofpooo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sci19Gnz_ZAC",
+   "volumeInfo": {
+    "title": "Mystery",
+    "authors": [
+     "John Hamilton"
+    ],
+    "publisher": "ABDO & Daughters",
+    "publishedDate": "2009-01",
+    "description": "Describes how to write mystery fiction, including formulating a plot, creating characters, organizing a work schedule, and getting it published.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1604535075"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781604535075"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dsci19Gnz_ZAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dsci19Gnz_ZAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dsci19Gnz_ZAC&printsec\u003dfrontcover&dq\u003dMystery&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dsci19Gnz_ZAC&dq\u003dMystery&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.66,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dsci19Gnz_ZAC&dq\u003dMystery&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Mystery-sample-pdf.acsm?id\u003dsci19Gnz_ZAC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bWkTVOMii-oC",
+   "etag": "IDspH3Rrgz4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bWkTVOMii-oC",
+   "volumeInfo": {
+    "title": "A Caribbean Mystery",
+    "authors": [
+     "Agatha Christie"
+    ],
+    "publishedDate": "2004-01-06",
+    "description": "Of note: A Caribbean Mystery introduces the wealthy (and difficult) Mr Jason Rafiel, who will call upon Miss Marple for help in Nemesis (1971) -- after his ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0061740055"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780061740053"
+     }
+    ],
+    "pageCount": 100,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 99,
+    "contentVersion": "1.1.0.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dbWkTVOMii-oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dbWkTVOMii-oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbWkTVOMii-oC&printsec\u003dfrontcover&dq\u003dMystery&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbWkTVOMii-oC&dq\u003dMystery&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 6.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 6.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dbWkTVOMii-oC&dq\u003dMystery&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/A_Caribbean_Mystery-sample-epub.acsm?id\u003dbWkTVOMii-oC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Gyzwsc2eFK0C",
+   "etag": "ONVIn0dTmpo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Gyzwsc2eFK0C",
+   "volumeInfo": {
+    "title": "Mystery",
+    "subtitle": "what the answer is",
+    "authors": [
+     "Troll Communications L.L.C."
+    ],
+    "publisher": "Troll Communications",
+    "publishedDate": "1998",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0816745064"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816745067"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dGyzwsc2eFK0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dGyzwsc2eFK0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGyzwsc2eFK0C&q\u003dMystery&dq\u003dMystery&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGyzwsc2eFK0C&dq\u003dMystery&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HFaF-bpOSl8C",
+   "etag": "4Y2wYlvbkaA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HFaF-bpOSl8C",
+   "volumeInfo": {
+    "title": "The Mystery Method",
+    "subtitle": "How to Get Beautiful Women Into Bed",
+    "authors": [
+     "Mystery",
+     "Chris Odom",
+     "Neil Strauss"
+    ],
+    "publisher": "St Martins Pr",
+    "publishedDate": "2007-02-06",
+    "description": "One of the world&#39;s most renowned pick-up artists shares his secrets for approaching, attracting, and enjoying an intimate relationship with beautiful women, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0312360118"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780312360115"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 45,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dHFaF-bpOSl8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dHFaF-bpOSl8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHFaF-bpOSl8C&printsec\u003dfrontcover&dq\u003dMystery&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHFaF-bpOSl8C&dq\u003dMystery&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dHFaF-bpOSl8C&dq\u003dMystery&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Mystery_Method-sample-epub.acsm?id\u003dHFaF-bpOSl8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Mystery_Method-sample-pdf.acsm?id\u003dHFaF-bpOSl8C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 591
+}

@@ -1,0 +1,498 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "jDxHAQAAIAAJ",
+   "etag": "yMYzFltpV2Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jDxHAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Congressional edition",
+    "authors": [
+     "United States. Congress"
+    ],
+    "publishedDate": "1887",
+    "description": "The State blankets are of good quality, and \u003cb\u003euniform\u003c/b\u003e in each company. \u003cb\u003eARMS\u003c/b\u003e AND \u003cbr\u003e\r\nEQUIPMENTS. The \u003cb\u003earms\u003c/b\u003e in the hands of the troops are Sharp&#39;s and Springfield \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B3986322"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003djDxHAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003djDxHAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djDxHAQAAIAAJ&pg\u003dPA236&dq\u003dUniforms+and+Arms&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djDxHAQAAIAAJ&dq\u003dUniforms+and+Arms&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Congressional_edition.pdf?id\u003djDxHAQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3zKMrmjCnF-bET3U0vB8xPlof9NA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hCeTwelSpqEC",
+   "etag": "2XFms27EMGo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hCeTwelSpqEC",
+   "volumeInfo": {
+    "title": "An Oral and Documentary History of the Darfur Genocide",
+    "subtitle": "Volume 1",
+    "authors": [
+     "Samuel Totten"
+    ],
+    "publisher": "Praeger Publishers",
+    "publishedDate": "2011-05",
+    "description": "UNCOI Material, DAR-OTP-0011-0111 at 0018-0019 (“By the government who gave them \u003cbr\u003e\r\n\u003cb\u003euniforms and arms\u003c/b\u003e. The witness knows this because the type of uniforms and \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0313352372"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780313352379"
+     }
+    ],
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dhCeTwelSpqEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dhCeTwelSpqEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhCeTwelSpqEC&pg\u003dPA480&dq\u003dUniforms+and+Arms&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhCeTwelSpqEC&dq\u003dUniforms+and+Arms&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/An_Oral_and_Documentary_History_of_the_D-sample-epub.acsm?id\u003dhCeTwelSpqEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aMcnAAAAYAAJ",
+   "etag": "H6wh9I4W5/o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aMcnAAAAYAAJ",
+   "volumeInfo": {
+    "title": "The Code of Virginia",
+    "subtitle": "with the Declaration of independence and the Constitution of the United States; and the constitution of Virginia",
+    "authors": [
+     "Virginia",
+     "Overton Howard"
+    ],
+    "publishedDate": "1888",
+    "description": "Officers to supply themselves with \u003cb\u003euniforms and arms\u003c/b\u003e. Volunteers to be funished \u003cbr\u003e\r\nby state with arms, Ac. Uniform of volunteers. Arms. Ac. to remain property \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HL3GR5"
+     }
+    ],
+    "pageCount": 1177,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003daMcnAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003daMcnAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daMcnAAAAYAAJ&pg\u003dPA136&dq\u003dUniforms+and+Arms&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daMcnAAAAYAAJ&dq\u003dUniforms+and+Arms&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Code_of_Virginia.pdf?id\u003daMcnAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2aiqKYxtsm1FtQ1Ar3ym-s20TUsg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aEviAAAAMAAJ",
+   "etag": "RU0Afr2jIkA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aEviAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The general statutes of the state of Michigan",
+    "subtitle": "in force ; including the acts of the extra sessions of 1882 ; with notes and digests of the decisions of the Supreme court relating thereto",
+    "authors": [
+     "Michigan"
+    ],
+    "publishedDate": "1882",
+    "description": "All acts heretofore passed by the legislature \u003cb\u003eUniforms and arms\u003c/b\u003e of commissioned \u003cbr\u003e\r\nofficers. Uniforms of non-commissioned officers, how furnished, -etc. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015071275179"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003daEviAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003daEviAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daEviAAAAMAAJ&pg\u003dPA300&dq\u003dUniforms+and+Arms&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daEviAAAAMAAJ&dq\u003dUniforms+and+Arms&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_general_statutes_of_the_state_of_Mic.pdf?id\u003daEviAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3UcJjgoAAZnlbzOcGdE4L3ifPwRA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tnnPHAAACAAJ",
+   "etag": "/c2AmPIhGLk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tnnPHAAACAAJ",
+   "volumeInfo": {
+    "title": "Prohibiting the use of uniforms or arms by certain organizations",
+    "subtitle": "report (to accompany H.R. 7193).",
+    "authors": [
+     "United States. Congress. House. Committee on the Judiciary"
+    ],
+    "publishedDate": "1939",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:28823837"
+     }
+    ],
+    "pageCount": 1,
+    "printType": "BOOK",
+    "categories": [
+     "Military uniforms"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtnnPHAAACAAJ&dq\u003dUniforms+and+Arms&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtnnPHAAACAAJ&dq\u003dUniforms+and+Arms&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DF1pRAAACAAJ",
+   "etag": "3qB8kffi0yc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DF1pRAAACAAJ",
+   "volumeInfo": {
+    "title": "Army and Navy Information; Uniforms, Organizations, Arms and Equipment of the Warring Powers",
+    "authors": [
+     "De Witt Clinton Falls"
+    ],
+    "publishedDate": "2010-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1152868187"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781152868182"
+     }
+    ],
+    "pageCount": 76,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dDF1pRAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dDF1pRAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDF1pRAAACAAJ&dq\u003dUniforms+and+Arms&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDF1pRAAACAAJ&dq\u003dUniforms+and+Arms&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QKNQYgEACAAJ",
+   "etag": "hgmTdXQ+BV4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QKNQYgEACAAJ",
+   "volumeInfo": {
+    "title": "Army and Navy Information; Uniforms, Organization, Arms and Equipment of the Warring Powers",
+    "authors": [
+     "De Witt Clinton Falls"
+    ],
+    "publishedDate": "2010-10-13",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1172047499"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781172047499"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dQKNQYgEACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dQKNQYgEACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQKNQYgEACAAJ&dq\u003dUniforms+and+Arms&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQKNQYgEACAAJ&dq\u003dUniforms+and+Arms&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XR_oRjNZFxsC",
+   "etag": "fyzC7hbdras",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XR_oRjNZFxsC",
+   "volumeInfo": {
+    "title": "Uniforms, Arms, and Equipment: Weapons and accouterments",
+    "authors": [
+     "Douglas C. McChristian"
+    ],
+    "publisher": "University of Oklahoma Press",
+    "publishedDate": "2007-03",
+    "description": "Introduction Just as the United States Army had witnessed sweeping changes in \u003cbr\u003e\r\nits \u003cb\u003euniforms\u003c/b\u003e during the decade of the 1870s, the field equipment and \u003cb\u003earms\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0806137908"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780806137902"
+     }
+    ],
+    "pageCount": 297,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dXR_oRjNZFxsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dXR_oRjNZFxsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXR_oRjNZFxsC&printsec\u003dfrontcover&dq\u003dUniforms+and+Arms&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXR_oRjNZFxsC&dq\u003dUniforms+and+Arms&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CNgZAAAAYAAJ",
+   "etag": "KUlFzXc6HRU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CNgZAAAAYAAJ",
+   "volumeInfo": {
+    "title": "The Revised statutes of the state of New York",
+    "subtitle": "as altered by subsequent legislation: together with the other statutory provisions of a general and permanent nature, (except the Code of civil procedure, the Code of criminal procedure, and the Penal code,) passed from the year 1778 to February 1, 1889, and now in force; arranged in connection with the same or kindred subjects in the Revised statutes; to which are added an analysis of the entire work; references to judicial decision upon the different enactments: explanatory notes: a full and complete alphabetical index; and an indexed table of the statutes contained in the work",
+    "authors": [
+     "New York (State)"
+    ],
+    "publishedDate": "1889",
+    "description": "But in time of peace no \u003cb\u003euniforms\u003c/b\u003e, \u003cb\u003earms\u003c/b\u003e, equipments, or military supplies \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e\r\nCommissioned officers shall provide themselves with the \u003cb\u003euniforms\u003c/b\u003e, \u003cb\u003earms\u003c/b\u003e and \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HL3JJ2"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dCNgZAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dCNgZAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCNgZAAAAYAAJ&pg\u003dPA836&dq\u003dUniforms+and+Arms&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCNgZAAAAYAAJ&dq\u003dUniforms+and+Arms&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Revised_statutes_of_the_state_of_New.pdf?id\u003dCNgZAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2FuRceurV3D18TC6MEz3-ml5wQKg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Zcw7AAAAIAAJ",
+   "etag": "GGdApctO5EE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Zcw7AAAAIAAJ",
+   "volumeInfo": {
+    "title": "Sword, lance & bayonet",
+    "subtitle": "a record of the arms of the British army & navy",
+    "authors": [
+     "Charles John Ffoulkes",
+     "Edward Campbell Hopkinson"
+    ],
+    "publisher": "CUP Archive",
+    "publishedDate": "1967",
+    "description": "\u003cb\u003e...\u003c/b\u003e century drastic changes took place in the uniform and equipment of the Army \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e and in this position produced records of \u003cb\u003euniforms and arms\u003c/b\u003e which are \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:AQU0Q8J935F"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dZcw7AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dZcw7AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZcw7AAAAIAAJ&pg\u003dPA11&dq\u003dUniforms+and+Arms&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZcw7AAAAIAAJ&dq\u003dUniforms+and+Arms&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 590
+}

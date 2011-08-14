@@ -1,0 +1,549 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "zmPiTksnUE8C",
+   "etag": "CAZqiTQcjrA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zmPiTksnUE8C",
+   "volumeInfo": {
+    "title": "Judaism",
+    "authors": [
+     "Norman Solomon"
+    ],
+    "publisher": "Sterling Pub Co Inc",
+    "publishedDate": "2009-10-06",
+    "description": "In his accessible, perceptive introduction to the central features and figures in Judaism, Norman Solomon discusses the religion as a living force, in all its ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1402768842"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781402768842"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dzmPiTksnUE8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dzmPiTksnUE8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzmPiTksnUE8C&printsec\u003dfrontcover&dq\u003dJudaism&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzmPiTksnUE8C&dq\u003dJudaism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NhdoWlrzcg4C",
+   "etag": "x3hrh1DIBBw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NhdoWlrzcg4C",
+   "volumeInfo": {
+    "title": "Judaism",
+    "authors": [
+     "Arye Forta"
+    ],
+    "publisher": "Heinemann Educational Publishers",
+    "publishedDate": "1995-06-20",
+    "description": "Looks at basic Jewish beliefs and traditions, the Jewish year, Judaism in the home, family events, communal life, attitudes, opinions and movements and how ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "043530321X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780435303211"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dNhdoWlrzcg4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dNhdoWlrzcg4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNhdoWlrzcg4C&printsec\u003dfrontcover&dq\u003dJudaism&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNhdoWlrzcg4C&dq\u003dJudaism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bpXUYUO7cg8C",
+   "etag": "Iud02g2Ni/A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bpXUYUO7cg8C",
+   "volumeInfo": {
+    "title": "Living Judaism",
+    "subtitle": "the complete guide to Jewish belief, tradition, and practice",
+    "authors": [
+     "Wayne D. Dosick"
+    ],
+    "publisher": "HarperOne",
+    "publishedDate": "1995",
+    "description": "Organized into short, easy-to-read chapters, an authoritative, wide-ranging, and engaging survey of the Jewish faith, people, literature, and tradition from the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0060621796"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780060621797"
+     }
+    ],
+    "pageCount": 385,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dbpXUYUO7cg8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dbpXUYUO7cg8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbpXUYUO7cg8C&printsec\u003dfrontcover&dq\u003dJudaism&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbpXUYUO7cg8C&dq\u003dJudaism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dbpXUYUO7cg8C&dq\u003dJudaism&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Living_Judaism-sample-epub.acsm?id\u003dbpXUYUO7cg8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7Ue7h9AauuYC",
+   "etag": "tYYeBwKPRW0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7Ue7h9AauuYC",
+   "volumeInfo": {
+    "title": "Judaism",
+    "authors": [
+     "Israel Abrahams"
+    ],
+    "publishedDate": "1907",
+    "description": "\u003cb\u003eJUDAISM\u003c/b\u003e CHAPTER I THE LEGACY FROM THE PAST The aim of this little book is to \u003cbr\u003e\r\npresent in brief outline some of the leading conceptions of the religion \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044054092192"
+     }
+    ],
+    "pageCount": 107,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d7Ue7h9AauuYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d7Ue7h9AauuYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7Ue7h9AauuYC&printsec\u003dfrontcover&dq\u003dJudaism&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7Ue7h9AauuYC&dq\u003dJudaism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Judaism.epub?id\u003d7Ue7h9AauuYC&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Judaism.pdf?id\u003d7Ue7h9AauuYC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2nh_h9_c6z8ePPQPqIEygME8WUAQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "O0tmL8uJx7kC",
+   "etag": "UzdlRTMgfJI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/O0tmL8uJx7kC",
+   "volumeInfo": {
+    "title": "Judaism",
+    "authors": [
+     "Arthur Hertzberg"
+    ],
+    "publisher": "Free Press",
+    "publishedDate": "1998-01-01",
+    "description": "Brantl invited me to do the volume on \u003cb\u003eJudaism\u003c/b\u003e. I accepted on the understanding \u003cbr\u003e\r\nthat I would need the help of a young scholar in finding appropriate texts \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0684852659"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780684852652"
+     }
+    ],
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dO0tmL8uJx7kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dO0tmL8uJx7kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dO0tmL8uJx7kC&printsec\u003dfrontcover&dq\u003dJudaism&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dO0tmL8uJx7kC&dq\u003dJudaism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LOOTVUiCtK4C",
+   "etag": "EummbHFY22Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LOOTVUiCtK4C",
+   "volumeInfo": {
+    "title": "Judaism",
+    "authors": [
+     "Danny Wool"
+    ],
+    "publisher": "Benchmark Books",
+    "publishedDate": "2006-09-01",
+    "description": "&quot;An exploration of the history and origins, basic tenets and beliefs, organization, traditions, customs, rites, societal and historical influences, and modern ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0761421181"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761421184"
+     }
+    ],
+    "pageCount": 127,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dLOOTVUiCtK4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dLOOTVUiCtK4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLOOTVUiCtK4C&printsec\u003dfrontcover&dq\u003dJudaism&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLOOTVUiCtK4C&dq\u003dJudaism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0t7GMrqazNQC",
+   "etag": "fDMsNPkzcRY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0t7GMrqazNQC",
+   "volumeInfo": {
+    "title": "Judaism",
+    "authors": [
+     "Carl S. Ehrlich"
+    ],
+    "publisher": "The Rosen Publishing Group",
+    "publishedDate": "2009-09",
+    "description": "Describes the origins, principal teachings, scriptures, important figures, historical events, and holidays of Judaism.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1435856228"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781435856226"
+     }
+    ],
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d0t7GMrqazNQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d0t7GMrqazNQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0t7GMrqazNQC&printsec\u003dfrontcover&dq\u003dJudaism&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0t7GMrqazNQC&dq\u003dJudaism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Judaism-sample-epub.acsm?id\u003d0t7GMrqazNQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lGyXO3ZSqgkC",
+   "etag": "KafILkFkY8s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lGyXO3ZSqgkC",
+   "volumeInfo": {
+    "title": "Judaism",
+    "authors": [
+     "Isaac Wise"
+    ],
+    "publishedDate": "2009-05-01",
+    "description": "Through these books, scholars, interpreters, students, and non-academics alike can see the thoughts and beliefs of Americans who came before us.&quot;",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1429017848"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781429017848"
+     }
+    ],
+    "pageCount": 88,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dlGyXO3ZSqgkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dlGyXO3ZSqgkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlGyXO3ZSqgkC&printsec\u003dfrontcover&dq\u003dJudaism&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlGyXO3ZSqgkC&dq\u003dJudaism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cWjWalbdJogC",
+   "etag": "uvQRE/k4kTM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cWjWalbdJogC",
+   "volumeInfo": {
+    "title": "Judaism",
+    "subtitle": "a way of being",
+    "authors": [
+     "David Hillel Gelernter"
+    ],
+    "publisher": "Yale Univ Pr",
+    "publishedDate": "2009-11-24",
+    "description": "&quot;Written for observant and non-observant Jews and anyone interested in religion, this remarkable book by the distinguished scholar David Gelernter seeks to ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0300151926"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780300151923"
+     }
+    ],
+    "pageCount": 225,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dcWjWalbdJogC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dcWjWalbdJogC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcWjWalbdJogC&printsec\u003dfrontcover&dq\u003dJudaism&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcWjWalbdJogC&dq\u003dJudaism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.04,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dcWjWalbdJogC&dq\u003dJudaism&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Judaism-sample-epub.acsm?id\u003dcWjWalbdJogC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Judaism-sample-pdf.acsm?id\u003dcWjWalbdJogC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5-YuVyJpSwkC",
+   "etag": "5FSc9aVPgpg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5-YuVyJpSwkC",
+   "volumeInfo": {
+    "title": "Judaism",
+    "description": "\u003cb\u003eJUDAISM\u003c/b\u003e CHAPTER I THE LEGACY FROM THE PAST The aim of this little book is to \u003cbr\u003e\r\npresent in brief outline some of the leading conceptions of the religion \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1451001452"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781451001457"
+     }
+    ],
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d5-YuVyJpSwkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d5-YuVyJpSwkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5-YuVyJpSwkC&printsec\u003dfrontcover&dq\u003dJudaism&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5-YuVyJpSwkC&dq\u003dJudaism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 588
+}

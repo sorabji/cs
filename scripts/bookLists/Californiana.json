@@ -1,0 +1,421 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "9fspQQAACAAJ",
+   "etag": "VYK8d0Kwi2c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9fspQQAACAAJ",
+   "volumeInfo": {
+    "title": "Californiana",
+    "subtitle": "and sketches of the southwest",
+    "authors": [
+     "William M. Bristol"
+    ],
+    "publishedDate": "1901",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:03003118"
+     }
+    ],
+    "pageCount": 131,
+    "printType": "BOOK",
+    "categories": [
+     "California"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9fspQQAACAAJ&dq\u003dCaliforniana&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9fspQQAACAAJ&dq\u003dCaliforniana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dhtXYgEACAAJ",
+   "etag": "U69LzcsSBi0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dhtXYgEACAAJ",
+   "volumeInfo": {
+    "title": "Californiana",
+    "publishedDate": "1943",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:43018619"
+     }
+    ],
+    "pageCount": 111,
+    "printType": "BOOK",
+    "categories": [
+     "California"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddhtXYgEACAAJ&dq\u003dCaliforniana&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddhtXYgEACAAJ&dq\u003dCaliforniana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vKAUAQAAIAAJ",
+   "etag": "YAvvO/Au//Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vKAUAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Californiana",
+    "subtitle": "a bibliography of California bibliographies",
+    "authors": [
+     "Stephen Gould",
+     "Shumway Family History Services"
+    ],
+    "publishedDate": "1990",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105005186452"
+     }
+    ],
+    "pageCount": 116,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "contentVersion": "1.1.0.0.preview.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvKAUAQAAIAAJ&dq\u003dCaliforniana&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvKAUAQAAIAAJ&dq\u003dCaliforniana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KNBaRAAACAAJ",
+   "etag": "hs25hXqw9TQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KNBaRAAACAAJ",
+   "volumeInfo": {
+    "title": "Californiana",
+    "authors": [
+     "Dawson's Book Shop"
+    ],
+    "publishedDate": "1977*",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:11826665"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "California"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKNBaRAAACAAJ&dq\u003dCaliforniana&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKNBaRAAACAAJ&dq\u003dCaliforniana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VmJbtwAACAAJ",
+   "etag": "XfftFMWvVd8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VmJbtwAACAAJ",
+   "volumeInfo": {
+    "title": "Californiana",
+    "subtitle": "broadsides, maps, pamphlets, & c",
+    "authors": [
+     "Alta California Bookstore",
+     "John Swingle"
+    ],
+    "publishedDate": "1958",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:70183029"
+     }
+    ],
+    "pageCount": 46,
+    "printType": "BOOK",
+    "categories": [
+     "Booksellers' catalogs"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVmJbtwAACAAJ&dq\u003dCaliforniana&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVmJbtwAACAAJ&dq\u003dCaliforniana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ceWKHAAACAAJ",
+   "etag": "+PvLoAnp288",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ceWKHAAACAAJ",
+   "volumeInfo": {
+    "title": "Californiana",
+    "subtitle": "books, pamphlets, and broadsides",
+    "authors": [
+     "Anderson Galleries, Inc"
+    ],
+    "publishedDate": "1920",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:58883026"
+     }
+    ],
+    "pageCount": 54,
+    "printType": "BOOK",
+    "categories": [
+     "West (U.S.)"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dceWKHAAACAAJ&dq\u003dCaliforniana&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dceWKHAAACAAJ&dq\u003dCaliforniana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TiUjPAAACAAJ",
+   "etag": "RR6tu/IrUR0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TiUjPAAACAAJ",
+   "volumeInfo": {
+    "title": "Californiana",
+    "subtitle": "catalogue 72 [rare books and documents]",
+    "authors": [
+     "Jenkins Company"
+    ],
+    "publishedDate": "197?",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:58883023"
+     }
+    ],
+    "pageCount": 10,
+    "printType": "BOOK",
+    "categories": [
+     "Rare books"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTiUjPAAACAAJ&dq\u003dCaliforniana&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTiUjPAAACAAJ&dq\u003dCaliforniana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ll_9ZwEACAAJ",
+   "etag": "Z9tkvSnZFYM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ll_9ZwEACAAJ",
+   "volumeInfo": {
+    "title": "Californiana",
+    "authors": [
+     "Newbegin's, bookseller, San Francisco"
+    ],
+    "publishedDate": "1926",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:38699418"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "California"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLl_9ZwEACAAJ&dq\u003dCaliforniana&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLl_9ZwEACAAJ&dq\u003dCaliforniana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Bw0RHAAACAAJ",
+   "etag": "OC0uaqS9Lzo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Bw0RHAAACAAJ",
+   "volumeInfo": {
+    "title": "Californiana",
+    "subtitle": "items collected including his own contributions",
+    "authors": [
+     "Orra Eugene Monnette"
+    ],
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:57586469"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBw0RHAAACAAJ&dq\u003dCaliforniana&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBw0RHAAACAAJ&dq\u003dCaliforniana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "trtHHAAACAAJ",
+   "etag": "peS9eNlrjAU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/trtHHAAACAAJ",
+   "volumeInfo": {
+    "title": "Californiana",
+    "authors": [
+     "Jenkins Company, Austin"
+    ],
+    "publishedDate": "1973",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:226971582"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtrtHHAAACAAJ&dq\u003dCaliforniana&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtrtHHAAACAAJ&dq\u003dCaliforniana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 545
+}

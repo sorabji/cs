@@ -1,0 +1,543 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "qUpOGwAACAAJ",
+   "etag": "+QNBysiEzTY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qUpOGwAACAAJ",
+   "volumeInfo": {
+    "title": "Curricula",
+    "subtitle": "a review of the content, use and generalization capabilities of published curricula for persons with mental retardation",
+    "authors": [
+     "Barbara Frankenfield",
+     "Margaret Downer",
+     "Nisonger Center",
+     "United States. Office of Special Education and Rehabilitative Services"
+    ],
+    "publishedDate": "1981",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:10192338"
+     }
+    ],
+    "pageCount": 166,
+    "printType": "BOOK",
+    "categories": [
+     "Children with mental disabilities"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dqUpOGwAACAAJ&dq\u003dCurricula&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dqUpOGwAACAAJ&dq\u003dCurricula&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HQtag_MpleIC",
+   "etag": "Gkb3SSmzrz0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HQtag_MpleIC",
+   "volumeInfo": {
+    "title": "Designing and Assessing Courses and Curricula",
+    "subtitle": "A Practical Guide",
+    "authors": [
+     "Robert M. Diamond"
+    ],
+    "publisher": "Jossey-Bass",
+    "publishedDate": "2009-11-24",
+    "description": "This edition covers timely topics such as The growing role of faculty in accreditation Scholarship and faculty rewards Teaching and learning research Meeting ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0470614757"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470614754"
+     }
+    ],
+    "pageCount": 512,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dHQtag_MpleIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dHQtag_MpleIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHQtag_MpleIC&printsec\u003dfrontcover&dq\u003dCurricula&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHQtag_MpleIC&dq\u003dCurricula&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FsUtHQAACAAJ",
+   "etag": "aOxxMg6mbgc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FsUtHQAACAAJ",
+   "volumeInfo": {
+    "title": "Curricula",
+    "authors": [
+     "Ohio Health Promotion Network"
+    ],
+    "publishedDate": "1986",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:14074650"
+     }
+    ],
+    "pageCount": 25,
+    "printType": "BOOK",
+    "categories": [
+     "Health education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFsUtHQAACAAJ&dq\u003dCurricula&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFsUtHQAACAAJ&dq\u003dCurricula&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rfsmSzjQ7-wC",
+   "etag": "j6sFVtwbigQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rfsmSzjQ7-wC",
+   "volumeInfo": {
+    "title": "Contentious Curricula",
+    "subtitle": "Afrocentrism and Creationism in American Public Schools",
+    "authors": [
+     "Amy J. Binder"
+    ],
+    "publisher": "Princeton Univ Pr",
+    "publishedDate": "2004-04-19",
+    "description": "This book compares two challenges made to American public school curricula in the 1980s and 1990s.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "069111790X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780691117904"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "0.1.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003drfsmSzjQ7-wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003drfsmSzjQ7-wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003drfsmSzjQ7-wC&printsec\u003dfrontcover&dq\u003dCurricula&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003drfsmSzjQ7-wC&dq\u003dCurricula&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.17,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003drfsmSzjQ7-wC&dq\u003dCurricula&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Contentious_Curricula-sample-epub.acsm?id\u003drfsmSzjQ7-wC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Contentious_Curricula-sample-pdf.acsm?id\u003drfsmSzjQ7-wC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BZn0DPXuausC",
+   "etag": "NcQ8dKwpoZs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BZn0DPXuausC",
+   "volumeInfo": {
+    "title": "Educational curricula",
+    "subtitle": "development and evaluation",
+    "authors": [
+     "Jennifer N. Casey",
+     "Rachel E. Upton"
+    ],
+    "publisher": "Nova Publishers",
+    "publishedDate": "2008-04",
+    "description": "This book presents research on educational curricula from around the world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1604562331"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781604562330"
+     }
+    ],
+    "pageCount": 408,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dBZn0DPXuausC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dBZn0DPXuausC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBZn0DPXuausC&printsec\u003dfrontcover&dq\u003dCurricula&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBZn0DPXuausC&dq\u003dCurricula&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 129.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 103.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dBZn0DPXuausC&dq\u003dCurricula&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Educational_curricula-sample-epub.acsm?id\u003dBZn0DPXuausC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Educational_curricula-sample-pdf.acsm?id\u003dBZn0DPXuausC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sv1QHAAACAAJ",
+   "etag": "0qEY/KxMnBs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sv1QHAAACAAJ",
+   "volumeInfo": {
+    "title": "Curricula",
+    "authors": [
+     "North Dakota. Dept. of Public Instruction"
+    ],
+    "publishedDate": "1987",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:19122057"
+     }
+    ],
+    "pageCount": 77,
+    "printType": "BOOK",
+    "categories": [
+     "Children with disabilities"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dsv1QHAAACAAJ&dq\u003dCurricula&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dsv1QHAAACAAJ&dq\u003dCurricula&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zY5jvHTiRGYC",
+   "etag": "uRrsxioNy+k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zY5jvHTiRGYC",
+   "volumeInfo": {
+    "title": "How to Integrate the Curricula",
+    "authors": [
+     "Robin J. Fogarty",
+     "Robin Fogarty"
+    ],
+    "publisher": "Corwin Press",
+    "publishedDate": "2009-04-15",
+    "description": "This updated resource offers ten models that allow teachers to work together to create learner-centered classrooms by grouping elements from various content ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1412938899"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781412938891"
+     }
+    ],
+    "pageCount": 139,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dzY5jvHTiRGYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dzY5jvHTiRGYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzY5jvHTiRGYC&printsec\u003dfrontcover&dq\u003dCurricula&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzY5jvHTiRGYC&dq\u003dCurricula&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8FTKCaDjhZ0C",
+   "etag": "a5hMr0iAd+s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8FTKCaDjhZ0C",
+   "volumeInfo": {
+    "title": "Standards-Based School Mathematics Curricula",
+    "subtitle": "What Are They? What Do Students Learn?",
+    "authors": [
+     "Sharon L. Senk",
+     "Denisse R. Thompson"
+    ],
+    "publisher": "Lawrence Erlbaum",
+    "publishedDate": "2003-09-01",
+    "description": "Presents the results of a major NSF-funded study to gather, analyze, and synthesize the research on K-12 student outcomes in standards-based mathematics ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0805850287"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780805850284"
+     }
+    ],
+    "pageCount": 536,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d8FTKCaDjhZ0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d8FTKCaDjhZ0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8FTKCaDjhZ0C&printsec\u003dfrontcover&dq\u003dCurricula&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8FTKCaDjhZ0C&dq\u003dCurricula&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kOr34YoN9OYC",
+   "etag": "JNpe8pIpdWs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kOr34YoN9OYC",
+   "volumeInfo": {
+    "title": "Integrating curricula with multiple intelligences",
+    "subtitle": "teams, themes, & threads",
+    "authors": [
+     "Robin Fogarty",
+     "Judy Stoehr"
+    ],
+    "publisher": "Corwin Pr",
+    "publishedDate": "2007-12-11",
+    "description": "The authors demonstrate how to develop higher-order thinking, mindful decision making, and productive problem-solving skills in all students and provide a six ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "141295553X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781412955539"
+     }
+    ],
+    "pageCount": 209,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dkOr34YoN9OYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dkOr34YoN9OYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkOr34YoN9OYC&printsec\u003dfrontcover&dq\u003dCurricula&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkOr34YoN9OYC&dq\u003dCurricula&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kA4TRwd25K4C",
+   "etag": "+EdlJMQcl4s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kA4TRwd25K4C",
+   "volumeInfo": {
+    "title": "Environmental issues in the curricula of international business",
+    "subtitle": "the green imperative",
+    "authors": [
+     "Alma T. Mintu-Wimsatt",
+     "Héctor R. Lozada",
+     "Michael J. Polonsky"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "1993",
+    "description": "This book provides a better understanding of the dramatic implications that environmental concerns are having on the practice of business and on the teaching of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1560244674"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781560244677"
+     }
+    ],
+    "pageCount": 186,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dkA4TRwd25K4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dkA4TRwd25K4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkA4TRwd25K4C&printsec\u003dfrontcover&dq\u003dCurricula&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkA4TRwd25K4C&dq\u003dCurricula&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 598
+}

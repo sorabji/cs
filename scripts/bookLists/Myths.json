@@ -1,0 +1,558 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "KZ8lchnAH8YC",
+   "etag": "pdLnsr4rZJM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KZ8lchnAH8YC",
+   "volumeInfo": {
+    "title": "Greek Myths",
+    "authors": [
+     "Olivia Coolidge"
+    ],
+    "publisher": "Read Books",
+    "publishedDate": "2007-03",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "140676602X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781406766028"
+     }
+    ],
+    "pageCount": 260,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dKZ8lchnAH8YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dKZ8lchnAH8YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKZ8lchnAH8YC&dq\u003dMyths&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKZ8lchnAH8YC&dq\u003dMyths&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "W-OFPwAACAAJ",
+   "etag": "JmI9HF1t2K8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/W-OFPwAACAAJ",
+   "volumeInfo": {
+    "title": "Myths and Legends",
+    "authors": [
+     "Anthony Horowitz"
+    ],
+    "publishedDate": "2009-01-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0753415259"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780753415252"
+     }
+    ],
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 11,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dW-OFPwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dW-OFPwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dW-OFPwAACAAJ&dq\u003dMyths&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dW-OFPwAACAAJ&dq\u003dMyths&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qCwXAAAAYAAJ",
+   "etag": "jlB4Gwyf8sg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qCwXAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Myths and myth-makers",
+    "subtitle": "old tales and superstitions interpreted by comparative mythology",
+    "authors": [
+     "John Fiske"
+    ],
+    "publishedDate": "1865",
+    "description": "\u003cb\u003eMYTHS\u003c/b\u003e AND \u003cb\u003eMYTH\u003c/b\u003e-MAKERS. LEW mediaeval heroes are so widely known as &quot;William _L \u003cbr\u003e\r\nTell. &#39; His exploits have been celebrated by one of the greatest poets and \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HN1GUX"
+     }
+    ],
+    "pageCount": 251,
+    "printType": "BOOK",
+    "categories": [
+     "Folklore"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dqCwXAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dqCwXAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dqCwXAAAAYAAJ&printsec\u003dfrontcover&dq\u003dMyths&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dqCwXAAAAYAAJ&dq\u003dMyths&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Myths_and_myth_makers.epub?id\u003dqCwXAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Myths_and_myth_makers.pdf?id\u003dqCwXAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2hEgjJ_dn4LecVX6oS1sQvAxKacQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kPCgnc70MSgC",
+   "etag": "14qUTtXVVFU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kPCgnc70MSgC",
+   "volumeInfo": {
+    "title": "The Myths of Innovation",
+    "authors": [
+     "Scott Berkun"
+    ],
+    "publisher": "O'Reilly Media, Inc.",
+    "publishedDate": "2010-08-27",
+    "description": "With this book, Berkun sets us free to try to change the world unencumbered with misconceptions about how innovation happens.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1449389627"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781449389628"
+     }
+    ],
+    "pageCount": 225,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 40,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dkPCgnc70MSgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dkPCgnc70MSgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkPCgnc70MSgC&printsec\u003dfrontcover&dq\u003dMyths&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkPCgnc70MSgC&dq\u003dMyths&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dkPCgnc70MSgC&dq\u003dMyths&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bDjXAAAAMAAJ",
+   "etag": "iRuSf15Qhqs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bDjXAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Myths",
+    "authors": [
+     "Alexander Eliot"
+    ],
+    "publishedDate": "1976-10",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "IND:39000005851006"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dbDjXAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dbDjXAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbDjXAAAAMAAJ&q\u003dMyths&dq\u003dMyths&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbDjXAAAAMAAJ&dq\u003dMyths&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ObPRiF7gTYoC",
+   "etag": "YH9VBkyeXyM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ObPRiF7gTYoC",
+   "volumeInfo": {
+    "title": "Myths",
+    "authors": [
+     "Tana Reiff"
+    ],
+    "publisher": "New Readers Pr",
+    "publishedDate": "1991-08",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0883362724"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780883362723"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dObPRiF7gTYoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dObPRiF7gTYoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dObPRiF7gTYoC&q\u003dMyths&dq\u003dMyths&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dObPRiF7gTYoC&dq\u003dMyths&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tDTBLgAACAAJ",
+   "etag": "2uDOz54FUys",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tDTBLgAACAAJ",
+   "volumeInfo": {
+    "title": "Myths",
+    "subtitle": "Tales of the Greek and Roman Gods",
+    "authors": [
+     "Lucia Impelluso"
+    ],
+    "publisher": "Harry N. Abrams",
+    "publishedDate": "2008-09-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0810971445"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780810971448"
+     }
+    ],
+    "pageCount": 780,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dtDTBLgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dtDTBLgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtDTBLgAACAAJ&dq\u003dMyths&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtDTBLgAACAAJ&dq\u003dMyths&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zobXAAAAMAAJ",
+   "etag": "FrfkI7N0Ncc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zobXAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Myths",
+    "subtitle": "Vedic, Buddhist, and Brahmanical",
+    "authors": [
+     "Sukumari Bhattacharji"
+    ],
+    "publishedDate": "2002",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015052962589"
+     }
+    ],
+    "pageCount": 188,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dzobXAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dzobXAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzobXAAAAMAAJ&q\u003dMyths&dq\u003dMyths&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzobXAAAAMAAJ&dq\u003dMyths&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Qy9OmiMB-LgC",
+   "etag": "eN+eucj/bxA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Qy9OmiMB-LgC",
+   "volumeInfo": {
+    "title": "Myths of American slavery",
+    "authors": [
+     "Walter Donald Kennedy"
+    ],
+    "publisher": "Pelican Publishing Company",
+    "publishedDate": "2003",
+    "description": "Far from defending the unjust practice of human slavery, Mr. Kennedy calls for and contributes to a clear-eyed examination of this ancient, and regrettably ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1589800478"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781589800472"
+     }
+    ],
+    "pageCount": 278,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dQy9OmiMB-LgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dQy9OmiMB-LgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQy9OmiMB-LgC&printsec\u003dfrontcover&dq\u003dMyths&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQy9OmiMB-LgC&dq\u003dMyths&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.72,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dQy9OmiMB-LgC&dq\u003dMyths&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Myths_of_American_slavery-sample-epub.acsm?id\u003dQy9OmiMB-LgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Myths_of_American_slavery-sample-pdf.acsm?id\u003dQy9OmiMB-LgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1mYimGovpXYC",
+   "etag": "wBXkfB4ZOq0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1mYimGovpXYC",
+   "volumeInfo": {
+    "title": "Classic Myths to Read Aloud",
+    "subtitle": "The Great Stories of Greek and Roman Mythology, Specially Arranged for Children Five and Up by an Educational Expert",
+    "authors": [
+     "William F. Russell"
+    ],
+    "publisher": "Three Rivers Press",
+    "publishedDate": "1992-04-28",
+    "description": "Presents the essential Greek and Roman myths that form the basis of our cultural literary heritage. Line drawings.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0517588374"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780517588376"
+     }
+    ],
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 21,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d1mYimGovpXYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d1mYimGovpXYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1mYimGovpXYC&printsec\u003dfrontcover&dq\u003dMyths&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1mYimGovpXYC&dq\u003dMyths&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d1mYimGovpXYC&dq\u003dMyths&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Classic_Myths_to_Read_Aloud-sample-epub.acsm?id\u003d1mYimGovpXYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Classic_Myths_to_Read_Aloud-sample-pdf.acsm?id\u003d1mYimGovpXYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 587
+}

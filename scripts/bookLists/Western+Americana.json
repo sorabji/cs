@@ -1,0 +1,441 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "f5oUAQAAMAAJ",
+   "etag": "uxZCBtrylGA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f5oUAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Western Americana",
+    "authors": [
+     "Clark C. Spence"
+    ],
+    "publishedDate": "1975",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015089065992"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003df5oUAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003df5oUAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003df5oUAQAAMAAJ&q\u003dWestern+Americana&dq\u003dWestern+Americana&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003df5oUAQAAMAAJ&dq\u003dWestern+Americana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6dXWAAAAMAAJ",
+   "etag": "qZMGdy8O1pI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6dXWAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Western Americana",
+    "subtitle": "an annotated bibliography to the microfiche collection of 1012 books and documents of the 18th, 19th, and early 20th century",
+    "authors": [
+     "University Microfilms International"
+    ],
+    "publishedDate": "1976",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0835701263"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780835701266"
+     }
+    ],
+    "pageCount": 107,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6dXWAAAAMAAJ&dq\u003dWestern+Americana&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6dXWAAAAMAAJ&dq\u003dWestern+Americana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "S2kZAQAAIAAJ",
+   "etag": "+Dx0EUP/tZ0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/S2kZAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Western Americana, frontier history of the Trans-Mississippi West, 1550-1900",
+    "subtitle": "guide and index to the microfilm edition",
+    "authors": [
+     "Archibald Hanna",
+     "Beinecke Rare Book and Manuscript Library",
+     "Newberry Library"
+    ],
+    "publisher": "Research Publications, 1980",
+    "publishedDate": "1980",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSC:32106020398530"
+     }
+    ],
+    "pageCount": 610,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dS2kZAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dS2kZAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dS2kZAQAAIAAJ&q\u003dWestern+Americana&dq\u003dWestern+Americana&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dS2kZAQAAIAAJ&dq\u003dWestern+Americana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HmHlPwAACAAJ",
+   "etag": "PAu1OduMrIg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HmHlPwAACAAJ",
+   "volumeInfo": {
+    "title": "Western Americana",
+    "subtitle": "Northwest Americana & Montana, Southwest Americana & Remington, general Western Americana",
+    "authors": [
+     "R. D. Warden",
+     "International Bookfinders"
+    ],
+    "publishedDate": "196?",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:41741949"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Montana"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHmHlPwAACAAJ&dq\u003dWestern+Americana&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHmHlPwAACAAJ&dq\u003dWestern+Americana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QiRWAAAACAAJ",
+   "etag": "1UTFE64J9+E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QiRWAAAACAAJ",
+   "volumeInfo": {
+    "title": "Western Americana",
+    "authors": [
+     "W. J. Holliday"
+    ],
+    "publisher": "Oak Knoll Press",
+    "publishedDate": "1999-02",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "157898176X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781578981762"
+     }
+    ],
+    "pageCount": 266,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQiRWAAAACAAJ&dq\u003dWestern+Americana&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQiRWAAAACAAJ&dq\u003dWestern+Americana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VY5KGQAACAAJ",
+   "etag": "YfR/6BrtDEo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VY5KGQAACAAJ",
+   "volumeInfo": {
+    "title": "Western Americana-",
+    "subtitle": "paintings, prints, sculpture, drawings. [The collection of] Dr. Lester E. Bauer, Detroit, Michigan. Public auction Wednesday, October 27 [1971] at 8",
+    "authors": [
+     "Parke-Bernet Galleries",
+     "Lester E. Bauer"
+    ],
+    "publishedDate": "1971",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:597261"
+     }
+    ],
+    "pageCount": 39,
+    "printType": "BOOK",
+    "categories": [
+     "West (U.S.) in art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVY5KGQAACAAJ&dq\u003dWestern+Americana&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVY5KGQAACAAJ&dq\u003dWestern+Americana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_2wsGwAACAAJ",
+   "etag": "Q2d/lvEJIXg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_2wsGwAACAAJ",
+   "volumeInfo": {
+    "title": "Western Americana",
+    "authors": [
+     "William Reese Company"
+    ],
+    "publishedDate": "2004*",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:2005282589"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Rare books"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_2wsGwAACAAJ&dq\u003dWestern+Americana&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_2wsGwAACAAJ&dq\u003dWestern+Americana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LuIvMwAACAAJ",
+   "etag": "OqzPpddWHjo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LuIvMwAACAAJ",
+   "volumeInfo": {
+    "title": "Western Americana",
+    "authors": [
+     "Swann Galleries"
+    ],
+    "publishedDate": "1977",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:171449023"
+     }
+    ],
+    "pageCount": 39,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLuIvMwAACAAJ&dq\u003dWestern+Americana&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLuIvMwAACAAJ&dq\u003dWestern+Americana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yNOqKQEACAAJ",
+   "etag": "5sl6TVJ0Mx8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yNOqKQEACAAJ",
+   "volumeInfo": {
+    "title": "Western Americana",
+    "authors": [
+     "California Book Auction Galleries"
+    ],
+    "publishedDate": "1991",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:171347182"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyNOqKQEACAAJ&dq\u003dWestern+Americana&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyNOqKQEACAAJ&dq\u003dWestern+Americana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nAn6OwAACAAJ",
+   "etag": "EeUBvIszuKQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nAn6OwAACAAJ",
+   "volumeInfo": {
+    "title": "Western Americana",
+    "subtitle": "with other selected Americana ; catalogue number ten",
+    "authors": [
+     "Emmett Harrington Fine Books"
+    ],
+    "publishedDate": "1993*",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:54535252"
+     }
+    ],
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Rare books"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnAn6OwAACAAJ&dq\u003dWestern+Americana&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnAn6OwAACAAJ&dq\u003dWestern+Americana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 581
+}

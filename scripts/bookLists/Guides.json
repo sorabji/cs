@@ -1,0 +1,585 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "14HgvjmKG5YC",
+   "etag": "0NoVTwHrbtQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/14HgvjmKG5YC",
+   "volumeInfo": {
+    "title": "Ask Your Guides",
+    "subtitle": "Connecting to Your Divine Support System",
+    "authors": [
+     "Sonia Choquette"
+    ],
+    "publisher": "Hay House Inc",
+    "publishedDate": "2007-06-01",
+    "description": "This fascinating and inspirational book by Sonia Choquette provides all the information you need to help you connect with your spirit guides so that you can ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1401907873"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781401907877"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 14,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d14HgvjmKG5YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d14HgvjmKG5YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d14HgvjmKG5YC&printsec\u003dfrontcover&dq\u003dGuides&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d14HgvjmKG5YC&dq\u003dGuides&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Ask_Your_Guides-sample-epub.acsm?id\u003d14HgvjmKG5YC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "S-FeQecfhQIC",
+   "etag": "5YSURkgzd2U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/S-FeQecfhQIC",
+   "volumeInfo": {
+    "title": "The Rough Guide to Cyprus",
+    "authors": [
+     "Marc Dubin",
+     "Rough Guides"
+    ],
+    "publisher": "eRough Guides",
+    "publishedDate": "2009-02-02",
+    "description": "The Rough Guide to Cyprus explores every corner of this Mediterranean paradise, from the fine, sandy beaches and wooded hillsides to the ancient churches and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1405384972"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405384971"
+     }
+    ],
+    "pageCount": 496,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dS-FeQecfhQIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dS-FeQecfhQIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dS-FeQecfhQIC&printsec\u003dfrontcover&dq\u003dGuides&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dS-FeQecfhQIC&dq\u003dGuides&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dS-FeQecfhQIC&dq\u003dGuides&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9bhwnVtOa1MC",
+   "etag": "0Ndx1w7PGXY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9bhwnVtOa1MC",
+   "volumeInfo": {
+    "title": "Insight guide Costa Rica",
+    "authors": [
+     "Insight Guides",
+     "Paul Murphy"
+    ],
+    "publisher": "Insight Guides",
+    "publishedDate": "1998-01-01",
+    "description": "A travel series unlike any other, Insight Guides go beyond the sights and into reality.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0887291376"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780887291371"
+     }
+    ],
+    "pageCount": 302,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d9bhwnVtOa1MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d9bhwnVtOa1MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9bhwnVtOa1MC&printsec\u003dfrontcover&dq\u003dGuides&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9bhwnVtOa1MC&dq\u003dGuides&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uRX5zMsCeNgC",
+   "etag": "WDFOGnhOzKk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uRX5zMsCeNgC",
+   "volumeInfo": {
+    "title": "Rough guide to Southeast Asia",
+    "authors": [
+     "Jeremy Atiyah",
+     "Rough Guides"
+    ],
+    "publisher": "Rough Guides Limited",
+    "publishedDate": "2002-10-29",
+    "description": "The Rough Guide to Southeast Asia is the essential handbook to this stunning region, covering nine countries plus Hong Kong and Macau.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1858288932"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781858288932"
+     }
+    ],
+    "pageCount": 1136,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003duRX5zMsCeNgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003duRX5zMsCeNgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003duRX5zMsCeNgC&printsec\u003dfrontcover&dq\u003dGuides&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003duRX5zMsCeNgC&dq\u003dGuides&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AfO9fO2b3d0C",
+   "etag": "gg424ImeGro",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AfO9fO2b3d0C",
+   "volumeInfo": {
+    "title": "The Rough Guide to Classic Novels",
+    "authors": [
+     "Rough Guides",
+     "Simon Mason"
+    ],
+    "publisher": "eRough Guides",
+    "publishedDate": "2008-05-01",
+    "description": "With feature boxes on experimental novels, female novelists, short reviews of interesting film and TV adaptations, and information on how the novel began, this ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1405383828"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405383820"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dAfO9fO2b3d0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dAfO9fO2b3d0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAfO9fO2b3d0C&printsec\u003dfrontcover&dq\u003dGuides&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAfO9fO2b3d0C&dq\u003dGuides&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dAfO9fO2b3d0C&dq\u003dGuides&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Gmvqre8B0cYC",
+   "etag": "Zi1Nfjm69bM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Gmvqre8B0cYC",
+   "volumeInfo": {
+    "title": "The Rough Guide to Evolution",
+    "authors": [
+     "Mark Pallen",
+     "Rough Guides"
+    ],
+    "publishedDate": "2009-01-01",
+    "description": "The Rough Guide to Evolution delves into all of this and more, from the life and works of the eminent scientist to the impact of evolutionary thinking on modern ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1848369387"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781848369382"
+     }
+    ],
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 5,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dGmvqre8B0cYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dGmvqre8B0cYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGmvqre8B0cYC&printsec\u003dfrontcover&dq\u003dGuides&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGmvqre8B0cYC&dq\u003dGuides&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bbbeCZk_uVUC",
+   "etag": "RKGQUzrcUkg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bbbeCZk_uVUC",
+   "volumeInfo": {
+    "title": "The Rough Guide to Bolivia",
+    "authors": [
+     "James Read",
+     "Rough Guides"
+    ],
+    "publisher": "Rough Guides Limited",
+    "publishedDate": "2002-08-01",
+    "description": "This new guide gives detailed accounts of all the major sights from the bustling street markets of La Paz to the tranquil islands of Lake Titicaca, and informed ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1858288479"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781858288475"
+     }
+    ],
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dbbbeCZk_uVUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dbbbeCZk_uVUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbbbeCZk_uVUC&printsec\u003dfrontcover&dq\u003dGuides&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbbbeCZk_uVUC&dq\u003dGuides&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dTE00bLcbPMC",
+   "etag": "sWloS88EK8E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dTE00bLcbPMC",
+   "volumeInfo": {
+    "title": "Rough Guide to the Universe",
+    "authors": [
+     "John Scalzi",
+     "Rough Guide"
+    ],
+    "publisher": "eRough Guides",
+    "publishedDate": "2008-05-01",
+    "description": "Whether you’re a novice or a more experienced astronomer, The Rough Guide to The Universe is indispensable.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1405383704"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405383707"
+     }
+    ],
+    "pageCount": 416,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003ddTE00bLcbPMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003ddTE00bLcbPMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddTE00bLcbPMC&printsec\u003dfrontcover&dq\u003dGuides&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddTE00bLcbPMC&dq\u003dGuides&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003ddTE00bLcbPMC&dq\u003dGuides&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fzO-7pbhMvsC",
+   "etag": "mDNcOnvjKw8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fzO-7pbhMvsC",
+   "volumeInfo": {
+    "title": "The Rough Guide to Corsica",
+    "authors": [
+     "David Abram",
+     "Rough Guides"
+    ],
+    "publisher": "eRough Guides",
+    "publishedDate": "2009-05-01",
+    "description": "The Rough Guide to Corsica is the ultimate travel guide with clear maps and detailed coverage of all the best attractions Corsica has to offer.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1405383860"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405383868"
+     }
+    ],
+    "pageCount": 472,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dfzO-7pbhMvsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dfzO-7pbhMvsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfzO-7pbhMvsC&printsec\u003dfrontcover&dq\u003dGuides&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfzO-7pbhMvsC&dq\u003dGuides&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dfzO-7pbhMvsC&dq\u003dGuides&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7MY0tU_El7EC",
+   "etag": "10+kQW+LeNQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7MY0tU_El7EC",
+   "volumeInfo": {
+    "title": "The Rough Guide to the Dominican Republic",
+    "authors": [
+     "Rough Guides",
+     "Sean Harvey"
+    ],
+    "publisher": "eRough Guides",
+    "publishedDate": "2009-01-01",
+    "description": "The Rough Guide to The Dominican Republic explores every corner of the Caribbean&#39;s most popular destination, from the largest resort areas to secluded hideaways ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1405384484"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405384483"
+     }
+    ],
+    "pageCount": 416,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d7MY0tU_El7EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d7MY0tU_El7EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7MY0tU_El7EC&printsec\u003dfrontcover&dq\u003dGuides&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7MY0tU_El7EC&dq\u003dGuides&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d7MY0tU_El7EC&dq\u003dGuides&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 598
+}

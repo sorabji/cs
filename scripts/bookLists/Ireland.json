@@ -1,0 +1,544 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ACJQ0cgTDJwC",
+   "etag": "jSSQEo06GHs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ACJQ0cgTDJwC",
+   "volumeInfo": {
+    "title": "Ireland",
+    "subtitle": "A Novel",
+    "authors": [
+     "Frank Delaney"
+    ],
+    "publisher": "Harper Paperbacks",
+    "publishedDate": "2008-01-24",
+    "description": "A sprawling, epic &quot;New York Times&quot; bestseller, this tour de force marries the intimate, passionate spirit of the Irish with a grand historical scope to create a ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0061244430"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780061244438"
+     }
+    ],
+    "pageCount": 576,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 321,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dACJQ0cgTDJwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dACJQ0cgTDJwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dACJQ0cgTDJwC&printsec\u003dfrontcover&dq\u003dIreland&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dACJQ0cgTDJwC&dq\u003dIreland&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dACJQ0cgTDJwC&dq\u003dIreland&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Ireland-sample-epub.acsm?id\u003dACJQ0cgTDJwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RfL3QnPMi9oC",
+   "etag": "OTB36f79Nkw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RfL3QnPMi9oC",
+   "volumeInfo": {
+    "title": "Ireland",
+    "authors": [
+     "Fionn Davenport"
+    ],
+    "publishedDate": "2010-01",
+    "description": "Complemented by easy-to use, reliable maps, helpful recommendations, authoritative background information and up-to-date coverage of things to see and do, these ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1741792142"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781741792140"
+     }
+    ],
+    "pageCount": 764,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 11,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dRfL3QnPMi9oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dRfL3QnPMi9oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRfL3QnPMi9oC&printsec\u003dfrontcover&dq\u003dIreland&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRfL3QnPMi9oC&dq\u003dIreland&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.39,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dRfL3QnPMi9oC&dq\u003dIreland&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Ireland-sample-epub.acsm?id\u003dRfL3QnPMi9oC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PLhnAAAAMAAJ",
+   "etag": "TSWuY9E3eD0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PLhnAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Ireland",
+    "subtitle": "the people's history of Ireland",
+    "authors": [
+     "John Frederick Finerty"
+    ],
+    "publishedDate": "1904",
+    "description": "Poynings&#39; Law, which compelled \u003cb\u003eIreland\u003c/b\u003e to submit the heads (provisions) of her \u003cbr\u003e\r\nbills to the English king and Privy Council before they could be acted on by \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015002984386"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Ireland"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dPLhnAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dPLhnAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPLhnAAAAMAAJ&printsec\u003dfrontcover&dq\u003dIreland&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPLhnAAAAMAAJ&dq\u003dIreland&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Ireland.epub?id\u003dPLhnAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Ireland.pdf?id\u003dPLhnAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U27H5FyCp5OXoK1mB0PxVs2OwNCqw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wt0tWQ3mbjYC",
+   "etag": "rTbl4S4/y+g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wt0tWQ3mbjYC",
+   "volumeInfo": {
+    "title": "Ireland",
+    "authors": [
+     "Kathleen W. Deady"
+    ],
+    "publisher": "Capstone Press",
+    "publishedDate": "2005-01-01",
+    "description": "Provides an introduction to the geography, people, animals, and culture of the country of Ireland.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0736847375"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780736847377"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dwt0tWQ3mbjYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dwt0tWQ3mbjYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwt0tWQ3mbjYC&printsec\u003dfrontcover&dq\u003dIreland&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwt0tWQ3mbjYC&dq\u003dIreland&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1xwLMi6RaQcC",
+   "etag": "k5w8zpTofc4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1xwLMi6RaQcC",
+   "volumeInfo": {
+    "title": "Ireland",
+    "subtitle": "a social and cultural history, 1922 to the present",
+    "authors": [
+     "Terence Brown"
+    ],
+    "publisher": "Cornell Univ Pr",
+    "publishedDate": "1981",
+    "description": "Provides a fresh interpretation of the nineteenth-century German masterpiece, describes Goethe&#39;s attitudes towards writers, composers, and artists, and suggests ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0801493498"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780801493492"
+     }
+    ],
+    "pageCount": 302,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d1xwLMi6RaQcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d1xwLMi6RaQcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1xwLMi6RaQcC&printsec\u003dfrontcover&dq\u003dIreland&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1xwLMi6RaQcC&dq\u003dIreland&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "E6YxAQAAIAAJ",
+   "etag": "cXJgBCgct4A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/E6YxAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Ireland",
+    "authors": [
+     "Emily Lawless",
+     "Mrs. Arthur Bronson"
+    ],
+    "publisher": "T. Fisher Unwin",
+    "publishedDate": "1887",
+    "description": "THE STORY OF \u003cb\u003eIRELAND\u003c/b\u003e. 1. PRIMEVAL \u003cb\u003eIRELAND\u003c/b\u003e. &quot;It seems to be certain,&quot; says the \u003cbr\u003e\r\nAbbe McGeo- ghehan, &quot; that \u003cb\u003eIreland\u003c/b\u003e continued uninhabited from the Creation to \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:$B757325"
+     }
+    ],
+    "pageCount": 435,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dE6YxAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dE6YxAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dE6YxAQAAIAAJ&printsec\u003dfrontcover&dq\u003dIreland&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dE6YxAQAAIAAJ&dq\u003dIreland&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Ireland.pdf?id\u003dE6YxAQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3xQxjg2u9OZwSx-nbI_78Dmy25Cw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ev-IOz-9ruAC",
+   "etag": "ClxD6PPUS+Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ev-IOz-9ruAC",
+   "volumeInfo": {
+    "title": "Ireland: its scenery, character, &c",
+    "authors": [
+     "Mrs. S. C. Hall"
+    ],
+    "publishedDate": "1841",
+    "description": "As will therefore be expected, a material change for the better has taken place \u003cbr\u003e\r\nthroughout \u003cb\u003eIreland\u003c/b\u003e — perceptible even in the remotest districts, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044058167784"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dEv-IOz-9ruAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dEv-IOz-9ruAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEv-IOz-9ruAC&printsec\u003dfrontcover&dq\u003dIreland&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEv-IOz-9ruAC&dq\u003dIreland&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Ireland_its_scenery_character_c.pdf?id\u003dEv-IOz-9ruAC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0EgDd3fITMGISc80zmfUKBfcSwig&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "t1kM8IoITH8C",
+   "etag": "UJn2ScL4WWU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/t1kM8IoITH8C",
+   "volumeInfo": {
+    "title": "Ireland",
+    "authors": [
+     "Patricia Levy"
+    ],
+    "publisher": "Benchmark Books (NY)",
+    "publishedDate": "2004-11-15",
+    "description": "Explores the geography, history, government, economy, people, and culture of Ireland.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0761417842"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761417842"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dt1kM8IoITH8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dt1kM8IoITH8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dt1kM8IoITH8C&printsec\u003dfrontcover&dq\u003dIreland&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dt1kM8IoITH8C&dq\u003dIreland&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PyE1BmDTHJ8C",
+   "etag": "irRsmj/gemI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PyE1BmDTHJ8C",
+   "volumeInfo": {
+    "title": "Ireland",
+    "authors": [
+     "Richard Cummins"
+    ],
+    "publisher": "Creative Co",
+    "publishedDate": "2000-08",
+    "description": "Examines the history, landscape, wildlife, structures, people, economy, and weather of Ireland.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1583410325"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781583410325"
+     }
+    ],
+    "pageCount": 31,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dPyE1BmDTHJ8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dPyE1BmDTHJ8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPyE1BmDTHJ8C&printsec\u003dfrontcover&dq\u003dIreland&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPyE1BmDTHJ8C&dq\u003dIreland&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FbQEnY-wT3AC",
+   "etag": "9TCGbAJ226g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FbQEnY-wT3AC",
+   "volumeInfo": {
+    "title": "Ireland",
+    "subtitle": "The Culture",
+    "authors": [
+     "Erinn Banting"
+    ],
+    "publisher": "Crabtree Publishing Company",
+    "publishedDate": "2002",
+    "description": "Introduces Ireland&#39;s religion, holidays, festivals, music, dance, arts, crafts, languages, and folklore.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0778793516"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780778793519"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dFbQEnY-wT3AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dFbQEnY-wT3AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFbQEnY-wT3AC&printsec\u003dfrontcover&dq\u003dIreland&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFbQEnY-wT3AC&dq\u003dIreland&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 582
+}

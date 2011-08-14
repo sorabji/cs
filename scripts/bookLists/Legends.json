@@ -1,0 +1,547 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "pr6RnMSODZIC",
+   "etag": "3nJ4qAZNDng",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pr6RnMSODZIC",
+   "volumeInfo": {
+    "title": "Legends",
+    "subtitle": "short novels by the masters of modern fantasy",
+    "authors": [
+     "Robert Silverberg"
+    ],
+    "publisher": "Tor Fantasy",
+    "publishedDate": "2001-08-21",
+    "description": "A collection of original short novels by such acclaimed authors as Stephen King, Robert Jordan, Anne McCaffrey, Ursula K. Le Guin, Orson Scott Card, and Terry ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0765300354"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780765300355"
+     }
+    ],
+    "pageCount": 715,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 56,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dpr6RnMSODZIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dpr6RnMSODZIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpr6RnMSODZIC&printsec\u003dfrontcover&dq\u003dLegends&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpr6RnMSODZIC&dq\u003dLegends&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Z8-3KVL03UYC",
+   "etag": "W1o1JWYdAxg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Z8-3KVL03UYC",
+   "volumeInfo": {
+    "title": "Indian Legends of the Pacific Northwest",
+    "authors": [
+     "Ella E. Clark",
+     "Robert Bruce Inverarity"
+    ],
+    "publisher": "Univ of California Pr",
+    "publishedDate": "2003",
+    "description": "50th anniversary edition of a perennial best seller. Tales from the oral tradition of the Indians in the Pacific Northwest.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520239261"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520239265"
+     }
+    ],
+    "pageCount": 225,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dZ8-3KVL03UYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dZ8-3KVL03UYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZ8-3KVL03UYC&pg\u003dPA1&dq\u003dLegends&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZ8-3KVL03UYC&dq\u003dLegends&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Indian_Legends_of_the_Pacific_Northwest-sample-epub.acsm?id\u003dZ8-3KVL03UYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "424-AAAAYAAJ",
+   "etag": "WCXGKyTSd0A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/424-AAAAYAAJ",
+   "volumeInfo": {
+    "title": "Legends",
+    "authors": [
+     "Amy Lowell"
+    ],
+    "publishedDate": "1921",
+    "description": "MEMORANDUM CONFIDED BY A YUCCA TO A PASSION-VINE THE Turkey-buzzard was chatting \u003cbr\u003e\r\nwith the Condor High up in the White Cordillera. &quot;Surely our friend the fox \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HWKT2V"
+     }
+    ],
+    "pageCount": 259,
+    "printType": "BOOK",
+    "categories": [
+     "American poetry"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d424-AAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d424-AAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d424-AAAAYAAJ&printsec\u003dfrontcover&dq\u003dLegends&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d424-AAAAYAAJ&dq\u003dLegends&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Legends.epub?id\u003d424-AAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Legends.pdf?id\u003d424-AAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1o2n1AZhrcfyCmHIU1ESqgCu_KjQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wbawAAAAIAAJ",
+   "etag": "xgarLBvBa7Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wbawAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Legends",
+    "subtitle": "a novel of dissimulation",
+    "authors": [
+     "Robert Littell"
+    ],
+    "publisher": "Overlook Pr",
+    "publishedDate": "2005-05-03",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSC:32106018145505"
+     }
+    ],
+    "pageCount": 395,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 26,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dwbawAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dwbawAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwbawAAAAIAAJ&q\u003dLegends&dq\u003dLegends&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwbawAAAAIAAJ&dq\u003dLegends&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2xwzUdZRYBkC",
+   "etag": "2ZzHMdjAVfo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2xwzUdZRYBkC",
+   "volumeInfo": {
+    "title": "Legends",
+    "subtitle": "A Loveswept Classic Romance",
+    "authors": [
+     "Deborah Smith"
+    ],
+    "publisher": "Loveswept",
+    "publishedDate": "2011-08-08",
+    "description": "New York Times bestselling author Deborah Smith evokes the stunning beauty of Scotland in this spin on the clan wars—as a sexy CEO finds himself abducted by a ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0307796663"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780307796660"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "1.1.0.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d2xwzUdZRYBkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d2xwzUdZRYBkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2xwzUdZRYBkC&printsec\u003dfrontcover&dq\u003dLegends&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2xwzUdZRYBkC&dq\u003dLegends&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Legends-sample-epub.acsm?id\u003d2xwzUdZRYBkC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mwWM89I6m4wC",
+   "etag": "G9Tgr4AAM/Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mwWM89I6m4wC",
+   "volumeInfo": {
+    "title": "Legends",
+    "subtitle": "Georgians who lived impossible dreams",
+    "authors": [
+     "Gene Asher"
+    ],
+    "publishedDate": "2005-06-20",
+    "description": "These and untold stories of Georgia Bulldog immortal Charley Trippi, 86-year-old Furman Bisher, who continues to be one of the most prolific sports columnists ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "086554977X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780865549777"
+     }
+    ],
+    "pageCount": 351,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dmwWM89I6m4wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dmwWM89I6m4wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmwWM89I6m4wC&printsec\u003dfrontcover&dq\u003dLegends&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmwWM89I6m4wC&dq\u003dLegends&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dmwWM89I6m4wC&dq\u003dLegends&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Legends-sample-pdf.acsm?id\u003dmwWM89I6m4wC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "K5y_U7fEYegC",
+   "etag": "nNBvR05UZcc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/K5y_U7fEYegC",
+   "volumeInfo": {
+    "title": "Legends",
+    "subtitle": "Hunters and Heroes",
+    "authors": [
+     "Shiloh Walker"
+    ],
+    "publisher": "Samhain Publishing",
+    "publishedDate": "2006-08-15",
+    "description": "He also doesn?t plan on falling in love with the willful, beautiful woman.He can?t let that get in the way?his Pride is counting on him.This book is based in ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1599982080"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781599982083"
+     }
+    ],
+    "pageCount": 212,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dK5y_U7fEYegC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dK5y_U7fEYegC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dK5y_U7fEYegC&printsec\u003dfrontcover&dq\u003dLegends&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dK5y_U7fEYegC&dq\u003dLegends&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZUXEQeebTwkC",
+   "etag": "qs0HlBoZR/g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZUXEQeebTwkC",
+   "volumeInfo": {
+    "title": "Legends",
+    "authors": [
+     "Charles Bronson",
+     "Stephen Richards"
+    ],
+    "publishedDate": "2003-07-01",
+    "description": "AZ Angry Angus I met this \u003cb\u003elegend\u003c/b\u003e in Parkhurst Prison in the early 70s. What a \u003cbr\u003e\r\nnasty bastard! He had to have at least three good arguments a day. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1902578228"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781902578224"
+     }
+    ],
+    "pageCount": 324,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dZUXEQeebTwkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dZUXEQeebTwkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZUXEQeebTwkC&printsec\u003dfrontcover&dq\u003dLegends&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZUXEQeebTwkC&dq\u003dLegends&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LOuOABzEz4gC",
+   "etag": "Q+GJh2U0spQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LOuOABzEz4gC",
+   "volumeInfo": {
+    "title": "Legends",
+    "authors": [
+     "Tom 'Forty Rod' Taylor"
+    ],
+    "publisher": "AuthorHouse",
+    "publishedDate": "2006-05",
+    "description": "Legends is the story of many people and many places, a story repeated many times throughout history, but it is told here through the lives of two young people ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1425920977"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781425920975"
+     }
+    ],
+    "pageCount": 340,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dLOuOABzEz4gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dLOuOABzEz4gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLOuOABzEz4gC&printsec\u003dfrontcover&dq\u003dLegends&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLOuOABzEz4gC&dq\u003dLegends&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Legends-sample-epub.acsm?id\u003dLOuOABzEz4gC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NA0GmTG9NZ0C",
+   "etag": "dS58FJicTx4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NA0GmTG9NZ0C",
+   "volumeInfo": {
+    "title": "Legends!",
+    "subtitle": "a play",
+    "authors": [
+     "James Kirkwood"
+    ],
+    "publisher": "Samuel French, Inc.",
+    "publishedDate": "1987",
+    "description": "\u003cb\u003e...\u003c/b\u003e ( ^ &quot; r &#39; - ^ DOUGLAS W.SCHMIDT FREDDY WITTOP THOMAS SKELTON CLIFFORD \u003cbr\u003e\r\nWILLIAMS BILLING AND CREDIT REQUIREMENTS All producers of \u003cb\u003eLEGENDS\u003c/b\u003e! must give \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0573690448"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780573690440"
+     }
+    ],
+    "pageCount": 114,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dNA0GmTG9NZ0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dNA0GmTG9NZ0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNA0GmTG9NZ0C&printsec\u003dfrontcover&dq\u003dLegends&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNA0GmTG9NZ0C&dq\u003dLegends&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 584
+}

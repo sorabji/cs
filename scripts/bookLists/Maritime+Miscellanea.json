@@ -1,0 +1,483 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "GVwMAQAAIAAJ",
+   "etag": "Yd5GCpXdTrU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GVwMAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Miscellanea II",
+    "subtitle": "articles and texts",
+    "authors": [
+     "Serge L. Levitsky"
+    ],
+    "publishedDate": "1967",
+    "description": "Le Code \u003cb\u003emaritime\u003c/b\u003e de 1961 a aboli les dispositions du domaine du droit \u003cb\u003emaritime\u003c/b\u003e \u003cbr\u003e\r\ndu Code de commerce allemand de 1897. Le code \u003cb\u003emaritime\u003c/b\u003e contient des \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105081423761"
+     }
+    ],
+    "pageCount": 407,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dGVwMAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dGVwMAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGVwMAQAAIAAJ&q\u003dMaritime+Miscellanea&dq\u003dMaritime+Miscellanea&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGVwMAQAAIAAJ&dq\u003dMaritime+Miscellanea&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LhMUAAAAIAAJ",
+   "etag": "Uf+D47PnkFE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LhMUAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Miscellanea",
+    "subtitle": "articles and texts",
+    "authors": [
+     "George Ginsburgs"
+    ],
+    "publishedDate": "1963",
+    "description": "CONTRATS RELATIFS AUX OPERATIONS DE NAVIGATION \u003cb\u003eMARITIME\u003c/b\u003e CHAPITRE I. TRANSPORT DE \u003cbr\u003e\r\nMARCHANDISES /. Dispositions generates relatives au transport de \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105081423712"
+     }
+    ],
+    "pageCount": 457,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dLhMUAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dLhMUAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLhMUAAAAIAAJ&q\u003dMaritime+Miscellanea&dq\u003dMaritime+Miscellanea&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLhMUAAAAIAAJ&dq\u003dMaritime+Miscellanea&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YExiAAAAMAAJ",
+   "etag": "hqrwQjLGMMY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YExiAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Miscellanea",
+    "subtitle": "comprising reviews, lectures, and essays, on historical, theological, and miscellaneous subjects",
+    "authors": [
+     "Martin John Spalding"
+    ],
+    "publishedDate": "1855",
+    "description": "\u003cb\u003e...\u003c/b\u003e in commercial activity and successful \u003cb\u003emaritime\u003c/b\u003e enterprise, during the \u003cbr\u003e\r\nfifteenth, sixteenth, and the greater part of the seventeenth century ; and that\u003cbr\u003e\r\n, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "WISC:89094336518"
+     }
+    ],
+    "pageCount": 639,
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dYExiAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dYExiAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYExiAAAAMAAJ&pg\u003dPA459&dq\u003dMaritime+Miscellanea&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYExiAAAAMAAJ&dq\u003dMaritime+Miscellanea&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Miscellanea.epub?id\u003dYExiAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Miscellanea.pdf?id\u003dYExiAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3loIcLSRWyVvG_gwph7Ap7jU3jIw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZyVWAAAAYAAJ",
+   "etag": "sg0fd3TQrFw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZyVWAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Miscellanea",
+    "authors": [
+     "Sir William Temple"
+    ],
+    "publishedDate": "1705",
+    "description": "Whether we could be able to defend &quot;the \u003cb\u003eMaritime\u003c/b\u003e Provinces, either in our own \u003cbr\u003e\r\nsubjection, or in that of the Prince, whilst France remained possest of all \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PRNC:32101036893871"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "contentVersion": "full-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZyVWAAAAYAAJ&pg\u003dPA43&dq\u003dMaritime+Miscellanea&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZyVWAAAAYAAJ&dq\u003dMaritime+Miscellanea&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Miscellanea.epub?id\u003dZyVWAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Miscellanea.pdf?id\u003dZyVWAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1y69FH_U4PMQu6UeVu1OBnbzxW-w&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cUYFAAAAQAAJ",
+   "etag": "fYYHiCjfx4Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cUYFAAAAQAAJ",
+   "volumeInfo": {
+    "title": "the ladies' companion, and monthly magazine",
+    "publishedDate": "1863",
+    "description": "\u003cb\u003e...\u003c/b\u003e deck-scrapers, hook-blocks, and other \u003cb\u003emaritime miscellanea\u003c/b\u003e,&#39; is now in its \u003cbr\u003e\r\nmost perfect form developed into an instrument of fine-art workmanship. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:555031730"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dcUYFAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dcUYFAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcUYFAAAAQAAJ&pg\u003dRA2-PA278&dq\u003dMaritime+Miscellanea&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcUYFAAAAQAAJ&dq\u003dMaritime+Miscellanea&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/the_ladies_companion_and_monthly_magazin.pdf?id\u003dcUYFAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2PVNmlIix7QUUaXTJRClHSKKb4dQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "j4QWAQAAIAAJ",
+   "etag": "FW2bTILWA9U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/j4QWAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Maritime Tel Michal and Apollonia",
+    "subtitle": "results of the underwater survey 1989-1996",
+    "authors": [
+     "Eva Grossmann"
+    ],
+    "publisher": "British Archaeological Reports",
+    "publishedDate": "2001",
+    "description": "9.4 \u003cb\u003eMiscellanea\u003c/b\u003e Various other objects were found on the seabed, often so \u003cbr\u003e\r\nencrusted that they could hardly be recognized. These include a 3 m long wooden \u003cbr\u003e\r\nlog \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105110536708"
+     }
+    ],
+    "pageCount": 131,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dj4QWAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dj4QWAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dj4QWAQAAIAAJ&q\u003dMaritime+Miscellanea&dq\u003dMaritime+Miscellanea&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dj4QWAQAAIAAJ&dq\u003dMaritime+Miscellanea&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "80oJAAAAIAAJ",
+   "etag": "8SX0KWcc4wI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/80oJAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Miscellanea",
+    "authors": [
+     "Surtees Society"
+    ],
+    "publishedDate": "1861",
+    "description": "\u003cb\u003e...\u003c/b\u003e and was the man whom that party always intended to commit the \u003cb\u003emaritime\u003c/b\u003e \u003cbr\u003e\r\naffairs to, when it should be time to dismiss the Earl of Warwick.&quot; (Clarendon. \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105015984722"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Great Britain"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d80oJAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d80oJAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d80oJAAAAIAAJ&pg\u003dRA1-PA96&dq\u003dMaritime+Miscellanea&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d80oJAAAAIAAJ&dq\u003dMaritime+Miscellanea&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Miscellanea.pdf?id\u003d80oJAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0ftDqIwj7QtEt1T6IVzWIhRgtbNA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OvX9liih9z4C",
+   "etag": "1SnjmwDk/gQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OvX9liih9z4C",
+   "volumeInfo": {
+    "title": "Miscellanea Slavica",
+    "subtitle": "",
+    "authors": [
+     "B. J. Amsenga"
+    ],
+    "publisher": "Editions Rodopi",
+    "publishedDate": "1983",
+    "description": "However, we may not forget that for the economy and \u003cb\u003emaritime\u003c/b\u003e communications of \u003cbr\u003e\r\nTzarist Russia the Black Sea area was of vital interest. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9062036066"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789062036066"
+     }
+    ],
+    "pageCount": 542,
+    "printType": "BOOK",
+    "categories": [
+     "Russian language"
+    ],
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dOvX9liih9z4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dOvX9liih9z4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOvX9liih9z4C&pg\u003dPA163&dq\u003dMaritime+Miscellanea&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOvX9liih9z4C&dq\u003dMaritime+Miscellanea&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CSc2AAAAMAAJ",
+   "etag": "tZOJd4Gzwsk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CSc2AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Miscellanea Aulica",
+    "subtitle": "or, A collection of state-treatises, never before publish'd",
+    "authors": [
+     "Thomas Brown"
+    ],
+    "publishedDate": "1702",
+    "description": "In Flanders they grow less apprehensive of them feeing them so in gaged in the \u003cbr\u003e\r\n\u003cb\u003eMaritime\u003c/b\u003e design, nnd. being strengthned themselves with such an addition of \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015051366147"
+     }
+    ],
+    "pageCount": 455,
+    "printType": "BOOK",
+    "categories": [
+     "Great Britain"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dCSc2AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dCSc2AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCSc2AAAAMAAJ&pg\u003dPA403&dq\u003dMaritime+Miscellanea&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCSc2AAAAMAAJ&dq\u003dMaritime+Miscellanea&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Miscellanea_Aulica.pdf?id\u003dCSc2AAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2w9Y1z586FmWSrfSvu3P1vA2nFZg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ptY9AAAAcAAJ",
+   "etag": "H18JMvF4fLE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ptY9AAAAcAAJ",
+   "volumeInfo": {
+    "title": "Miscellanea Scotica",
+    "subtitle": "A Collection of tracts relating to the History, Antiquities, Topography and Literature of Scotland",
+    "publishedDate": "1818",
+    "description": "improbable, who deduces the Picti from the Aga- thyrsi, ie from the \u003cb\u003emaritime\u003c/b\u003e \u003cbr\u003e\r\ninhabitants of the Baltic sea; or, as he expresses it, from those who came \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "BSB:BSB10281013"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dptY9AAAAcAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dptY9AAAAcAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dptY9AAAAcAAJ&pg\u003dPA68&dq\u003dMaritime+Miscellanea&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dptY9AAAAcAAJ&dq\u003dMaritime+Miscellanea&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Miscellanea_Scotica.epub?id\u003dptY9AAAAcAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Miscellanea_Scotica.pdf?id\u003dptY9AAAAcAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U33cRiy34hktmsuhDhGBPWnjI12eQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 589
+}

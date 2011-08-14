@@ -1,0 +1,555 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "I9dMY47E0jwC",
+   "etag": "CXzKZqZA9Vg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/I9dMY47E0jwC",
+   "volumeInfo": {
+    "title": "The naval officer's guide",
+    "authors": [
+     "William P. Mack",
+     "Harry A. Seymour",
+     "Lesa A. McComas"
+    ],
+    "publisher": "Naval Inst Pr",
+    "publishedDate": "1998-01",
+    "description": "A ready reference for naval officers offers up-to-date information on such topics as shipboard organization, Navy customs and traditions, and the administrative ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1557506450"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781557506450"
+     }
+    ],
+    "pageCount": 394,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dI9dMY47E0jwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dI9dMY47E0jwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dI9dMY47E0jwC&printsec\u003dfrontcover&dq\u003dNaval&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dI9dMY47E0jwC&dq\u003dNaval&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0vomT0cjY9IC",
+   "etag": "PK6EMmUWHJk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0vomT0cjY9IC",
+   "volumeInfo": {
+    "title": "Naval camouflage 1914-1945",
+    "subtitle": "a complete visual reference",
+    "authors": [
+     "David L. Williams"
+    ],
+    "publisher": "Naval Inst Pr",
+    "publishedDate": "2001-11",
+    "description": "This generously illustrated volume will become a standard reference for all naval history bookshelves.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1557504962"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781557504968"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d0vomT0cjY9IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d0vomT0cjY9IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0vomT0cjY9IC&printsec\u003dfrontcover&dq\u003dNaval&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0vomT0cjY9IC&dq\u003dNaval&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_lF1DZ1OPJQC",
+   "etag": "b+QvpBZCgN0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_lF1DZ1OPJQC",
+   "volumeInfo": {
+    "title": "Introduction to naval architecture",
+    "authors": [
+     "Thomas Charles Gillmer",
+     "Bruce Johnson"
+    ],
+    "publisher": "Naval Inst Pr",
+    "publishedDate": "1982-06",
+    "description": "This generously illustrated volume includes numerous example problems and suggestions for additional study.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0870213180"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780870213182"
+     }
+    ],
+    "pageCount": 324,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d_lF1DZ1OPJQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d_lF1DZ1OPJQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_lF1DZ1OPJQC&printsec\u003dfrontcover&dq\u003dNaval&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_lF1DZ1OPJQC&dq\u003dNaval&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wk8PZ5JxkRwC",
+   "etag": "pJVkNmcjJFI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wk8PZ5JxkRwC",
+   "volumeInfo": {
+    "title": "German naval code breakers",
+    "authors": [
+     "Jak P. Mallmann Showell"
+    ],
+    "publisher": "Naval Inst Pr",
+    "publishedDate": "2003-05",
+    "description": "Although the story of the German naval code breakers in World War 2 is less well known than that of the British code breakers at Bletchley Park, their role was ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "159114308X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781591143086"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dwk8PZ5JxkRwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dwk8PZ5JxkRwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwk8PZ5JxkRwC&printsec\u003dfrontcover&dq\u003dNaval&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwk8PZ5JxkRwC&dq\u003dNaval&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0WzSkirva7wC",
+   "etag": "5absWhWu16I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0WzSkirva7wC",
+   "volumeInfo": {
+    "title": "Naval warfare, 1815-1914",
+    "authors": [
+     "Lawrence Sondhaus"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2001",
+    "description": "The three leading fleets of the period (Britain, France and Russia) take precedent, but the book also addresses the decline after 1815 of the Spanish and Dutch ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415214785"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415214780"
+     }
+    ],
+    "pageCount": 263,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d0WzSkirva7wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d0WzSkirva7wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0WzSkirva7wC&printsec\u003dfrontcover&dq\u003dNaval&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0WzSkirva7wC&dq\u003dNaval&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.16,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d0WzSkirva7wC&dq\u003dNaval&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Naval_warfare_1815_1914-sample-epub.acsm?id\u003d0WzSkirva7wC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Naval_warfare_1815_1914-sample-pdf.acsm?id\u003d0WzSkirva7wC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "D9CtPZ9Lph8C",
+   "etag": "wi2HjS19uuI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/D9CtPZ9Lph8C",
+   "volumeInfo": {
+    "title": "The Naval War Of 1812",
+    "authors": [
+     "Theodore Roosevelt"
+    ],
+    "publisher": "Kessinger Pub",
+    "publishedDate": "2004-06",
+    "description": "Published when Theodore Roosevelt was only twenty-three years old, The Naval War of 1812 was immediately hailed as a literary and scholarly triumph, and it is ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1419175327"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781419175329"
+     }
+    ],
+    "pageCount": 238,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dD9CtPZ9Lph8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dD9CtPZ9Lph8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dD9CtPZ9Lph8C&printsec\u003dfrontcover&dq\u003dNaval&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dD9CtPZ9Lph8C&dq\u003dNaval&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wvKiBiWKrzMC",
+   "etag": "How9f+9zlTg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wvKiBiWKrzMC",
+   "volumeInfo": {
+    "title": "Naval ceremonies, customs, and traditions",
+    "authors": [
+     "Royal W. Connell",
+     "William P. Mack"
+    ],
+    "publisher": "Naval Inst Pr",
+    "publishedDate": "2004-04",
+    "description": "This edition fully reflects today&#39;s force while at the same time exploring the maritime history of the United States.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1557503303"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781557503305"
+     }
+    ],
+    "pageCount": 403,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dwvKiBiWKrzMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dwvKiBiWKrzMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwvKiBiWKrzMC&printsec\u003dfrontcover&dq\u003dNaval&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwvKiBiWKrzMC&dq\u003dNaval&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zwFzLVj_Gk8C",
+   "etag": "UClw34wH7g0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zwFzLVj_Gk8C",
+   "volumeInfo": {
+    "title": "Glenview Naval Air Station",
+    "authors": [
+     "Beverly Roberts Dawson"
+    ],
+    "publisher": "Arcadia Publishing",
+    "publishedDate": "2007-01-15",
+    "description": "From humble beginnings as Naval Reserve Aviation Base Chicago, Naval Air Station Glenview (the official U.S. Navy designation) went on to play a vital and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0738541222"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780738541228"
+     }
+    ],
+    "pageCount": 127,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dzwFzLVj_Gk8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dzwFzLVj_Gk8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzwFzLVj_Gk8C&printsec\u003dfrontcover&dq\u003dNaval&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzwFzLVj_Gk8C&dq\u003dNaval&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RlcgBaor_hwC",
+   "etag": "89wpTdYSu2I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RlcgBaor_hwC",
+   "volumeInfo": {
+    "title": "Greek naval strategy and policy, 1910-1919",
+    "authors": [
+     "Zisis Fotakis"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2005-09-20",
+    "description": "This is a naval history of Greece in the 1910s, a decade when the geographic importance of the country and its naval capabilities both increased considerably.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "041535014X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415350143"
+     }
+    ],
+    "pageCount": 223,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dRlcgBaor_hwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dRlcgBaor_hwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRlcgBaor_hwC&printsec\u003dfrontcover&dq\u003dNaval&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRlcgBaor_hwC&dq\u003dNaval&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 170.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 136.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dRlcgBaor_hwC&dq\u003dNaval&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Greek_naval_strategy_and_policy_1910_191-sample-epub.acsm?id\u003dRlcgBaor_hwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Greek_naval_strategy_and_policy_1910_191-sample-pdf.acsm?id\u003dRlcgBaor_hwC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "F3q59-hcGDoC",
+   "etag": "mXVBWVZeO5s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/F3q59-hcGDoC",
+   "volumeInfo": {
+    "title": "Principles of naval weapon systems",
+    "authors": [
+     "Craig M. Payne"
+    ],
+    "publisher": "Naval Inst Pr",
+    "publishedDate": "2006-12",
+    "description": "This new book is the &quot;Rosetta stone&quot; that makes these complicated systems decipherable and understandable.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1591146585"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781591146582"
+     }
+    ],
+    "pageCount": 412,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dF3q59-hcGDoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dF3q59-hcGDoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dF3q59-hcGDoC&printsec\u003dfrontcover&dq\u003dNaval&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dF3q59-hcGDoC&dq\u003dNaval&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 595
+}

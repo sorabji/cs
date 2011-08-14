@@ -1,0 +1,505 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "r0w6AAAAMAAJ",
+   "etag": "rcUrOmrmv8g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/r0w6AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Holidays",
+    "subtitle": "A bibliography of articles relating to holidays",
+    "authors": [
+     "Robert Morrill McCurdy"
+    ],
+    "publishedDate": "1905",
+    "description": "MAR 4 I905 HOLIDAY8 A BIBLIOGRAPHY OF ARTICLES RELATING TO \u003cb\u003eHOLIDAYS\u003c/b\u003e By ROBERT \u003cbr\u003e\r\nMORRILL McCURDY (l3. LSXV State Library School) BOSTON THE BOSTON BOOK CO. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015065671680"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Holidays"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dr0w6AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dr0w6AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dr0w6AAAAMAAJ&printsec\u003dfrontcover&dq\u003dHolidays&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dr0w6AAAAMAAJ&dq\u003dHolidays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Holidays.pdf?id\u003dr0w6AAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U32Azo8QaXp1K9a2p6TYlPsdghzwg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FJjz2OEmjzIC",
+   "etag": "9uLSBnjA/Oc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FJjz2OEmjzIC",
+   "volumeInfo": {
+    "title": "On holidays",
+    "subtitle": "a history of getting away in Australia",
+    "authors": [
+     "Richard White"
+    ],
+    "publisher": "Pluto Press (Australia)",
+    "publishedDate": "2005-06-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1864033207"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781864033205"
+     }
+    ],
+    "pageCount": 233,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "1.0.0.0.preview.2",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFJjz2OEmjzIC&dq\u003dHolidays&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFJjz2OEmjzIC&dq\u003dHolidays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WQvUksSAXR4C",
+   "etag": "Rx/e3AycAQs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WQvUksSAXR4C",
+   "volumeInfo": {
+    "title": "Holidays",
+    "subtitle": "recipes, gifts and decorations, Thanksgiving & Christmas",
+    "authors": [
+     "Martha Stewart",
+     "Martha Stewart Living Magazine"
+    ],
+    "publisher": "Clarkson Potter",
+    "publishedDate": "1994-09-20",
+    "description": "A collection of holiday ideas from the pages of Martha Stewart Living magazine encompasses a host of craft projects, entertainment suggestions, party recipes, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "051788271X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780517882719"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dWQvUksSAXR4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dWQvUksSAXR4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWQvUksSAXR4C&printsec\u003dfrontcover&dq\u003dHolidays&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWQvUksSAXR4C&dq\u003dHolidays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9nrDOAEK7J4C",
+   "etag": "AYLdDwuVjo0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9nrDOAEK7J4C",
+   "volumeInfo": {
+    "title": "Holidays",
+    "authors": [
+     "Dona Herweck Rice"
+    ],
+    "publisher": "Shell Education Pub",
+    "publishedDate": "2005-01",
+    "description": "Authentic, leveled content that helps students practice and develop their nonfiction reading skills.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0743982290"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780743982290"
+     }
+    ],
+    "pageCount": 16,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d9nrDOAEK7J4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d9nrDOAEK7J4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9nrDOAEK7J4C&printsec\u003dfrontcover&dq\u003dHolidays&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9nrDOAEK7J4C&dq\u003dHolidays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Holidays-sample-pdf.acsm?id\u003d9nrDOAEK7J4C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AcCW5ZYmpKYC",
+   "etag": "ZgAlhJlunnI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AcCW5ZYmpKYC",
+   "volumeInfo": {
+    "title": "Holidays",
+    "authors": [
+     "Shimon Apisdorf"
+    ],
+    "publisher": "Leviathan Pr",
+    "publishedDate": "2001-09-15",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1881927229"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781881927228"
+     }
+    ],
+    "pageCount": 94,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dAcCW5ZYmpKYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dAcCW5ZYmpKYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAcCW5ZYmpKYC&q\u003dHolidays&dq\u003dHolidays&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAcCW5ZYmpKYC&dq\u003dHolidays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1SA4AQAAIAAJ",
+   "etag": "6DdyzzB3uEo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1SA4AQAAIAAJ",
+   "volumeInfo": {
+    "title": "Holidays",
+    "authors": [
+     "Harold H. Hart"
+    ],
+    "publishedDate": "1977",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSD:31822015108525"
+     }
+    ],
+    "pageCount": 79,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d1SA4AQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d1SA4AQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1SA4AQAAIAAJ&q\u003dHolidays&dq\u003dHolidays&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1SA4AQAAIAAJ&dq\u003dHolidays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FrjgAAAAMAAJ",
+   "etag": "Vwk2jI7vKeo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FrjgAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Holidays",
+    "subtitle": "lessons and activities for library media centers",
+    "authors": [
+     "H. Thomas Walker",
+     "Paula Kay Montgomery"
+    ],
+    "publisher": "Abc-Clio Inc",
+    "publishedDate": "1990-11",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015024769930"
+     }
+    ],
+    "pageCount": 285,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dFrjgAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dFrjgAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFrjgAAAAMAAJ&q\u003dHolidays&dq\u003dHolidays&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFrjgAAAAMAAJ&dq\u003dHolidays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XSavurlVFhUC",
+   "etag": "iGI8S/duiuk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XSavurlVFhUC",
+   "volumeInfo": {
+    "title": "Holidays",
+    "subtitle": "special ways to celebrate special days",
+    "authors": [
+     "Imogene Forte"
+    ],
+    "publisher": "Incentive Pubns",
+    "publishedDate": "1983-08",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0865300925"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780865300927"
+     }
+    ],
+    "pageCount": 79,
+    "printType": "BOOK",
+    "categories": [
+     "Crafts & Hobbies"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dXSavurlVFhUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dXSavurlVFhUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXSavurlVFhUC&q\u003dHolidays&dq\u003dHolidays&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXSavurlVFhUC&dq\u003dHolidays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EFjgAAAAMAAJ",
+   "etag": "y7zHZWYPpeM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EFjgAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Holidays",
+    "subtitle": "Victorian women celebrate in Pennsylvania",
+    "authors": [
+     "Nada Gray"
+    ],
+    "publisher": "Pennsylvania State University Press",
+    "publishedDate": "1983-12",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "IND:39000005957696"
+     }
+    ],
+    "pageCount": 72,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dEFjgAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dEFjgAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEFjgAAAAMAAJ&q\u003dHolidays&dq\u003dHolidays&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEFjgAAAAMAAJ&dq\u003dHolidays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AcCPIVzRN7oC",
+   "etag": "u/8VSw6Z8ZQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AcCPIVzRN7oC",
+   "volumeInfo": {
+    "title": "Holidays",
+    "subtitle": "Hundreds of Copyright-Free Illustrations : All Ready to Use!",
+    "authors": [
+     "North Light Books"
+    ],
+    "publisher": "North Light Books",
+    "publishedDate": "1992-09",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "089134487X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780891344872"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dAcCPIVzRN7oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dAcCPIVzRN7oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAcCPIVzRN7oC&q\u003dHolidays&dq\u003dHolidays&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAcCPIVzRN7oC&dq\u003dHolidays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 559
+}

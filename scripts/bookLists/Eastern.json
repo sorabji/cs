@@ -1,0 +1,576 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "2ahXWZYegCgC",
+   "etag": "kqWMU1i9MKQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2ahXWZYegCgC",
+   "volumeInfo": {
+    "title": "Eastern standard tribe",
+    "authors": [
+     "Cory Doctorow"
+    ],
+    "publisher": "Tor Books",
+    "publishedDate": "2004-02-17",
+    "description": "&quot; --Rudy Rucker, author of Spaceland &quot;Cory Doctorow doesn&#39;t just write about the future--I think he lives there.&quot; -Kelly Link &quot;Cory Doctorow rocks!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0765307596"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780765307590"
+     }
+    ],
+    "pageCount": 223,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 100,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d2ahXWZYegCgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d2ahXWZYegCgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2ahXWZYegCgC&printsec\u003dfrontcover&dq\u003dEastern&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2ahXWZYegCgC&dq\u003dEastern&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "njJ_y0mLHdAC",
+   "etag": "wYFQMytGgF8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/njJ_y0mLHdAC",
+   "volumeInfo": {
+    "title": "Eastern body, Western mind",
+    "subtitle": "psychology and the chakra system as a path to the self",
+    "authors": [
+     "Anodea Judith"
+    ],
+    "publisher": "Random House Digital, Inc.",
+    "publishedDate": "2004-08-01",
+    "description": "The renowned authority on yoga-based Eastern chakra has revised her groundbreaking work to this more accessible presentation that seamlessly integrates Western ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1587612259"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781587612251"
+     }
+    ],
+    "pageCount": 504,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 49,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dnjJ_y0mLHdAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dnjJ_y0mLHdAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnjJ_y0mLHdAC&printsec\u003dfrontcover&dq\u003dEastern&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnjJ_y0mLHdAC&dq\u003dEastern&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0YZDOZGZaa0C",
+   "etag": "kynFgnVRyac",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0YZDOZGZaa0C",
+   "volumeInfo": {
+    "title": "Eastern Inferno",
+    "subtitle": "The Journals of a German Panzerjäger on the Eastern Front, 1941-43",
+    "authors": [
+     "Christine Alexander",
+     "Mason Kunze"
+    ],
+    "publisher": "Casemate Publishers and Book Distributors",
+    "publishedDate": "2010-11-19",
+    "description": "This book presents the remarkable personal journals of a German soldier who participated in Operation Barbarossa and subsequent battles on the Eastern Front, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1935149474"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781935149477"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d0YZDOZGZaa0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d0YZDOZGZaa0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0YZDOZGZaa0C&printsec\u003dfrontcover&dq\u003dEastern&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0YZDOZGZaa0C&dq\u003dEastern&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d0YZDOZGZaa0C&dq\u003dEastern&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Eastern_Inferno-sample-epub.acsm?id\u003d0YZDOZGZaa0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xt8fydZIT4IC",
+   "etag": "xNO3MhXgWG0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xt8fydZIT4IC",
+   "volumeInfo": {
+    "title": "Near Eastern seals",
+    "authors": [
+     "Dominique Collon"
+    ],
+    "publisher": "Univ of California Pr",
+    "publishedDate": "1990-12-04",
+    "description": "In this first comprehensive introduction to pre-Islamic Near Eastern seals, Dominique Collon discusses cylinder seals--a form unique to the Ancient Near East- ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520073088"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520073081"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dxt8fydZIT4IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dxt8fydZIT4IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxt8fydZIT4IC&printsec\u003dfrontcover&dq\u003dEastern&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxt8fydZIT4IC&dq\u003dEastern&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Snp0vXCTFqEC",
+   "etag": "TfgNdmJcQOQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Snp0vXCTFqEC",
+   "volumeInfo": {
+    "title": "Eastern religions",
+    "subtitle": "origins, beliefs, practices, holy texts, sacred places",
+    "authors": [
+     "Michael David Coogan"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2005-05-06",
+    "description": "An illustrated introduction to five of the great religious traditions of the world examines the principles, practices, tenets, and history of Buddhism, Hinduism ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0195221915"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195221916"
+     }
+    ],
+    "pageCount": 552,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dSnp0vXCTFqEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dSnp0vXCTFqEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSnp0vXCTFqEC&printsec\u003dfrontcover&dq\u003dEastern&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSnp0vXCTFqEC&dq\u003dEastern&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "G2Xk-SZMdbwC",
+   "etag": "tfsBn/5/t+c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G2Xk-SZMdbwC",
+   "volumeInfo": {
+    "title": "Eastern Band Cherokee women",
+    "subtitle": "cultural persistence in their letters and speeches",
+    "authors": [
+     "Virginia Moore Carney"
+    ],
+    "publisher": "Univ of Tennessee Pr",
+    "publishedDate": "2005",
+    "description": "A watershed event, this book unearths three centuries of previously unknown and largely ignored speeches, letters, and other writings from Eastern Band Cherokee ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1572333324"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781572333321"
+     }
+    ],
+    "pageCount": 230,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dG2Xk-SZMdbwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dG2Xk-SZMdbwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dG2Xk-SZMdbwC&printsec\u003dfrontcover&dq\u003dEastern&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dG2Xk-SZMdbwC&dq\u003dEastern&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Qj8wu3eIdOgC",
+   "etag": "3KiA9lBUk/8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Qj8wu3eIdOgC",
+   "volumeInfo": {
+    "title": "Eastern Standard",
+    "authors": [
+     "Richard Greenberg"
+    ],
+    "publisher": "Dramatists Play Service, Inc.",
+    "publishedDate": "1999-06",
+    "description": "ACT II Scene 1 The deck of Stephen&#39;s house. Stephen and Phoebe lie idyllically \u003cbr\u003e\r\nin each other&#39;s arms. A long, rapturous, silent moment. He strokes her hair, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0822203472"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780822203476"
+     }
+    ],
+    "pageCount": 90,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dQj8wu3eIdOgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dQj8wu3eIdOgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQj8wu3eIdOgC&printsec\u003dfrontcover&dq\u003dEastern&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQj8wu3eIdOgC&dq\u003dEastern&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Q_CrFuPWF50C",
+   "etag": "KnelTPo4gEk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Q_CrFuPWF50C",
+   "volumeInfo": {
+    "title": "The Eastern Screech Owl",
+    "subtitle": "Life History, Ecology, and Behavior in the Suburbs and Countryside",
+    "authors": [
+     "Frederick R. Gehlbach"
+    ],
+    "publisher": "TAMU Press",
+    "publishedDate": "2008-11",
+    "description": "This is the first thorough study of major life-history, behavioral, and ecological features of the species.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1603441212"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781603441216"
+     }
+    ],
+    "pageCount": 324,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dQ_CrFuPWF50C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dQ_CrFuPWF50C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQ_CrFuPWF50C&printsec\u003dfrontcover&dq\u003dEastern&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQ_CrFuPWF50C&dq\u003dEastern&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.72,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dQ_CrFuPWF50C&dq\u003dEastern&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Eastern_Screech_Owl-sample-epub.acsm?id\u003dQ_CrFuPWF50C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Eastern_Screech_Owl-sample-pdf.acsm?id\u003dQ_CrFuPWF50C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Bw1YxK315y4C",
+   "etag": "TV/xRnNALNE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Bw1YxK315y4C",
+   "volumeInfo": {
+    "title": "Frommer's Eastern Europe",
+    "authors": [
+     "Ryan James",
+     "Mark Baker",
+     "Hana Mastrini",
+     "Angela Charlton",
+     "Karen Torme Olson",
+     "Keith Bain"
+    ],
+    "publisher": "Frommers",
+    "publishedDate": "2009-03-20",
+    "description": "Travel to Eastern Europe is booming-international arrivals to Eastern Europe have increased by an average of 3.9 percent each year since 2004 Destinations ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0470399082"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470399088"
+     }
+    ],
+    "pageCount": 736,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dBw1YxK315y4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dBw1YxK315y4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBw1YxK315y4C&printsec\u003dfrontcover&dq\u003dEastern&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBw1YxK315y4C&dq\u003dEastern&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dBw1YxK315y4C&dq\u003dEastern&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Frommer_s_Eastern_Europe-sample-pdf.acsm?id\u003dBw1YxK315y4C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EoEJRyAuYPYC",
+   "etag": "YPNyvIDunaw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EoEJRyAuYPYC",
+   "volumeInfo": {
+    "title": "Fishing Eastern New York",
+    "authors": [
+     "Spider Rybaak"
+    ],
+    "publisher": "Falcon Pr Pub Co",
+    "publishedDate": "2003-10-01",
+    "description": "This book guides readers to over 240 fishing locales in New York State.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0762711000"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780762711000"
+     }
+    ],
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dEoEJRyAuYPYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dEoEJRyAuYPYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEoEJRyAuYPYC&printsec\u003dfrontcover&dq\u003dEastern&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEoEJRyAuYPYC&dq\u003dEastern&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 596
+}

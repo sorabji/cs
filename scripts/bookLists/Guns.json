@@ -1,0 +1,605 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "oIa0X7-oiYUC",
+   "etag": "Zk0YW3hVSXU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oIa0X7-oiYUC",
+   "volumeInfo": {
+    "title": "Guns",
+    "authors": [
+     "Phil Bowie"
+    ],
+    "publisher": "Medallion Pr Inc",
+    "publishedDate": "2006-08-01",
+    "description": "A hot-shot pilot with a secret past, Sam Bass finds his old life intruding upon his new one, thanks to unwanted publicity following his rescue of a couple lost ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1932815597"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781932815597"
+     }
+    ],
+    "pageCount": 357,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003doIa0X7-oiYUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003doIa0X7-oiYUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doIa0X7-oiYUC&printsec\u003dfrontcover&dq\u003dGuns&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doIa0X7-oiYUC&dq\u003dGuns&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 6.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003doIa0X7-oiYUC&dq\u003dGuns&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Guns-sample-epub.acsm?id\u003doIa0X7-oiYUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Guns-sample-pdf.acsm?id\u003doIa0X7-oiYUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PWnWRFEGoeUC",
+   "etag": "U4NChe/DKdI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PWnWRFEGoeUC",
+   "volumeInfo": {
+    "title": "Guns, germs, and steel",
+    "subtitle": "the fates of human societies",
+    "authors": [
+     "Jared M. Diamond"
+    ],
+    "publisher": "W. W. Norton & Company",
+    "publishedDate": "1999",
+    "description": "Dismantles racially based theories of human history by revealing the environmental factors he feels are responsible for history&#39;s broadest patterns",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0393317552"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780393317558"
+     }
+    ],
+    "pageCount": 480,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2596,
+    "contentVersion": "2.2.0.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dPWnWRFEGoeUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dPWnWRFEGoeUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPWnWRFEGoeUC&printsec\u003dfrontcover&dq\u003dGuns&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPWnWRFEGoeUC&dq\u003dGuns&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.15,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dPWnWRFEGoeUC&dq\u003dGuns&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Guns_germs_and_steel-sample-epub.acsm?id\u003dPWnWRFEGoeUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oYwvC6VegwMC",
+   "etag": "FPXPDxbRJyw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oYwvC6VegwMC",
+   "volumeInfo": {
+    "title": "Guns of the Old West",
+    "subtitle": "An Illustrated Guide",
+    "authors": [
+     "Charles Edward Chapel"
+    ],
+    "publisher": "Dover Pubns",
+    "publishedDate": "2002-05-21",
+    "description": "Definitive, scrupulously researched work not only tells the dramatic story of shoulder arms, hand guns, percussion and cartridge weapons but also describes the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0486421619"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486421612"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003doYwvC6VegwMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003doYwvC6VegwMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doYwvC6VegwMC&printsec\u003dfrontcover&dq\u003dGuns&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doYwvC6VegwMC&dq\u003dGuns&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4v_z5NsnWdMC",
+   "etag": "p8fytRsnhIg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4v_z5NsnWdMC",
+   "volumeInfo": {
+    "title": "Guns",
+    "subtitle": "What You Should Know",
+    "authors": [
+     "Rachel Schulson"
+    ],
+    "publisher": "Albert Whitman & Co",
+    "publishedDate": "1997-01-01",
+    "description": "Describes different kinds of guns, explains how they are used, warns of possible dangers they present, and spells out simple rules to ensure gun safety.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0807530948"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780807530948"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d4v_z5NsnWdMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d4v_z5NsnWdMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4v_z5NsnWdMC&printsec\u003dfrontcover&dq\u003dGuns&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4v_z5NsnWdMC&dq\u003dGuns&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eT2t8PBVmVMC",
+   "etag": "y+EmwRaVk+k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eT2t8PBVmVMC",
+   "volumeInfo": {
+    "title": "Guns Illustrated",
+    "subtitle": "The Latest Guns, Specs & Prices",
+    "authors": [
+     "Dan Shideler"
+    ],
+    "publisher": "Gun Digest",
+    "publishedDate": "2010-09-18",
+    "description": "Contains descriptions of current domestic and imported guns and includes articles on gun accessories and shooting supplies.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1440213925"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781440213922"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003deT2t8PBVmVMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003deT2t8PBVmVMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deT2t8PBVmVMC&printsec\u003dfrontcover&dq\u003dGuns&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deT2t8PBVmVMC&dq\u003dGuns&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.79,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003deT2t8PBVmVMC&dq\u003dGuns&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nLq3yaVGcT8C",
+   "etag": "RQPNq//dyDA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nLq3yaVGcT8C",
+   "volumeInfo": {
+    "title": "Best Guns",
+    "authors": [
+     "Michael McIntosh"
+    ],
+    "publisher": "Countrysport Pr",
+    "publishedDate": "1999-11-01",
+    "description": "This is McIntosh&#39;s classic book on shotguns in a fully revised and expanded form.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0924357797"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780924357794"
+     }
+    ],
+    "pageCount": 418,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dnLq3yaVGcT8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dnLq3yaVGcT8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnLq3yaVGcT8C&printsec\u003dfrontcover&dq\u003dGuns&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnLq3yaVGcT8C&dq\u003dGuns&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "o6gBg1kF-AYC",
+   "etag": "xO0GHijlR0s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o6gBg1kF-AYC",
+   "volumeInfo": {
+    "title": "Guns, gun control, and elections",
+    "subtitle": "the politics and policy of firearms",
+    "authors": [
+     "Harry L. Wilson"
+    ],
+    "publisher": "Rowman & Littlefield Pub Inc",
+    "publishedDate": "2007",
+    "description": "The book focuses on the utility of gun policy, and its discussion of policy impact is grounded in real-world politics.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0742553485"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780742553484"
+     }
+    ],
+    "pageCount": 277,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003do6gBg1kF-AYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003do6gBg1kF-AYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003do6gBg1kF-AYC&printsec\u003dfrontcover&dq\u003dGuns&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003do6gBg1kF-AYC&dq\u003dGuns&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.16,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003do6gBg1kF-AYC&dq\u003dGuns&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Guns_gun_control_and_elections-sample-epub.acsm?id\u003do6gBg1kF-AYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Guns_gun_control_and_elections-sample-pdf.acsm?id\u003do6gBg1kF-AYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JbcNAAAAQAAJ",
+   "etag": "q3AI8rI7FuU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JbcNAAAAQAAJ",
+   "volumeInfo": {
+    "title": "Guns",
+    "description": "\u003cb\u003e...\u003c/b\u003e Tense and wary, they faced each other in the forest gloom — ape-like man and \u003cbr\u003e\r\nsavage beast. Before the gathering spring could be launched, a heavy stone \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:R31FBJFSSNG"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dJbcNAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dJbcNAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJbcNAAAAQAAJ&printsec\u003dfrontcover&dq\u003dGuns&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJbcNAAAAQAAJ&dq\u003dGuns&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HYOiZg1bYEIC",
+   "etag": "o98GGLsJoeM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HYOiZg1bYEIC",
+   "volumeInfo": {
+    "title": "The bias against guns",
+    "subtitle": "why almost everything you've heard about gun control is wrong",
+    "authors": [
+     "John R. Lott"
+    ],
+    "publisher": "Regnery Publishing",
+    "publishedDate": "2003-03-25",
+    "description": "The author of More Guns, Less Crime continues to argue for looser restrictions on guns as the antidote for crime, attacking mandatory trigger locks and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0895261146"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780895261144"
+     }
+    ],
+    "pageCount": 349,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dHYOiZg1bYEIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dHYOiZg1bYEIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHYOiZg1bYEIC&printsec\u003dfrontcover&dq\u003dGuns&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHYOiZg1bYEIC&dq\u003dGuns&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.36,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.42,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dHYOiZg1bYEIC&dq\u003dGuns&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_bias_against_guns-sample-epub.acsm?id\u003dHYOiZg1bYEIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_bias_against_guns-sample-pdf.acsm?id\u003dHYOiZg1bYEIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "j6cMYKRgqQ8C",
+   "etag": "0d/bd+PMZsU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/j6cMYKRgqQ8C",
+   "volumeInfo": {
+    "title": "More guns, less crime",
+    "subtitle": "understanding crime and gun-control laws",
+    "authors": [
+     "John R. Lott"
+    ],
+    "publisher": "University Of Chicago Press",
+    "publishedDate": "2010-05-15",
+    "description": "Relying on comprehensive data analysis of crime statistics and right-to-carry laws, a controversial book directly challenges common perceptions about the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0226493660"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780226493664"
+     }
+    ],
+    "pageCount": 472,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 21,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dj6cMYKRgqQ8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dj6cMYKRgqQ8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dj6cMYKRgqQ8C&printsec\u003dfrontcover&dq\u003dGuns&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dj6cMYKRgqQ8C&dq\u003dGuns&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dj6cMYKRgqQ8C&dq\u003dGuns&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/More_guns_less_crime-sample-pdf.acsm?id\u003dj6cMYKRgqQ8C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 592
+}

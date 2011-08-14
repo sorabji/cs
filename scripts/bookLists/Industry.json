@@ -1,0 +1,553 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "K-y0AAAAIAAJ",
+   "etag": "jYWkswpeooM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/K-y0AAAAIAAJ",
+   "volumeInfo": {
+    "title": "Industry",
+    "authors": [
+     "Korean Overseas Information Service",
+     "Korea (South). Haeoe Kongbogwan"
+    ],
+    "publishedDate": "1981",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105039420307"
+     }
+    ],
+    "pageCount": 90,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dK-y0AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dK-y0AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dK-y0AAAAIAAJ&q\u003dIndustry&dq\u003dIndustry&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dK-y0AAAAIAAJ&dq\u003dIndustry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VrqK5VdO2i0C",
+   "etag": "QytGMgKO7LE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VrqK5VdO2i0C",
+   "volumeInfo": {
+    "title": "The Holocaust industry",
+    "subtitle": "reflections on the exploitation of Jewish suffering",
+    "authors": [
+     "Norman G. Finkelstein"
+    ],
+    "publisher": "Verso Books",
+    "publishedDate": "2003",
+    "description": "In a devastating new postscript to this best-selling book, Norman G. Finkelstein documents the Holocaust industry&#39;s scandalous cover-up of the blackmail of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "185984488X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781859844885"
+     }
+    ],
+    "pageCount": 286,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 32,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dVrqK5VdO2i0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dVrqK5VdO2i0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVrqK5VdO2i0C&printsec\u003dfrontcover&dq\u003dIndustry&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVrqK5VdO2i0C&dq\u003dIndustry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Holocaust_industry-sample-epub.acsm?id\u003dVrqK5VdO2i0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UAntAAAAMAAJ",
+   "etag": "57grOwQqbwg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UAntAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Industry",
+    "authors": [
+     "Ho-jin Chʻoe"
+    ],
+    "publishedDate": "1972",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015014175957"
+     }
+    ],
+    "pageCount": 75,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dUAntAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dUAntAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUAntAAAAMAAJ&q\u003dIndustry&dq\u003dIndustry&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUAntAAAAMAAJ&dq\u003dIndustry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-lw-AQAAIAAJ",
+   "etag": "LBZpK5N8PZA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-lw-AQAAIAAJ",
+   "volumeInfo": {
+    "title": "Industry",
+    "subtitle": "a magazine devoted to science, engineering, and the mechanic arts, especially on the Pacific Coast",
+    "publishedDate": "1894",
+    "description": "&quot;\u003cb\u003eINDUSTRY\u003c/b\u003e.&quot; JOHN RICHARDS, EDITOR. IMPRESSIONS OF A MECHANICAL ENGINEER AT THE \u003cbr\u003e\r\nWORLD&#39;S COLUMBIAN EXPOSITION* By Geo. W. Dickie, Mem. Tech. Soc. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105026533385"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d-lw-AQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d-lw-AQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-lw-AQAAIAAJ&pg\u003dPA1&dq\u003dIndustry&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-lw-AQAAIAAJ&dq\u003dIndustry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Industry.pdf?id\u003d-lw-AQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1ZRjy8n6lAphmnZsH-ec704pCfYQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tHWLHAAACAAJ",
+   "etag": "6ee4q+E0dDc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tHWLHAAACAAJ",
+   "volumeInfo": {
+    "title": "Industry",
+    "authors": [
+     "Martin Sherwood"
+    ],
+    "publisher": "Franklin Watts",
+    "publishedDate": "1982",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "053104436X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780531044360"
+     }
+    ],
+    "pageCount": 38,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtHWLHAAACAAJ&dq\u003dIndustry&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtHWLHAAACAAJ&dq\u003dIndustry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lcUiT-lRv5EC",
+   "etag": "3tdFtPsso8I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lcUiT-lRv5EC",
+   "volumeInfo": {
+    "title": "Biotech industry",
+    "subtitle": "a global, economic, and financing overview",
+    "authors": [
+     "Bryan P. Bergeron",
+     "Paul Chan"
+    ],
+    "publisher": "Wiley",
+    "publishedDate": "2004-01-20",
+    "description": "This book is essential reading for the executive who desires a thorough understanding of this business and its potential.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0471465615"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780471465614"
+     }
+    ],
+    "pageCount": 362,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dlcUiT-lRv5EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dlcUiT-lRv5EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlcUiT-lRv5EC&printsec\u003dfrontcover&dq\u003dIndustry&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlcUiT-lRv5EC&dq\u003dIndustry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 129.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 129.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dlcUiT-lRv5EC&dq\u003dIndustry&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Biotech_industry-sample-pdf.acsm?id\u003dlcUiT-lRv5EC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CAYnPA-PjcoC",
+   "etag": "3NV+893iBh4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CAYnPA-PjcoC",
+   "volumeInfo": {
+    "title": "The Japanese electronics industry",
+    "subtitle": "Wataru Nakayama, William Boulton, Michael Pecht",
+    "authors": [
+     "Wataru Nakayama",
+     "William Boulton",
+     "Michael Pecht"
+    ],
+    "publisher": "CRC",
+    "publishedDate": "1999-06-25",
+    "description": "The explosive growth of the Japanese electronics industry continues to be driven by a combination of market forces and the unique characteristics of the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1584880260"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781584880264"
+     }
+    ],
+    "pageCount": 139,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dCAYnPA-PjcoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dCAYnPA-PjcoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCAYnPA-PjcoC&printsec\u003dfrontcover&dq\u003dIndustry&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCAYnPA-PjcoC&dq\u003dIndustry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Q8BbW6sNiSwC",
+   "etag": "jnsba6WshjU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Q8BbW6sNiSwC",
+   "volumeInfo": {
+    "title": "Training within industry",
+    "subtitle": "the foundation of lean",
+    "authors": [
+     "Donald A. Dinero"
+    ],
+    "publisher": "Productivity Pr",
+    "publishedDate": "2005-05-27",
+    "description": "It establishes a framework for efficiency and innovation. /p p In addition, the book includes a CD containing the text of original TWI bulletins issued by the U ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1563273071"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781563273070"
+     }
+    ],
+    "pageCount": 329,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dQ8BbW6sNiSwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dQ8BbW6sNiSwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQ8BbW6sNiSwC&printsec\u003dfrontcover&dq\u003dIndustry&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQ8BbW6sNiSwC&dq\u003dIndustry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B8Nexoo1pUIC",
+   "etag": "0L47J/dhdN4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B8Nexoo1pUIC",
+   "volumeInfo": {
+    "title": "The book publishing industry",
+    "authors": [
+     "Albert N. Greco"
+    ],
+    "publisher": "Lawrence Erlbaum",
+    "publishedDate": "2005",
+    "description": "Volume provides an overview of the book publishing industry and includes details about editorial, marketing, and production as well as industry issues such as ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0805848525"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780805848526"
+     }
+    ],
+    "pageCount": 385,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dB8Nexoo1pUIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dB8Nexoo1pUIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dB8Nexoo1pUIC&printsec\u003dfrontcover&dq\u003dIndustry&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dB8Nexoo1pUIC&dq\u003dIndustry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 55.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 43.08,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dB8Nexoo1pUIC&dq\u003dIndustry&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_book_publishing_industry-sample-epub.acsm?id\u003dB8Nexoo1pUIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_book_publishing_industry-sample-pdf.acsm?id\u003dB8Nexoo1pUIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xpIfJ6P7uUwC",
+   "etag": "w5eeUTUXlgA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xpIfJ6P7uUwC",
+   "volumeInfo": {
+    "title": "Fundamentals of the securities industry",
+    "authors": [
+     "William A. Rini"
+    ],
+    "publisher": "McGraw-Hill Companies",
+    "publishedDate": "2002-07-26",
+    "description": "The Fundamentals of the Securities Industry removes the guesswork, providing a broad-ranging introduction to how the securities industry works and how its ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0071403183"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071403184"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dxpIfJ6P7uUwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dxpIfJ6P7uUwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxpIfJ6P7uUwC&printsec\u003dfrontcover&dq\u003dIndustry&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxpIfJ6P7uUwC&dq\u003dIndustry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 32.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 18.12,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dxpIfJ6P7uUwC&dq\u003dIndustry&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Fundamentals_of_the_securities_industry-sample-pdf.acsm?id\u003dxpIfJ6P7uUwC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 600
+}

@@ -1,0 +1,512 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "-ZAXAAAAMAAJ",
+   "etag": "EzuxapwZfmk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-ZAXAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Bookbinding for beginners",
+    "authors": [
+     "Florence Ordway Bean",
+     "John C. Brodhead"
+    ],
+    "publishedDate": "1914",
+    "description": "It should be noted that its industrial significance is much wider than its title\u003cbr\u003e\r\n, &quot;\u003cb\u003eBookbinding\u003c/b\u003e for Beginners,&quot; would indicate, as even a hasty examination \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015033597306"
+     }
+    ],
+    "pageCount": 82,
+    "printType": "BOOK",
+    "categories": [
+     "Bookbinding"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d-ZAXAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d-ZAXAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-ZAXAAAAMAAJ&printsec\u003dfrontcover&dq\u003dBookbinding&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-ZAXAAAAMAAJ&dq\u003dBookbinding&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Bookbinding_for_beginners.pdf?id\u003d-ZAXAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2whx6-uLT7deqKBhyItU8UwzhKWw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WdIoAAAAYAAJ",
+   "etag": "9eRrMaj1f3M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WdIoAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Bookbinding, and the care of books",
+    "subtitle": "a text-book for bookbinders and librarians",
+    "authors": [
+     "Douglas Cockerell"
+    ],
+    "publishedDate": "1901",
+    "description": "PART I BINDING CHAPTER I INTRODUCTION The reasons for binding the leaves of a \u003cbr\u003e\r\nIntro- book are to keep them together in their Auction proper order, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HB1F6V"
+     }
+    ],
+    "pageCount": 325,
+    "printType": "BOOK",
+    "categories": [
+     "Bookbinding"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dWdIoAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dWdIoAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWdIoAAAAYAAJ&printsec\u003dfrontcover&dq\u003dBookbinding&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWdIoAAAAYAAJ&dq\u003dBookbinding&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Bookbinding_and_the_care_of_books.pdf?id\u003dWdIoAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0fMGjGLXLKbWoVriVoNjrRaXj5_w&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5I2T79qKjYwC",
+   "etag": "u3imCTMdqVU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5I2T79qKjYwC",
+   "volumeInfo": {
+    "title": "The art of bookbinding",
+    "authors": [
+     "Joseph William Zaehnsdorf"
+    ],
+    "publishedDate": "1880",
+    "description": "®It^ girt 4 §0diMiuBny, CHAPTER I. FOLDING. &quot;We commence with folding. It is \u003cbr\u003e\r\ngenerally the first thing the binder has to do with a book. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044011660412"
+     }
+    ],
+    "pageCount": 187,
+    "printType": "BOOK",
+    "categories": [
+     "Bookbinding"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d5I2T79qKjYwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d5I2T79qKjYwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5I2T79qKjYwC&printsec\u003dfrontcover&dq\u003dBookbinding&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5I2T79qKjYwC&dq\u003dBookbinding&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_art_of_bookbinding.pdf?id\u003d5I2T79qKjYwC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U18YEg_hMvp5TJADkWS5X4aXfoDyQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pRiCQgAACAAJ",
+   "etag": "sE7UbRr6dqc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pRiCQgAACAAJ",
+   "volumeInfo": {
+    "title": "Bookbinding",
+    "subtitle": "A Manual of Techniques",
+    "authors": [
+     "Pamela Richmond"
+    ],
+    "publisher": "Crowood Pr",
+    "publishedDate": "1995-08",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1852238860"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781852238865"
+     }
+    ],
+    "pageCount": 158,
+    "printType": "BOOK",
+    "categories": [
+     "Crafts & Hobbies"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dpRiCQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dpRiCQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpRiCQgAACAAJ&dq\u003dBookbinding&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpRiCQgAACAAJ&dq\u003dBookbinding&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VHUTB4dxtbsC",
+   "etag": "go5+khctWfM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VHUTB4dxtbsC",
+   "volumeInfo": {
+    "title": "Bookbinding, its background and technique",
+    "authors": [
+     "Edith Diehl"
+    ],
+    "publisher": "Dover Pubns",
+    "publishedDate": "1980-10-01",
+    "description": "Traces the history of bookbinding and book decoration, demonstrates basic techniques, and discusses materials, tools, and finishing procedures",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0486240207"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486240206"
+     }
+    ],
+    "pageCount": 748,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dVHUTB4dxtbsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dVHUTB4dxtbsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVHUTB4dxtbsC&printsec\u003dfrontcover&dq\u003dBookbinding&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVHUTB4dxtbsC&dq\u003dBookbinding&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LZoDLUDYbFQC",
+   "etag": "03fxmAc+q7g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LZoDLUDYbFQC",
+   "volumeInfo": {
+    "title": "The complete book of bookbinding",
+    "authors": [
+     "Josep Cambras"
+    ],
+    "publisher": "Lark Books (NC)",
+    "publishedDate": "2004",
+    "description": "Eight specific and extremely detailed projects for binding form the heart of the volume, which includes binding in fabric, making a jacket with flaps for ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "157990646X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781579906467"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dLZoDLUDYbFQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dLZoDLUDYbFQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLZoDLUDYbFQC&printsec\u003dfrontcover&dq\u003dBookbinding&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLZoDLUDYbFQC&dq\u003dBookbinding&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GmeVe7GR-9cC",
+   "etag": "nzUkFC/Q62s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GmeVe7GR-9cC",
+   "volumeInfo": {
+    "title": "Practical bookbinding",
+    "authors": [
+     "Paul Adam"
+    ],
+    "publishedDate": "1903",
+    "description": "The \u003cb\u003ebookbinder\u003c/b\u003e works with quite a large variety of materials which are mostly \u003cbr\u003e\r\nwhat we might call &quot; half-made,&quot; that is to say, such materials as have \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044011660420"
+     }
+    ],
+    "pageCount": 183,
+    "printType": "BOOK",
+    "categories": [
+     "Bookbinding"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dGmeVe7GR-9cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dGmeVe7GR-9cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGmeVe7GR-9cC&printsec\u003dfrontcover&dq\u003dBookbinding&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGmeVe7GR-9cC&dq\u003dBookbinding&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Practical_bookbinding.pdf?id\u003dGmeVe7GR-9cC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1qf_nhBJzKigcOS4dL095cKLdOig&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "leVomBC0QIsC",
+   "etag": "CClsDcHyKAk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/leVomBC0QIsC",
+   "volumeInfo": {
+    "title": "Creative bookbinding",
+    "authors": [
+     "Pauline Johnson"
+    ],
+    "publisher": "Dover Publications",
+    "publishedDate": "1990-06-01",
+    "description": "Comprehensive, profusely illustrated guide covers everything — from binding simple pamphlets to sewn bindings of cloth and leather.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "048626307X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486263076"
+     }
+    ],
+    "pageCount": 261,
+    "printType": "BOOK",
+    "categories": [
+     "Crafts & Hobbies"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dleVomBC0QIsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dleVomBC0QIsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dleVomBC0QIsC&printsec\u003dfrontcover&dq\u003dBookbinding&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dleVomBC0QIsC&dq\u003dBookbinding&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Z5AXAAAAMAAJ",
+   "etag": "7dD5dbzpx8I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Z5AXAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Bookbinding for bibliophiles",
+    "subtitle": "being notes on some technical features of the well bound book for the aid of connoisseurs, together with a sketch of gold tooling, ancient and modern",
+    "authors": [
+     "Fletcher Williams Battershall"
+    ],
+    "publisher": "The Literary Collector press",
+    "publishedDate": "1905",
+    "description": "OF MENDING AND REPAIRING THE Bibliophile should have a part in the binding of \u003cbr\u003e\r\nhis books. They should reflect his personality equally with that of the \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015033597314"
+     }
+    ],
+    "pageCount": 132,
+    "printType": "BOOK",
+    "categories": [
+     "Bookbinding"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dZ5AXAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dZ5AXAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZ5AXAAAAMAAJ&printsec\u003dfrontcover&dq\u003dBookbinding&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZ5AXAAAAMAAJ&dq\u003dBookbinding&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Bookbinding_for_bibliophiles.epub?id\u003dZ5AXAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Bookbinding_for_bibliophiles.pdf?id\u003dZ5AXAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2sEvcE1r08AIftcYgMi-Esig2acg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EPwuAAAAMAAJ",
+   "etag": "dZZ48HFwRVQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EPwuAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Bookbinding",
+    "authors": [
+     "Frederick Richard Smith"
+    ],
+    "publishedDate": "1929",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015033597082"
+     }
+    ],
+    "pageCount": 113,
+    "printType": "BOOK",
+    "categories": [
+     "Crafts & Hobbies"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dEPwuAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dEPwuAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEPwuAAAAMAAJ&q\u003dBookbinding&dq\u003dBookbinding&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEPwuAAAAMAAJ&dq\u003dBookbinding&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 557
+}

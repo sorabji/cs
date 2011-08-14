@@ -1,0 +1,566 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "bjaYZmdx9oQC",
+   "etag": "ySFNKcjFgO0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bjaYZmdx9oQC",
+   "volumeInfo": {
+    "title": "Westerns",
+    "subtitle": "Making the Man in Fiction and Film",
+    "authors": [
+     "Lee Clark Mitchell"
+    ],
+    "publisher": "University Of Chicago Press",
+    "publishedDate": "1998-05-08",
+    "description": "Ranging from the novels of James Fenimore Cooper to Louis L&#39;Amour, and from classic films such as STAGECOACH to spaghetti Westerns like A FISTFUL OF DOLLARS, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0226532356"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780226532356"
+     }
+    ],
+    "pageCount": 348,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dbjaYZmdx9oQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dbjaYZmdx9oQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbjaYZmdx9oQC&printsec\u003dfrontcover&dq\u003dWesterns&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbjaYZmdx9oQC&dq\u003dWesterns&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Westerns-sample-epub.acsm?id\u003dbjaYZmdx9oQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LvIAisRLTdIC",
+   "etag": "4I1sMpTT8G4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LvIAisRLTdIC",
+   "volumeInfo": {
+    "title": "Westerns",
+    "subtitle": "films through history",
+    "authors": [
+     "Janet Walker"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2001",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415924243"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415924245"
+     }
+    ],
+    "pageCount": 264,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dLvIAisRLTdIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dLvIAisRLTdIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLvIAisRLTdIC&dq\u003dWesterns&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLvIAisRLTdIC&dq\u003dWesterns&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1qQfAQAAIAAJ",
+   "etag": "slVWm0s6kmY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1qQfAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Westerns",
+    "subtitle": "paperback novels and movies from Hollywood",
+    "authors": [
+     "Paul Varner"
+    ],
+    "publishedDate": "2007-12-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105131722055"
+     }
+    ],
+    "pageCount": 235,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d1qQfAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d1qQfAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1qQfAQAAIAAJ&q\u003dWesterns&dq\u003dWesterns&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1qQfAQAAIAAJ&dq\u003dWesterns&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "W95atUodp2AC",
+   "etag": "zPWBep917FY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/W95atUodp2AC",
+   "volumeInfo": {
+    "title": "Westerns",
+    "authors": [
+     "John White"
+    ],
+    "publisher": "Taylor & Francis",
+    "publishedDate": "2011-01-19",
+    "description": "The book includes case studies of 8 key westerns: Stagecoach My Darling Clementine Shane The Good, The Bad and the Ugly McCabe and Mrs Miller Unforgiven ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415558123"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415558129"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dW95atUodp2AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dW95atUodp2AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dW95atUodp2AC&printsec\u003dfrontcover&dq\u003dWesterns&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dW95atUodp2AC&dq\u003dWesterns&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 30.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 17.02,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dW95atUodp2AC&dq\u003dWesterns&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Westerns-sample-epub.acsm?id\u003dW95atUodp2AC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Westerns-sample-pdf.acsm?id\u003dW95atUodp2AC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0nZZAAAAMAAJ",
+   "etag": "x6wwNNFIZVE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0nZZAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Westerns",
+    "subtitle": "aspects of a movie genre",
+    "authors": [
+     "Philip French"
+    ],
+    "publishedDate": "1977",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015062109429"
+     }
+    ],
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d0nZZAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d0nZZAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0nZZAAAAMAAJ&q\u003dWesterns&dq\u003dWesterns&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0nZZAAAAMAAJ&dq\u003dWesterns&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_lHi5c3yDWwC",
+   "etag": "Gu9wYSH16qA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_lHi5c3yDWwC",
+   "volumeInfo": {
+    "title": "West of everything",
+    "subtitle": "the inner life of westerns",
+    "authors": [
+     "Jane P. Tompkins"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "1993-04-01",
+    "description": "Tompkins brings these insights to bear in considering film classics such as Red River and Lonely Are the Brave, and novels such as Louis L&#39;Amour&#39;s Last of the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0195082680"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195082685"
+     }
+    ],
+    "pageCount": 245,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d_lHi5c3yDWwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d_lHi5c3yDWwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_lHi5c3yDWwC&printsec\u003dfrontcover&dq\u003dWesterns&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_lHi5c3yDWwC&dq\u003dWesterns&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d_lHi5c3yDWwC&dq\u003dWesterns&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/West_of_everything-sample-epub.acsm?id\u003d_lHi5c3yDWwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/West_of_everything-sample-pdf.acsm?id\u003d_lHi5c3yDWwC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "K26a-SNIJ9oC",
+   "etag": "TqE3AuMlb1U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/K26a-SNIJ9oC",
+   "volumeInfo": {
+    "title": "Westerns and American culture, 1930-1955",
+    "authors": [
+     "R. Philip Loy"
+    ],
+    "publisher": "McFarland & Co Inc Pub",
+    "publishedDate": "2001-07",
+    "description": "This work focuses on the idea that Westerns were one of the vehicles by which viewers learned the values and norms of a wide range of social relationships and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0786410760"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786410767"
+     }
+    ],
+    "pageCount": 274,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "1.0.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dK26a-SNIJ9oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dK26a-SNIJ9oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dK26a-SNIJ9oC&printsec\u003dfrontcover&dq\u003dWesterns&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dK26a-SNIJ9oC&dq\u003dWesterns&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.74,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dK26a-SNIJ9oC&dq\u003dWesterns&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Westerns_and_American_culture_1930_1955-sample-epub.acsm?id\u003dK26a-SNIJ9oC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Westerns_and_American_culture_1930_1955-sample-pdf.acsm?id\u003dK26a-SNIJ9oC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "E2YvBhX8CZ0C",
+   "etag": "+NEFLFhwDtU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/E2YvBhX8CZ0C",
+   "volumeInfo": {
+    "title": "Westerns Women",
+    "subtitle": "Interviews with 50 Leading Ladies of Movie and Television Westerns from the 1930s to the 1960s",
+    "authors": [
+     "Boyd Magers",
+     "Michael G. Fitzgerald"
+    ],
+    "publisher": "McFarland & Company",
+    "publishedDate": "2004-07",
+    "description": "This collection features a diverse mixture of leading ladies of Westerns, along with several who are not quite as well known.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0786420286"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786420285"
+     }
+    ],
+    "pageCount": 274,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dE2YvBhX8CZ0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dE2YvBhX8CZ0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dE2YvBhX8CZ0C&printsec\u003dfrontcover&dq\u003dWesterns&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dE2YvBhX8CZ0C&dq\u003dWesterns&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "z9Tjh55dlDUC",
+   "etag": "BbaGv5OuHxk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/z9Tjh55dlDUC",
+   "volumeInfo": {
+    "title": "Spaghetti westerns",
+    "subtitle": "cowboys and Europeans from Karl May to Sergio Leone",
+    "authors": [
+     "Christopher Frayling"
+    ],
+    "publisher": "I. B. Tauris",
+    "publishedDate": "2006",
+    "description": "A classic book on the production and cultural context of European Westerns",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1845112075"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781845112073"
+     }
+    ],
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dz9Tjh55dlDUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dz9Tjh55dlDUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dz9Tjh55dlDUC&printsec\u003dfrontcover&dq\u003dWesterns&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dz9Tjh55dlDUC&dq\u003dWesterns&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nItcRD7se7sC",
+   "etag": "agPlEHif+jA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nItcRD7se7sC",
+   "volumeInfo": {
+    "title": "John Ford made westerns",
+    "subtitle": "filming the legend in the sound era",
+    "authors": [
+     "Gaylyn Studlar",
+     "Matthew Bernstein"
+    ],
+    "publisher": "Indiana Univ Pr",
+    "publishedDate": "2001",
+    "description": "While giving attention to film style and structure, the volume also treats the ways in which these much-loved films engage with notions of masculinity and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0253214149"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780253214140"
+     }
+    ],
+    "pageCount": 312,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dnItcRD7se7sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dnItcRD7se7sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnItcRD7se7sC&printsec\u003dfrontcover&dq\u003dWesterns&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnItcRD7se7sC&dq\u003dWesterns&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 510
+}

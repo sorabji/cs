@@ -1,0 +1,527 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "C_1fpjDzapkC",
+   "etag": "O82P0qhTS+c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/C_1fpjDzapkC",
+   "volumeInfo": {
+    "title": "Detective",
+    "authors": [
+     "Parnell Hall"
+    ],
+    "publisher": "E-Rights/E-Reads Ltd",
+    "publishedDate": "2002-12",
+    "description": "In the heat of a mysterious murder, Stanley has his long-awaited chance to prove himself as a real detective-- but what price will he have to pay?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0759219028"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780759219021"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 8,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dC_1fpjDzapkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dC_1fpjDzapkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dC_1fpjDzapkC&printsec\u003dfrontcover&dq\u003dDetective&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dC_1fpjDzapkC&dq\u003dDetective&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 8.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.55,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dC_1fpjDzapkC&dq\u003dDetective&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dAPYruklvSEC",
+   "etag": "+UmUQRtxNZ4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dAPYruklvSEC",
+   "volumeInfo": {
+    "title": "How to Be a Detective",
+    "authors": [
+     "Barbara Mitchelhill"
+    ],
+    "publisher": "Coughlan Publishing",
+    "publishedDate": "2007-02-28",
+    "description": "Damian Drooth, Supersleuth, shares his stellar detective skills with the kids from school.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1598892592"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781598892598"
+     }
+    ],
+    "pageCount": 67,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003ddAPYruklvSEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003ddAPYruklvSEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddAPYruklvSEC&printsec\u003dfrontcover&dq\u003dDetective&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddAPYruklvSEC&dq\u003dDetective&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "T1TbYgEACAAJ",
+   "etag": "uLqu705gKXY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/T1TbYgEACAAJ",
+   "volumeInfo": {
+    "title": "Detective",
+    "authors": [
+     "Arthur Hailey"
+    ],
+    "publisher": "Corgi",
+    "publishedDate": "2011-06-21",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0552165506"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780552165501"
+     }
+    ],
+    "pageCount": 576,
+    "printType": "BOOK",
+    "averageRating": 3.5,
+    "ratingsCount": 21,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dT1TbYgEACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dT1TbYgEACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dT1TbYgEACAAJ&dq\u003dDetective&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dT1TbYgEACAAJ&dq\u003dDetective&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vxuQR0mrvBQC",
+   "etag": "oyY1O3Idm44",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vxuQR0mrvBQC",
+   "volumeInfo": {
+    "title": "Detective",
+    "subtitle": "The Inspirational Story of the Trailblazing Woman Cop Who Wouldn't Quit",
+    "authors": [
+     "Kathy Burke",
+     "Neal Hirschfeld"
+    ],
+    "publisher": "Scribner",
+    "publishedDate": "2006-08-22",
+    "description": "Shares the personal story of the New York City police department&#39;s most highly decorated woman detective to recount her early achievements as well as her work ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0743283929"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780743283922"
+     }
+    ],
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dvxuQR0mrvBQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dvxuQR0mrvBQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvxuQR0mrvBQC&printsec\u003dfrontcover&dq\u003dDetective&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvxuQR0mrvBQC&dq\u003dDetective&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3F_m7aJ3UJAC",
+   "etag": "YdMHTRUHYgA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3F_m7aJ3UJAC",
+   "volumeInfo": {
+    "title": "Detective",
+    "authors": [
+     "Anonymous"
+    ],
+    "description": "\u003cb\u003eDetective\u003c/b\u003e, character already developed in series. Dr. Charles Rathbone: \u003cbr\u003e\r\nPsychologist, MD, chairman of department, finalist for National Society for \u003cbr\u003e\r\nDream \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1603035737"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781603035736"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d3F_m7aJ3UJAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d3F_m7aJ3UJAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3F_m7aJ3UJAC&printsec\u003dfrontcover&dq\u003dDetective&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3F_m7aJ3UJAC&dq\u003dDetective&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Detective-sample-pdf.acsm?id\u003d3F_m7aJ3UJAC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QT9sPwAACAAJ",
+   "etag": "nwgTRjkaUqM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QT9sPwAACAAJ",
+   "volumeInfo": {
+    "title": "Detective stories",
+    "authors": [
+     "Philip Pullman"
+    ],
+    "publishedDate": "2004-07",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0753410117"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780753410110"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dQT9sPwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dQT9sPwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQT9sPwAACAAJ&dq\u003dDetective&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQT9sPwAACAAJ&dq\u003dDetective&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KhQoKSyWfikC",
+   "etag": "UnbnPtSxEH4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KhQoKSyWfikC",
+   "volumeInfo": {
+    "title": "Johannes Cabal the Detective",
+    "authors": [
+     "Jonathan L. Howard"
+    ],
+    "publisher": "Anchor Books",
+    "publishedDate": "2011-07-12",
+    "description": "In this genre-twisting novel, infamous necromancer Johannes Cabal, after beating the Devil and being reunited with his soul, leads us on another raucous journey ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0767930770"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780767930772"
+     }
+    ],
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 58,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dKhQoKSyWfikC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dKhQoKSyWfikC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKhQoKSyWfikC&printsec\u003dfrontcover&dq\u003dDetective&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKhQoKSyWfikC&dq\u003dDetective&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iBHVwjpwlYoC",
+   "etag": "wqrfKUzXduQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iBHVwjpwlYoC",
+   "volumeInfo": {
+    "title": "Detective",
+    "authors": [
+     "Roderick Thorp"
+    ],
+    "publishedDate": "1987-07",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0848803752"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780848803759"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003diBHVwjpwlYoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003diBHVwjpwlYoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003diBHVwjpwlYoC&q\u003dDetective&dq\u003dDetective&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003diBHVwjpwlYoC&dq\u003dDetective&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZYR0JvcKOpEC",
+   "etag": "OY5YGdJIu+k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZYR0JvcKOpEC",
+   "volumeInfo": {
+    "title": "L.A. detective",
+    "authors": [
+     "Philip Prowse"
+    ],
+    "publisher": "Delta Systems Co Inc",
+    "publishedDate": "1993-06",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0435271601"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780435271602"
+     }
+    ],
+    "pageCount": 16,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dZYR0JvcKOpEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dZYR0JvcKOpEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZYR0JvcKOpEC&q\u003dDetective&dq\u003dDetective&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZYR0JvcKOpEC&dq\u003dDetective&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oAEE9GN7sXoC",
+   "etag": "tkwO7iPkMJ4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oAEE9GN7sXoC",
+   "volumeInfo": {
+    "title": "Detective",
+    "authors": [
+     "Parnell Hall"
+    ],
+    "publisher": "Olmstead Pr",
+    "publishedDate": "2001-05-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1587541106"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781587541100"
+     }
+    ],
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003doAEE9GN7sXoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003doAEE9GN7sXoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doAEE9GN7sXoC&q\u003dDetective&dq\u003dDetective&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doAEE9GN7sXoC&dq\u003dDetective&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 573
+}

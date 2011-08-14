@@ -1,0 +1,442 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "9ymnYgEACAAJ",
+   "etag": "vMDN9vsk4o4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9ymnYgEACAAJ",
+   "volumeInfo": {
+    "title": "Folio Society",
+    "authors": [
+     "Frederic P Miller",
+     "Agnes F Vandome",
+     "John McBrewster"
+    ],
+    "publisher": "Alphascript Publishing",
+    "publishedDate": "2010-12-27",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "6133617381"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9786133617384"
+     }
+    ],
+    "pageCount": 136,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9ymnYgEACAAJ&dq\u003dFolio+Society&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9ymnYgEACAAJ&dq\u003dFolio+Society&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nAI3PwAACAAJ",
+   "etag": "gemUFL/tH/Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nAI3PwAACAAJ",
+   "volumeInfo": {
+    "title": "Folio Society",
+    "subtitle": "Renaissance Literature",
+    "authors": [
+     "Bloomsbury Publishing Plc",
+     "Geoff Ward"
+    ],
+    "publishedDate": "1994-12-19",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0747520526"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780747520528"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnAI3PwAACAAJ&dq\u003dFolio+Society&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnAI3PwAACAAJ&dq\u003dFolio+Society&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8e6MPwAACAAJ",
+   "etag": "6YxFwpkEj30",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8e6MPwAACAAJ",
+   "volumeInfo": {
+    "title": "The Folio Society",
+    "subtitle": "prospectus 1977",
+    "publishedDate": "1977",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:255625794"
+     }
+    ],
+    "pageCount": 31,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8e6MPwAACAAJ&dq\u003dFolio+Society&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8e6MPwAACAAJ&dq\u003dFolio+Society&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zvoCv3h2QCsC",
+   "etag": "40m+0w2muAg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zvoCv3h2QCsC",
+   "volumeInfo": {
+    "title": "The Silk Road",
+    "subtitle": "Two Thousand Years in the Heart of Asia",
+    "authors": [
+     "Frances Wood"
+    ],
+    "publisher": "Univ of California Pr",
+    "publishedDate": "2004-09-20",
+    "description": "The \u003cb\u003eFolio Society\u003c/b\u003e wishes to thank the following writers, publishers and literary \u003cbr\u003e\r\nrepresentatives for their permission to use copyright material: Mildred \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520243404"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520243408"
+     }
+    ],
+    "pageCount": 270,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 9,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dzvoCv3h2QCsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dzvoCv3h2QCsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzvoCv3h2QCsC&pg\u003dPA259&dq\u003dFolio+Society&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzvoCv3h2QCsC&dq\u003dFolio+Society&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Silk_Road-sample-epub.acsm?id\u003dzvoCv3h2QCsC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5jA_AQAAIAAJ",
+   "etag": "HljJzEK/q2I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5jA_AQAAIAAJ",
+   "volumeInfo": {
+    "title": "American history",
+    "publishedDate": "2005",
+    "description": "The \u003cb\u003eFolio Society\u003c/b\u003e, England&#39;s leading publisher of fine editions since 1947. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e\r\nTHE \u003cb\u003eFOLIO SOCIETY\u003c/b\u003e. Information Free. I 1 MAIL THIS FORM TO: American History \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105123420858"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d5jA_AQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d5jA_AQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5jA_AQAAIAAJ&q\u003dFolio+Society&dq\u003dFolio+Society&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5jA_AQAAIAAJ&dq\u003dFolio+Society&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CO-FAAAAIAAJ",
+   "etag": "tVuH0xrpqLg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CO-FAAAAIAAJ",
+   "volumeInfo": {
+    "title": "New statesman society",
+    "publishedDate": "1996-01",
+    "description": "But I worry about the dwindlingfield fortheirskills, now that nobody dreams of \u003cbr\u003e\r\nillustrated classics beyond the \u003cb\u003eFolio Society\u003c/b\u003e and the editions that depend on \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105070672063"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dCO-FAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dCO-FAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCO-FAAAAIAAJ&q\u003dFolio+Society&dq\u003dFolio+Society&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCO-FAAAAIAAJ&dq\u003dFolio+Society&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6pnYAAAAMAAJ",
+   "etag": "RcRpRlyG7Ug",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6pnYAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The Penrose annual",
+    "publishedDate": "1973",
+    "description": "\u003cb\u003eFolio Society\u003c/b\u003e Peter Guy A celebration of twenty-five years of book production by \u003cbr\u003e\r\nthe \u003cb\u003eFolio Society\u003c/b\u003e, and an attempt to assess the overall achievement in its \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PSU:000002473536"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d6pnYAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d6pnYAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6pnYAAAAMAAJ&q\u003dFolio+Society&dq\u003dFolio+Society&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6pnYAAAAMAAJ&dq\u003dFolio+Society&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gXvjAAAAMAAJ",
+   "etag": "i/rT+chYZTg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gXvjAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Early American life",
+    "authors": [
+     "Early American Society"
+    ],
+    "publishedDate": "1983",
+    "description": "I am interested in joining The \u003cb\u003eFolio Society\u003c/b\u003e, and would like to see a copy of \u003cbr\u003e\r\nyour Presentation Volume The Fire of Liberty, together with the 1984 catalog. \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015033518195"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgXvjAAAAMAAJ&q\u003dFolio+Society&dq\u003dFolio+Society&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgXvjAAAAMAAJ&dq\u003dFolio+Society&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hzQcAQAAMAAJ",
+   "etag": "SXs27zn2s84",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hzQcAQAAMAAJ",
+   "volumeInfo": {
+    "title": "The New York times book review",
+    "publishedDate": "1990-01",
+    "description": "The \u003cb\u003eFolio Society\u003c/b\u003e would like to make you an offei as exceptional as the books \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e This \u003cb\u003eFolio Society\u003c/b\u003e edition has been in constant demand since it was first \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015049766994"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dhzQcAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dhzQcAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhzQcAQAAMAAJ&q\u003dFolio+Society&dq\u003dFolio+Society&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhzQcAQAAMAAJ&dq\u003dFolio+Society&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qNbsQwAACAAJ",
+   "etag": "fsUNpYDLMQ4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qNbsQwAACAAJ",
+   "volumeInfo": {
+    "title": "Introductions to Shakespeare",
+    "subtitle": "being the introductions to the individual plays in the Folio Society edition, 1950-76",
+    "authors": [
+     "Folio Society"
+    ],
+    "publishedDate": "1978",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:463279678"
+     }
+    ],
+    "pageCount": 245,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dqNbsQwAACAAJ&dq\u003dFolio+Society&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dqNbsQwAACAAJ&dq\u003dFolio+Society&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 574
+}

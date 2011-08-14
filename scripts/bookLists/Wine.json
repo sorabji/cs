@@ -1,0 +1,581 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "RNkhL43EHWgC",
+   "etag": "UAHDzkeAF6M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RNkhL43EHWgC",
+   "volumeInfo": {
+    "title": "Wine for Dummies",
+    "authors": [
+     "Ed McCarthy",
+     "Mary Ewing-Mulligan"
+    ],
+    "publisher": "For Dummies",
+    "publishedDate": "2006-09-22",
+    "description": "&quot; --&quot;Wine Enthusiast&quot; &quot;This book is . . . for everyone who loves wine or wants to know more about it.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0470045795"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470045794"
+     }
+    ],
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 25,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dRNkhL43EHWgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dRNkhL43EHWgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRNkhL43EHWgC&printsec\u003dfrontcover&dq\u003dWine&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRNkhL43EHWgC&dq\u003dWine&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dRNkhL43EHWgC&dq\u003dWine&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Wine_for_Dummies-sample-epub.acsm?id\u003dRNkhL43EHWgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Wine_for_Dummies-sample-pdf.acsm?id\u003dRNkhL43EHWgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "K6OTKiIlyAIC",
+   "etag": "68g3QJ0ZpoQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/K6OTKiIlyAIC",
+   "volumeInfo": {
+    "title": "Wine",
+    "subtitle": "the 8,000-year-old story of the wine trade",
+    "authors": [
+     "Thomas Pellechia"
+    ],
+    "publisher": "Running Press",
+    "publishedDate": "2006-07-31",
+    "description": "An illustrated, comprehensive history of wine traces its dominant role in economics throughout several millennia, discussing how wine significantly influenced ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1560258713"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781560258711"
+     }
+    ],
+    "pageCount": 248,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dK6OTKiIlyAIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dK6OTKiIlyAIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dK6OTKiIlyAIC&printsec\u003dfrontcover&dq\u003dWine&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dK6OTKiIlyAIC&dq\u003dWine&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Wine-sample-pdf.acsm?id\u003dK6OTKiIlyAIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-31WsiP_HboC",
+   "etag": "2QyVlpY2w1s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-31WsiP_HboC",
+   "volumeInfo": {
+    "title": "Wine",
+    "subtitle": "an introduction",
+    "authors": [
+     "Maynard Andrew Amerine"
+    ],
+    "publisher": "Univ of California Press",
+    "publishedDate": "1977",
+    "description": "Good \u003cb\u003ewine\u003c/b\u003e needs neither bush nor preface to make it welcome. — Sir Walter Scott \u003cbr\u003e\r\nINTRODUCTION There are many reasons and rewards for the study of \u003cb\u003ewine\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:W5S37NLXEBA"
+     }
+    ],
+    "pageCount": 373,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d-31WsiP_HboC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d-31WsiP_HboC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-31WsiP_HboC&printsec\u003dfrontcover&dq\u003dWine&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-31WsiP_HboC&dq\u003dWine&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ad4fvl72AogC",
+   "etag": "l5w0h76BKf0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ad4fvl72AogC",
+   "volumeInfo": {
+    "title": "Windows on the World Complete Wine Course",
+    "authors": [
+     "Kevin Zraly"
+    ],
+    "publisher": "Sterling Pub Co Inc",
+    "publishedDate": "2007-10-01",
+    "description": "Looks at how and where wine is made and how this affects its quality and pricing, including information on how the professionals taste and rate wine, a country ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1402751419"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781402751417"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 31,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dAd4fvl72AogC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dAd4fvl72AogC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAd4fvl72AogC&printsec\u003dfrontcover&dq\u003dWine&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAd4fvl72AogC&dq\u003dWine&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "c0T4MAAACAAJ",
+   "etag": "n6SKGDbGqto",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/c0T4MAAACAAJ",
+   "volumeInfo": {
+    "title": "Wine",
+    "authors": [
+     "André Dominé",
+     "Armin (PHT) Faber",
+     "Thomas (PHT) Pothmann"
+    ],
+    "publisher": "Hf Ullmann",
+    "publishedDate": "2008-09-15",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0841602972"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780841602977"
+     }
+    ],
+    "pageCount": 926,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dc0T4MAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dc0T4MAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dc0T4MAAACAAJ&dq\u003dWine&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dc0T4MAAACAAJ&dq\u003dWine&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hCzUiYsGNwkC",
+   "etag": "eLEe3P7wZXM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hCzUiYsGNwkC",
+   "volumeInfo": {
+    "title": "Wine",
+    "subtitle": "from Neolithic times to the 21st century",
+    "authors": [
+     "Stefan K. Estreicher"
+    ],
+    "publisher": "Algora Publishing",
+    "publishedDate": "2006-10-01",
+    "description": "The story of wine is the story of religion, medicine, science, war, discovery and dream.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0875864775"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780875864778"
+     }
+    ],
+    "pageCount": 186,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dhCzUiYsGNwkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dhCzUiYsGNwkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhCzUiYsGNwkC&printsec\u003dfrontcover&dq\u003dWine&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhCzUiYsGNwkC&dq\u003dWine&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.72,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dhCzUiYsGNwkC&dq\u003dWine&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Wine-sample-epub.acsm?id\u003dhCzUiYsGNwkC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Wine-sample-pdf.acsm?id\u003dhCzUiYsGNwkC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yq2W6dwJa5gC",
+   "etag": "YOKIi/v8zF4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yq2W6dwJa5gC",
+   "volumeInfo": {
+    "title": "Wine",
+    "subtitle": "a scientific exploration",
+    "authors": [
+     "Merton Sandler",
+     "Roger Pinder"
+    ],
+    "publisher": "CRC",
+    "publishedDate": "2003",
+    "description": "Drinking Wine 2. The History of Wine as a Medicine 3. Wine in Archaeology 4. Phylloxera 5. Wine and Heart Disease: A Statistical Approach 6.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415247349"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415247344"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dyq2W6dwJa5gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dyq2W6dwJa5gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyq2W6dwJa5gC&printsec\u003dfrontcover&dq\u003dWine&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyq2W6dwJa5gC&dq\u003dWine&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 113.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 91.16,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dyq2W6dwJa5gC&dq\u003dWine&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Wine-sample-epub.acsm?id\u003dyq2W6dwJa5gC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Wine-sample-pdf.acsm?id\u003dyq2W6dwJa5gC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DGvAQAAACAAJ",
+   "etag": "P+15edWibCk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DGvAQAAACAAJ",
+   "volumeInfo": {
+    "title": "Wine",
+    "subtitle": "Classification, Wine Tasting, Qualities and Defects",
+    "authors": [
+     "Giacomo Grazzi-Soncini"
+    ],
+    "publisher": "General Books LLC",
+    "publishedDate": "2010-03-15",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1458991598"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781458991591"
+     }
+    ],
+    "pageCount": 66,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dDGvAQAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dDGvAQAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDGvAQAAACAAJ&dq\u003dWine&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDGvAQAAACAAJ&dq\u003dWine&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yA9iAI49jCwC",
+   "etag": "Ql3AQMLCi/8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yA9iAI49jCwC",
+   "volumeInfo": {
+    "title": "Wine",
+    "subtitle": "an introduction for Americans",
+    "authors": [
+     "M. A. Amerine",
+     "Vernon L. Singleton"
+    ],
+    "publisher": "Univ of California Press",
+    "publishedDate": "1972",
+    "description": "Good \u003cb\u003ewine\u003c/b\u003e needs neither bush nor preface to make it welcome. — Sir Walter Scott \u003cbr\u003e\r\nINTRODUCTION There are many reasons and rewards for the study of \u003cb\u003ewine\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:3RN00X5WQG3"
+     }
+    ],
+    "pageCount": 357,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dyA9iAI49jCwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dyA9iAI49jCwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyA9iAI49jCwC&printsec\u003dfrontcover&dq\u003dWine&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyA9iAI49jCwC&dq\u003dWine&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jcrrJ0blK5wC",
+   "etag": "uyoO47cnvck",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jcrrJ0blK5wC",
+   "volumeInfo": {
+    "title": "Wine",
+    "subtitle": "An Introduction, New Edition",
+    "authors": [
+     "Maynard A. Amerine",
+     "Vernon L. Singleton"
+    ],
+    "publisher": "Univ of California Pr",
+    "publishedDate": "1977-11-15",
+    "description": "The first edition of this book was the winner of the Wine and Food Society Andr Simon Prize for the best contribution, in English, to the literature of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520032020"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520032026"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003djcrrJ0blK5wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003djcrrJ0blK5wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djcrrJ0blK5wC&printsec\u003dfrontcover&dq\u003dWine&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djcrrJ0blK5wC&dq\u003dWine&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 578
+}

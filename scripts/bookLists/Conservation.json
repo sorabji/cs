@@ -1,0 +1,554 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "sctUJHkFyk0C",
+   "etag": "cg46qRh3oyA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sctUJHkFyk0C",
+   "volumeInfo": {
+    "title": "Conservation",
+    "subtitle": "linking ecology, economics, and culture",
+    "authors": [
+     "Monique Borgerhoff Mulder",
+     "Peter Coppolillo"
+    ],
+    "publisher": "Princeton Univ Pr",
+    "publishedDate": "2005",
+    "description": "This book belongs on the core reading list for university programs on conservation biology, sustainable development, and international environmental affairs.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0691049807"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780691049809"
+     }
+    ],
+    "pageCount": 347,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dsctUJHkFyk0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dsctUJHkFyk0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dsctUJHkFyk0C&printsec\u003dfrontcover&dq\u003dConservation&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dsctUJHkFyk0C&dq\u003dConservation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Conservation-sample-pdf.acsm?id\u003dsctUJHkFyk0C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "d0_p11zuF3kC",
+   "etag": "C0OAWxI2ikw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/d0_p11zuF3kC",
+   "volumeInfo": {
+    "title": "Conservation",
+    "subtitle": "Protecting Our Plant Resources",
+    "authors": [
+     "Anne E. Maczulak"
+    ],
+    "publisher": "Infobase Publishing",
+    "publishedDate": "2009-12-31",
+    "description": "An exploration of all aspects of conservations looks closely at the conservation of plant life and examines the successes and failures in efforts to protect ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0816071993"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816071999"
+     }
+    ],
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dd0_p11zuF3kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dd0_p11zuF3kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dd0_p11zuF3kC&printsec\u003dfrontcover&dq\u003dConservation&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dd0_p11zuF3kC&dq\u003dConservation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 40.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dd0_p11zuF3kC&dq\u003dConservation&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Conservation-sample-epub.acsm?id\u003dd0_p11zuF3kC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Conservation-sample-pdf.acsm?id\u003dd0_p11zuF3kC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Pt_NAAAAMAAJ",
+   "etag": "jjIGG0uzaHk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Pt_NAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Conservation",
+    "authors": [
+     "American Forestry Association"
+    ],
+    "publishedDate": "1909",
+    "description": "Occupying the stage with the chairman and the principal speakers were members of \u003cbr\u003e\r\nthe President&#39;s Cabinet, members of the National \u003cb\u003eConservation\u003c/b\u003e Commission, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015075035868"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dPt_NAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dPt_NAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPt_NAAAAMAAJ&printsec\u003dfrontcover&dq\u003dConservation&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPt_NAAAAMAAJ&dq\u003dConservation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Conservation.pdf?id\u003dPt_NAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0iYTbofQ_3XpEOGMHXP8tJWuDAgQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YPgTAQAAIAAJ",
+   "etag": "XmzQZ3w4730",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YPgTAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Conservation biology",
+    "subtitle": "an evolutionary-ecological perspective",
+    "authors": [
+     "Michael E. Soulé",
+     "Bruce A. Wilcox"
+    ],
+    "publisher": "Sinauer Associates Inc",
+    "publishedDate": "1980",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0878938001"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780878938001"
+     }
+    ],
+    "pageCount": 395,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dYPgTAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dYPgTAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYPgTAQAAIAAJ&q\u003dConservation&dq\u003dConservation&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYPgTAQAAIAAJ&dq\u003dConservation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Iag83xHx5x8C",
+   "etag": "Lo89AtT6kbw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Iag83xHx5x8C",
+   "volumeInfo": {
+    "title": "Contemporary theory of conservation",
+    "authors": [
+     "Salvador Munoz-Vinas",
+     "Salvador Muñoz Viñas"
+    ],
+    "publisher": "Butterworth-Heinemann",
+    "publishedDate": "2005",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0750662247"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780750662246"
+     }
+    ],
+    "pageCount": 239,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dIag83xHx5x8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dIag83xHx5x8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIag83xHx5x8C&dq\u003dConservation&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIag83xHx5x8C&dq\u003dConservation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ItYKoB7keNUC",
+   "etag": "ZFvHG+ioBDo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ItYKoB7keNUC",
+   "volumeInfo": {
+    "title": "Conservation",
+    "authors": [
+     "Clive Hambler"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "2004-01-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521000386"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521000383"
+     }
+    ],
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dItYKoB7keNUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dItYKoB7keNUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dItYKoB7keNUC&dq\u003dConservation&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dItYKoB7keNUC&dq\u003dConservation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xBMhAQAAIAAJ",
+   "etag": "bnto/nxG4tk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xBMhAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Conservation",
+    "authors": [
+     "Joyce Joffe",
+     "American Museum of Natural History"
+    ],
+    "publisher": "Aldus Books",
+    "publishedDate": "1970",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105007533990"
+     }
+    ],
+    "pageCount": 188,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dxBMhAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dxBMhAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxBMhAQAAIAAJ&q\u003dConservation&dq\u003dConservation&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxBMhAQAAIAAJ&dq\u003dConservation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rrWNRMrcIFoC",
+   "etag": "PQGaidquo2A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rrWNRMrcIFoC",
+   "volumeInfo": {
+    "title": "Conservation and the genetics of populations",
+    "authors": [
+     "Frederick William Allendorf",
+     "Gordon Luikart"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "2007",
+    "description": "This book is essential reading for advanced undergraduate and graduate students of conservation genetics, natural resource management, and conservation biology, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1405121459"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405121453"
+     }
+    ],
+    "pageCount": 642,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003drrWNRMrcIFoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003drrWNRMrcIFoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003drrWNRMrcIFoC&printsec\u003dfrontcover&dq\u003dConservation&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003drrWNRMrcIFoC&dq\u003dConservation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 64.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 64.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003drrWNRMrcIFoC&dq\u003dConservation&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Conservation_and_the_genetics_of_populat-sample-pdf.acsm?id\u003drrWNRMrcIFoC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qjMrAAAAYAAJ",
+   "etag": "uJs7/aTBFuI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qjMrAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Soil conservation",
+    "subtitle": "assessing the national resources inventory",
+    "authors": [
+     "National Research Council (U.S.). Board on Agriculture. Committee on Conservation Needs and Opportunities"
+    ],
+    "publisher": "National Academies Press",
+    "publishedDate": "1986-06",
+    "description": "1 Scope and Content of the 1982 NRI Between the spring of 1980 and the fall of \u003cbr\u003e\r\n1982, the Soil \u003cb\u003eConservation\u003c/b\u003e Service (SCS) of the US Department of Agriculture \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NAP:14282"
+     }
+    ],
+    "pageCount": 114,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dqjMrAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dqjMrAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dqjMrAAAAYAAJ&printsec\u003dfrontcover&dq\u003dConservation&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dqjMrAAAAYAAJ&dq\u003dConservation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": false,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Soil_conservation.pdf?id\u003dqjMrAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3v46wh2Or1s_lFDqSkIOxOEUSVog&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HO9EAQAAIAAJ",
+   "etag": "DEVYrnDLoB8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HO9EAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Conservation",
+    "subtitle": "a beginner's guide",
+    "authors": [
+     "Paul Jepson",
+     "Richard J. Ladle"
+    ],
+    "publisher": "Oneworld Pubns Ltd",
+    "publishedDate": "2010-02-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1851687149"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781851687145"
+     }
+    ],
+    "pageCount": 193,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dHO9EAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dHO9EAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHO9EAQAAIAAJ&q\u003dConservation&dq\u003dConservation&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHO9EAQAAIAAJ&dq\u003dConservation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 596
+}

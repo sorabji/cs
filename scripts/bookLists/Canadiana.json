@@ -1,0 +1,458 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "TOs0AAAAIAAJ",
+   "etag": "z9T6Wx044A4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TOs0AAAAIAAJ",
+   "volumeInfo": {
+    "title": "Canadiana",
+    "authors": [
+     "William John White"
+    ],
+    "publisher": "Montreal",
+    "publishedDate": "1889",
+    "description": "CAN ADI ANA. A COLLECTION OF CANADIAN NOTES. PUBLISHED MONTHLY. VOL. I. JANUARY, \u003cbr\u003e\r\n1889. No. 1. PROSPECTUS. The purpose of this periodical is to foster and \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B3625489"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Canada"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dTOs0AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dTOs0AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTOs0AAAAIAAJ&printsec\u003dfrontcover&dq\u003dCanadiana&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTOs0AAAAIAAJ&dq\u003dCanadiana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Canadiana.epub?id\u003dTOs0AAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Canadiana.pdf?id\u003dTOs0AAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3rKoKXbj4w4zrTfChRtKWSiyP-Sw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wjUvAQAAIAAJ",
+   "etag": "Z1YAHlNMyQ4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wjUvAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Canadiana",
+    "publishedDate": "1991-10",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105012324088"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dwjUvAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dwjUvAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwjUvAQAAIAAJ&q\u003dCanadiana&dq\u003dCanadiana&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwjUvAQAAIAAJ&dq\u003dCanadiana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XlD4PgAACAAJ",
+   "etag": "0gN2MEA40SA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XlD4PgAACAAJ",
+   "volumeInfo": {
+    "title": "Canadiana",
+    "subtitle": "an anthology of nostalgic, humorous, and satirical writings for secondary schools",
+    "authors": [
+     "Grant Huffman"
+    ],
+    "publishedDate": "1970",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:70363720"
+     }
+    ],
+    "pageCount": 188,
+    "printType": "BOOK",
+    "categories": [
+     "Canadian wit and humor"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXlD4PgAACAAJ&dq\u003dCanadiana&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXlD4PgAACAAJ&dq\u003dCanadiana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1fvfPQAACAAJ",
+   "etag": "eMlKbDpK6as",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1fvfPQAACAAJ",
+   "volumeInfo": {
+    "title": "Canadiana",
+    "subtitle": "Songs and Activities from Canadian Heritage for Orff Ensemble",
+    "authors": [
+     "Judy Sills",
+     "Carl Orff"
+    ],
+    "publishedDate": "2007-05-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0979547016"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780979547010"
+     }
+    ],
+    "pageCount": 40,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d1fvfPQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d1fvfPQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1fvfPQAACAAJ&dq\u003dCanadiana&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1fvfPQAACAAJ&dq\u003dCanadiana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZNE0SgAACAAJ",
+   "etag": "XWazO6iQEpg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZNE0SgAACAAJ",
+   "volumeInfo": {
+    "title": "Canadiana",
+    "authors": [
+     "Anonymous"
+    ],
+    "publishedDate": "2010-02",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1144706335"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781144706331"
+     }
+    ],
+    "pageCount": 260,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dZNE0SgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dZNE0SgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZNE0SgAACAAJ&dq\u003dCanadiana&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZNE0SgAACAAJ&dq\u003dCanadiana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "z0f8GgAACAAJ",
+   "etag": "5z1R8A9NYOs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/z0f8GgAACAAJ",
+   "volumeInfo": {
+    "title": "Canadiana",
+    "subtitle": "a selection of Quebec views, drawn from the William H. Coverdale Collection of Historical Canadiana at the Manoir Richelieu, Murray Bay, P.Q., together with a group of French-Canadian furniture, handicrafts and woodcarvings from the hotel Tadoussac, Tadoussac, P.Q. Exhibited at the London Public Library and Art Museum, London, Ontario, November 10th to December 10th, 1944, Loaned by Canada Steamship Lines Limited",
+    "authors": [
+     "William Hugh Coverdale",
+     "Canada Steamship Lines",
+     "London Public Library and Art Museum (Ont.)",
+     "Manoir Richelieu (Murray Bay, Québec)"
+    ],
+    "publishedDate": "1944",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:45004275"
+     }
+    ],
+    "pageCount": 18,
+    "printType": "BOOK",
+    "categories": [
+     "Art, Canadian"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dz0f8GgAACAAJ&dq\u003dCanadiana&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dz0f8GgAACAAJ&dq\u003dCanadiana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5IpcHQAACAAJ",
+   "etag": "VUe/LK3mcwc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5IpcHQAACAAJ",
+   "volumeInfo": {
+    "title": "Canadiana",
+    "subtitle": "a selection of Quebes views, drawn from the William H. Coverdale collection of historical Canadiana at the Manoir Richelieu, Murray Bay. Together with a group of French-Canadian furniture, handicrafts and woodcarvings from the Hotel Tadoussac, Tadoussac, P.Q.",
+    "authors": [
+     "Canada steamship lines, ltd., Montreal",
+     "William Hugh Coverdale",
+     "Murray Bay, Que. Manoir Richelieu"
+    ],
+    "publishedDate": "1944",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:81114808"
+     }
+    ],
+    "pageCount": 18,
+    "printType": "BOOK",
+    "categories": [
+     "Art, Canadian"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5IpcHQAACAAJ&dq\u003dCanadiana&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5IpcHQAACAAJ&dq\u003dCanadiana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fRhfcgAACAAJ",
+   "etag": "t9KPH+nnWcU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fRhfcgAACAAJ",
+   "volumeInfo": {
+    "title": "Canadiana",
+    "subtitle": "containing sketches of Upper Canada and the crisis in its political affairs",
+    "authors": [
+     "William Benjamin Wells"
+    ],
+    "publishedDate": "1837",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:317852479"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Ontario"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfRhfcgAACAAJ&dq\u003dCanadiana&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfRhfcgAACAAJ&dq\u003dCanadiana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2rNkcgAACAAJ",
+   "etag": "EFIs73DOX3o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2rNkcgAACAAJ",
+   "volumeInfo": {
+    "title": "Canadiana",
+    "subtitle": "Containing Sketches of Upper Canada, and the Crisis in Its Political Affairs",
+    "authors": [
+     "William Benjamin Wells (B. 1809)"
+    ],
+    "publishedDate": "1837",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:06013059"
+     }
+    ],
+    "pageCount": 302,
+    "printType": "BOOK",
+    "categories": [
+     "Ontario"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2rNkcgAACAAJ&dq\u003dCanadiana&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2rNkcgAACAAJ&dq\u003dCanadiana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TdyiSwAACAAJ",
+   "etag": "EQB07iTPw8I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TdyiSwAACAAJ",
+   "volumeInfo": {
+    "title": "Canadiana",
+    "authors": [
+     "Dora Hood's Book Room, Toronto"
+    ],
+    "publishedDate": "1978",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:226941327"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTdyiSwAACAAJ&dq\u003dCanadiana&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTdyiSwAACAAJ&dq\u003dCanadiana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 296
+}

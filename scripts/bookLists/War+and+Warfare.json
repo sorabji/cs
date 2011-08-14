@@ -1,0 +1,558 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "C4z4GAAACAAJ",
+   "etag": "GO334HB35kw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/C4z4GAAACAAJ",
+   "volumeInfo": {
+    "title": "War and Warfare",
+    "authors": [
+     "Anne Wright"
+    ],
+    "publisher": "M E Sharpe Focus",
+    "publishedDate": "2007-09-30",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0765681331"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780765681331"
+     }
+    ],
+    "pageCount": 80,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dC4z4GAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dC4z4GAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dC4z4GAAACAAJ&dq\u003dWar+and+Warfare&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dC4z4GAAACAAJ&dq\u003dWar+and+Warfare&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "L5CAvWcpbNYC",
+   "etag": "2BwD3X2w6ac",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/L5CAvWcpbNYC",
+   "volumeInfo": {
+    "title": "War and Warfare",
+    "authors": [
+     "Michael March",
+     "Bender Richardson White"
+    ],
+    "publisher": "Teach Yourself",
+    "publishedDate": "2001-01-26",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0658012266"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780658012266"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dL5CAvWcpbNYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dL5CAvWcpbNYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dL5CAvWcpbNYC&dq\u003dWar+and+Warfare&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dL5CAvWcpbNYC&dq\u003dWar+and+Warfare&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nfi7OwAACAAJ",
+   "etag": "XlLZ0l3zDYY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nfi7OwAACAAJ",
+   "volumeInfo": {
+    "title": "War and Warfare",
+    "authors": [
+     "Paul Turner"
+    ],
+    "publisher": "Folens Limited",
+    "publishedDate": "2008-10-22",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1850084270"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781850084273"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dnfi7OwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dnfi7OwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnfi7OwAACAAJ&dq\u003dWar+and+Warfare&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnfi7OwAACAAJ&dq\u003dWar+and+Warfare&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "etWYcmEYeKkC",
+   "etag": "LAGfnRJjEv4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/etWYcmEYeKkC",
+   "volumeInfo": {
+    "title": "World War I Trench Warfare (1)",
+    "subtitle": "1914-16",
+    "authors": [
+     "Stephen Bull"
+    ],
+    "publisher": "Osprey Publishing",
+    "publishedDate": "2002-02-25",
+    "description": "The regular armies which marched off to war in 1914 were composed of massed riflemen, screened by cavalry and supported by artillery; their leaders expected a ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1841761974"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781841761978"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003detWYcmEYeKkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003detWYcmEYeKkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003detWYcmEYeKkC&printsec\u003dfrontcover&dq\u003dWar+and+Warfare&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003detWYcmEYeKkC&dq\u003dWar+and+Warfare&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5QPwEwtLONoC",
+   "etag": "8rD6L9WoN18",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5QPwEwtLONoC",
+   "volumeInfo": {
+    "title": "World War II Airborne Warfare Tactics",
+    "authors": [
+     "Gordon L. Rottman",
+     "Peter Dennis"
+    ],
+    "publisher": "Osprey Pub Co",
+    "publishedDate": "2006-02-28",
+    "description": "This book - by an airborne veteran of a later generation - explains in detail their advantages and drawbacks, developing techniques and equipment, with ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1841769533"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781841769530"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d5QPwEwtLONoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d5QPwEwtLONoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5QPwEwtLONoC&printsec\u003dfrontcover&dq\u003dWar+and+Warfare&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5QPwEwtLONoC&dq\u003dWar+and+Warfare&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sXCn3WrINjwC",
+   "etag": "irUV7NU3gWY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sXCn3WrINjwC",
+   "volumeInfo": {
+    "title": "World War I Trench Warfare (2)",
+    "subtitle": "1916-18",
+    "authors": [
+     "Stephen Bull",
+     "Adam Hook"
+    ],
+    "publisher": "Osprey Publishing",
+    "publishedDate": "2002-06-25",
+    "description": "The Allied attempt to break the stalemate of trench warfare by the &#39;big pushes&#39; of 1916 led to massively costly battles of attrition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1841761982"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781841761985"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dsXCn3WrINjwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dsXCn3WrINjwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dsXCn3WrINjwC&printsec\u003dfrontcover&dq\u003dWar+and+Warfare&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dsXCn3WrINjwC&dq\u003dWar+and+Warfare&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oWx9sbaTcegC",
+   "etag": "SlrRbjs1aFk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oWx9sbaTcegC",
+   "volumeInfo": {
+    "title": "World War I Gas Warfare Tactics and Equipment",
+    "authors": [
+     "Simon Jones"
+    ],
+    "publisher": "Osprey Publishing",
+    "publishedDate": "2007-01-30",
+    "description": "For the first time in detail, this book charts the development of gas as a battlefield weapon and the steps taken to counter it.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1846031516"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781846031519"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003doWx9sbaTcegC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003doWx9sbaTcegC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doWx9sbaTcegC&printsec\u003dfrontcover&dq\u003dWar+and+Warfare&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doWx9sbaTcegC&dq\u003dWar+and+Warfare&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "J32mtzjLtKYC",
+   "etag": "g410SNhXHMQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/J32mtzjLtKYC",
+   "volumeInfo": {
+    "title": "The Uncivil War",
+    "subtitle": "Irregular Warfare In The Upper South, 1861-1865",
+    "authors": [
+     "Robert Russell Mackey"
+    ],
+    "publisher": "Univ of Oklahoma Pr",
+    "publishedDate": "2005-07-02",
+    "description": "An in-depth examination of irregular warfare in the Upper South during the Civil War outlines the Southern strategy of waging war, the Northern response, and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0806137363"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780806137360"
+     }
+    ],
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dJ32mtzjLtKYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dJ32mtzjLtKYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJ32mtzjLtKYC&printsec\u003dfrontcover&dq\u003dWar+and+Warfare&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJ32mtzjLtKYC&dq\u003dWar+and+Warfare&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DYu4XOKdTyYC",
+   "etag": "pN2jz9yLAaA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DYu4XOKdTyYC",
+   "volumeInfo": {
+    "title": "War of nerves",
+    "subtitle": "chemical warfare from World War I to al-Qaeda",
+    "authors": [
+     "Jonathan B. Tucker"
+    ],
+    "publisher": "Random House of Canada",
+    "publishedDate": "2006",
+    "description": "An authority on chemical and biological warfare traces the military applications of toxic weaponry from World War I to the present day, discusses Germany&#39;s ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0375422293"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780375422294"
+     }
+    ],
+    "pageCount": 479,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dDYu4XOKdTyYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dDYu4XOKdTyYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDYu4XOKdTyYC&printsec\u003dfrontcover&dq\u003dWar+and+Warfare&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDYu4XOKdTyYC&dq\u003dWar+and+Warfare&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dDYu4XOKdTyYC&dq\u003dWar+and+Warfare&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/War_of_nerves-sample-epub.acsm?id\u003dDYu4XOKdTyYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/War_of_nerves-sample-pdf.acsm?id\u003dDYu4XOKdTyYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "O7XwGFQDaDoC",
+   "etag": "RRpje0e+0jQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/O7XwGFQDaDoC",
+   "volumeInfo": {
+    "title": "Guerrilla warfare in Civil War Missouri, 1862",
+    "authors": [
+     "Bruce Nichols"
+    ],
+    "publisher": "McFarland",
+    "publishedDate": "2004-03",
+    "description": "This book is a thorough study of all known guerrilla operations in Civil War Missouri in 1862, the year such warfare became the primary type of military action ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0786416890"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786416899"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dO7XwGFQDaDoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dO7XwGFQDaDoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dO7XwGFQDaDoC&printsec\u003dfrontcover&dq\u003dWar+and+Warfare&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dO7XwGFQDaDoC&dq\u003dWar+and+Warfare&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 19.24,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dO7XwGFQDaDoC&dq\u003dWar+and+Warfare&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Guerrilla_warfare_in_Civil_War_Missouri-sample-epub.acsm?id\u003dO7XwGFQDaDoC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Guerrilla_warfare_in_Civil_War_Missouri-sample-pdf.acsm?id\u003dO7XwGFQDaDoC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 599
+}

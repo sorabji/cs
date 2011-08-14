@@ -1,0 +1,486 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ntRkPwAACAAJ",
+   "etag": "0fPQ7OFnOQQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ntRkPwAACAAJ",
+   "volumeInfo": {
+    "title": "The Armed Forces",
+    "authors": [
+     "Geoffrey M. Horn"
+    ],
+    "publishedDate": "2008-08-11",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1439534454"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781439534458"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dntRkPwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dntRkPwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dntRkPwAACAAJ&dq\u003dArmed+Forces&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dntRkPwAACAAJ&dq\u003dArmed+Forces&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CDmakUQ7ORsC",
+   "etag": "cvXHfI15HaM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CDmakUQ7ORsC",
+   "volumeInfo": {
+    "title": "Armed Forces",
+    "authors": [
+     "Nick Higgins"
+    ],
+    "publisher": "Trotman & Company, Limited",
+    "publishedDate": "2004-08-05",
+    "description": "lt can&#39;t have escaped your attention that the \u003cb\u003eArmed Forces\u003c/b\u003e are currently playing \u003cbr\u003e\r\na very prominent role in world events. lndeed, for the first time in a long \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0856609986"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780856609985"
+     }
+    ],
+    "pageCount": 88,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dCDmakUQ7ORsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dCDmakUQ7ORsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCDmakUQ7ORsC&printsec\u003dfrontcover&dq\u003dArmed+Forces&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCDmakUQ7ORsC&dq\u003dArmed+Forces&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Cu_Pb3UfBe8C",
+   "etag": "9w05wiJp6WM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Cu_Pb3UfBe8C",
+   "volumeInfo": {
+    "title": "Armed Forces",
+    "authors": [
+     "David Strelecky",
+     "Ferguson"
+    ],
+    "publisher": "Ferguson Publishing Company",
+    "publishedDate": "2008-09",
+    "description": "Describes the career paths open to individuals in the United States armed forces and provides information on each job&#39;s projected salary, outlook, and the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0816072884"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816072880"
+     }
+    ],
+    "pageCount": 204,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dCu_Pb3UfBe8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dCu_Pb3UfBe8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCu_Pb3UfBe8C&printsec\u003dfrontcover&dq\u003dArmed+Forces&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCu_Pb3UfBe8C&dq\u003dArmed+Forces&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PBruAAAAMAAJ",
+   "etag": "iCTdXXd3W/8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PBruAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Armed forces",
+    "subtitle": "masculinity and sexuality in the American war film",
+    "authors": [
+     "Robert T. Eberwein"
+    ],
+    "publisher": "Rutgers Univ Pr",
+    "publishedDate": "2007-08",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015073970744"
+     }
+    ],
+    "pageCount": 196,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dPBruAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dPBruAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPBruAAAAMAAJ&q\u003dArmed+Forces&dq\u003dArmed+Forces&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPBruAAAAMAAJ&dq\u003dArmed+Forces&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aHpTAAAAYAAJ",
+   "etag": "M2/LV+e6jlk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aHpTAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Armed forces",
+    "authors": [
+     "Royal United Services Institute for Defence Studies"
+    ],
+    "publishedDate": "1984-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X001002981"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003daHpTAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003daHpTAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daHpTAAAAYAAJ&q\u003dArmed+Forces&dq\u003dArmed+Forces&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daHpTAAAAYAAJ&dq\u003dArmed+Forces&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uuMknNKChNQC",
+   "etag": "wP4jDaihgHk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uuMknNKChNQC",
+   "volumeInfo": {
+    "title": "Armed Forces",
+    "authors": [
+     "John Hamilton"
+    ],
+    "publisher": "ABDO & Daughters",
+    "publishedDate": "2002-06",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1577656741"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781577656746"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003duuMknNKChNQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003duuMknNKChNQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003duuMknNKChNQC&q\u003dArmed+Forces&dq\u003dArmed+Forces&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003duuMknNKChNQC&dq\u003dArmed+Forces&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "L-suZ2qETI4C",
+   "etag": "zc0O86QUq94",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/L-suZ2qETI4C",
+   "volumeInfo": {
+    "title": "Armed Forces",
+    "authors": [
+     "Bob Italia"
+    ],
+    "publisher": "ABDO & Daughters",
+    "publishedDate": "1991-10",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1562390260"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781562390266"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dL-suZ2qETI4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dL-suZ2qETI4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dL-suZ2qETI4C&q\u003dArmed+Forces&dq\u003dArmed+Forces&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dL-suZ2qETI4C&dq\u003dArmed+Forces&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nEetQQAACAAJ",
+   "etag": "pqTrz0ZbvCo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nEetQQAACAAJ",
+   "volumeInfo": {
+    "title": "The Armed Forces",
+    "authors": [
+     "Louise I. Gerdes"
+    ],
+    "publisher": "Greenhaven Pr",
+    "publishedDate": "2010-05-21",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0737747560"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780737747560"
+     }
+    ],
+    "pageCount": 265,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dnEetQQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dnEetQQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnEetQQAACAAJ&dq\u003dArmed+Forces&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnEetQQAACAAJ&dq\u003dArmed+Forces&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "920-bwAACAAJ",
+   "etag": "LpSiTLH2BjE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/920-bwAACAAJ",
+   "volumeInfo": {
+    "title": "Armed Forces",
+    "authors": [
+     "Frederic P Miller",
+     "Agnes F Vandome",
+     "John McBrewster"
+    ],
+    "publisher": "Alphascript Publishing",
+    "publishedDate": "2010-04-26",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "6130706898"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9786130706890"
+     }
+    ],
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d920-bwAACAAJ&dq\u003dArmed+Forces&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d920-bwAACAAJ&dq\u003dArmed+Forces&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "du7KjwEACAAJ",
+   "etag": "xL4ZIMcSHQY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/du7KjwEACAAJ",
+   "volumeInfo": {
+    "title": "The armed forces",
+    "publishedDate": "1956",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:10707274"
+     }
+    ],
+    "pageCount": 40,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddu7KjwEACAAJ&dq\u003dArmed+Forces&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddu7KjwEACAAJ&dq\u003dArmed+Forces&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 595
+}

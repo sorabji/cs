@@ -1,0 +1,552 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "0Q1qHQAACAAJ",
+   "etag": "Mrr9/4Uuaak",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0Q1qHQAACAAJ",
+   "volumeInfo": {
+    "title": "Biology sciences",
+    "subtitle": "challenges for the 21st century ; proceedings of the international symposium organized by the Stazione Zoologica \"Anton Dohrn\" (SZN) and the International Union of Biological Sciences (IUBS), on the occasion of the 27th IUBS General Assembly, held on 9 - 11 November, 2000, in Naples, Italy",
+    "authors": [
+     "International Union of Biological Sciences"
+    ],
+    "publishedDate": "2001",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:76294635"
+     }
+    ],
+    "pageCount": 100,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0Q1qHQAACAAJ&dq\u003dBiology+Sciences&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0Q1qHQAACAAJ&dq\u003dBiology+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "F3pHrZDQ0hMC",
+   "etag": "UeNr8cswua4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/F3pHrZDQ0hMC",
+   "volumeInfo": {
+    "title": "Molecules in Physics, Chemistry, and Biology: Molecular phenomena in biological sciences",
+    "authors": [
+     "Jean Maruani"
+    ],
+    "publisher": "Kluwer Academic Pub",
+    "publishedDate": "1989",
+    "description": "&#39;The book merits a place in any Science Library and I recommend it to anyone who shares the obvious fascination of the writers with molecules and accepts that ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9027725993"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789027725998"
+     }
+    ],
+    "pageCount": 353,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dF3pHrZDQ0hMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dF3pHrZDQ0hMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dF3pHrZDQ0hMC&printsec\u003dfrontcover&dq\u003dBiology+Sciences&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dF3pHrZDQ0hMC&dq\u003dBiology+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 343.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 274.4,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dF3pHrZDQ0hMC&dq\u003dBiology+Sciences&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Molecules_in_Physics_Chemistry_and_Biolo-sample-pdf.acsm?id\u003dF3pHrZDQ0hMC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-ddVamDO-xcC",
+   "etag": "zVm1eFhuYoQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-ddVamDO-xcC",
+   "volumeInfo": {
+    "title": "This is biology",
+    "subtitle": "the science of the living world",
+    "authors": [
+     "Ernst Mayr"
+    ],
+    "publisher": "Belknap Press",
+    "publishedDate": "1997",
+    "description": "This Is Biology can also be read as a &quot;life history&quot; of the discipline--from its roots in the work of Aristotle, through its dormancy during the Scientific ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0674884698"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780674884694"
+     }
+    ],
+    "pageCount": 323,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d-ddVamDO-xcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d-ddVamDO-xcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-ddVamDO-xcC&printsec\u003dfrontcover&dq\u003dBiology+Sciences&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-ddVamDO-xcC&dq\u003dBiology+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/This_is_biology-sample-epub.acsm?id\u003d-ddVamDO-xcC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "e0oaAAAAYAAJ",
+   "etag": "5pU0a3yenaw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/e0oaAAAAYAAJ",
+   "volumeInfo": {
+    "title": "General biology",
+    "authors": [
+     "William Thompson Sedgwick",
+     "Edmund Beecher Wilson"
+    ],
+    "publishedDate": "1886",
+    "description": "the \u003cb\u003eBiological Sciences\u003c/b\u003e and the Abiological Sciences, dealing with living \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e\r\nThe \u003cb\u003ebiological sciences\u003c/b\u003e (p. 7) are known collectively as Biology (fiios, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044107222861"
+     }
+    ],
+    "pageCount": 193,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003de0oaAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003de0oaAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003de0oaAAAAYAAJ&pg\u003dPA1&dq\u003dBiology+Sciences&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003de0oaAAAAYAAJ&dq\u003dBiology+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/General_biology.pdf?id\u003de0oaAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0lLRmXxxXo13I7QL5OQXDuhoWnaA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pFYOAQAAIAAJ",
+   "etag": "xZfQYb7+Ufs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pFYOAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Contributions of biological science to victory",
+    "subtitle": "fifth annual Biology Colloquium, Saturday, April 3, 1943. Genetics and the integration of biological sciences : sixth annual Biology Colloquium, Saturday, April 22, 1944",
+    "publishedDate": "1945",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSD:31822009246158"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Biology"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dpFYOAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dpFYOAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpFYOAQAAIAAJ&q\u003dBiology+Sciences&dq\u003dBiology+Sciences&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpFYOAQAAIAAJ&dq\u003dBiology+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qnryMKsYIjgC",
+   "etag": "3w3L0b1S6Rs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qnryMKsYIjgC",
+   "volumeInfo": {
+    "title": "BSCS biology",
+    "subtitle": "a human approach : teacher's guide",
+    "authors": [
+     "Biological Sciences Curriculum Study"
+    ],
+    "publisher": "Kendall Hunt Pub Co",
+    "publishedDate": "2003-01-31",
+    "description": "PEDAGOGICAL OVERVIEW The \u003cb\u003eBiological Sciences\u003c/b\u003e Curriculum Study has developed BSCS \u003cbr\u003e\r\nBiology: A Human Approach, an innovative, activity-driven biology program \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0787290262"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780787290269"
+     }
+    ],
+    "pageCount": 644,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dqnryMKsYIjgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dqnryMKsYIjgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dqnryMKsYIjgC&pg\u003dPP12&dq\u003dBiology+Sciences&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dqnryMKsYIjgC&dq\u003dBiology+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6ujGHAm6UmgC",
+   "etag": "5TWYsyf7Eb0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6ujGHAm6UmgC",
+   "volumeInfo": {
+    "title": "Biology For Dummies",
+    "authors": [
+     "René Fester Kratz",
+     "Donna Rae Siegfried"
+    ],
+    "publisher": "For Dummies",
+    "publishedDate": "2010-06-15",
+    "description": "The fast and easy way to understand biology From molecules to animals, cells to ecosystems, this friendly guide answers all your questions about how living ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0470598751"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470598757"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "0.7.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d6ujGHAm6UmgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d6ujGHAm6UmgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6ujGHAm6UmgC&printsec\u003dfrontcover&dq\u003dBiology+Sciences&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6ujGHAm6UmgC&dq\u003dBiology+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d6ujGHAm6UmgC&dq\u003dBiology+Sciences&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Biology_For_Dummies-sample-epub.acsm?id\u003d6ujGHAm6UmgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Biology_For_Dummies-sample-pdf.acsm?id\u003d6ujGHAm6UmgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GVaxJBVosW0C",
+   "etag": "fFFRRGjmg/Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GVaxJBVosW0C",
+   "volumeInfo": {
+    "title": "Unifying biology",
+    "subtitle": "the evolutionary synthesis and evolutionary biology",
+    "authors": [
+     "Vassiliki Betty Smocovitis"
+    ],
+    "publisher": "Princeton Univ Dept of Art &",
+    "publishedDate": "1996",
+    "description": "Unifying Biology offers a historical reconstruction of one of the most important yet elusive episodes in the history of modern science: the evolutionary ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0691033439"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780691033433"
+     }
+    ],
+    "pageCount": 230,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dGVaxJBVosW0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dGVaxJBVosW0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGVaxJBVosW0C&printsec\u003dfrontcover&dq\u003dBiology+Sciences&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGVaxJBVosW0C&dq\u003dBiology+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Unifying_biology-sample-epub.acsm?id\u003dGVaxJBVosW0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Unifying_biology-sample-pdf.acsm?id\u003dGVaxJBVosW0C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Vx-SiTxJclIC",
+   "etag": "aEYXza60rzY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Vx-SiTxJclIC",
+   "volumeInfo": {
+    "title": "BSCS biology",
+    "subtitle": "an ecological approach",
+    "authors": [
+     "Biological Sciences Curriculum Studies"
+    ],
+    "publisher": "Kendall Hunt Pub Co",
+    "publishedDate": "2002-04",
+    "description": "[This program] encourages you to investigate how organisms and their behaviors are shaped by their environments.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0787275255"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780787275259"
+     }
+    ],
+    "pageCount": 777,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dVx-SiTxJclIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dVx-SiTxJclIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVx-SiTxJclIC&pg\u003dPA1&dq\u003dBiology+Sciences&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVx-SiTxJclIC&dq\u003dBiology+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "h30SySAje40C",
+   "etag": "Ek9oXGIz1N4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/h30SySAje40C",
+   "volumeInfo": {
+    "title": "Catalyzing inquiry at the interface of computing and biology",
+    "authors": [
+     "National Research Council (U.S.). Committee on Frontiers at the Interface of Computing and Biology"
+    ],
+    "publisher": "Natl Academy Pr",
+    "publishedDate": "2005",
+    "description": "This book presents an analysis of the potential synergies at the interface of the two fields and of ways to develop new collaborations between researchers in ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "030909612X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780309096126"
+     }
+    ],
+    "pageCount": 443,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dh30SySAje40C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dh30SySAje40C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dh30SySAje40C&printsec\u003dfrontcover&dq\u003dBiology+Sciences&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dh30SySAje40C&dq\u003dBiology+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 53.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 42.4,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dh30SySAje40C&dq\u003dBiology+Sciences&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 571
+}

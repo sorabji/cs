@@ -1,0 +1,565 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "InZUmmmgLMEC",
+   "etag": "pPUlX5W897o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/InZUmmmgLMEC",
+   "volumeInfo": {
+    "title": "Thriller",
+    "subtitle": "Stories to Keep You Up All Night",
+    "authors": [
+     "James Patterson",
+     "James Grippando",
+     "James Siegel"
+    ],
+    "publisher": "Mira Books",
+    "publishedDate": "2007-06-01",
+    "description": "This unrivaled collection of thirty-two tales of pure suspense features contributions from such noted authors as Heather Graham, Lincoln Child, Denise Hamilton, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0778324567"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780778324560"
+     }
+    ],
+    "pageCount": 672,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 48,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dInZUmmmgLMEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dInZUmmmgLMEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dInZUmmmgLMEC&printsec\u003dfrontcover&dq\u003dThriller&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dInZUmmmgLMEC&dq\u003dThriller&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 8.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.52,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dInZUmmmgLMEC&dq\u003dThriller&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Thriller-sample-epub.acsm?id\u003dInZUmmmgLMEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wDURQh4FuHsC",
+   "etag": "eMfJp1jvbSE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wDURQh4FuHsC",
+   "volumeInfo": {
+    "title": "Thriller",
+    "subtitle": "The Musical Life of Michael Jackson",
+    "authors": [
+     "Nelson George"
+    ],
+    "publisher": "Da Capo Pr",
+    "publishedDate": "2011-05-24",
+    "description": "Now in paperback, an examination of legendary performer Michael Jackson, his music, and his life through the prism of Thriller, the bestselling album of all ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0306819686"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780306819681"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dwDURQh4FuHsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dwDURQh4FuHsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwDURQh4FuHsC&printsec\u003dfrontcover&dq\u003dThriller&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwDURQh4FuHsC&dq\u003dThriller&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Thriller-sample-epub.acsm?id\u003dwDURQh4FuHsC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LUraF2c2sggC",
+   "etag": "QvGs59cdwGA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LUraF2c2sggC",
+   "volumeInfo": {
+    "title": "This Is a Thriller",
+    "subtitle": "An Episode Guide, History and Analysis of the Classic 1960s Television Series",
+    "authors": [
+     "Alan Warren",
+     "Donald S. Sanford"
+    ],
+    "publisher": "McFarland",
+    "publishedDate": "2004-04",
+    "description": "The episode guide covers all 67 installments, providing airdate, production credits, cast, plot synopses and critical evaluations.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0786419695"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786419692"
+     }
+    ],
+    "pageCount": 207,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dLUraF2c2sggC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dLUraF2c2sggC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLUraF2c2sggC&printsec\u003dfrontcover&dq\u003dThriller&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLUraF2c2sggC&dq\u003dThriller&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GqExHkQU63wC",
+   "etag": "78zh9wgqg0Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GqExHkQU63wC",
+   "volumeInfo": {
+    "title": "The suspense thriller",
+    "subtitle": "films in the shadow of Alfred Hitchcock",
+    "authors": [
+     "Charles Derry"
+    ],
+    "publisher": "McFarland & Co Inc Pub",
+    "publishedDate": "2001-09",
+    "description": "This book is a comprehensive study of one of the most popular genres in the cinema.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0786412089"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786412082"
+     }
+    ],
+    "pageCount": 351,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dGqExHkQU63wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dGqExHkQU63wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGqExHkQU63wC&printsec\u003dfrontcover&dq\u003dThriller&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGqExHkQU63wC&dq\u003dThriller&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.74,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dGqExHkQU63wC&dq\u003dThriller&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_suspense_thriller-sample-epub.acsm?id\u003dGqExHkQU63wC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_suspense_thriller-sample-pdf.acsm?id\u003dGqExHkQU63wC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QOiY931rxDEC",
+   "etag": "NM/OKV2tDAg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QOiY931rxDEC",
+   "volumeInfo": {
+    "title": "The erotic thriller in contemporary cinema",
+    "authors": [
+     "Linda Ruth Williams"
+    ],
+    "publisher": "Indiana Univ Pr",
+    "publishedDate": "2005-09",
+    "description": "Linda Ruth Williams traces the genre&#39;s exploitation of pornography and noir, discusses mainstream stars (including Michael Douglas and Sharon Stone) as well as ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0253347130"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780253347138"
+     }
+    ],
+    "pageCount": 466,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dQOiY931rxDEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dQOiY931rxDEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQOiY931rxDEC&printsec\u003dfrontcover&dq\u003dThriller&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQOiY931rxDEC&dq\u003dThriller&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bie2PQAACAAJ",
+   "etag": "JWLSDOOAFps",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bie2PQAACAAJ",
+   "volumeInfo": {
+    "title": "The Thriller",
+    "subtitle": "Scripting Seat-Gripping Suspense",
+    "authors": [
+     "Gregory G. Sarno"
+    ],
+    "publisher": "iUniverse",
+    "publishedDate": "2006-11-22",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0595412866"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780595412860"
+     }
+    ],
+    "pageCount": 480,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dbie2PQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dbie2PQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbie2PQAACAAJ&dq\u003dThriller&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbie2PQAACAAJ&dq\u003dThriller&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CnR9i3udNysC",
+   "etag": "Ccf9x8wAUiw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CnR9i3udNysC",
+   "volumeInfo": {
+    "title": "Blood Moon-The Erotic Thriller",
+    "subtitle": "A Novel about Power, Money, Sex, Brutality, Love, Religion, and Obsession.",
+    "authors": [
+     "Darwin Porter"
+    ],
+    "publisher": "Blood Moon Productions",
+    "publishedDate": "2002-06",
+    "description": "A novel about power, money, sex, brutality, love, religion, and sexual obsession.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0966803043"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780966803044"
+     }
+    ],
+    "pageCount": 514,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dCnR9i3udNysC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dCnR9i3udNysC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCnR9i3udNysC&printsec\u003dfrontcover&dq\u003dThriller&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCnR9i3udNysC&dq\u003dThriller&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AXuwSgAACAAJ",
+   "etag": "+HLuiOHrPm0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AXuwSgAACAAJ",
+   "volumeInfo": {
+    "title": "Thriller",
+    "authors": [
+     "Michael Jackson"
+    ],
+    "publisher": "Alfred Pub Co",
+    "publishedDate": "1983-03-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0739042572"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780739042571"
+     }
+    ],
+    "pageCount": 52,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dAXuwSgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dAXuwSgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAXuwSgAACAAJ&dq\u003dThriller&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAXuwSgAACAAJ&dq\u003dThriller&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DEqrU3EHm2kC",
+   "etag": "2Q3bMTMbh80",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DEqrU3EHm2kC",
+   "volumeInfo": {
+    "title": "The Butterfly Virus: A Thriller",
+    "authors": [
+     "Victor Grippi"
+    ],
+    "publisher": "Victor Grippi",
+    "publishedDate": "2009-02-02",
+    "description": "They gain an ally in John Featherstone, an archeologist, whose work on ancient Native American cultures provides a critical key to the unfolding global events ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1441414606"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781441414601"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dDEqrU3EHm2kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dDEqrU3EHm2kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDEqrU3EHm2kC&printsec\u003dfrontcover&dq\u003dThriller&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDEqrU3EHm2kC&dq\u003dThriller&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Butterfly_Virus_A_Thriller-sample-epub.acsm?id\u003dDEqrU3EHm2kC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1U8PqQhv5foC",
+   "etag": "PaYYNXvs6ms",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1U8PqQhv5foC",
+   "volumeInfo": {
+    "title": "Takedown",
+    "subtitle": "A Thriller",
+    "authors": [
+     "Brad Thor"
+    ],
+    "publisher": "Pocket",
+    "publishedDate": "2007-05-22",
+    "description": "In the aftermath of a Fourth of July terrorist bombing that has destroyed all of the bridges and tunnels leading out of Manhattan, an elite cadre of highly ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1416505423"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781416505426"
+     }
+    ],
+    "pageCount": 464,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 71,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d1U8PqQhv5foC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d1U8PqQhv5foC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1U8PqQhv5foC&printsec\u003dfrontcover&dq\u003dThriller&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1U8PqQhv5foC&dq\u003dThriller&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 581
+}

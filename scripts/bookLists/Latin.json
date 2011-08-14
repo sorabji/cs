@@ -1,0 +1,549 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "g3Q4ciaEwFQC",
+   "etag": "xW7iS54PJpo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/g3Q4ciaEwFQC",
+   "volumeInfo": {
+    "title": "Oxford Latin Course",
+    "authors": [
+     "Maurice Balme",
+     "James Morwood"
+    ],
+    "publishedDate": "1997-03-27",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0199122288"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780199122288"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dg3Q4ciaEwFQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dg3Q4ciaEwFQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dg3Q4ciaEwFQC&dq\u003dLatin&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dg3Q4ciaEwFQC&dq\u003dLatin&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RJco4ioXigYC",
+   "etag": "jHbdXxhSGuo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RJco4ioXigYC",
+   "volumeInfo": {
+    "title": "Vulgar Latin",
+    "authors": [
+     "József Herman",
+     "Roger Wright"
+    ],
+    "publisher": "Pennsylvania State Univ Pr",
+    "publishedDate": "2000",
+    "description": "Every aspect of Vulgar Latin is exemplified in this book, proving that the language is not separate in itself, but an integral part of Latin.Originally ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0271020016"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780271020013"
+     }
+    ],
+    "pageCount": 130,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dRJco4ioXigYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dRJco4ioXigYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRJco4ioXigYC&pg\u003dPA1&dq\u003dLatin&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRJco4ioXigYC&dq\u003dLatin&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dRJco4ioXigYC&dq\u003dLatin&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Vulgar_Latin-sample-epub.acsm?id\u003dRJco4ioXigYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Vulgar_Latin-sample-pdf.acsm?id\u003dRJco4ioXigYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TtubyRtIX40C",
+   "etag": "v7wbcSUz+PA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TtubyRtIX40C",
+   "volumeInfo": {
+    "title": "Wheelock's Latin",
+    "authors": [
+     "Frederic M. Wheelock",
+     "Richard A. LaFleur"
+    ],
+    "publisher": "Collins Reference",
+    "publishedDate": "2005-05-19",
+    "description": "The classic beginning Latin texbook offers forty chapters with grammatical explanations and readings based on ancient Roman authors, along with self-tutorial ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0060783710"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780060783716"
+     }
+    ],
+    "pageCount": 511,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 37,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dTtubyRtIX40C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dTtubyRtIX40C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTtubyRtIX40C&printsec\u003dfrontcover&dq\u003dLatin&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTtubyRtIX40C&dq\u003dLatin&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dTtubyRtIX40C&dq\u003dLatin&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Wheelock_s_Latin-sample-epub.acsm?id\u003dTtubyRtIX40C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nlLOLIBUkGcC",
+   "etag": "5aIc9+Kp9Bo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nlLOLIBUkGcC",
+   "volumeInfo": {
+    "title": "New Latin grammar",
+    "authors": [
+     "Charles Edwin Bennett"
+    ],
+    "publishedDate": "1918",
+    "description": "The \u003cb\u003eLatin\u003c/b\u003e Alphabet is the same as the English, except that the \u003cb\u003eLatin\u003c/b\u003e has no w. i \u003cbr\u003e\r\n. K occurs only in Kalendae and a few other words ; y and % were introduced \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044019056498"
+     }
+    ],
+    "pageCount": 287,
+    "printType": "BOOK",
+    "categories": [
+     "Latin language"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dnlLOLIBUkGcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dnlLOLIBUkGcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnlLOLIBUkGcC&printsec\u003dfrontcover&dq\u003dLatin&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnlLOLIBUkGcC&dq\u003dLatin&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/New_Latin_grammar.pdf?id\u003dnlLOLIBUkGcC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3SsNPE3co-S75a2QG4tdoq0Yac9A&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "c-okJobwcnAC",
+   "etag": "+w9gnW69gOQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/c-okJobwcnAC",
+   "volumeInfo": {
+    "title": "Reading Latin",
+    "subtitle": "Grammar, Vocabulary and Exercises",
+    "authors": [
+     "Peter V. Jones",
+     "Keith C. Sidwell"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "1986-08-29",
+    "description": "The text, richly illustrated, consists at the start of carefully graded adaptations from original Classical Latin texts.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521286220"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521286220"
+     }
+    ],
+    "pageCount": 640,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dc-okJobwcnAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dc-okJobwcnAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dc-okJobwcnAC&printsec\u003dfrontcover&dq\u003dLatin&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dc-okJobwcnAC&dq\u003dLatin&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WFxFAAAAYAAJ",
+   "etag": "WSPdDm29MwU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WFxFAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Latin phrase-book",
+    "authors": [
+     "Carl Meissner"
+    ],
+    "publishedDate": "1894",
+    "description": "I. THE WORLD AND NATURE 1. THE WORLD— CREATION rerum or mundi universitas — the \u003cbr\u003e\r\nuniverse. rerum natura or simply natura — creation ; nature. haec omnia, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PRNC:32101073026039"
+     }
+    ],
+    "pageCount": 316,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dWFxFAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dWFxFAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWFxFAAAAYAAJ&printsec\u003dfrontcover&dq\u003dLatin&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWFxFAAAAYAAJ&dq\u003dLatin&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Latin_phrase_book.pdf?id\u003dWFxFAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1aoxtnJP7zHJ2jA0iEw6FZt7ThZQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qngXAAAAIAAJ",
+   "etag": "8kRYaHc9/ek",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qngXAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Gildersleeve's Latin grammar",
+    "authors": [
+     "Basil Lanneau Gildersleeve",
+     "Gonzalez Lodge"
+    ],
+    "publishedDate": "1894",
+    "description": "The \u003cb\u003eLatin\u003c/b\u003e alphabet has twenty-three letters : ABCDEFGH1 KLM NOPQESTVXTZ Remarks. \u003cbr\u003e\r\n— i. The sounds represented by C and K were originally distinct, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105049266393"
+     }
+    ],
+    "printType": "BOOK",
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dqngXAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dqngXAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dqngXAAAAIAAJ&printsec\u003dfrontcover&dq\u003dLatin&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dqngXAAAAIAAJ&dq\u003dLatin&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Gildersleeve_s_Latin_grammar.pdf?id\u003dqngXAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0GLNMgkZDuS52I8Kwgp-F0OQxMLA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Bb32Th4WAK0C",
+   "etag": "7xMIGIjTx+E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Bb32Th4WAK0C",
+   "volumeInfo": {
+    "title": "Medieval Latin",
+    "subtitle": "an introduction and bibliographical guide",
+    "authors": [
+     "Frank Anthony Carl Mantello",
+     "A. G. Rigg"
+    ],
+    "publisher": "Catholic Univ of Amer Pr",
+    "publishedDate": "1996",
+    "description": "Comprehensive in scope, this guide to the learned lingua franca of western Europe satisfies a longstanding need for a reference tool in English that focusses on ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0813208424"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780813208428"
+     }
+    ],
+    "pageCount": 774,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dBb32Th4WAK0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dBb32Th4WAK0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBb32Th4WAK0C&printsec\u003dfrontcover&dq\u003dLatin&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBb32Th4WAK0C&dq\u003dLatin&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rn8_DC_HSj0C",
+   "etag": "HSgpVJtoLFQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rn8_DC_HSj0C",
+   "volumeInfo": {
+    "title": "Learn to Read Latin",
+    "authors": [
+     "Andrew Keller",
+     "Stephanie Russell"
+    ],
+    "publisher": "Yale Univ Pr",
+    "publishedDate": "2006-11-15",
+    "description": "Learn to Read Latin helps students acquire an ability to read and appreciate the great works of Latin literature as quickly as possible.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "030012094X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780300120943"
+     }
+    ],
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003drn8_DC_HSj0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003drn8_DC_HSj0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003drn8_DC_HSj0C&printsec\u003dfrontcover&dq\u003dLatin&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003drn8_DC_HSj0C&dq\u003dLatin&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fSUjAQAAMAAJ",
+   "etag": "JIOAiaiOPZg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fSUjAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Latin, an introductory course based on ancient authors",
+    "authors": [
+     "Frederic M. Wheelock"
+    ],
+    "publishedDate": "1960",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "IND:30000011869447"
+     }
+    ],
+    "pageCount": 377,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dfSUjAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dfSUjAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfSUjAQAAMAAJ&q\u003dLatin&dq\u003dLatin&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfSUjAQAAMAAJ&dq\u003dLatin&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 588
+}

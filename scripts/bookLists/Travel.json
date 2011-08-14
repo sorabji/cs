@@ -1,0 +1,578 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "v_PXfdpd8PIC",
+   "etag": "NUFp2ob5FIQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/v_PXfdpd8PIC",
+   "volumeInfo": {
+    "title": "The Best American Travel Writing 2002",
+    "authors": [
+     "Frances Mayes",
+     "Jason Wilson"
+    ],
+    "publisher": "Mariner Books",
+    "publishedDate": "2002-10-15",
+    "description": "Presents an anthology of the best travel writing published in the previous year, selected from magazines, newspapers, and web sites.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0618118802"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780618118809"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 178,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dv_PXfdpd8PIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dv_PXfdpd8PIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dv_PXfdpd8PIC&printsec\u003dfrontcover&dq\u003dTravel&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dv_PXfdpd8PIC&dq\u003dTravel&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Best_American_Travel_Writing_2002-sample-epub.acsm?id\u003dv_PXfdpd8PIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lPxPAAAAYAAJ",
+   "etag": "qQQThvQN/c4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lPxPAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Travel",
+    "subtitle": "a series of narratives of personal visits to places therein famous for natural beauty or historical association",
+    "authors": [
+     "William Maccrillis Griswold"
+    ],
+    "publishedDate": "1892",
+    "description": "A Series of Narratives of Personal Visits to Places therein famous for Natural \u003cbr\u003e\r\nBeauty or Historical Association. CAMBRIDGE, MASS: U. 8. A. W : M. GUISWOLD. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PRNC:32101059615219"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dlPxPAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dlPxPAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlPxPAAAAYAAJ&printsec\u003dfrontcover&dq\u003dTravel&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlPxPAAAAYAAJ&dq\u003dTravel&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Travel.epub?id\u003dlPxPAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Travel.pdf?id\u003dlPxPAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U37AevJKy360ByfTFHK3cDg68iMiA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iXAdjo2g5tsC",
+   "etag": "orS3zJSf000",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iXAdjo2g5tsC",
+   "volumeInfo": {
+    "title": "The Art of Travel",
+    "authors": [
+     "Alain De Botton"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "2004-05-11",
+    "description": "An inquiry into the human desire to travel and the ways in which the travel experience is affected by anticipation and memory presents a series of thought ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0375725342"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780375725340"
+     }
+    ],
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 202,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003diXAdjo2g5tsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003diXAdjo2g5tsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003diXAdjo2g5tsC&printsec\u003dfrontcover&dq\u003dTravel&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003diXAdjo2g5tsC&dq\u003dTravel&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003diXAdjo2g5tsC&dq\u003dTravel&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Art_of_Travel-sample-epub.acsm?id\u003diXAdjo2g5tsC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Art_of_Travel-sample-pdf.acsm?id\u003diXAdjo2g5tsC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MME33bSTCDsC",
+   "etag": "UwP2RsA21YM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MME33bSTCDsC",
+   "volumeInfo": {
+    "title": "Time Travel in Einstein's Universe",
+    "subtitle": "The Physical Possibilities of Travel Through Time",
+    "authors": [
+     "J. Richard Gott"
+    ],
+    "publisher": "Mariner Books",
+    "publishedDate": "2002-08-22",
+    "description": "A leading astrophysicist takes time travel science fiction to science fact, speculating on the real possibility that temporal navigation might be within the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0618257357"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780618257355"
+     }
+    ],
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 35,
+    "contentVersion": "1.0.0.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dMME33bSTCDsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dMME33bSTCDsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMME33bSTCDsC&printsec\u003dfrontcover&dq\u003dTravel&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMME33bSTCDsC&dq\u003dTravel&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Time_Travel_in_Einstein_s_Universe-sample-epub.acsm?id\u003dMME33bSTCDsC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BdI8AAAAMAAJ",
+   "etag": "m7ysqlhy230",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BdI8AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Travel",
+    "subtitle": "an illustrated monthly magazine",
+    "authors": [
+     "Elisha Hollingsworth Talbot"
+    ],
+    "publishedDate": "1896",
+    "description": "\u003cb\u003e...\u003c/b\u003e VOL. t NO. J CHAPTER I. Gothic is dead. There might be grounds for doubting \u003cbr\u003e\r\nthis if the corpse were not in evidence. But unfortunately for those \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015031985487"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dBdI8AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dBdI8AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBdI8AAAAMAAJ&printsec\u003dfrontcover&dq\u003dTravel&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBdI8AAAAMAAJ&dq\u003dTravel&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Travel.pdf?id\u003dBdI8AAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3LLkFFxH9ns8L3pN7jdrfdPa-JPw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qamuN9CGp5sC",
+   "etag": "OVKJLd5XQOQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qamuN9CGp5sC",
+   "volumeInfo": {
+    "title": "The Penny Pincher's Passport to Luxury Travel",
+    "subtitle": "The Art of Cultivating Preferred Customer Status",
+    "authors": [
+     "Joel L. Widzer"
+    ],
+    "publisher": "Travelers' Tales Inc",
+    "publishedDate": "2004-05-24",
+    "description": "An expert on consumer travel urges readers to drop the penny pinching in favor of first-class accommodations that can be purchased cheaply, suggesting long-term ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1932361049"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781932361049"
+     }
+    ],
+    "pageCount": 309,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dqamuN9CGp5sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dqamuN9CGp5sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dqamuN9CGp5sC&printsec\u003dfrontcover&dq\u003dTravel&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dqamuN9CGp5sC&dq\u003dTravel&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.96,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.57,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dqamuN9CGp5sC&dq\u003dTravel&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Penny_Pincher_s_Passport_to_Luxury_T-sample-epub.acsm?id\u003dqamuN9CGp5sC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Penny_Pincher_s_Passport_to_Luxury_T-sample-pdf.acsm?id\u003dqamuN9CGp5sC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rfOfAAAAMAAJ",
+   "etag": "gj+vTx97qgI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rfOfAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Travel",
+    "subtitle": "the magazine that roams the globe",
+    "authors": [
+     "New York Central and Hudson River Railroad Company. Passenger Dept"
+    ],
+    "publishedDate": "1905",
+    "description": "The Four-Track News An Illustrated Magazine of \u003cb\u003eTravel\u003c/b\u003e and Education Published \u003cbr\u003e\r\nMonthly by GEORGE H. DANIELS 7 East 42d Street, New York $1 A YEAR 10 CENTS A \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015070295319"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003drfOfAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003drfOfAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003drfOfAAAAMAAJ&printsec\u003dfrontcover&dq\u003dTravel&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003drfOfAAAAMAAJ&dq\u003dTravel&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Travel.pdf?id\u003drfOfAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U34pqd75-uO44erNShlTiwmY_jNpw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7sb_8fsSeoIC",
+   "etag": "MKdAUwry2xc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7sb_8fsSeoIC",
+   "volumeInfo": {
+    "title": "How to travel practically anywhere",
+    "subtitle": "the ultimate travel guide",
+    "authors": [
+     "Susan Stellin"
+    ],
+    "publisher": "Mariner Books",
+    "publishedDate": "2006-03-20",
+    "description": "A complete, insider&#39;s guide to travel planning explains how to use a wide range of resources, including online and other sources, to find the best deals on ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0618607536"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780618607532"
+     }
+    ],
+    "pageCount": 321,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 5,
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d7sb_8fsSeoIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d7sb_8fsSeoIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7sb_8fsSeoIC&printsec\u003dfrontcover&dq\u003dTravel&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7sb_8fsSeoIC&dq\u003dTravel&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d7sb_8fsSeoIC&dq\u003dTravel&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/How_to_travel_practically_anywhere-sample-pdf.acsm?id\u003d7sb_8fsSeoIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nflJ6f1WaVsC",
+   "etag": "aL3P2ngjqyc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nflJ6f1WaVsC",
+   "volumeInfo": {
+    "title": "Travel",
+    "authors": [
+     "Vicki Yates"
+    ],
+    "publisher": "Acorn",
+    "publishedDate": "2007-09",
+    "description": "Demonstrates what travel was like in the past while comparing that experience to travel today.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1403498393"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781403498397"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dnflJ6f1WaVsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dnflJ6f1WaVsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnflJ6f1WaVsC&printsec\u003dfrontcover&dq\u003dTravel&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnflJ6f1WaVsC&dq\u003dTravel&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nhUGKXNvqKMC",
+   "etag": "JsMIashjc7U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nhUGKXNvqKMC",
+   "volumeInfo": {
+    "title": "The Complete Travel Detective Bible",
+    "subtitle": "The Consummate Insider Tells You What You Need to Know in an Increasingly Complex World!",
+    "authors": [
+     "Peter Greenberg"
+    ],
+    "publisher": "Rodale Books",
+    "publishedDate": "2007-10-02",
+    "description": "Covering every aspect of the domestic and international travel process, a helpful reference--cross-referenced by term, experience, and destination--shares the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1594867089"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781594867088"
+     }
+    ],
+    "pageCount": 624,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dnhUGKXNvqKMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dnhUGKXNvqKMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnhUGKXNvqKMC&printsec\u003dfrontcover&dq\u003dTravel&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnhUGKXNvqKMC&dq\u003dTravel&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 463
+}

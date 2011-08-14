@@ -1,0 +1,560 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "tmGLFf1dUasC",
+   "etag": "oz8L0beBlxA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tmGLFf1dUasC",
+   "volumeInfo": {
+    "title": "Environmental Psychology",
+    "authors": [
+     "Paul A. Bell",
+     "Thomas C. Greene",
+     "Jeffrey Fisher",
+     "Andrew Baum"
+    ],
+    "publisher": "Lawrence Erlbaum",
+    "publishedDate": "2005-12-29",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0805860886"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780805860887"
+     }
+    ],
+    "pageCount": 654,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dtmGLFf1dUasC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dtmGLFf1dUasC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtmGLFf1dUasC&dq\u003dEnvironmental&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtmGLFf1dUasC&dq\u003dEnvironmental&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Yf5queLIuH8C",
+   "etag": "UV890ZJcKSQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Yf5queLIuH8C",
+   "volumeInfo": {
+    "title": "Environmental law",
+    "subtitle": "examples & explanations",
+    "authors": [
+     "Steven Ferrey"
+    ],
+    "publisher": "Aspen Law & Business",
+    "publishedDate": "2009-12-18",
+    "description": "Examples &amp; Explanations: Environmental Law, Fifth Edition, features: broad coverage that includes 20 areas of environmental law in 15 chapters, with consistent ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0735588732"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780735588738"
+     }
+    ],
+    "pageCount": 671,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dYf5queLIuH8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dYf5queLIuH8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYf5queLIuH8C&printsec\u003dfrontcover&dq\u003dEnvironmental&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYf5queLIuH8C&dq\u003dEnvironmental&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bpU17ja7RGkC",
+   "etag": "+HQKmBaqbo4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bpU17ja7RGkC",
+   "volumeInfo": {
+    "title": "Environmental ethics",
+    "subtitle": "an overview for the twenty-first century",
+    "authors": [
+     "Robin Attfield"
+    ],
+    "publisher": "Polity",
+    "publishedDate": "2003",
+    "description": "The book introduces environmental problems and environmental ethics and surveys theories of the sources of the problems.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0745627382"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780745627380"
+     }
+    ],
+    "pageCount": 232,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dbpU17ja7RGkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dbpU17ja7RGkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbpU17ja7RGkC&printsec\u003dfrontcover&dq\u003dEnvironmental&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbpU17ja7RGkC&dq\u003dEnvironmental&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "O-g22IZEaIEC",
+   "etag": "HjJvTbpOKYg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/O-g22IZEaIEC",
+   "volumeInfo": {
+    "title": "Environmental science",
+    "subtitle": "working with the earth",
+    "authors": [
+     "George Tyler Miller"
+    ],
+    "publisher": "Brooks/Cole Pub Co",
+    "publishedDate": "2005-09-22",
+    "description": "New media to this edition includes: &quot;How Would You Vote?&quot; found at http://biology.brookscole.com/miller11.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0534422500"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780534422509"
+     }
+    ],
+    "pageCount": 436,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dO-g22IZEaIEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dO-g22IZEaIEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dO-g22IZEaIEC&printsec\u003dfrontcover&dq\u003dEnvironmental&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dO-g22IZEaIEC&dq\u003dEnvironmental&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_XTN1GpnfVwC",
+   "etag": "x4SNuTTxNzg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_XTN1GpnfVwC",
+   "volumeInfo": {
+    "title": "Environmental organic chemistry",
+    "subtitle": "illustrative examples, problems, and case studies",
+    "authors": [
+     "René P. Schwarzenbach",
+     "P. M. Gschwend",
+     "Dieter M. Imboden"
+    ],
+    "publisher": "Wiley-Interscience",
+    "publishedDate": "1995",
+    "description": "As the perfect complement to the highly acclaimed Environmental Organic Chemistry, this companion volume enriches the textbook with illustrative examples, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0471125881"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780471125884"
+     }
+    ],
+    "pageCount": 392,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d_XTN1GpnfVwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d_XTN1GpnfVwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_XTN1GpnfVwC&printsec\u003dfrontcover&dq\u003dEnvironmental&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_XTN1GpnfVwC&dq\u003dEnvironmental&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VO-Unp1sFAMC",
+   "etag": "SZrJ9kojS8E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VO-Unp1sFAMC",
+   "volumeInfo": {
+    "title": "Environmental engineering",
+    "subtitle": "Environmental health and safety for municipal infrastructure, land use and planning, and industry",
+    "authors": [
+     "Nelson Leonard Nemerow",
+     "Franklin J. Agardy"
+    ],
+    "publisher": "John Wiley & Sons Inc",
+    "publishedDate": "2008-12-31",
+    "description": "This volume, Environmental Health and Safety for Municipal Infrastructure, Land Use and Planning, and Industry, Sixth Edition, covers: Municipal and industrial ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0470083050"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470083055"
+     }
+    ],
+    "pageCount": 556,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dVO-Unp1sFAMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dVO-Unp1sFAMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVO-Unp1sFAMC&printsec\u003dfrontcover&dq\u003dEnvironmental&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVO-Unp1sFAMC&dq\u003dEnvironmental&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "v9g_rsLFWbIC",
+   "etag": "XqCuUk0oCUA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/v9g_rsLFWbIC",
+   "volumeInfo": {
+    "title": "Environmental Health",
+    "subtitle": "From Global to Local",
+    "authors": [
+     "Howard Frumkin"
+    ],
+    "publisher": "Jossey-Bass",
+    "publishedDate": "2010-03-05",
+    "description": "The second edition of Environmental Health: From Global to Local, a comprehensive introductory text, offers an overview of the methodology and paradigms of this ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0470404876"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470404874"
+     }
+    ],
+    "pageCount": 1221,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dv9g_rsLFWbIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dv9g_rsLFWbIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dv9g_rsLFWbIC&printsec\u003dfrontcover&dq\u003dEnvironmental&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dv9g_rsLFWbIC&dq\u003dEnvironmental&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 74.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 74.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dv9g_rsLFWbIC&dq\u003dEnvironmental&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Environmental_Health-sample-epub.acsm?id\u003dv9g_rsLFWbIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Environmental_Health-sample-pdf.acsm?id\u003dv9g_rsLFWbIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "L4bsu11O9RQC",
+   "etag": "lQ8QbFS5S7Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/L4bsu11O9RQC",
+   "volumeInfo": {
+    "title": "Essentials of Environmental Health",
+    "authors": [
+     "Robert H. Friis"
+    ],
+    "publisher": "Jones & Bartlett Publishers",
+    "publishedDate": "2010-12-15",
+    "description": "Given the success and positive reviews of the first edition, Friis has kept in tact the features that work well.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0763778907"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780763778903"
+     }
+    ],
+    "pageCount": 446,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "0.3.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dL4bsu11O9RQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dL4bsu11O9RQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dL4bsu11O9RQC&printsec\u003dfrontcover&dq\u003dEnvironmental&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dL4bsu11O9RQC&dq\u003dEnvironmental&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XDxNjHMVr18C",
+   "etag": "6FVLWDnr7Cg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XDxNjHMVr18C",
+   "volumeInfo": {
+    "title": "Environmental justice",
+    "subtitle": "issues, policies, and solutions",
+    "authors": [
+     "Bunyan I. Bryant",
+     "Bunyan Bryant"
+    ],
+    "publisher": "Island Pr",
+    "publishedDate": "1995",
+    "description": "In Environmental Justice, leading thinkers of the environmental justice movement take a direct look at the failure of &quot;top down&quot; public policy to effectively ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1559634170"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781559634175"
+     }
+    ],
+    "pageCount": 278,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dXDxNjHMVr18C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dXDxNjHMVr18C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXDxNjHMVr18C&printsec\u003dfrontcover&dq\u003dEnvironmental&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXDxNjHMVr18C&dq\u003dEnvironmental&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Lhl11ZxBHr0C",
+   "etag": "C8mu98jIjpc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Lhl11ZxBHr0C",
+   "volumeInfo": {
+    "title": "Environmental toxicology",
+    "authors": [
+     "David A. Wright",
+     "Pamela Welbourn"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "2002",
+    "description": "Comprehensive introductory textbook for students and specialists in ecology, environmental science, and chemistry.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "052158860X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521588607"
+     }
+    ],
+    "pageCount": 630,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dLhl11ZxBHr0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dLhl11ZxBHr0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLhl11ZxBHr0C&printsec\u003dfrontcover&dq\u003dEnvironmental&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLhl11ZxBHr0C&dq\u003dEnvironmental&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 590
+}

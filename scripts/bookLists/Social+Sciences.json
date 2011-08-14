@@ -1,0 +1,523 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "3dujTfgwttwC",
+   "etag": "InAhX4byrG8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3dujTfgwttwC",
+   "volumeInfo": {
+    "title": "Social Sciences",
+    "subtitle": "The Big Issues",
+    "authors": [
+     "Kath Woodward"
+    ],
+    "publisher": "Taylor & Francis",
+    "publishedDate": "2009-08-03",
+    "description": "The second edition has been extensively updated with new illustrations and examples, and additional discussion of the responses of the social sciences to the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "041546661X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415466615"
+     }
+    ],
+    "pageCount": 203,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d3dujTfgwttwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d3dujTfgwttwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3dujTfgwttwC&printsec\u003dfrontcover&dq\u003dSocial+Sciences&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3dujTfgwttwC&dq\u003dSocial+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 41.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.88,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d3dujTfgwttwC&dq\u003dSocial+Sciences&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Social_Sciences-sample-epub.acsm?id\u003d3dujTfgwttwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Social_Sciences-sample-pdf.acsm?id\u003d3dujTfgwttwC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4wNHAAAAMAAJ",
+   "etag": "Ztu+Tp0ow5U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4wNHAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The social sciences",
+    "subtitle": "a cross-disciplinary guide to selected sources",
+    "authors": [
+     "Nancy L. Herron"
+    ],
+    "publisher": "Libraries Unltd Inc",
+    "publishedDate": "2002",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1563089858"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781563089855"
+     }
+    ],
+    "pageCount": 494,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d4wNHAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d4wNHAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4wNHAAAAMAAJ&q\u003dSocial+Sciences&dq\u003dSocial+Sciences&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4wNHAAAAMAAJ&dq\u003dSocial+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wP8KAAAAIAAJ",
+   "etag": "LPUg628U52g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wP8KAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Social sciences",
+    "authors": [
+     "Pi Gamma Mu"
+    ],
+    "publishedDate": "1977",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015039511129"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dwP8KAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dwP8KAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwP8KAAAAIAAJ&q\u003dSocial+Sciences&dq\u003dSocial+Sciences&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwP8KAAAAIAAJ&dq\u003dSocial+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7l56JothKO0C",
+   "etag": "Gqc1de7My9U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7l56JothKO0C",
+   "volumeInfo": {
+    "title": "The Social Sciences",
+    "authors": [
+     "EMORY UNIVERSITY GRADUATE SCHOOL OF ARTS & SCIENCES"
+    ],
+    "publishedDate": "1986",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:0J1UR188YEF"
+     }
+    ],
+    "pageCount": 203,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d7l56JothKO0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d7l56JothKO0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7l56JothKO0C&printsec\u003dfrontcover&dq\u003dSocial+Sciences&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7l56JothKO0C&dq\u003dSocial+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bS07AAAAIAAJ",
+   "etag": "n0JfwpA0pYY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bS07AAAAIAAJ",
+   "volumeInfo": {
+    "title": "The social sciences",
+    "subtitle": "foundations of the social studies",
+    "authors": [
+     "John Udell Michaelis",
+     "Ralph W. Haskins",
+     "Aaron Montgomery Johnston"
+    ],
+    "publishedDate": "1965",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B3510535"
+     }
+    ],
+    "pageCount": 350,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dbS07AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dbS07AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbS07AAAAIAAJ&q\u003dSocial+Sciences&dq\u003dSocial+Sciences&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbS07AAAAIAAJ&dq\u003dSocial+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "H3fxvuxjJOsC",
+   "etag": "mD0Lfri7OL4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/H3fxvuxjJOsC",
+   "volumeInfo": {
+    "title": "Social Sciences: The Indian Scene",
+    "authors": [
+     "Yogesh Atal"
+    ],
+    "publishedDate": "2003-06-01",
+    "description": "Written by one of the distinguished and leading sociologists of the country Professor Yogesh Atal — these essays convey an insider-view of the profession.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8170170427"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788170170426"
+     }
+    ],
+    "pageCount": 295,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dH3fxvuxjJOsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dH3fxvuxjJOsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dH3fxvuxjJOsC&pg\u003dPA1&dq\u003dSocial+Sciences&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dH3fxvuxjJOsC&dq\u003dSocial+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ALzKHiFoy58C",
+   "etag": "9vrHTP3LB/Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ALzKHiFoy58C",
+   "volumeInfo": {
+    "title": "Knowledge and the social sciences",
+    "subtitle": "theory, method, practice",
+    "authors": [
+     "David S. Goldblatt"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2004-10-26",
+    "description": "In a radical and yet lucid and practical introduction to ways of thinking and knowing in the social sciences this text investigates: * the origins and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415329760"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415329767"
+     }
+    ],
+    "pageCount": 162,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dALzKHiFoy58C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dALzKHiFoy58C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dALzKHiFoy58C&printsec\u003dfrontcover&dq\u003dSocial+Sciences&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dALzKHiFoy58C&dq\u003dSocial+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 51.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 41.04,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dALzKHiFoy58C&dq\u003dSocial+Sciences&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Knowledge_and_the_social_sciences-sample-epub.acsm?id\u003dALzKHiFoy58C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Knowledge_and_the_social_sciences-sample-pdf.acsm?id\u003dALzKHiFoy58C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BAZNIWA2aqsC",
+   "etag": "VCklH6zXrLE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BAZNIWA2aqsC",
+   "volumeInfo": {
+    "title": "The Social Sciences",
+    "authors": [
+     "Bill Myers",
+     "Lin Shaw"
+    ],
+    "publishedDate": "2004-10",
+    "description": "Part of a series written for Access to Higher Education students, this book addresses those modules covering psychology, sociology and ethics.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "074878585X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780748785858"
+     }
+    ],
+    "pageCount": 311,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dBAZNIWA2aqsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dBAZNIWA2aqsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBAZNIWA2aqsC&pg\u003dPP1&dq\u003dSocial+Sciences&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBAZNIWA2aqsC&dq\u003dSocial+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ywa8AAAAIAAJ",
+   "etag": "S6jP2lu+rrA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ywa8AAAAIAAJ",
+   "volumeInfo": {
+    "title": "The Social sciences",
+    "subtitle": "the supply of and demand for documentation and data : a report to Unesco",
+    "authors": [
+     "John Michael Brittain"
+    ],
+    "publishedDate": "1982",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B4170035"
+     }
+    ],
+    "pageCount": 138,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dywa8AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dywa8AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dywa8AAAAIAAJ&q\u003dSocial+Sciences&dq\u003dSocial+Sciences&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dywa8AAAAIAAJ&dq\u003dSocial+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DW0nAQAAIAAJ",
+   "etag": "CbHShoUBq3Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DW0nAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Social sciences",
+    "authors": [
+     "Akademii͡a͡ nauk SSSR. Otdelenie obshchestvennykh nauk",
+     "Akademii͡a͡ nauk SSSR. Sect͡s͡ii͡a͡ obshchestvennykh nauk"
+    ],
+    "publishedDate": "2007-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105131547254"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dDW0nAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dDW0nAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDW0nAQAAIAAJ&q\u003dSocial+Sciences&dq\u003dSocial+Sciences&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDW0nAQAAIAAJ&dq\u003dSocial+Sciences&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 584
+}

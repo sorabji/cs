@@ -1,0 +1,515 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "p6NAAAAAYAAJ",
+   "etag": "RyOTHQb8ZpU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/p6NAAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Manuals",
+    "authors": [
+     "Colombia. Policía Nacional"
+    ],
+    "publishedDate": "1962",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173026842357"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dp6NAAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dp6NAAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dp6NAAAAAYAAJ&q\u003dManuals&dq\u003dManuals&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dp6NAAAAAYAAJ&dq\u003dManuals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HJbpAAAAMAAJ",
+   "etag": "qYciQBPiJDY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HJbpAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Manuals",
+    "authors": [
+     "Institute on Administrative Procedures for County Officers",
+     "University of Wisconsin. Institute of Governmental Affairs",
+     "Wisconsin County Boards Association",
+     "Wisconsin Register of Deeds Association"
+    ],
+    "publishedDate": "1950",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015084481251"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dHJbpAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dHJbpAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHJbpAAAAMAAJ&q\u003dManuals&dq\u003dManuals&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHJbpAAAAMAAJ&dq\u003dManuals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wqV3jTZXBvQC",
+   "etag": "PMFo33QrmJ4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wqV3jTZXBvQC",
+   "volumeInfo": {
+    "title": "Writing and designing manuals",
+    "subtitle": "operator manuals, service and maintenance manuals, manuals for international markets",
+    "authors": [
+     "Patricia A. Robinson",
+     "Ryn Etter"
+    ],
+    "publisher": "CRC",
+    "publishedDate": "2000-05-15",
+    "description": "Not limited to text elements, the manual also provides guidance for designing illustrations to complement the text and underscore the safety warnings.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1566703786"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781566703789"
+     }
+    ],
+    "pageCount": 202,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dwqV3jTZXBvQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dwqV3jTZXBvQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwqV3jTZXBvQC&printsec\u003dfrontcover&dq\u003dManuals&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwqV3jTZXBvQC&dq\u003dManuals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 104.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 83.96,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dwqV3jTZXBvQC&dq\u003dManuals&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Writing_and_designing_manuals-sample-epub.acsm?id\u003dwqV3jTZXBvQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Writing_and_designing_manuals-sample-pdf.acsm?id\u003dwqV3jTZXBvQC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IIogAQAAMAAJ",
+   "etag": "WvzeXqfLl5E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IIogAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Manuals",
+    "authors": [
+     "Pittsburgh Area Transportation Study"
+    ],
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NWU:35556029568144"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dIIogAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dIIogAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIIogAQAAMAAJ&q\u003dManuals&dq\u003dManuals&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIIogAQAAMAAJ&dq\u003dManuals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bMnsQgAACAAJ",
+   "etag": "Db+HQ57K+0M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bMnsQgAACAAJ",
+   "volumeInfo": {
+    "title": "Manuals",
+    "publishedDate": "2006",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:255821200"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbMnsQgAACAAJ&dq\u003dManuals&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbMnsQgAACAAJ&dq\u003dManuals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iSDt-uhm6t0C",
+   "etag": "qQP13fuv8zA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iSDt-uhm6t0C",
+   "volumeInfo": {
+    "title": "Chinese Martial Arts Training Manuals",
+    "subtitle": "A Historical Survey",
+    "authors": [
+     "Brian Kennedy"
+    ],
+    "publisher": "Blue Snake Books",
+    "publishedDate": "2008-01-08",
+    "description": "This collection introduces Western readers to the rich and diverse tradition of these influential texts, rarely available to the English-speaking reader.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1583941940"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781583941942"
+     }
+    ],
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003diSDt-uhm6t0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003diSDt-uhm6t0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003diSDt-uhm6t0C&printsec\u003dfrontcover&dq\u003dManuals&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003diSDt-uhm6t0C&dq\u003dManuals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nObwQwAACAAJ",
+   "etag": "JPqh8CDlzEU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nObwQwAACAAJ",
+   "volumeInfo": {
+    "title": "Manuals",
+    "authors": [
+     "European Monitoring Centre for Drugs and Drug Addiction"
+    ],
+    "publishedDate": "1998",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:sn99034819"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Drug abuse"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnObwQwAACAAJ&dq\u003dManuals&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnObwQwAACAAJ&dq\u003dManuals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "auSXqwwtYPgC",
+   "etag": "p2vuYODCH5Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/auSXqwwtYPgC",
+   "volumeInfo": {
+    "title": "Handbook of Evidence-Based Treatment Manuals for Children and Adolescents",
+    "authors": [
+     "Craig Winston LeCroy"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2008-04-15",
+    "description": "The Handbook of Evidence-Based Child and Adolescent Treatment Manuals is an indispensable reference for researchers, graduate students, and practitioners ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "019517741X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195177411"
+     }
+    ],
+    "pageCount": 604,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dauSXqwwtYPgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dauSXqwwtYPgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dauSXqwwtYPgC&printsec\u003dfrontcover&dq\u003dManuals&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dauSXqwwtYPgC&dq\u003dManuals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 65.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 52.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dauSXqwwtYPgC&dq\u003dManuals&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Handbook_of_Evidence_Based_Treatment_Man-sample-pdf.acsm?id\u003dauSXqwwtYPgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dw0IdBImyRYC",
+   "etag": "wH4DLoJn7n0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dw0IdBImyRYC",
+   "volumeInfo": {
+    "title": "Dogen's Manuals of Zen Meditation",
+    "authors": [
+     "Carl Bielefeldt"
+    ],
+    "publisher": "Univ of California Pr",
+    "publishedDate": "1990-08-16",
+    "description": "Zen Buddhism is perhaps best known for its emphasis on meditation, and probably no figure in the history of Zen is more closely associated with meditation ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520068351"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520068353"
+     }
+    ],
+    "pageCount": 267,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003ddw0IdBImyRYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003ddw0IdBImyRYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddw0IdBImyRYC&printsec\u003dfrontcover&dq\u003dManuals&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddw0IdBImyRYC&dq\u003dManuals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 25.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 15.31,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003ddw0IdBImyRYC&dq\u003dManuals&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Dogen_s_Manuals_of_Zen_Meditation-sample-epub.acsm?id\u003ddw0IdBImyRYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Dogen_s_Manuals_of_Zen_Meditation-sample-pdf.acsm?id\u003ddw0IdBImyRYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cEZxJ46TjKQC",
+   "etag": "gYRtYQwxE6g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cEZxJ46TjKQC",
+   "volumeInfo": {
+    "title": "Organ music for manuals only",
+    "subtitle": "33 works",
+    "authors": [
+     "Rollin Smith"
+    ],
+    "publisher": "Dover Publications",
+    "publishedDate": "2001-10-15",
+    "description": "This unique collection is devoted solely to original organ music without pedal.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0486418871"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486418872"
+     }
+    ],
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dcEZxJ46TjKQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dcEZxJ46TjKQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcEZxJ46TjKQC&printsec\u003dfrontcover&dq\u003dManuals&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcEZxJ46TjKQC&dq\u003dManuals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 565
+}

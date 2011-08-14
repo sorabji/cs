@@ -1,0 +1,593 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "YcqXxo5H9x0C",
+   "etag": "zvS0oxTlyaA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YcqXxo5H9x0C",
+   "volumeInfo": {
+    "title": "Financial modeling",
+    "authors": [
+     "Simon Benninga",
+     "Benjamin Czaczkes"
+    ],
+    "publisher": "The MIT Press",
+    "publishedDate": "2000",
+    "description": "In this sense, this is a finance &quot;cookbook,&quot; providing recipes with lists of ingredients and instructions.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0262024829"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780262024822"
+     }
+    ],
+    "pageCount": 622,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 11,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dYcqXxo5H9x0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dYcqXxo5H9x0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYcqXxo5H9x0C&printsec\u003dfrontcover&dq\u003dFinancial&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYcqXxo5H9x0C&dq\u003dFinancial&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kaY0pAcrm2MC",
+   "etag": "+anMv16mQDA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kaY0pAcrm2MC",
+   "volumeInfo": {
+    "title": "Financial analysis",
+    "subtitle": "tools and techniques : a guide for managers",
+    "authors": [
+     "Erich A. Helfert"
+    ],
+    "publisher": "McGraw-Hill Professional",
+    "publishedDate": "2001",
+    "description": "&quot; This advanced knowledge-based business analysis and planning software is fully integrated with this book,&quot; &quot;allowing users to: Access data from databases, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0071378340"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071378345"
+     }
+    ],
+    "pageCount": 485,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dkaY0pAcrm2MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dkaY0pAcrm2MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkaY0pAcrm2MC&printsec\u003dfrontcover&dq\u003dFinancial&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkaY0pAcrm2MC&dq\u003dFinancial&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aUgbK_qjlgsC",
+   "etag": "kcGYT5qSgVc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aUgbK_qjlgsC",
+   "volumeInfo": {
+    "title": "Financial Shenanigans",
+    "subtitle": "How to Detect Accounting Gimmicks & Fraud in Financial Reports, Third Edition",
+    "authors": [
+     "Howard Schilit",
+     "Jeremy Perler"
+    ],
+    "publisher": "McGraw-Hill Professional",
+    "publishedDate": "2010-04-14",
+    "description": "The tools investors need to stay abreast ofmanagement’s latest accounting gimmicks Financial Shenanigans, Third Edition helps anyone whouses financial reports ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0071703071"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071703079"
+     }
+    ],
+    "pageCount": 318,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003daUgbK_qjlgsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003daUgbK_qjlgsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daUgbK_qjlgsC&printsec\u003dfrontcover&dq\u003dFinancial&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daUgbK_qjlgsC&dq\u003dFinancial&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 19.22,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003daUgbK_qjlgsC&dq\u003dFinancial&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Financial_Shenanigans-sample-epub.acsm?id\u003daUgbK_qjlgsC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Financial_Shenanigans-sample-pdf.acsm?id\u003daUgbK_qjlgsC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "atS5wUv5E2QC",
+   "etag": "PFevEgTyyds",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/atS5wUv5E2QC",
+   "volumeInfo": {
+    "title": "Fundamentals of financial management",
+    "authors": [
+     "James C. Van Horne",
+     "John M. Wachowicz"
+    ],
+    "publisher": "Prentice Hall",
+    "publishedDate": "2008",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0273713639"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780273713630"
+     }
+    ],
+    "pageCount": 719,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003datS5wUv5E2QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003datS5wUv5E2QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003datS5wUv5E2QC&dq\u003dFinancial&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003datS5wUv5E2QC&dq\u003dFinancial&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "M72b6tXgT1MC",
+   "etag": "FxQ2IB+CLdQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/M72b6tXgT1MC",
+   "volumeInfo": {
+    "title": "Financial Accounting",
+    "subtitle": "An Introduction to Concepts, Methods and Uses",
+    "authors": [
+     "Clyde P. Stickney",
+     "Roman L. Weil",
+     "Katherine Schipper"
+    ],
+    "publisher": "South-Western Pub",
+    "publishedDate": "2009-02-25",
+    "description": "Fully integrated with the latest International Financial Reporting Standards, inclusion of the latest developments on Fair Value Accounting, and coverage of the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0324651147"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780324651140"
+     }
+    ],
+    "pageCount": 936,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 8,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dM72b6tXgT1MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dM72b6tXgT1MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dM72b6tXgT1MC&printsec\u003dfrontcover&dq\u003dFinancial&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dM72b6tXgT1MC&dq\u003dFinancial&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WbJl3BQ-EOwC",
+   "etag": "8RhICoLAIHY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WbJl3BQ-EOwC",
+   "volumeInfo": {
+    "title": "Personal Financial Planning",
+    "authors": [
+     "G. Victor Hallman",
+     "Jerry S. Rosenbloom"
+    ],
+    "publisher": "McGraw-Hill Companies",
+    "publishedDate": "2003-05-28",
+    "description": "In addition, this invaluable book provides the latest financial thinking and proven high return/low risk strategies in virtually every applicable area, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0071419446"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071419444"
+     }
+    ],
+    "pageCount": 500,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dWbJl3BQ-EOwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dWbJl3BQ-EOwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWbJl3BQ-EOwC&printsec\u003dfrontcover&dq\u003dFinancial&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWbJl3BQ-EOwC&dq\u003dFinancial&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 49.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 39.46,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dWbJl3BQ-EOwC&dq\u003dFinancial&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Personal_Financial_Planning-sample-pdf.acsm?id\u003dWbJl3BQ-EOwC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CApMpf6aZAUC",
+   "etag": "QcD+eugoobI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CApMpf6aZAUC",
+   "volumeInfo": {
+    "title": "Personal Financial Planning",
+    "authors": [
+     "Lawrence J. Gitman",
+     "Michael D. Joehnk",
+     "Randall S. Billingsley"
+    ],
+    "publisher": "South-Western Pub",
+    "publishedDate": "2010-01-15",
+    "description": "The latest updates throughout this edition reflect the most recent financial developments -- from new tax laws to the impact of the recent global financial ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1439044473"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781439044476"
+     }
+    ],
+    "pageCount": 576,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dCApMpf6aZAUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dCApMpf6aZAUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCApMpf6aZAUC&printsec\u003dfrontcover&dq\u003dFinancial&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCApMpf6aZAUC&dq\u003dFinancial&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3BhiXcAYgj4C",
+   "etag": "sZGXWZFWCio",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3BhiXcAYgj4C",
+   "volumeInfo": {
+    "title": "Financial Peace Revisited",
+    "authors": [
+     "Dave Ramsey",
+     "Sharon Ramsey"
+    ],
+    "publisher": "Viking Pr",
+    "publishedDate": "2002-12-31",
+    "description": "A revised edition of the best-selling financial guide covers such topics as eliminating debt, investing simply, making sound financial decisions, and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0670032085"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780670032082"
+     }
+    ],
+    "pageCount": 326,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 304,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d3BhiXcAYgj4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d3BhiXcAYgj4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3BhiXcAYgj4C&printsec\u003dfrontcover&dq\u003dFinancial&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3BhiXcAYgj4C&dq\u003dFinancial&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aydxD_IkJBMC",
+   "etag": "XLuAA8W9Qps",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aydxD_IkJBMC",
+   "volumeInfo": {
+    "title": "Safe Strategies for Financial Freedom",
+    "authors": [
+     "Van K. Tharp",
+     "D. R. Barton",
+     "Steve Sjuggerud"
+    ],
+    "publisher": "International Marine",
+    "publishedDate": "2004-05-03",
+    "description": "&quot;Financial freedom is within your grasp. In this book, you will learn a simple strategy that will free you forever.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0071421475"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071421478"
+     }
+    ],
+    "pageCount": 350,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003daydxD_IkJBMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003daydxD_IkJBMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daydxD_IkJBMC&printsec\u003dfrontcover&dq\u003dFinancial&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daydxD_IkJBMC&dq\u003dFinancial&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.55,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003daydxD_IkJBMC&dq\u003dFinancial&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Safe_Strategies_for_Financial_Freedom-sample-pdf.acsm?id\u003daydxD_IkJBMC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iaXmEPWhmbgC",
+   "etag": "I4dXrzn2Z3o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iaXmEPWhmbgC",
+   "volumeInfo": {
+    "title": "Financial Armageddon",
+    "subtitle": "Protect Your Future from Economic Collapse",
+    "authors": [
+     "Michael Panzner"
+    ],
+    "publisher": "Kaplan",
+    "publishedDate": "2008-05-06",
+    "description": "This revised and updated edition features a new introduction by the author on the predictions that have come to pass since the book was first published.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1427797412"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781427797414"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003diaXmEPWhmbgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003diaXmEPWhmbgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003diaXmEPWhmbgC&printsec\u003dfrontcover&dq\u003dFinancial&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003diaXmEPWhmbgC&dq\u003dFinancial&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Financial_Armageddon-sample-epub.acsm?id\u003diaXmEPWhmbgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 592
+}

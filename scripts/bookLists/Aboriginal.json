@@ -1,0 +1,527 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "qG3bPTK5R0kC",
+   "etag": "LVXE6hWVfTg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qG3bPTK5R0kC",
+   "volumeInfo": {
+    "title": "The Aboriginal Peoples of Australia",
+    "authors": [
+     "Anne Bartlett"
+    ],
+    "publisher": "Lerner Publications",
+    "publishedDate": "2002-05-22",
+    "description": "Describes the traditions, culture, music, food, and family life of the Aborigines; and how they are working to revive their heritage.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0822548542"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780822548546"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dqG3bPTK5R0kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dqG3bPTK5R0kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dqG3bPTK5R0kC&printsec\u003dfrontcover&dq\u003dAboriginal&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dqG3bPTK5R0kC&dq\u003dAboriginal&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "prDiOdI4H9IC",
+   "etag": "8Yan+Vf0fIA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/prDiOdI4H9IC",
+   "volumeInfo": {
+    "title": "Aboriginal Australians",
+    "subtitle": "A History Since 1788",
+    "authors": [
+     "Richard Broome"
+    ],
+    "publisher": "Allen & Unwin Australia",
+    "publishedDate": "2010-05-01",
+    "description": "A powerful history of black and white encounters in Australia since colonization, this fully updated edition remains the only concise survey of Aboriginal ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1742370519"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781742370514"
+     }
+    ],
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "0.1.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dprDiOdI4H9IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dprDiOdI4H9IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dprDiOdI4H9IC&printsec\u003dfrontcover&dq\u003dAboriginal&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dprDiOdI4H9IC&dq\u003dAboriginal&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Aboriginal_Australians-sample-epub.acsm?id\u003dprDiOdI4H9IC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Aboriginal_Australians-sample-pdf.acsm?id\u003dprDiOdI4H9IC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s67sCiLbTsIC",
+   "etag": "Ef9byUKzwzM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s67sCiLbTsIC",
+   "volumeInfo": {
+    "title": "Aboriginal Australia",
+    "subtitle": "an introductory reader in aboriginal studies",
+    "authors": [
+     "Colin Bourke",
+     "Eleanor Bourke"
+    ],
+    "publisher": "Uqp",
+    "publishedDate": "1998",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0702230510"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780702230516"
+     }
+    ],
+    "pageCount": 293,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003ds67sCiLbTsIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003ds67sCiLbTsIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ds67sCiLbTsIC&q\u003dAboriginal&dq\u003dAboriginal&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ds67sCiLbTsIC&dq\u003dAboriginal&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Cpfb_mEjYusC",
+   "etag": "u6uLvK64h3o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Cpfb_mEjYusC",
+   "volumeInfo": {
+    "title": "Aboriginal",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0546852920"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780546852929"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCpfb_mEjYusC&dq\u003dAboriginal&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCpfb_mEjYusC&dq\u003dAboriginal&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "O-jBWP_HgT8C",
+   "etag": "GRBpEcz/AzA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/O-jBWP_HgT8C",
+   "volumeInfo": {
+    "title": "Aboriginal health in Canada",
+    "subtitle": "historical, cultural, and epidemiological perspectives",
+    "authors": [
+     "James Burgess Waldram",
+     "Ann Herring",
+     "T. Kue Young"
+    ],
+    "publisher": "Univ of Toronto Pr",
+    "publishedDate": "2006-07-30",
+    "description": "Aboriginal Health in Canada is about the complex web of physiological, psychological, spiritual, historical, sociological, cultural, economic, and environmental ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0802085792"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780802085795"
+     }
+    ],
+    "pageCount": 367,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dO-jBWP_HgT8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dO-jBWP_HgT8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dO-jBWP_HgT8C&printsec\u003dfrontcover&dq\u003dAboriginal&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dO-jBWP_HgT8C&dq\u003dAboriginal&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Husmn0dFG3MC",
+   "etag": "O0LWy7nCbWU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Husmn0dFG3MC",
+   "volumeInfo": {
+    "title": "Teaching Aboriginal Studies",
+    "authors": [
+     "Rhonda Craven"
+    ],
+    "publishedDate": "2011-04-01",
+    "description": "This second edition of TEACHING ABORIGINAL STUDIES encompasses developments over the past decade in Aboriginal affairs, Aboriginal education and research.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1741754755"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781741754759"
+     }
+    ],
+    "pageCount": 354,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dHusmn0dFG3MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dHusmn0dFG3MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHusmn0dFG3MC&printsec\u003dfrontcover&dq\u003dAboriginal&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHusmn0dFG3MC&dq\u003dAboriginal&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Teaching_Aboriginal_Studies-sample-pdf.acsm?id\u003dHusmn0dFG3MC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8LP3tcGL6ZcC",
+   "etag": "PgjTnq8ILdA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8LP3tcGL6ZcC",
+   "volumeInfo": {
+    "title": "Aboriginal affairs 1967-2005",
+    "subtitle": "seeking a solution",
+    "authors": [
+     "Max Griffiths"
+    ],
+    "publisher": "Roseberg Pub",
+    "publishedDate": "2006-04",
+    "description": "This is a sequel to the author&#39;s &#39;Aboriginal Affairs: A Brief History 1788Chr(45)1994&#39; published in 1995, and argues the case for a total overhaul of government ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1877058459"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781877058455"
+     }
+    ],
+    "pageCount": 238,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d8LP3tcGL6ZcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d8LP3tcGL6ZcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8LP3tcGL6ZcC&printsec\u003dfrontcover&dq\u003dAboriginal&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8LP3tcGL6ZcC&dq\u003dAboriginal&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qejE8CajJGcC",
+   "etag": "VHSJq2mUNa8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qejE8CajJGcC",
+   "volumeInfo": {
+    "title": "Aboriginal health and history",
+    "subtitle": "power and prejudice in remote Australia",
+    "authors": [
+     "Ernest Hunter"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "1993",
+    "description": "This book is systematic analysis of the sociohistorical and intercultural aspects of mental health in one area of remote Australia, the Kimberley.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521447607"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521447607"
+     }
+    ],
+    "pageCount": 318,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dqejE8CajJGcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dqejE8CajJGcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dqejE8CajJGcC&printsec\u003dfrontcover&dq\u003dAboriginal&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dqejE8CajJGcC&dq\u003dAboriginal&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8-CyfD-Exc4C",
+   "etag": "lgRZIlvKIu4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8-CyfD-Exc4C",
+   "volumeInfo": {
+    "title": "Aboriginal Canada revisited",
+    "authors": [
+     "Kerstin Knopf"
+    ],
+    "publisher": "Univ of Ottawa Pr",
+    "publishedDate": "2008-09-13",
+    "description": "From the Introduction: &quot;[This collection helps] to highlight areas where the colonial legacy still takes its toll, to acknowledge the manifold ways of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0776606794"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780776606798"
+     }
+    ],
+    "pageCount": 422,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d8-CyfD-Exc4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d8-CyfD-Exc4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8-CyfD-Exc4C&printsec\u003dfrontcover&dq\u003dAboriginal&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8-CyfD-Exc4C&dq\u003dAboriginal&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Aboriginal_Canada_revisited-sample-epub.acsm?id\u003d8-CyfD-Exc4C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "L7k1yee1DYEC",
+   "etag": "IDPMlUm+PFM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/L7k1yee1DYEC",
+   "volumeInfo": {
+    "title": "Recognizing Aboriginal title",
+    "subtitle": "the Mabo case and indigenous resistance to English-settler colonialism",
+    "authors": [
+     "Peter H. Russell"
+    ],
+    "publisher": "Univ of Toronto Pr",
+    "publishedDate": "2005-07-09",
+    "description": "In Recognizing Aboriginal Title, Peter H. Russell offers a comprehensive study of the Mabo case, its background, and its consequences, contextualizing it within ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0802038638"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780802038630"
+     }
+    ],
+    "pageCount": 470,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "0.1.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dL7k1yee1DYEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dL7k1yee1DYEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dL7k1yee1DYEC&printsec\u003dfrontcover&dq\u003dAboriginal&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dL7k1yee1DYEC&dq\u003dAboriginal&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Recognizing_Aboriginal_title-sample-epub.acsm?id\u003dL7k1yee1DYEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 597
+}

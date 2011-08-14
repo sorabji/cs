@@ -1,0 +1,467 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "xS7WHAAACAAJ",
+   "etag": "Jdq2bzn68gM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xS7WHAAACAAJ",
+   "volumeInfo": {
+    "title": "Art instruction",
+    "subtitle": "design fundamentals, light and color, painting",
+    "authors": [
+     "Robert Gillam Scott"
+    ],
+    "publishedDate": "1950",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:54189317"
+     }
+    ],
+    "pageCount": 54,
+    "printType": "BOOK",
+    "categories": [
+     "Design"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxS7WHAAACAAJ&dq\u003dArt+Instruction&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxS7WHAAACAAJ&dq\u003dArt+Instruction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "T_o8AAAAMAAJ",
+   "etag": "SfSa8WkAyjk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/T_o8AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Art instruction",
+    "publishedDate": "1939",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015007551883"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dT_o8AAAAMAAJ&q\u003dArt+Instruction&dq\u003dArt+Instruction&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dT_o8AAAAMAAJ&dq\u003dArt+Instruction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZdimHAAACAAJ",
+   "etag": "B857nUAnbJU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZdimHAAACAAJ",
+   "volumeInfo": {
+    "title": "Art instruction",
+    "subtitle": "course of study for elementary schools",
+    "authors": [
+     "Indianapolis (Ind.). [Board of School Commissioners]"
+    ],
+    "publishedDate": "1922",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:63657251"
+     }
+    ],
+    "pageCount": 54,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZdimHAAACAAJ&dq\u003dArt+Instruction&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZdimHAAACAAJ&dq\u003dArt+Instruction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "G4ppAAAAMAAJ",
+   "etag": "re3ThvWCTxk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G4ppAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Teacher's manual, pt. 1-6, for The Prang elementary course in art instruction, books 1[-12] third[-eighth] year",
+    "subtitle": "by John S. Clark, Mary Dana Hicks, Walter S. Perry",
+    "authors": [
+     "John Spencer Clark",
+     "Mrs. Mary Dana Hicks",
+     "Walter Scott Perry",
+     "Prang Company"
+    ],
+    "publishedDate": "1896",
+    "description": "ART AND ART EDUCATION. The Prang Elementary Course of \u003cb\u003eArt Instruction\u003c/b\u003e assumes \u003cbr\u003e\r\nthat Art properly understood is not an imitative copy of nature, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "WISC:89037969961"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dG4ppAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dG4ppAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dG4ppAAAAMAAJ&printsec\u003dfrontcover&dq\u003dArt+Instruction&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dG4ppAAAAMAAJ&dq\u003dArt+Instruction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Teacher_s_manual_pt_1_6_for_The_Prang_el.pdf?id\u003dG4ppAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0jIu9GTkzt65XZ91Fr1CjcyVJ15w&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1gRjYgEACAAJ",
+   "etag": "sLcvUyLzr/4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1gRjYgEACAAJ",
+   "volumeInfo": {
+    "title": "Art instruction",
+    "authors": [
+     "John Plummer"
+    ],
+    "publishedDate": "1880",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:224407530"
+     }
+    ],
+    "pageCount": 8,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1gRjYgEACAAJ&dq\u003dArt+Instruction&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1gRjYgEACAAJ&dq\u003dArt+Instruction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Bv_kYi4Kx9kC",
+   "etag": "/04dS/aoY7Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Bv_kYi4Kx9kC",
+   "volumeInfo": {
+    "title": "The impact of visual art instruction on the mathematics achievement of English language learners",
+    "authors": [
+     "Robin Finnan-Jones",
+     "St. John's University (New York), School of Education and Human Services"
+    ],
+    "publisher": "ProQuest",
+    "publishedDate": "2007",
+    "description": "In 2001, the United States government passed the No Child Left Behind Act requiring that schools provide programs so that all children, including English ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0549201874"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780549201878"
+     }
+    ],
+    "pageCount": 84,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dBv_kYi4Kx9kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dBv_kYi4Kx9kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBv_kYi4Kx9kC&printsec\u003dfrontcover&dq\u003dArt+Instruction&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBv_kYi4Kx9kC&dq\u003dArt+Instruction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gpQDAAAAQAAJ",
+   "etag": "+cvXpDq5gLg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gpQDAAAAQAAJ",
+   "volumeInfo": {
+    "title": "Art instruction in England",
+    "authors": [
+     "Frederick Edward Hulme"
+    ],
+    "publishedDate": "1882",
+    "description": "\u003cb\u003eART INSTRUCTION\u003c/b\u003e IN ENGLAND. CHAPTER I. Art teaching now and twenty years ago — \u003cbr\u003e\r\nThe old false system of teaching drawing — &#39; Touching up &#39; — Graduated tints \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:590512603"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dgpQDAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dgpQDAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgpQDAAAAQAAJ&printsec\u003dfrontcover&dq\u003dArt+Instruction&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgpQDAAAAQAAJ&dq\u003dArt+Instruction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Art_instruction_in_England.epub?id\u003dgpQDAAAAQAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Art_instruction_in_England.pdf?id\u003dgpQDAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3oxuy6mQ_JrLOX0gaKjZWaWyAhgA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cSgQAAAAYAAJ",
+   "etag": "BWxMktdbYfY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cSgQAAAAYAAJ",
+   "volumeInfo": {
+    "title": "White's new course in art instruction",
+    "subtitle": "outline for 6th-8th year grades, with suggestions to teachers",
+    "publishedDate": "1892",
+    "description": "White&#39;s New Course in \u003cb\u003eArt Instruction\u003c/b\u003e, one number each year. No. 4, for fourth \u003cbr\u003e\r\nyear in school. No. 5, for fifth year in school. No. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HW2317"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dcSgQAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dcSgQAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcSgQAAAAYAAJ&printsec\u003dfrontcover&dq\u003dArt+Instruction&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcSgQAAAAYAAJ&dq\u003dArt+Instruction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/White_s_new_course_in_art_instruction.pdf?id\u003dcSgQAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3mNZ_uIs9y8xo0BWNX8n66ICJOSw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vIcdAAAAMAAJ",
+   "etag": "e1qmmvoLgl0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vIcdAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The citizens book",
+    "authors": [
+     "Cincinnati (Ohio). Chamber of Commerce and Merchants' Exchange",
+     "Frank Parker Goodwin"
+    ],
+    "publishedDate": "1916",
+    "description": "The museum also provides for the teacheYs a course of lectures on the history of \u003cbr\u003e\r\nart. Importance of \u003cb\u003eArt Instruction\u003c/b\u003e. — To teach the people to recognize the \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433075944060"
+     }
+    ],
+    "pageCount": 242,
+    "printType": "BOOK",
+    "categories": [
+     "Cincinnati (Ohio)"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dvIcdAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dvIcdAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvIcdAAAAMAAJ&pg\u003dPA141&dq\u003dArt+Instruction&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvIcdAAAAMAAJ&dq\u003dArt+Instruction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/The_citizens_book.epub?id\u003dvIcdAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_citizens_book.pdf?id\u003dvIcdAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1G-9UykMvC5Th5svEyzuYlIxeBFw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Rj1VAAAAYAAJ",
+   "etag": "TXt0LY4mW+c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Rj1VAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Library journal",
+    "authors": [
+     "William White"
+    ],
+    "publishedDate": "1917",
+    "description": "In the Dewey classification to-day, you will find Fine Arts, tho a main \u003cb\u003e...\u003c/b\u003e &quot;Our \u003cbr\u003e\r\nindustrial \u003cb\u003eart instruction\u003c/b\u003e, the country over, is shockingly deficient. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X030486386"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dRj1VAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dRj1VAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRj1VAAAAYAAJ&pg\u003dPA90&dq\u003dArt+Instruction&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRj1VAAAAYAAJ&dq\u003dArt+Instruction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Library_journal.pdf?id\u003dRj1VAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3Y71R__6GGiTdxETjRV1IrlRLvCg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 591
+}

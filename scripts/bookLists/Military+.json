@@ -1,0 +1,616 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "cIFiNRH3oWsC",
+   "etag": "hCU6ep/9YRA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cIFiNRH3oWsC",
+   "volumeInfo": {
+    "title": "The military revolution",
+    "subtitle": "military innovation and the rise of the West, 1500-1800",
+    "authors": [
+     "Geoffrey Parker"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "1996",
+    "description": "A new chapter addresses the controversies engendered by the previous edition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521479584"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521479585"
+     }
+    ],
+    "pageCount": 265,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dcIFiNRH3oWsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dcIFiNRH3oWsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcIFiNRH3oWsC&printsec\u003dfrontcover&dq\u003dMilitary&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcIFiNRH3oWsC&dq\u003dMilitary&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Y0Br-cdCyi4C",
+   "etag": "b46UN/7cAbI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Y0Br-cdCyi4C",
+   "volumeInfo": {
+    "title": "Military Leadership",
+    "subtitle": "In Pursuit of Excellence",
+    "authors": [
+     "Robert L. Taylor",
+     "William E. Rosenbach",
+     "Eric B. Rosenbach"
+    ],
+    "publisher": "Westview Pr",
+    "publishedDate": "2008-12-29",
+    "description": "The sixth edition of this classic text continues its popular interdisciplinary approach to the topic of leadership by examining fundamental elements of military ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0813344395"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780813344393"
+     }
+    ],
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dY0Br-cdCyi4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dY0Br-cdCyi4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dY0Br-cdCyi4C&printsec\u003dfrontcover&dq\u003dMilitary&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dY0Br-cdCyi4C&dq\u003dMilitary&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 38.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 30.4,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dY0Br-cdCyi4C&dq\u003dMilitary&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Military_Leadership-sample-epub.acsm?id\u003dY0Br-cdCyi4C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Military_Leadership-sample-pdf.acsm?id\u003dY0Br-cdCyi4C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UjRY3kti18UC",
+   "etag": "YltmykvKgC4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UjRY3kti18UC",
+   "volumeInfo": {
+    "title": "Military power",
+    "subtitle": "explaining victory and defeat in modern battle",
+    "authors": [
+     "Stephen Biddle"
+    ],
+    "publisher": "Princeton Univ Pr",
+    "publishedDate": "2006-07-03",
+    "description": "But this is to overlook force employment, or the doctrine and tactics by which materiel is actually used.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0691128022"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780691128023"
+     }
+    ],
+    "pageCount": 337,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dUjRY3kti18UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dUjRY3kti18UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUjRY3kti18UC&printsec\u003dfrontcover&dq\u003dMilitary&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUjRY3kti18UC&dq\u003dMilitary&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 49.5,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 39.1,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dUjRY3kti18UC&dq\u003dMilitary&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Military_power-sample-epub.acsm?id\u003dUjRY3kti18UC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Military_power-sample-pdf.acsm?id\u003dUjRY3kti18UC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YE_gkk8g7WcC",
+   "etag": "YzXfV1mVPfA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YE_gkk8g7WcC",
+   "volumeInfo": {
+    "title": "The Military",
+    "authors": [
+     "Jennifer Fandel"
+    ],
+    "publisher": "Creative Co",
+    "publishedDate": "2003",
+    "description": "Introduces the United States military forces, their purposes, and what it is like to serve in the military.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1583412646"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781583412640"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dYE_gkk8g7WcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dYE_gkk8g7WcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYE_gkk8g7WcC&printsec\u003dfrontcover&dq\u003dMilitary&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYE_gkk8g7WcC&dq\u003dMilitary&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xMC5bIE-q7QC",
+   "etag": "0HT7VaJhGOo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xMC5bIE-q7QC",
+   "volumeInfo": {
+    "title": "A Moral Military",
+    "authors": [
+     "Sidney Axinn"
+    ],
+    "publisher": "Temple Univ Pr",
+    "publishedDate": "2008-12-15",
+    "description": "In this new edition of the classic book on the moral conduct of war, Sidney Axinn provides a full-length treatment of the military conventions from a ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1592139582"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781592139583"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dxMC5bIE-q7QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dxMC5bIE-q7QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxMC5bIE-q7QC&printsec\u003dfrontcover&dq\u003dMilitary&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxMC5bIE-q7QC&dq\u003dMilitary&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 15.37,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dxMC5bIE-q7QC&dq\u003dMilitary&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/A_Moral_Military-sample-epub.acsm?id\u003dxMC5bIE-q7QC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/A_Moral_Military-sample-pdf.acsm?id\u003dxMC5bIE-q7QC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MEAJiQbwn2QC",
+   "etag": "OTYnylqV30k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MEAJiQbwn2QC",
+   "volumeInfo": {
+    "title": "Modernizing China's military",
+    "subtitle": "progress, problems, and prospects",
+    "authors": [
+     "David L. Shambaugh"
+    ],
+    "publisher": "Univ of California Pr",
+    "publishedDate": "2004",
+    "description": "It is likely to be the defining work on the subject for some time to come.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520242386"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520242388"
+     }
+    ],
+    "pageCount": 402,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dMEAJiQbwn2QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dMEAJiQbwn2QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMEAJiQbwn2QC&printsec\u003dfrontcover&dq\u003dMilitary&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMEAJiQbwn2QC&dq\u003dMilitary&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.55,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dMEAJiQbwn2QC&dq\u003dMilitary&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Modernizing_China_s_military-sample-epub.acsm?id\u003dMEAJiQbwn2QC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Modernizing_China_s_military-sample-pdf.acsm?id\u003dMEAJiQbwn2QC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "whrJ6MJcIisC",
+   "etag": "mWGjlh6b9JE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/whrJ6MJcIisC",
+   "volumeInfo": {
+    "title": "The military",
+    "subtitle": "defending the nation",
+    "authors": [
+     "Eloise Paananen"
+    ],
+    "publisher": "Heinemann/Raintree",
+    "publishedDate": "1992-11",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0811473538"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780811473538"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dwhrJ6MJcIisC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dwhrJ6MJcIisC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwhrJ6MJcIisC&q\u003dMilitary&dq\u003dMilitary&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwhrJ6MJcIisC&dq\u003dMilitary&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1eBAh2fbrAEC",
+   "etag": "oyyMHeC/U0k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1eBAh2fbrAEC",
+   "volumeInfo": {
+    "title": "Counseling Military Families",
+    "subtitle": "What Mental Health Professionals Need to Know",
+    "authors": [
+     "Lynn Karen Hall"
+    ],
+    "publisher": "CRC Press",
+    "publishedDate": "2008-06-03",
+    "description": "Counseling Military Families begins with an overview of military life before delving into specific chapters on the unique circumstances of career service ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415956889"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415956888"
+     }
+    ],
+    "pageCount": 303,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d1eBAh2fbrAEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d1eBAh2fbrAEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1eBAh2fbrAEC&printsec\u003dfrontcover&dq\u003dMilitary&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1eBAh2fbrAEC&dq\u003dMilitary&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 32.5,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 17.88,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d1eBAh2fbrAEC&dq\u003dMilitary&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Counseling_Military_Families-sample-epub.acsm?id\u003d1eBAh2fbrAEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Counseling_Military_Families-sample-pdf.acsm?id\u003d1eBAh2fbrAEC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OP1oKG_JGIAC",
+   "etag": "wpV6DBiGvkE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OP1oKG_JGIAC",
+   "volumeInfo": {
+    "title": "Mauser Military Rifles of the World",
+    "authors": [
+     "Robert W. D. Ball"
+    ],
+    "publisher": "Gun Digest Books",
+    "publishedDate": "2006-12-26",
+    "description": "Mauser Military Rifles of the World, 4th Ed. features:*1,300+ compelling color photos, including new never-before-published photos of very rare Mausers, helpful ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0896892964"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780896892965"
+     }
+    ],
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dOP1oKG_JGIAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dOP1oKG_JGIAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOP1oKG_JGIAC&printsec\u003dfrontcover&dq\u003dMilitary&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOP1oKG_JGIAC&dq\u003dMilitary&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 49.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 39.49,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dOP1oKG_JGIAC&dq\u003dMilitary&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Mauser_Military_Rifles_of_the_World-sample-pdf.acsm?id\u003dOP1oKG_JGIAC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XAR0AAAACAAJ",
+   "etag": "06QCYmnCook",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XAR0AAAACAAJ",
+   "volumeInfo": {
+    "title": "Military",
+    "authors": [
+     "Sheri Bell-Rehwoldt"
+    ],
+    "publisher": "Lucent",
+    "publishedDate": "2005-09-30",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1590183983"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781590183984"
+     }
+    ],
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dXAR0AAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dXAR0AAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXAR0AAAACAAJ&dq\u003dMilitary&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXAR0AAAACAAJ&dq\u003dMilitary&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 592
+}

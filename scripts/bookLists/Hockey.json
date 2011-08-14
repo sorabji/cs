@@ -1,0 +1,540 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "SzRhKInqRT8C",
+   "etag": "R3X90VRTJpQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SzRhKInqRT8C",
+   "volumeInfo": {
+    "title": "Hockey",
+    "subtitle": "How to Play Like the Pros",
+    "authors": [
+     "Sean Rossiter",
+     "Paul Carson"
+    ],
+    "publishedDate": "2004-07-22",
+    "description": "Explores the game&#39;s core skills from warming up to playing positions, features personal tips from the experts, and includes individual action photographs of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1553650441"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781553650447"
+     }
+    ],
+    "pageCount": 154,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dSzRhKInqRT8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dSzRhKInqRT8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSzRhKInqRT8C&printsec\u003dfrontcover&dq\u003dHockey&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSzRhKInqRT8C&dq\u003dHockey&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Hockey-sample-pdf.acsm?id\u003dSzRhKInqRT8C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fCAL2ysKFWoC",
+   "etag": "pTL4H3Sji2U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fCAL2ysKFWoC",
+   "volumeInfo": {
+    "title": "Hockey",
+    "subtitle": "A People's History",
+    "authors": [
+     "Michael McKinley"
+    ],
+    "publisher": "McClelland & Stewart Ltd",
+    "publishedDate": "2009-10-27",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0771057717"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780771057717"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dfCAL2ysKFWoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dfCAL2ysKFWoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfCAL2ysKFWoC&dq\u003dHockey&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfCAL2ysKFWoC&dq\u003dHockey&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VTiOgTxx6BMC",
+   "etag": "pTwXoO4aK5I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VTiOgTxx6BMC",
+   "volumeInfo": {
+    "title": "Hockey tough",
+    "authors": [
+     "Saul L. Miller"
+    ],
+    "publisher": "Human Kinetics Publishers",
+    "publishedDate": "2003-08-01",
+    "description": "Throughout the book, NHL stars such as Mark Messier, Pavel Bure, Chris Pronger, and Markus Naslund offer insights and tips on a variety of topics related to ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0736051236"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780736051231"
+     }
+    ],
+    "pageCount": 207,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dVTiOgTxx6BMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dVTiOgTxx6BMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVTiOgTxx6BMC&printsec\u003dfrontcover&dq\u003dHockey&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVTiOgTxx6BMC&dq\u003dHockey&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dVTiOgTxx6BMC&dq\u003dHockey&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Hockey_tough-sample-epub.acsm?id\u003dVTiOgTxx6BMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Hockey_tough-sample-pdf.acsm?id\u003dVTiOgTxx6BMC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4-4-8vWFlk4C",
+   "etag": "KsF/z7GG+ZM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4-4-8vWFlk4C",
+   "volumeInfo": {
+    "title": "Complete conditioning for hockey",
+    "authors": [
+     "Peter Twist"
+    ],
+    "publisher": "Human Kinetics Publishers",
+    "publishedDate": "2007",
+    "description": "This special book and DVD package features a comprehensive training approach that will build players&#39;physical abilities as well as the hockey-specific skills ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0736060340"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780736060349"
+     }
+    ],
+    "pageCount": 211,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d4-4-8vWFlk4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d4-4-8vWFlk4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4-4-8vWFlk4C&printsec\u003dfrontcover&dq\u003dHockey&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4-4-8vWFlk4C&dq\u003dHockey&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mpXnzVdahFkC",
+   "etag": "MQyB+tqi0tI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mpXnzVdahFkC",
+   "volumeInfo": {
+    "title": "Hockey",
+    "subtitle": "How It Works",
+    "authors": [
+     "Agnieszka Biskup"
+    ],
+    "publisher": "Capstone Pr Inc",
+    "publishedDate": "2010-04-01",
+    "description": "&quot;Describes the science behind the sport of hockey, including skating, shooting, goaltending, and the rink&quot;--Provided by publisher.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1429648740"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781429648745"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dmpXnzVdahFkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dmpXnzVdahFkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmpXnzVdahFkC&printsec\u003dfrontcover&dq\u003dHockey&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmpXnzVdahFkC&dq\u003dHockey&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Q9Skk2-FR1AC",
+   "etag": "mlXSKHjfcmQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Q9Skk2-FR1AC",
+   "volumeInfo": {
+    "title": "Hockey",
+    "subtitle": "the basics",
+    "authors": [
+     "Zdeněk Pavliš"
+    ],
+    "publisher": "Meyer & Meyer Verlag",
+    "publishedDate": "2003-10-01",
+    "description": "This volume is the first in a series of books from the Czech technical hockeychool and deals with the basic elements of hockey-skating.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1841261289"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781841261287"
+     }
+    ],
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dQ9Skk2-FR1AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dQ9Skk2-FR1AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQ9Skk2-FR1AC&printsec\u003dfrontcover&dq\u003dHockey&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQ9Skk2-FR1AC&dq\u003dHockey&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iLGifcrBkH8C",
+   "etag": "RH0nTSSfkbI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iLGifcrBkH8C",
+   "volumeInfo": {
+    "title": "Hockey",
+    "publisher": "Sterling Publishers Pvt. Ltd",
+    "description": "Introduction \u003cb\u003eHockey\u003c/b\u003e is a fast and skillful game which is played in over eighty \u003cbr\u003e\r\ndifferent countries. At any level it is a thrilling game which provides \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "812072609X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788120726093"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003diLGifcrBkH8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003diLGifcrBkH8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003diLGifcrBkH8C&printsec\u003dfrontcover&dq\u003dHockey&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003diLGifcrBkH8C&dq\u003dHockey&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s_vpkFRcTRQC",
+   "etag": "FvH14wk3a7U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s_vpkFRcTRQC",
+   "volumeInfo": {
+    "title": "Hockey",
+    "authors": [
+     "Jonatha A. Brown"
+    ],
+    "publisher": "Weekly Reader/Gareth Stevens Pub",
+    "publishedDate": "2004-10",
+    "description": "Simple text and photographs introduce the sport of hockey to young readers.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0836843401"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780836843408"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003ds_vpkFRcTRQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003ds_vpkFRcTRQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ds_vpkFRcTRQC&printsec\u003dfrontcover&dq\u003dHockey&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ds_vpkFRcTRQC&dq\u003dHockey&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WNVirqw0gxoC",
+   "etag": "U/Uk6AXriTE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WNVirqw0gxoC",
+   "volumeInfo": {
+    "title": "Hockey",
+    "subtitle": "First Step for Kids",
+    "authors": [
+     "Zdenek Pavlis"
+    ],
+    "publisher": "Meyer & Meyer Verlag",
+    "publishedDate": "2004-10-01",
+    "description": "This book deals with training the youngest of ice hockey players the 6-8 yearlds.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1841261521"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781841261522"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dWNVirqw0gxoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dWNVirqw0gxoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWNVirqw0gxoC&printsec\u003dfrontcover&dq\u003dHockey&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWNVirqw0gxoC&dq\u003dHockey&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QmpavQ4QHMwC",
+   "etag": "JiONq5JIXgM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QmpavQ4QHMwC",
+   "volumeInfo": {
+    "title": "That's Hockey",
+    "authors": [
+     "David Bouchard",
+     "Dean Griffiths"
+    ],
+    "publisher": "Orca Book Pub",
+    "publishedDate": "2004-09-01",
+    "description": "Bouchard and Griffiths team up again to bring lively playfulness to hockey enthusiasts&quot; Cf. Our choice, 2003.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1551433486"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781551433486"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dQmpavQ4QHMwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dQmpavQ4QHMwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQmpavQ4QHMwC&printsec\u003dfrontcover&dq\u003dHockey&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQmpavQ4QHMwC&dq\u003dHockey&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 597
+}

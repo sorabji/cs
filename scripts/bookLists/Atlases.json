@@ -1,0 +1,468 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "6ivGbwAACAAJ",
+   "etag": "njV+jvtQUxg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6ivGbwAACAAJ",
+   "volumeInfo": {
+    "title": "Atlases",
+    "subtitle": "Atlas, Theatrum Orbis Terrarum, Virtual Globe, List of Atlases, Geography, Melway, International Cloud Atlas",
+    "authors": [
+     "Books Llc"
+    ],
+    "publisher": "Books LLC",
+    "publishedDate": "2010-09",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1157446299"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781157446293"
+     }
+    ],
+    "pageCount": 164,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d6ivGbwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d6ivGbwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6ivGbwAACAAJ&dq\u003dAtlases&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6ivGbwAACAAJ&dq\u003dAtlases&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "glnVNwAACAAJ",
+   "etag": "TJ8ayrH0/z0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/glnVNwAACAAJ",
+   "volumeInfo": {
+    "title": "Atlases",
+    "subtitle": "a selection of fine atlases",
+    "authors": [
+     "W. Graham Arader III (Firm)"
+    ],
+    "publishedDate": "1986",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:228102451"
+     }
+    ],
+    "pageCount": 35,
+    "printType": "BOOK",
+    "categories": [
+     "Atlases"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dglnVNwAACAAJ&dq\u003dAtlases&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dglnVNwAACAAJ&dq\u003dAtlases&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "URmyQAAACAAJ",
+   "etag": "3l0LXGVHxkE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/URmyQAAACAAJ",
+   "volumeInfo": {
+    "title": "Atlases",
+    "authors": [
+     "Philip Lee Phillips"
+    ],
+    "publishedDate": "1909",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:60476139"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dURmyQAAACAAJ&dq\u003dAtlases&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dURmyQAAACAAJ&dq\u003dAtlases&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rSoSAQAAIAAJ",
+   "etag": "YpPDe6mga9g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rSoSAQAAIAAJ",
+   "volumeInfo": {
+    "title": "The atlas of atlases",
+    "subtitle": "the map maker's vision of the world : atlases from the Cadbury Collection, Birmingham Central Library",
+    "authors": [
+     "Phillip Allen"
+    ],
+    "publisher": "ABRAMS",
+    "publishedDate": "1992",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105002240054"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003drSoSAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003drSoSAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003drSoSAQAAIAAJ&q\u003dAtlases&dq\u003dAtlases&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003drSoSAQAAIAAJ&dq\u003dAtlases&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Qex4Pl0YATwC",
+   "etag": "kyntiyTTewo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Qex4Pl0YATwC",
+   "volumeInfo": {
+    "title": "Historical atlases",
+    "subtitle": "the first three hundred years, 1570-1870",
+    "authors": [
+     "Walter A. Goffart"
+    ],
+    "publisher": "University Of Chicago Press",
+    "publishedDate": "2003",
+    "description": "Goffart concludes the book with a detailed catalogue of more than 700 historical maps and atlases produced from 1570 to 1870.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0226300714"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780226300719"
+     }
+    ],
+    "pageCount": 603,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dQex4Pl0YATwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dQex4Pl0YATwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQex4Pl0YATwC&printsec\u003dfrontcover&dq\u003dAtlases&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQex4Pl0YATwC&dq\u003dAtlases&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QNA3kgAACAAJ",
+   "etag": "r0gDDUFs87A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QNA3kgAACAAJ",
+   "volumeInfo": {
+    "title": "Atlases",
+    "publishedDate": "1909",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:604114798"
+     }
+    ],
+    "pageCount": 1208,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQNA3kgAACAAJ&dq\u003dAtlases&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQNA3kgAACAAJ&dq\u003dAtlases&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "O3wczlRaqswC",
+   "etag": "MP2IgOcoUMo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/O3wczlRaqswC",
+   "volumeInfo": {
+    "title": "Statistical Atlases and Computational Models of the Heart",
+    "subtitle": "First International Workshop, STACOM 2010, and Cardiac Electrophysical Simulation Challenge, CESC 2010, Held in Conjunction with MICCAI 2010, Beijing, China, September 20, 2010, Proceedings",
+    "authors": [
+     "Oscar Camara",
+     "Mihaela Pop",
+     "Kawal Rhode",
+     "Maxime Sermesant",
+     "Nic Smith",
+     "Alistair Young"
+    ],
+    "publisher": "Springer-Verlag New York Inc",
+    "publishedDate": "2010-09-27",
+    "description": "The LNCS series reports state-of-the-art results in computer science research, development, and education, at a high level and in both printed and electronic ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "364215834X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642158346"
+     }
+    ],
+    "pageCount": 292,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dO3wczlRaqswC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dO3wczlRaqswC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dO3wczlRaqswC&pg\u003dPA2&dq\u003dAtlases&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dO3wczlRaqswC&dq\u003dAtlases&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 83.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 66.4,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dO3wczlRaqswC&dq\u003dAtlases&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Statistical_Atlases_and_Computational_Mo-sample-epub.acsm?id\u003dO3wczlRaqswC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Statistical_Atlases_and_Computational_Mo-sample-pdf.acsm?id\u003dO3wczlRaqswC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WlB5kgAACAAJ",
+   "etag": "k3ImKgXhOAE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WlB5kgAACAAJ",
+   "volumeInfo": {
+    "title": "Atlases",
+    "authors": [
+     "Ann-Mari Mickwitz"
+    ],
+    "publishedDate": "1979-10",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9514517032"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789514517037"
+     }
+    ],
+    "pageCount": 250,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWlB5kgAACAAJ&dq\u003dAtlases&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWlB5kgAACAAJ&dq\u003dAtlases&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Cp_QGwAACAAJ",
+   "etag": "EqtWv3m9aec",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Cp_QGwAACAAJ",
+   "volumeInfo": {
+    "title": "Atlases",
+    "subtitle": "sporting books, art & illustrated books, travels, Americana, press books ...",
+    "authors": [
+     "Swann Galleries"
+    ],
+    "publishedDate": "1972",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:70965022"
+     }
+    ],
+    "pageCount": 34,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCp_QGwAACAAJ&dq\u003dAtlases&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCp_QGwAACAAJ&dq\u003dAtlases&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DODGHAAACAAJ",
+   "etag": "v57G03qTfMQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DODGHAAACAAJ",
+   "volumeInfo": {
+    "title": "Atlases",
+    "subtitle": "a listing of current holdings",
+    "authors": [
+     "National Ocean Survey. Office of Coastal Zone Management"
+    ],
+    "publishedDate": "1975",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:41361016"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Atlases"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDODGHAAACAAJ&dq\u003dAtlases&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDODGHAAACAAJ&dq\u003dAtlases&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 599
+}

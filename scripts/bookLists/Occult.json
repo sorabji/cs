@@ -1,0 +1,534 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "xAmMNnJlfnoC",
+   "etag": "Rj5p38H+dy8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xAmMNnJlfnoC",
+   "volumeInfo": {
+    "title": "The new encyclopedia of the occult",
+    "authors": [
+     "John Michael Greer"
+    ],
+    "publisher": "Llewellyn Worldwide",
+    "publishedDate": "2003",
+    "description": "A comprehensive reference work of Western occult terms and concepts.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1567183360"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781567183368"
+     }
+    ],
+    "pageCount": 555,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dxAmMNnJlfnoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dxAmMNnJlfnoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxAmMNnJlfnoC&printsec\u003dfrontcover&dq\u003dOccult&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxAmMNnJlfnoC&dq\u003dOccult&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9HoOAAAAQAAJ",
+   "etag": "PwIzfhp8grg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9HoOAAAAQAAJ",
+   "volumeInfo": {
+    "title": "The occult world",
+    "authors": [
+     "Alfred Percy Sinnett"
+    ],
+    "publishedDate": "1882",
+    "description": "THE \u003cb\u003eOCCULT\u003c/b\u003e WORLD. INTRODUCTION. I. There is a school of Philosophy still in \u003cbr\u003e\r\nexistence of which modern culture has lost sight. Glimpses of it are discernible \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:N13222821"
+     }
+    ],
+    "pageCount": 205,
+    "printType": "BOOK",
+    "categories": [
+     "Occultism"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d9HoOAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d9HoOAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9HoOAAAAQAAJ&printsec\u003dfrontcover&dq\u003dOccult&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9HoOAAAAQAAJ&dq\u003dOccult&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/The_occult_world.epub?id\u003d9HoOAAAAQAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_occult_world.pdf?id\u003d9HoOAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3VQ9C0lIFYetFyBZ99Yi__1DUFZA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Q19U2i94bLIC",
+   "etag": "prXXPiiKypo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Q19U2i94bLIC",
+   "volumeInfo": {
+    "title": "The Occult",
+    "authors": [
+     "Colin Wilson"
+    ],
+    "publisher": "Watkins Publishing",
+    "publishedDate": "2006-07-28",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1842931075"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781842931073"
+     }
+    ],
+    "pageCount": 800,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 19,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dQ19U2i94bLIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dQ19U2i94bLIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQ19U2i94bLIC&dq\u003dOccult&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQ19U2i94bLIC&dq\u003dOccult&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9ZzWRz9x8mwC",
+   "etag": "5LiGrsk9SnI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9ZzWRz9x8mwC",
+   "volumeInfo": {
+    "title": "Occult Roots of Nazism",
+    "subtitle": "Secret Aryan Cults and Their Influence on Nazi Ideology",
+    "authors": [
+     "Nicholas Goodrick-Clarke"
+    ],
+    "publisher": "NYU Press",
+    "publishedDate": "1993-09",
+    "description": "This book traces the intellectual roots of Nazism back to a number of influential occult and millenarian sects in the Hapsburg Empire during its warning years.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0814730604"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780814730607"
+     }
+    ],
+    "pageCount": 294,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 8,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d9ZzWRz9x8mwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d9ZzWRz9x8mwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9ZzWRz9x8mwC&printsec\u003dfrontcover&dq\u003dOccult&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9ZzWRz9x8mwC&dq\u003dOccult&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5YjXnoAaYowC",
+   "etag": "I5+LQ8c2oQA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5YjXnoAaYowC",
+   "volumeInfo": {
+    "title": "Three books of occult philosophy",
+    "authors": [
+     "Heinrich Cornelius Agrippa von Nettesheim",
+     "James Freake"
+    ],
+    "publisher": "Llewellyn Worldwide",
+    "publishedDate": "1993",
+    "description": "Donald Tyson edited this work and removed the hundreds of errors that appeared in the original translation.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0875428320"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780875428321"
+     }
+    ],
+    "pageCount": 938,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 11,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d5YjXnoAaYowC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d5YjXnoAaYowC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5YjXnoAaYowC&printsec\u003dfrontcover&dq\u003dOccult&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5YjXnoAaYowC&dq\u003dOccult&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eCi1zjLsPAkC",
+   "etag": "VsDutW9uook",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eCi1zjLsPAkC",
+   "volumeInfo": {
+    "title": "The occult",
+    "subtitle": "a sourcebook of esoteric wisdom",
+    "authors": [
+     "Nevill Drury"
+    ],
+    "publishedDate": "1997",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0760706905"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780760706909"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003deCi1zjLsPAkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003deCi1zjLsPAkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deCi1zjLsPAkC&q\u003dOccult&dq\u003dOccult&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deCi1zjLsPAkC&dq\u003dOccult&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5SYSAAAAYAAJ",
+   "etag": "K1iOb+rhnvM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5SYSAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Three books of occult philosophy or magic",
+    "authors": [
+     "Heinrich Cornelius Agrippa von Nettesheim"
+    ],
+    "publishedDate": "1897",
+    "description": "The \u003cb\u003eOccult\u003c/b\u003e Philosophy. Judicious Reader: This is true and sublime \u003cb\u003eOccult\u003c/b\u003e \u003cbr\u003e\r\nPhilosophy. To understand the mysterious influences of the intellectual world \u003cbr\u003e\r\nupon \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044012976866"
+     }
+    ],
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d5SYSAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d5SYSAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5SYSAAAAYAAJ&printsec\u003dfrontcover&dq\u003dOccult&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5SYSAAAAYAAJ&dq\u003dOccult&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Three_books_of_occult_philosophy_or_magi.epub?id\u003d5SYSAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Three_books_of_occult_philosophy_or_magi.pdf?id\u003d5SYSAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1shlN4refmZhai8mVKJaXzT_KIIQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kacTjK2OTwsC",
+   "etag": "KQvBkKv6Zo8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kacTjK2OTwsC",
+   "volumeInfo": {
+    "title": "The occult",
+    "authors": [
+     "André Nataf"
+    ],
+    "publisher": "W & R Chambers Ltd",
+    "publishedDate": "1991",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0550170030"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780550170033"
+     }
+    ],
+    "pageCount": 241,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dkacTjK2OTwsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dkacTjK2OTwsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkacTjK2OTwsC&q\u003dOccult&dq\u003dOccult&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkacTjK2OTwsC&dq\u003dOccult&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HylNHgasZtgC",
+   "etag": "2u3Ghrf4g4o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HylNHgasZtgC",
+   "volumeInfo": {
+    "title": "Vampires",
+    "subtitle": "the occult truth",
+    "authors": [
+     "Konstantinos"
+    ],
+    "publisher": "Llewellyn Worldwide",
+    "publishedDate": "1996-06-01",
+    "description": "For the first time ever, here is convincing evidence that vampires really exist- &amp; that the actual truth about vampires is stranger than anything you may have ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1567183808"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781567183801"
+     }
+    ],
+    "pageCount": 194,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 22,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dHylNHgasZtgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dHylNHgasZtgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHylNHgasZtgC&printsec\u003dfrontcover&dq\u003dOccult&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHylNHgasZtgC&dq\u003dOccult&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "muktAAAAYAAJ",
+   "etag": "9f8kRBEo7gM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/muktAAAAYAAJ",
+   "volumeInfo": {
+    "title": "An outline of occult science",
+    "authors": [
+     "Rudolf Steiner"
+    ],
+    "publishedDate": "1922",
+    "description": "AN OUTLINE OF \u003cb\u003eOCCULT\u003c/b\u003e SCIENCE CHAPTER I The Character op \u003cb\u003eOccult\u003c/b\u003e Science AT the \u003cbr\u003e\r\npresent time the words &quot;\u003cb\u003eoccult\u003c/b\u003e science&quot; are apt to arouse the most varied \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X000596288"
+     }
+    ],
+    "pageCount": 416,
+    "printType": "BOOK",
+    "categories": [
+     "Occultism"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dmuktAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dmuktAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmuktAAAAYAAJ&printsec\u003dfrontcover&dq\u003dOccult&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmuktAAAAYAAJ&dq\u003dOccult&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/An_outline_of_occult_science.epub?id\u003dmuktAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/An_outline_of_occult_science.pdf?id\u003dmuktAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0wPyq35rYVxT0wTj0JE9hVhO31og&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 580
+}

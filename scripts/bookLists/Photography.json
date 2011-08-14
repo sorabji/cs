@@ -1,0 +1,564 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "_lN7UtRmsQwC",
+   "etag": "HFrO5Ub7Rpc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_lN7UtRmsQwC",
+   "volumeInfo": {
+    "title": "On photography",
+    "authors": [
+     "Susan Sontag"
+    ],
+    "publisher": "Picador",
+    "publishedDate": "1977",
+    "description": "A collection of acclaimed essays explores the aesthetic and moral problems raised by the presence and authority of the photographic image in modern-day life, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0312420099"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780312420093"
+     }
+    ],
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 103,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d_lN7UtRmsQwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d_lN7UtRmsQwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_lN7UtRmsQwC&printsec\u003dfrontcover&dq\u003dPhotography&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_lN7UtRmsQwC&dq\u003dPhotography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d_lN7UtRmsQwC&dq\u003dPhotography&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/On_photography-sample-epub.acsm?id\u003d_lN7UtRmsQwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ur_8L9hasQkC",
+   "etag": "2ZxM1tlcqUE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ur_8L9hasQkC",
+   "volumeInfo": {
+    "title": "Photography",
+    "subtitle": "a cultural history",
+    "authors": [
+     "Mary Warner Marien"
+    ],
+    "publisher": "Laurence King Publishing",
+    "publishedDate": "2006",
+    "description": "Here is the history weve been waiting for ... erudite and entertaining ... she shows how pictures really did change our world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1856694933"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781856694933"
+     }
+    ],
+    "pageCount": 544,
+    "printType": "BOOK",
+    "categories": [
+     "Photography"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dUr_8L9hasQkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dUr_8L9hasQkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUr_8L9hasQkC&printsec\u003dfrontcover&dq\u003dPhotography&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUr_8L9hasQkC&dq\u003dPhotography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MmkFQgAACAAJ",
+   "etag": "kAgpF4XdaA4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MmkFQgAACAAJ",
+   "volumeInfo": {
+    "title": "Photography",
+    "authors": [
+     "Barbara London",
+     "Jim Stone",
+     "John Upton"
+    ],
+    "publisher": "Pearson College Div",
+    "publishedDate": "2010-02-17",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0205711499"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780205711499"
+     }
+    ],
+    "pageCount": 406,
+    "printType": "BOOK",
+    "categories": [
+     "Photography"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 12,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dMmkFQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dMmkFQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMmkFQgAACAAJ&dq\u003dPhotography&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMmkFQgAACAAJ&dq\u003dPhotography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FQtuNqweX8sC",
+   "etag": "WWyTE8Gj/3s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FQtuNqweX8sC",
+   "volumeInfo": {
+    "title": "Photography",
+    "subtitle": "The Concise Guide",
+    "authors": [
+     "Bruce Warren"
+    ],
+    "publisher": "Wadsworth Pub Co",
+    "publishedDate": "2011-03-01",
+    "description": "Fully revised and updated to cover all new camera formats, including the latest digital technology, this book is all you need to get started.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0495897809"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780495897804"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dFQtuNqweX8sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dFQtuNqweX8sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFQtuNqweX8sC&printsec\u003dfrontcover&dq\u003dPhotography&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFQtuNqweX8sC&dq\u003dPhotography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2R88tIUXBS4C",
+   "etag": "3DIBmedKTGg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2R88tIUXBS4C",
+   "volumeInfo": {
+    "title": "Photography",
+    "subtitle": "the art of composition",
+    "authors": [
+     "Bert P. Krages"
+    ],
+    "publisher": "Allworth Pr",
+    "publishedDate": "2005",
+    "description": "This guide will challenge beginning- andntermediate-level photographers to develop their cognitive skills in ordero create their best work.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1581154097"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781581154092"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Photography"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d2R88tIUXBS4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d2R88tIUXBS4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2R88tIUXBS4C&printsec\u003dfrontcover&dq\u003dPhotography&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2R88tIUXBS4C&dq\u003dPhotography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.72,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d2R88tIUXBS4C&dq\u003dPhotography&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Photography-sample-pdf.acsm?id\u003d2R88tIUXBS4C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "b-C0rm6hqG4C",
+   "etag": "EzRMrR0BOZY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/b-C0rm6hqG4C",
+   "volumeInfo": {
+    "title": "Photography",
+    "subtitle": "a critical introduction",
+    "authors": [
+     "Liz Wells"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2000",
+    "description": "While most histories of photography invariably focus on the works of the &quot;great photographers,&quot; this book is written especially to provide a coherent ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415190576"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415190572"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003db-C0rm6hqG4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003db-C0rm6hqG4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003db-C0rm6hqG4C&printsec\u003dfrontcover&dq\u003dPhotography&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003db-C0rm6hqG4C&dq\u003dPhotography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tkVlNLm41ycC",
+   "etag": "vOLsXvYleSM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tkVlNLm41ycC",
+   "volumeInfo": {
+    "title": "Digital photography pocket guide",
+    "authors": [
+     "Derrick Story"
+    ],
+    "publisher": "O'Reilly Media, Inc.",
+    "publishedDate": "2005",
+    "description": "In this third edition of the bestselling pocket guide, Story expands on the basic photography techniques that he introduced in earlier editions, including an ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0596100159"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596100155"
+     }
+    ],
+    "pageCount": 155,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dtkVlNLm41ycC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dtkVlNLm41ycC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtkVlNLm41ycC&printsec\u003dfrontcover&dq\u003dPhotography&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtkVlNLm41ycC&dq\u003dPhotography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.59,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dtkVlNLm41ycC&dq\u003dPhotography&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JpKAmEmrlygC",
+   "etag": "rPm/A0R2j/A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JpKAmEmrlygC",
+   "volumeInfo": {
+    "title": "Photography",
+    "authors": [
+     "John Ingledew"
+    ],
+    "publisher": "Laurence King Publishing",
+    "publishedDate": "2005-11-30",
+    "description": "This book provides an inspirational education in photography for art, design and photography students as well as young and new photographers.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1856694321"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781856694322"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Photography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dJpKAmEmrlygC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dJpKAmEmrlygC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJpKAmEmrlygC&printsec\u003dfrontcover&dq\u003dPhotography&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJpKAmEmrlygC&dq\u003dPhotography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1f-cSwAACAAJ",
+   "etag": "k7BINwfozEM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1f-cSwAACAAJ",
+   "volumeInfo": {
+    "title": "The digital photography book",
+    "subtitle": "the step-by-step secrets for how to make your photos look like the pros'!",
+    "authors": [
+     "Scott Kelby"
+    ],
+    "publishedDate": "2009",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:593915575"
+     }
+    ],
+    "pageCount": 218,
+    "printType": "BOOK",
+    "categories": [
+     "Photography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 235,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1f-cSwAACAAJ&dq\u003dPhotography&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1f-cSwAACAAJ&dq\u003dPhotography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lObXm5buqocC",
+   "etag": "X4Xq4yYuzHc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lObXm5buqocC",
+   "volumeInfo": {
+    "title": "Photography",
+    "subtitle": "an illustrated history",
+    "authors": [
+     "Martin W. Sandler"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2002-01-01",
+    "description": "Presents the history of photography from the daguerreotypes of the mid-1800s to its acceptance as an art form and more.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0195126084"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195126082"
+     }
+    ],
+    "pageCount": 156,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dlObXm5buqocC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dlObXm5buqocC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlObXm5buqocC&printsec\u003dfrontcover&dq\u003dPhotography&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlObXm5buqocC&dq\u003dPhotography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 569
+}

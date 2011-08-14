@@ -1,0 +1,565 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ZlZnAAAAMAAJ",
+   "etag": "WbyCTPQqlRA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZlZnAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The British",
+    "subtitle": "a portrait of an indomitable island people",
+    "authors": [
+     "Norman Gelb"
+    ],
+    "publishedDate": "1982",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015011817114"
+     }
+    ],
+    "pageCount": 232,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dZlZnAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dZlZnAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZlZnAAAAMAAJ&q\u003dBritish&dq\u003dBritish&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZlZnAAAAMAAJ&dq\u003dBritish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "a3lCtIWsNOcC",
+   "etag": "H12HxfSoxvs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a3lCtIWsNOcC",
+   "volumeInfo": {
+    "title": "British Civilization",
+    "subtitle": "An Introduction",
+    "authors": [
+     "John Oakland"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2011-01-27",
+    "description": "Reviews of the previous editions: &#39;¬ÜJohn Oakland is the doyen of civilization studies.&#39;¬&quot; British Studies Now &#39;¬ÜThis is a first rate, lucidly written ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415583276"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415583275"
+     }
+    ],
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003da3lCtIWsNOcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003da3lCtIWsNOcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003da3lCtIWsNOcC&printsec\u003dfrontcover&dq\u003dBritish&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003da3lCtIWsNOcC&dq\u003dBritish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 45.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 36.76,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003da3lCtIWsNOcC&dq\u003dBritish&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/British_Civilization-sample-epub.acsm?id\u003da3lCtIWsNOcC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/British_Civilization-sample-pdf.acsm?id\u003da3lCtIWsNOcC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "P3RFBOB8UWMC",
+   "etag": "JdrRKbmdXeY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/P3RFBOB8UWMC",
+   "volumeInfo": {
+    "title": "British culture",
+    "subtitle": "an introduction",
+    "authors": [
+     "David Christopher"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1999-06-15",
+    "description": "The book also strengthens study skills, through follow-up activities and suggestions for further reading which appear at the end of each chapter.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "041522053X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415220538"
+     }
+    ],
+    "pageCount": 223,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dP3RFBOB8UWMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dP3RFBOB8UWMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dP3RFBOB8UWMC&printsec\u003dfrontcover&dq\u003dBritish&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dP3RFBOB8UWMC&dq\u003dBritish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/British_culture-sample-epub.acsm?id\u003dP3RFBOB8UWMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3ocswPZVkVkC",
+   "etag": "Keop5SP8aEc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3ocswPZVkVkC",
+   "volumeInfo": {
+    "title": "The British Isles",
+    "subtitle": "a history of four nations",
+    "authors": [
+     "Hugh F. Kearney"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "2006",
+    "description": "This is a new edition of Hugh Kearney&#39;s classic account of the British Isles from pre-Roman times to the present.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521846005"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521846004"
+     }
+    ],
+    "pageCount": 362,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d3ocswPZVkVkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d3ocswPZVkVkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3ocswPZVkVkC&printsec\u003dfrontcover&dq\u003dBritish&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3ocswPZVkVkC&dq\u003dBritish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cAHCSGMl9gwC",
+   "etag": "7TMU8OxL16o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cAHCSGMl9gwC",
+   "volumeInfo": {
+    "title": "Black British literature",
+    "subtitle": "novels of transformation",
+    "authors": [
+     "Mark Stein"
+    ],
+    "publisher": "Ohio State Univ Pr",
+    "publishedDate": "2004",
+    "description": "In this fascinating book, Mark Stein examines &quot;black British literature,&quot; centering on a body of work created by British-based writers with African, South Asian ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "081420984X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780814209844"
+     }
+    ],
+    "pageCount": 243,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dcAHCSGMl9gwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dcAHCSGMl9gwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcAHCSGMl9gwC&printsec\u003dfrontcover&dq\u003dBritish&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcAHCSGMl9gwC&dq\u003dBritish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Black_British_literature-sample-epub.acsm?id\u003dcAHCSGMl9gwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ryjT0VKDurIC",
+   "etag": "1hIRry+wviU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ryjT0VKDurIC",
+   "volumeInfo": {
+    "title": "British Film Design",
+    "subtitle": "A History",
+    "authors": [
+     "Laurie N. Ede"
+    ],
+    "publisher": "I B Tauris & Co Ltd",
+    "publishedDate": "2010-02",
+    "description": "This book is also about the people who have created those visions. The physical environments of films are made by Production Designers/Art Directors.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1848851081"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781848851085"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dryjT0VKDurIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dryjT0VKDurIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dryjT0VKDurIC&printsec\u003dfrontcover&dq\u003dBritish&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dryjT0VKDurIC&dq\u003dBritish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/British_Film_Design-sample-epub.acsm?id\u003dryjT0VKDurIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tnPGIKaVgUcC",
+   "etag": "fqPMRIr54YA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tnPGIKaVgUcC",
+   "volumeInfo": {
+    "title": "British women mystery writers",
+    "subtitle": "authors of detective fiction with female sleuths",
+    "authors": [
+     "Mary Hadley"
+    ],
+    "publisher": "McFarland",
+    "publishedDate": "2002",
+    "description": "And, confusingly, many of the British women detectives who have made it to American television are far from typical of the latest women detectives.This work is ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0786412429"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786412426"
+     }
+    ],
+    "pageCount": 198,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dtnPGIKaVgUcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dtnPGIKaVgUcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtnPGIKaVgUcC&printsec\u003dfrontcover&dq\u003dBritish&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtnPGIKaVgUcC&dq\u003dBritish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.74,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dtnPGIKaVgUcC&dq\u003dBritish&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/British_women_mystery_writers-sample-epub.acsm?id\u003dtnPGIKaVgUcC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/British_women_mystery_writers-sample-pdf.acsm?id\u003dtnPGIKaVgUcC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5F8I-877spgC",
+   "etag": "x9VO8TyA5RM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5F8I-877spgC",
+   "volumeInfo": {
+    "title": "The British toy business",
+    "subtitle": "a history since 1700",
+    "authors": [
+     "Kenneth Douglas Brown"
+    ],
+    "publisher": "Hambledon Pr",
+    "publishedDate": "1996",
+    "description": "The British Toy Business provides a fascinating example of the development of a specific industry. Many early early toys were home-made.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1852851368"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781852851361"
+     }
+    ],
+    "pageCount": 278,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d5F8I-877spgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d5F8I-877spgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5F8I-877spgC&printsec\u003dfrontcover&dq\u003dBritish&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5F8I-877spgC&dq\u003dBritish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Gq6glh_ILtwC",
+   "etag": "vfZp1D/QU2g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Gq6glh_ILtwC",
+   "volumeInfo": {
+    "title": "British planning",
+    "subtitle": "50 years of urban and regional policy",
+    "authors": [
+     "J. B. Cullingworth"
+    ],
+    "publisher": "Athlone Pr",
+    "publishedDate": "1999",
+    "description": "&#39;British Planning&#39; brings together the country&#39;s leading analysts of planning and its policy to prsent a state-of-the-art review and analysis.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0485006049"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780485006049"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dGq6glh_ILtwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dGq6glh_ILtwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGq6glh_ILtwC&printsec\u003dfrontcover&dq\u003dBritish&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGq6glh_ILtwC&dq\u003dBritish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XCJaq77qIRIC",
+   "etag": "07AJutlEHQQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XCJaq77qIRIC",
+   "volumeInfo": {
+    "title": "British imperialism, 1688-2000",
+    "authors": [
+     "P. J. Cain",
+     "Anthony G. Hopkins"
+    ],
+    "publisher": "Longman Pub Group",
+    "publishedDate": "2002",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0582472865"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780582472860"
+     }
+    ],
+    "pageCount": 739,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dXCJaq77qIRIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dXCJaq77qIRIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXCJaq77qIRIC&dq\u003dBritish&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXCJaq77qIRIC&dq\u003dBritish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 596
+}

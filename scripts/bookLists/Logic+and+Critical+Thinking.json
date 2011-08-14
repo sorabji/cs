@@ -1,0 +1,516 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "s4T0NwAACAAJ",
+   "etag": "sF0JNdVhg8M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s4T0NwAACAAJ",
+   "volumeInfo": {
+    "title": "Logic and Critical Thinking",
+    "subtitle": "A Text for Community College Students",
+    "authors": [
+     "Rod Jenks"
+    ],
+    "publisher": "University Press of America",
+    "publishedDate": "2008-08-28",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0761841229"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761841227"
+     }
+    ],
+    "pageCount": 126,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003ds4T0NwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003ds4T0NwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ds4T0NwAACAAJ&dq\u003dLogic+and+Critical+Thinking&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ds4T0NwAACAAJ&dq\u003dLogic+and+Critical+Thinking&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FTRoNAAACAAJ",
+   "etag": "HOEZ0+l1/Aw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FTRoNAAACAAJ",
+   "volumeInfo": {
+    "title": "Logic and critical thinking",
+    "authors": [
+     "Lionel Ruby"
+    ],
+    "publishedDate": "1970",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0030720850"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780030720857"
+     }
+    ],
+    "pageCount": 84,
+    "printType": "BOOK",
+    "categories": [
+     "Logic"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFTRoNAAACAAJ&dq\u003dLogic+and+Critical+Thinking&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFTRoNAAACAAJ&dq\u003dLogic+and+Critical+Thinking&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Qh_HPAAACAAJ",
+   "etag": "xMX1WKE/V3o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Qh_HPAAACAAJ",
+   "volumeInfo": {
+    "title": "Logic and Critical Thinking",
+    "authors": [
+     "Margaret Thomas",
+     "School Specialty Publishing"
+    ],
+    "publisher": "Instructional Fair",
+    "publishedDate": "2001-12-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0742400867"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780742400863"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQh_HPAAACAAJ&dq\u003dLogic+and+Critical+Thinking&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQh_HPAAACAAJ&dq\u003dLogic+and+Critical+Thinking&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eMDQHAAACAAJ",
+   "etag": "2LUPRE/L0xk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eMDQHAAACAAJ",
+   "volumeInfo": {
+    "title": "Logic and critical thinking",
+    "subtitle": "a user's guide ; philosophy 120 ...",
+    "authors": [
+     "Joseph Richard"
+    ],
+    "publishedDate": "1987",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:82773470"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Logic"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deMDQHAAACAAJ&dq\u003dLogic+and+Critical+Thinking&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deMDQHAAACAAJ&dq\u003dLogic+and+Critical+Thinking&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HLafAAAACAAJ",
+   "etag": "kDFC7mCeSdk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HLafAAAACAAJ",
+   "volumeInfo": {
+    "title": "Logic and Critical Thinking",
+    "authors": [
+     "Salmon",
+     "Salmon, Julie Andrew"
+    ],
+    "publisher": "Harcourt",
+    "publishedDate": "2000-12",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0155056069"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780155056060"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHLafAAAACAAJ&dq\u003dLogic+and+Critical+Thinking&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHLafAAAACAAJ&dq\u003dLogic+and+Critical+Thinking&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VrOjPwAACAAJ",
+   "etag": "ccRHIc5UNtM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VrOjPwAACAAJ",
+   "volumeInfo": {
+    "title": "Introduction to logic and critical thinking",
+    "authors": [
+     "Merrilee H. Salmon"
+    ],
+    "publisher": "Wadsworth Pub Co",
+    "publishedDate": "2007",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0534626637"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780534626631"
+     }
+    ],
+    "pageCount": 492,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dVrOjPwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dVrOjPwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVrOjPwAACAAJ&dq\u003dLogic+and+Critical+Thinking&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVrOjPwAACAAJ&dq\u003dLogic+and+Critical+Thinking&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NCewJEk4EV0C",
+   "etag": "MiKiz2kfE2A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NCewJEk4EV0C",
+   "volumeInfo": {
+    "title": "Evidence-based practice",
+    "subtitle": "logic and critical thinking in medicine",
+    "authors": [
+     "Milos Jenicek",
+     "David Hitchcock"
+    ],
+    "publisher": "Amer Medical Assn",
+    "publishedDate": "2005",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1579476260"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781579476267"
+     }
+    ],
+    "pageCount": 302,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dNCewJEk4EV0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dNCewJEk4EV0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNCewJEk4EV0C&dq\u003dLogic+and+Critical+Thinking&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNCewJEk4EV0C&dq\u003dLogic+and+Critical+Thinking&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AedPtwAACAAJ",
+   "etag": "UNyN8YtxK3M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AedPtwAACAAJ",
+   "volumeInfo": {
+    "title": "Critical Thinking",
+    "subtitle": "Consider the Verdict",
+    "authors": [
+     "Bruce N. Waller"
+    ],
+    "publisher": "Pearson College Div",
+    "publishedDate": "2011-07-11",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0205158668"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780205158669"
+     }
+    ],
+    "pageCount": 480,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dAedPtwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dAedPtwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAedPtwAACAAJ&dq\u003dLogic+and+Critical+Thinking&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAedPtwAACAAJ&dq\u003dLogic+and+Critical+Thinking&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kQ85pWs1muQC",
+   "etag": "fPxvFdhqk88",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kQ85pWs1muQC",
+   "volumeInfo": {
+    "title": "Homeschool Your Child for Free",
+    "subtitle": "More Than 1,400 Smart, Effective, and Practical Resources for Educating Your Family at Home",
+    "authors": [
+     "LauraMaery Gold",
+     "Joan M. Zielinski"
+    ],
+    "publisher": "Three Rivers Press",
+    "publishedDate": "2009-08-04",
+    "description": "\u003cb\u003eLogic and Critical Thinking\u003c/b\u003e IF YOUR FIRST duty as a parent is to teach your \u003cbr\u003e\r\nchildren to be ethical, then your first duty as their teacher is to teach them \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0307451631"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780307451637"
+     }
+    ],
+    "pageCount": 480,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 15,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dkQ85pWs1muQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dkQ85pWs1muQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkQ85pWs1muQC&pg\u003dPA124&dq\u003dLogic+and+Critical+Thinking&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkQ85pWs1muQC&dq\u003dLogic+and+Critical+Thinking&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 15.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dkQ85pWs1muQC&dq\u003dLogic+and+Critical+Thinking&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Homeschool_Your_Child_for_Free-sample-epub.acsm?id\u003dkQ85pWs1muQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Homeschool_Your_Child_for_Free-sample-pdf.acsm?id\u003dkQ85pWs1muQC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Z_ucAAAAMAAJ",
+   "etag": "+KMV+E3xEMY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Z_ucAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Philosophy of education",
+    "authors": [
+     "Nel Noddings"
+    ],
+    "publisher": "Westview Pr",
+    "publishedDate": "1995-09-11",
+    "description": "5 \u003cb\u003eLogic and Critical Thinking\u003c/b\u003e Each of the introductory chapters included a \u003cbr\u003e\r\nmention of critical thinking in some context: Socratic questioning as a critical \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015031761482"
+     }
+    ],
+    "pageCount": 226,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dZ_ucAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dZ_ucAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZ_ucAAAAMAAJ&q\u003dLogic+and+Critical+Thinking&dq\u003dLogic+and+Critical+Thinking&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZ_ucAAAAMAAJ&dq\u003dLogic+and+Critical+Thinking&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 589
+}

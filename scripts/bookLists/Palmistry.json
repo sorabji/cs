@@ -1,0 +1,525 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ML7GWMNA9ckC",
+   "etag": "LbegFjHpjFw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ML7GWMNA9ckC",
+   "volumeInfo": {
+    "title": "Palmistry",
+    "subtitle": "quick & easy",
+    "authors": [
+     "Peter Hazel"
+    ],
+    "publisher": "Llewellyn Worldwide",
+    "publishedDate": "2001-09-01",
+    "description": "A beginner&#39;s guide to the basics of palm-reading &amp; interpretation.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1567184103"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781567184105"
+     }
+    ],
+    "pageCount": 223,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dML7GWMNA9ckC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dML7GWMNA9ckC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dML7GWMNA9ckC&printsec\u003dfrontcover&dq\u003dPalmistry&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dML7GWMNA9ckC&dq\u003dPalmistry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_HZ4-eLJneIC",
+   "etag": "x1ZIzghQg3E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_HZ4-eLJneIC",
+   "volumeInfo": {
+    "title": "Palmistry",
+    "subtitle": "how to chart the lines of your destiny",
+    "authors": [
+     "Roz Levine"
+    ],
+    "publisher": "Fireside",
+    "publishedDate": "1993-01-01",
+    "description": "A guide, with examples, on how to read, observe, and interpret the language of the hands",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "067178501X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780671785017"
+     }
+    ],
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 9,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d_HZ4-eLJneIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d_HZ4-eLJneIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_HZ4-eLJneIC&printsec\u003dfrontcover&dq\u003dPalmistry&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_HZ4-eLJneIC&dq\u003dPalmistry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bZuaOPBDAegC",
+   "etag": "GYSHeaS3608",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bZuaOPBDAegC",
+   "volumeInfo": {
+    "title": "Palmistry",
+    "authors": [
+     "B. K. Chaturvedi"
+    ],
+    "publisher": "Diamond Pocket Books (P) Ltd.",
+    "description": "They generally write a small hand, are great sticklers for etiquette, are easily \u003cbr\u003e\r\noffended by little breaches of courtesy. \u003cb\u003ePalmistry\u003c/b\u003e / 9 \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8128802860"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788128802867"
+     }
+    ],
+    "pageCount": 96,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dbZuaOPBDAegC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dbZuaOPBDAegC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbZuaOPBDAegC&printsec\u003dfrontcover&dq\u003dPalmistry&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbZuaOPBDAegC&dq\u003dPalmistry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4bd0mhv2Zr0C",
+   "etag": "Hez1f+2eiKY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4bd0mhv2Zr0C",
+   "volumeInfo": {
+    "title": "Palmistry",
+    "authors": [
+     "Nathaniel Altman"
+    ],
+    "publisher": "Sterling Publishing Company",
+    "publishedDate": "2007-06-01",
+    "description": "This encyclopedic introduction to palmistry offers insights into your personality and life, and even methods for changing the lines on your hands.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1402747330"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781402747335"
+     }
+    ],
+    "pageCount": 511,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d4bd0mhv2Zr0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d4bd0mhv2Zr0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4bd0mhv2Zr0C&printsec\u003dfrontcover&dq\u003dPalmistry&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4bd0mhv2Zr0C&dq\u003dPalmistry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NdORSCM3IDMC",
+   "etag": "r37jok6NmRo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NdORSCM3IDMC",
+   "volumeInfo": {
+    "title": "Palmistry",
+    "subtitle": "your destiny in your hands",
+    "authors": [
+     "Mary Anderson"
+    ],
+    "publisher": "Red Wheel/Weiser",
+    "publishedDate": "1980-01-01",
+    "description": "Conteúdo 1. O mapa que jamais perdemos 9 2. Primeiros passos 13 3. A mão 17 4. \u003cbr\u003e\r\nTudo sobre os dedos 23 5. O Polegar eo Monte de Vênus 29 6. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0850301645"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780850301649"
+     }
+    ],
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dNdORSCM3IDMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dNdORSCM3IDMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNdORSCM3IDMC&printsec\u003dfrontcover&dq\u003dPalmistry&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNdORSCM3IDMC&dq\u003dPalmistry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IDxDAAAAIAAJ",
+   "etag": "CE3s/1+8I9g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IDxDAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Palmistry for all, containing new information on the study of the hand never before published",
+    "authors": [
+     "Cheiro"
+    ],
+    "publishedDate": "1910",
+    "description": "of the tips of the fingers and by thumb marks is now used by the police of \u003cbr\u003e\r\nalmost every country, and thousands of criminals have been tracked down and \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105039127100"
+     }
+    ],
+    "pageCount": 180,
+    "printType": "BOOK",
+    "categories": [
+     "Palmistry"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dIDxDAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dIDxDAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIDxDAAAAIAAJ&printsec\u003dfrontcover&dq\u003dPalmistry&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIDxDAAAAIAAJ&dq\u003dPalmistry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Palmistry_for_all_containing_new_informa.epub?id\u003dIDxDAAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Palmistry_for_all_containing_new_informa.pdf?id\u003dIDxDAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U03lbzsmAh4LLdqyAGFXMINCamqhw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "chVhPgAACAAJ",
+   "etag": "N9Y9cKRxwz0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/chVhPgAACAAJ",
+   "volumeInfo": {
+    "title": "Palmistry",
+    "subtitle": "Apprentice to Pro in 24 Hours",
+    "authors": [
+     "Johnny Fincham"
+    ],
+    "publishedDate": "2007-08-25",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1846940478"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781846940477"
+     }
+    ],
+    "pageCount": 225,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dchVhPgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dchVhPgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dchVhPgAACAAJ&dq\u003dPalmistry&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dchVhPgAACAAJ&dq\u003dPalmistry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3V_WAAAAMAAJ",
+   "etag": "tmNTxiXDh4Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3V_WAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Palmistry",
+    "authors": [
+     "David V. Barrett"
+    ],
+    "publisher": "Dk Pub",
+    "publishedDate": "1995-09-09",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0789403110"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780789403117"
+     }
+    ],
+    "pageCount": 61,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d3V_WAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d3V_WAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3V_WAAAAMAAJ&q\u003dPalmistry&dq\u003dPalmistry&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3V_WAAAAMAAJ&dq\u003dPalmistry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bjPId1bPwo0C",
+   "etag": "VYdKywWEoHw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bjPId1bPwo0C",
+   "volumeInfo": {
+    "title": "The Complete Idiot's Guide to Palmistry",
+    "authors": [
+     "Robin Gile",
+     "Lisa Lenard"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "1999-06-01",
+    "description": "Covers the history of palmistry and describes the meaning of the lines, shapes, mounds, and markings on a hand",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0028631137"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780028631134"
+     }
+    ],
+    "pageCount": 408,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dbjPId1bPwo0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dbjPId1bPwo0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbjPId1bPwo0C&printsec\u003dfrontcover&dq\u003dPalmistry&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbjPId1bPwo0C&dq\u003dPalmistry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "q6UYA45-5PAC",
+   "etag": "BZbJg2eKVrM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/q6UYA45-5PAC",
+   "volumeInfo": {
+    "title": "Palmistry",
+    "subtitle": "The Whole View",
+    "authors": [
+     "Judith Hipskind"
+    ],
+    "publishedDate": "1981-06",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "087542306X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780875423067"
+     }
+    ],
+    "pageCount": 236,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dq6UYA45-5PAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dq6UYA45-5PAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dq6UYA45-5PAC&q\u003dPalmistry&dq\u003dPalmistry&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dq6UYA45-5PAC&dq\u003dPalmistry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 515
+}

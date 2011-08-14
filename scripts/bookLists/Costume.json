@@ -1,0 +1,527 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "i1-BAAAAMAAJ",
+   "etag": "Emfb42bLxd8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/i1-BAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Costume: fanciful, historical, and theatrical",
+    "authors": [
+     "Mrs. Aria (Eliza Davis)"
+    ],
+    "publishedDate": "1906",
+    "description": "Much as Boadicea detested the Romans, she preferred their &quot;graceful garments to \u003cbr\u003e\r\nthose worn by her own countrywomen, and when she led her troops into battle, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015005544187"
+     }
+    ],
+    "pageCount": 259,
+    "printType": "BOOK",
+    "categories": [
+     "Costume"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003di1-BAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003di1-BAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003di1-BAAAAMAAJ&printsec\u003dfrontcover&dq\u003dCostume&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003di1-BAAAAMAAJ&dq\u003dCostume&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Costume_fanciful_historical_and_theatric.epub?id\u003di1-BAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Costume_fanciful_historical_and_theatric.pdf?id\u003di1-BAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3b-5x4Y_fRmlbdPY1tBmEH16jFYg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_bm7bQ01S_MC",
+   "etag": "RHRuE+WcB9M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_bm7bQ01S_MC",
+   "volumeInfo": {
+    "title": "Costume",
+    "authors": [
+     "L. Rowland-Warne"
+    ],
+    "publisher": "Dk Pub",
+    "publishedDate": "2000-06-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0789455862"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780789455864"
+     }
+    ],
+    "pageCount": 63,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d_bm7bQ01S_MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d_bm7bQ01S_MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_bm7bQ01S_MC&q\u003dCostume&dq\u003dCostume&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_bm7bQ01S_MC&dq\u003dCostume&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Kj-Sfaj51Y4C",
+   "etag": "IGqheXFUwnU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Kj-Sfaj51Y4C",
+   "volumeInfo": {
+    "title": "Historic costume in pictures",
+    "authors": [
+     "Braun & Schneider",
+     "Braun and Schneider"
+    ],
+    "publisher": "Dover Pubns",
+    "publishedDate": "1975",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "048623150X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486231501"
+     }
+    ],
+    "pageCount": 255,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dKj-Sfaj51Y4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dKj-Sfaj51Y4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKj-Sfaj51Y4C&dq\u003dCostume&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKj-Sfaj51Y4C&dq\u003dCostume&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OQEb30AWr5YC",
+   "etag": "nvJpHLbFIW0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OQEb30AWr5YC",
+   "volumeInfo": {
+    "title": "Costume design in the movies",
+    "subtitle": "an illustrated guide to the work of 157 great designers",
+    "authors": [
+     "Elizabeth Leese"
+    ],
+    "publisher": "Dover Pubns",
+    "publishedDate": "1991-03-01",
+    "description": "Comprehensive, lavishly illustrated reference work provides biographical/career data for major designers (Adrian, Jean Louis, Edith Head, more).",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "048626548X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486265483"
+     }
+    ],
+    "pageCount": 171,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dOQEb30AWr5YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dOQEb30AWr5YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOQEb30AWr5YC&printsec\u003dfrontcover&dq\u003dCostume&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOQEb30AWr5YC&dq\u003dCostume&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "usR4NUi06WQC",
+   "etag": "oVsQowNJj+k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/usR4NUi06WQC",
+   "volumeInfo": {
+    "title": "Character costume figure drawing",
+    "subtitle": "step-by-step drawing methods for theatre costume designers",
+    "authors": [
+     "Huaixiang Tan"
+    ],
+    "publisher": "Focal Press",
+    "publishedDate": "2010-01-15",
+    "description": "Comprehensive visual images carefully illustrate how to render dynamic characters with personality, covering clothes, hats, props, fabrics and choice of medium ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0240811844"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780240811840"
+     }
+    ],
+    "pageCount": 338,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dusR4NUi06WQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dusR4NUi06WQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dusR4NUi06WQC&printsec\u003dfrontcover&dq\u003dCostume&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dusR4NUi06WQC&dq\u003dCostume&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.69,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dusR4NUi06WQC&dq\u003dCostume&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Character_costume_figure_drawing-sample-epub.acsm?id\u003dusR4NUi06WQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Character_costume_figure_drawing-sample-pdf.acsm?id\u003dusR4NUi06WQC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eSINAQAAMAAJ",
+   "etag": "PKTlBhimxQc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eSINAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Costume",
+    "subtitle": "the performing partner",
+    "authors": [
+     "Jac Lewis",
+     "Miriam Striezheff Lewis"
+    ],
+    "publisher": "Meriwether Pub",
+    "publishedDate": "1990-12",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0916260712"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780916260712"
+     }
+    ],
+    "pageCount": 186,
+    "printType": "BOOK",
+    "categories": [
+     "Design"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003deSINAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003deSINAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deSINAQAAMAAJ&q\u003dCostume&dq\u003dCostume&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deSINAQAAMAAJ&dq\u003dCostume&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Qmm1AAAAIAAJ",
+   "etag": "T/mmjuC/ouE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Qmm1AAAAIAAJ",
+   "volumeInfo": {
+    "title": "Costume",
+    "subtitle": "the journal of the Costume Society",
+    "authors": [
+     "Costume Society",
+     "Victoria and Albert Museum"
+    ],
+    "publishedDate": "1992-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSC:32106016073055"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dQmm1AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dQmm1AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQmm1AAAAIAAJ&q\u003dCostume&dq\u003dCostume&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQmm1AAAAIAAJ&dq\u003dCostume&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fGK1AAAAIAAJ",
+   "etag": "bX0XjuSl/Nc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fGK1AAAAIAAJ",
+   "volumeInfo": {
+    "title": "Costume",
+    "authors": [
+     "James Laver"
+    ],
+    "publishedDate": "1964",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSC:32106000771169"
+     }
+    ],
+    "pageCount": 135,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dfGK1AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dfGK1AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfGK1AAAAIAAJ&q\u003dCostume&dq\u003dCostume&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfGK1AAAAIAAJ&dq\u003dCostume&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ACmO7zRIWf4C",
+   "etag": "z5guTrE1SEQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ACmO7zRIWf4C",
+   "volumeInfo": {
+    "title": "Costume and cinema",
+    "subtitle": "dress codes in popular film",
+    "authors": [
+     "Sarah Street"
+    ],
+    "publisher": "Wallflower Press",
+    "publishedDate": "2001",
+    "description": "In particular the book foregrounds the related issues of adaptation and embodiment in a variety of different genres and films including The Talented Mr Ripley, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1903364183"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781903364185"
+     }
+    ],
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dACmO7zRIWf4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dACmO7zRIWf4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dACmO7zRIWf4C&printsec\u003dfrontcover&dq\u003dCostume&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dACmO7zRIWf4C&dq\u003dCostume&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BCwUAQAAMAAJ",
+   "etag": "wfQIM+tBePA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BCwUAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Costume design and illustration",
+    "authors": [
+     "Ethel Traphagen"
+    ],
+    "publishedDate": "1918",
+    "description": "\u003cb\u003eCOSTUME\u003c/b\u003e DESIGN AND ILLUSTRATION 1. Forms. — In both lines of fashion farthest \u003cbr\u003e\r\npoint out of the other oval, to work it is necessary to be able to con- \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:35128000312262"
+     }
+    ],
+    "pageCount": 197,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dBCwUAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dBCwUAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBCwUAQAAMAAJ&printsec\u003dfrontcover&dq\u003dCostume&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBCwUAQAAMAAJ&dq\u003dCostume&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Costume_design_and_illustration.pdf?id\u003dBCwUAQAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U36SEUEsq-1JmTAAxvezmnF7q74bQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 576
+}

@@ -1,0 +1,588 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "RizrGA3Sa4kC",
+   "etag": "Cq6V3LodBl4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RizrGA3Sa4kC",
+   "volumeInfo": {
+    "title": "Sexuality",
+    "authors": [
+     "Jeffrey Weeks"
+    ],
+    "publisher": "Taylor & Francis",
+    "publishedDate": "2009-10-31",
+    "description": "This new edition of &#39;Sexuality&#39; features new material on AIDS, queer theory and the influence of postcolonial theory.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415497124"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415497121"
+     }
+    ],
+    "pageCount": 194,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dRizrGA3Sa4kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dRizrGA3Sa4kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRizrGA3Sa4kC&printsec\u003dfrontcover&dq\u003dSexuality&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRizrGA3Sa4kC&dq\u003dSexuality&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Sexuality-sample-epub.acsm?id\u003dRizrGA3Sa4kC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IV4HQvHylcoC",
+   "etag": "wWLDM3gwtL4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IV4HQvHylcoC",
+   "volumeInfo": {
+    "title": "Sexuality",
+    "subtitle": "psychoanalytic perspectives",
+    "authors": [
+     "Celia Harding"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2001-04-06",
+    "description": "In the book, a range of distinguished contributors challenge the view that sexuality is nothing other than historically and culturally determined.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415220963"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415220965"
+     }
+    ],
+    "pageCount": 201,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "1.0.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dIV4HQvHylcoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dIV4HQvHylcoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIV4HQvHylcoC&printsec\u003dfrontcover&dq\u003dSexuality&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIV4HQvHylcoC&dq\u003dSexuality&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 19.22,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dIV4HQvHylcoC&dq\u003dSexuality&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Sexuality-sample-epub.acsm?id\u003dIV4HQvHylcoC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Sexuality-sample-pdf.acsm?id\u003dIV4HQvHylcoC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EXAGIQ3iwTwC",
+   "etag": "f5k7YEbMLPg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EXAGIQ3iwTwC",
+   "volumeInfo": {
+    "title": "Sexuality Ed 2",
+    "authors": [
+     "Joseph Bristow"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2009-05-30",
+    "description": "Considering all of the major movements in the field, this new edition is the ideal guide for students of literary and cultural studies.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415299284"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415299282"
+     }
+    ],
+    "pageCount": 252,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dEXAGIQ3iwTwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dEXAGIQ3iwTwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEXAGIQ3iwTwC&printsec\u003dfrontcover&dq\u003dSexuality&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEXAGIQ3iwTwC&dq\u003dSexuality&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.77,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dEXAGIQ3iwTwC&dq\u003dSexuality&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Sexuality_Ed_2-sample-epub.acsm?id\u003dEXAGIQ3iwTwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Sexuality_Ed_2-sample-pdf.acsm?id\u003dEXAGIQ3iwTwC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xEF6psQN-Q0C",
+   "etag": "af1zt1VV79g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xEF6psQN-Q0C",
+   "volumeInfo": {
+    "title": "Sexuality",
+    "subtitle": "Enhancing Your Body Chemistry",
+    "authors": [
+     "Linda Page"
+    ],
+    "publisher": "Healthy Healing Pubns",
+    "publishedDate": "1998-08",
+    "description": "These succint, inexpensive Healthy Healing Library booklets by Linda Rector-Page, N.D., Ph.D. help people make informed choices.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1884334156"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781884334153"
+     }
+    ],
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dxEF6psQN-Q0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dxEF6psQN-Q0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxEF6psQN-Q0C&printsec\u003dfrontcover&dq\u003dSexuality&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxEF6psQN-Q0C&dq\u003dSexuality&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MpRnPtmdRVwC",
+   "etag": "x5NeCN05AgA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MpRnPtmdRVwC",
+   "volumeInfo": {
+    "title": "Our Sexuality",
+    "authors": [
+     "Robert Crooks",
+     "Karla Baur"
+    ],
+    "publisher": "Wadsworth Pub Co",
+    "publishedDate": "2010-01-01",
+    "description": "This is the most respected and authoritative college textbook available on human sexuality.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0495811793"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780495811794"
+     }
+    ],
+    "pageCount": 570,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dMpRnPtmdRVwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dMpRnPtmdRVwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMpRnPtmdRVwC&printsec\u003dfrontcover&dq\u003dSexuality&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMpRnPtmdRVwC&dq\u003dSexuality&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0mYvaEPa9jAC",
+   "etag": "r0wLmL9KOEQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0mYvaEPa9jAC",
+   "volumeInfo": {
+    "title": "Sexuality",
+    "subtitle": "a very short introduction",
+    "authors": [
+     "Véronique Mottier"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2008-06-01",
+    "description": "The volume also examines ways in which governments have tried to regulate citizens&#39; sexualities in the past-through policies and laws concerning public health, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0199298025"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780199298020"
+     }
+    ],
+    "pageCount": 151,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d0mYvaEPa9jAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d0mYvaEPa9jAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0mYvaEPa9jAC&printsec\u003dfrontcover&dq\u003dSexuality&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0mYvaEPa9jAC&dq\u003dSexuality&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 8.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.52,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d0mYvaEPa9jAC&dq\u003dSexuality&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Sexuality-sample-epub.acsm?id\u003d0mYvaEPa9jAC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Sexuality-sample-pdf.acsm?id\u003d0mYvaEPa9jAC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EwQdAAAAYAAJ",
+   "etag": "nPX/IlZAIMY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EwQdAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Sexuality",
+    "authors": [
+     "Robert A. Nye"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "1999",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X006028843"
+     }
+    ],
+    "pageCount": 503,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dEwQdAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dEwQdAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEwQdAAAAYAAJ&q\u003dSexuality&dq\u003dSexuality&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEwQdAAAAYAAJ&dq\u003dSexuality&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kWxqAAAAMAAJ",
+   "etag": "P14fZkw2WqM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kWxqAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Sexuality",
+    "subtitle": "the human perspective",
+    "authors": [
+     "Gary F. Kelly"
+    ],
+    "publisher": "Barrons Educational Series Inc",
+    "publishedDate": "1980-02",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015061387604"
+     }
+    ],
+    "pageCount": 312,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dkWxqAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dkWxqAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkWxqAAAAMAAJ&q\u003dSexuality&dq\u003dSexuality&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkWxqAAAAMAAJ&dq\u003dSexuality&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "62TKX8Ivm-kC",
+   "etag": "VvbtL2lk02I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/62TKX8Ivm-kC",
+   "volumeInfo": {
+    "title": "Sexuality",
+    "subtitle": "a developmental approach to problems",
+    "authors": [
+     "Betty N. Gordon",
+     "Carolyn S. Schroeder"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "1995-01-15",
+    "description": "Topics include normal sexual development, sexuality and developmental disability, gender identity disorder, and much more.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0306450399"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780306450396"
+     }
+    ],
+    "pageCount": 157,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d62TKX8Ivm-kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d62TKX8Ivm-kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d62TKX8Ivm-kC&printsec\u003dfrontcover&dq\u003dSexuality&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d62TKX8Ivm-kC&dq\u003dSexuality&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 69.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 55.96,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d62TKX8Ivm-kC&dq\u003dSexuality&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Sexuality-sample-epub.acsm?id\u003d62TKX8Ivm-kC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Sexuality-sample-pdf.acsm?id\u003d62TKX8Ivm-kC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2QqP8mYpgIkC",
+   "etag": "cJtwOFv5AAk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2QqP8mYpgIkC",
+   "volumeInfo": {
+    "title": "Sexuality",
+    "subtitle": "challenges and choices",
+    "authors": [
+     "Michael Theisen",
+     "Thomas Zanzig"
+    ],
+    "publisher": "St Marys Pr",
+    "publishedDate": "1996-04",
+    "description": "The older teens in your parish want a youth ministry program that exposes them to relevant, real-world topics in an active, engaging way.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0884893480"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780884893486"
+     }
+    ],
+    "pageCount": 65,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d2QqP8mYpgIkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d2QqP8mYpgIkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2QqP8mYpgIkC&printsec\u003dfrontcover&dq\u003dSexuality&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2QqP8mYpgIkC&dq\u003dSexuality&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 368
+}

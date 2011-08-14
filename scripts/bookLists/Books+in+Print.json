@@ -1,0 +1,432 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "sGD6ewEACAAJ",
+   "etag": "fYR/huZozQo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sGD6ewEACAAJ",
+   "volumeInfo": {
+    "title": "Books in print",
+    "authors": [
+     "R.R. Bowker Company"
+    ],
+    "publishedDate": "1994",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:sn79005577"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Bibliography, National"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dsGD6ewEACAAJ&dq\u003dBooks+in+Print&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dsGD6ewEACAAJ&dq\u003dBooks+in+Print&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6wAvAQAAIAAJ",
+   "etag": "LPu3T+m64M4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6wAvAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Books in print",
+    "authors": [
+     "R.R. Bowker Company"
+    ],
+    "publishedDate": "1986",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105210120502"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d6wAvAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d6wAvAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6wAvAQAAIAAJ&q\u003dBooks+in+Print&dq\u003dBooks+in+Print&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6wAvAQAAIAAJ&dq\u003dBooks+in+Print&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_yHwtgAACAAJ",
+   "etag": "Ur8PYoRL22M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_yHwtgAACAAJ",
+   "volumeInfo": {
+    "title": "Books in print",
+    "subtitle": "1981 - 1982",
+    "authors": [
+     "R. R. Bowker LLC",
+     "R.R. Bowker Company"
+    ],
+    "publisher": "R. R. Bowker",
+    "publishedDate": "1981",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0835213781"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780835213783"
+     }
+    ],
+    "pageCount": 5072,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_yHwtgAACAAJ&dq\u003dBooks+in+Print&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_yHwtgAACAAJ&dq\u003dBooks+in+Print&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7lRuzgAACAAJ",
+   "etag": "70pSqbH6IAw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7lRuzgAACAAJ",
+   "volumeInfo": {
+    "title": "Books in Print",
+    "authors": [
+     "R R Bowker Publishing"
+    ],
+    "publisher": "R. R. Bowker",
+    "publishedDate": "2000-09",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0835242919"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780835242912"
+     }
+    ],
+    "pageCount": 5000,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7lRuzgAACAAJ&dq\u003dBooks+in+Print&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7lRuzgAACAAJ&dq\u003dBooks+in+Print&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4UNatwAACAAJ",
+   "etag": "HaJDnp4zRbc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4UNatwAACAAJ",
+   "volumeInfo": {
+    "title": "Books in print",
+    "subtitle": "1989-90",
+    "publishedDate": "1989",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0835227405"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780835227407"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4UNatwAACAAJ&dq\u003dBooks+in+Print&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4UNatwAACAAJ&dq\u003dBooks+in+Print&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s9vTZwEACAAJ",
+   "etag": "KS8j1HoALFM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s9vTZwEACAAJ",
+   "volumeInfo": {
+    "title": "Books in print",
+    "subtitle": "K-Z.",
+    "authors": [
+     "Ruth P. Shively"
+    ],
+    "publishedDate": "1968",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:706943936"
+     }
+    ],
+    "pageCount": 1476,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ds9vTZwEACAAJ&dq\u003dBooks+in+Print&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ds9vTZwEACAAJ&dq\u003dBooks+in+Print&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "g7KXRAAACAAJ",
+   "etag": "Djn5ozMzqX4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/g7KXRAAACAAJ",
+   "volumeInfo": {
+    "title": "Books in print, 1997-98",
+    "publishedDate": "1997",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0835239357"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780835239356"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dg7KXRAAACAAJ&dq\u003dBooks+in+Print&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dg7KXRAAACAAJ&dq\u003dBooks+in+Print&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "epI8HAAACAAJ",
+   "etag": "dhI/bueoumM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/epI8HAAACAAJ",
+   "volumeInfo": {
+    "title": "Books in print",
+    "subtitle": "Kitemaug Press",
+    "authors": [
+     "Frank J. Anderson",
+     "Kitemaug Press"
+    ],
+    "publishedDate": "1980*",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:45877648"
+     }
+    ],
+    "pageCount": 10,
+    "printType": "BOOK",
+    "categories": [
+     "Miniature books"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003depI8HAAACAAJ&dq\u003dBooks+in+Print&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003depI8HAAACAAJ&dq\u003dBooks+in+Print&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JQ8IHAAACAAJ",
+   "etag": "1ufsWNXQUMU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JQ8IHAAACAAJ",
+   "volumeInfo": {
+    "title": "Books in print",
+    "subtitle": "subject catalog of the University of South Carolina Press, 1944-1974",
+    "authors": [
+     "University of South Carolina Press"
+    ],
+    "publishedDate": "1975*",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:13302630"
+     }
+    ],
+    "pageCount": 295,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJQ8IHAAACAAJ&dq\u003dBooks+in+Print&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJQ8IHAAACAAJ&dq\u003dBooks+in+Print&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "y9JbewAACAAJ",
+   "etag": "A3l5ZRykzrs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/y9JbewAACAAJ",
+   "volumeInfo": {
+    "title": "Books in print",
+    "authors": [
+     "United Nations"
+    ],
+    "publishedDate": "1960",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:10617879"
+     }
+    ],
+    "pageCount": 152,
+    "printType": "BOOK",
+    "categories": [
+     "International organization"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dy9JbewAACAAJ&dq\u003dBooks+in+Print&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dy9JbewAACAAJ&dq\u003dBooks+in+Print&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 419
+}

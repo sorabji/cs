@@ -1,0 +1,557 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "7u80AAAAIAAJ",
+   "etag": "Ip/lxG6j6ss",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7u80AAAAIAAJ",
+   "volumeInfo": {
+    "title": "Screenplays",
+    "authors": [
+     "Werner Herzog"
+    ],
+    "publishedDate": "1980",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0934378037"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780934378031"
+     }
+    ],
+    "pageCount": 203,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d7u80AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d7u80AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7u80AAAAIAAJ&q\u003dScreenplays&dq\u003dScreenplays&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7u80AAAAIAAJ&dq\u003dScreenplays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_CLDtHDMprEC",
+   "etag": "CaGw0RxVZmo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_CLDtHDMprEC",
+   "volumeInfo": {
+    "title": "The screenplays",
+    "authors": [
+     "Paddy Chayefsky"
+    ],
+    "publisher": "Applause Theatre & Cinema",
+    "publishedDate": "1995",
+    "description": "A collection of three screenplays by this brilliant writer: Marty (winner of the Academy Award), The Goddess and The Americanization of Emily.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1557831939"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781557831934"
+     }
+    ],
+    "pageCount": 344,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d_CLDtHDMprEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d_CLDtHDMprEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_CLDtHDMprEC&printsec\u003dfrontcover&dq\u003dScreenplays&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_CLDtHDMprEC&dq\u003dScreenplays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d_CLDtHDMprEC&dq\u003dScreenplays&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_screenplays-sample-epub.acsm?id\u003d_CLDtHDMprEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_screenplays-sample-pdf.acsm?id\u003d_CLDtHDMprEC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FHYEOYSfwckC",
+   "etag": "GOv1BykEDKg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FHYEOYSfwckC",
+   "volumeInfo": {
+    "title": "Five screenplays",
+    "authors": [
+     "Preston Sturges",
+     "Brian Henderson"
+    ],
+    "publisher": "Univ of California Pr",
+    "publishedDate": "1985-06-14",
+    "description": "The scripts for five motion picture comedies are accompanied by biographical background and critical analyses The scripts collected in this volume are drawn ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520054423"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520054424"
+     }
+    ],
+    "pageCount": 848,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dFHYEOYSfwckC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dFHYEOYSfwckC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFHYEOYSfwckC&printsec\u003dfrontcover&dq\u003dScreenplays&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFHYEOYSfwckC&dq\u003dScreenplays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xxclw95NfIAC",
+   "etag": "aMXi3rcyftE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xxclw95NfIAC",
+   "volumeInfo": {
+    "title": "Screenplays",
+    "subtitle": "Webster's Quotations, Facts and Phrases",
+    "authors": [
+     "Inc Icon Group International"
+    ],
+    "publisher": "Icon Group International, Inc.",
+    "publishedDate": "2008-11-26",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0546657737"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780546657739"
+     }
+    ],
+    "pageCount": 92,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxxclw95NfIAC&dq\u003dScreenplays&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxxclw95NfIAC&dq\u003dScreenplays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rRIeAAAAMAAJ",
+   "etag": "eUHXfJX/Tic",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rRIeAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Screenplays",
+    "subtitle": "With an introd. by the author",
+    "authors": [
+     "Michelangelo Antonioni"
+    ],
+    "publishedDate": "1963",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015003748913"
+     }
+    ],
+    "pageCount": 361,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003drRIeAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003drRIeAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003drRIeAAAAMAAJ&q\u003dScreenplays&dq\u003dScreenplays&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003drRIeAAAAMAAJ&dq\u003dScreenplays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8M2Pghyr6YIC",
+   "etag": "/nNHlP8S2j8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8M2Pghyr6YIC",
+   "volumeInfo": {
+    "title": "The complete guide to standard script formats",
+    "subtitle": "Screenplays",
+    "authors": [
+     "Hillis R. Cole",
+     "Judith H. Haag"
+    ],
+    "publisher": "Cmc Pub",
+    "publishedDate": "2002",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0929583000"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780929583006"
+     }
+    ],
+    "pageCount": 168,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d8M2Pghyr6YIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d8M2Pghyr6YIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8M2Pghyr6YIC&q\u003dScreenplays&dq\u003dScreenplays&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8M2Pghyr6YIC&dq\u003dScreenplays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JaKYpR50eJYC",
+   "etag": "IGusibI3/ac",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JaKYpR50eJYC",
+   "volumeInfo": {
+    "title": "Four Screenplays",
+    "subtitle": "Studies in the American Screenplay",
+    "authors": [
+     "Syd Field"
+    ],
+    "publisher": "Delta",
+    "publishedDate": "2009-09-30",
+    "description": "&quot; &quot;From the Trade Paperback edition.&quot;",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0307569527"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780307569523"
+     }
+    ],
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dJaKYpR50eJYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dJaKYpR50eJYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJaKYpR50eJYC&printsec\u003dfrontcover&dq\u003dScreenplays&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJaKYpR50eJYC&dq\u003dScreenplays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dJaKYpR50eJYC&dq\u003dScreenplays&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Four_Screenplays-sample-epub.acsm?id\u003dJaKYpR50eJYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Four_Screenplays-sample-pdf.acsm?id\u003dJaKYpR50eJYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nFMEtwAACAAJ",
+   "etag": "tVcdlzifH2o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nFMEtwAACAAJ",
+   "volumeInfo": {
+    "title": "Screenplays",
+    "publishedDate": "1996",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0929583000"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780929583006"
+     }
+    ],
+    "pageCount": 168,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dnFMEtwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dnFMEtwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnFMEtwAACAAJ&dq\u003dScreenplays&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnFMEtwAACAAJ&dq\u003dScreenplays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5HlmPgAACAAJ",
+   "etag": "zgr21VmRFpQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5HlmPgAACAAJ",
+   "volumeInfo": {
+    "title": "The Screenplays",
+    "authors": [
+     "Scott Shaw"
+    ],
+    "publisher": "Buddha Rose Pubns",
+    "publishedDate": "2009-05-19",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1877792489"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781877792489"
+     }
+    ],
+    "pageCount": 444,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d5HlmPgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d5HlmPgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5HlmPgAACAAJ&dq\u003dScreenplays&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5HlmPgAACAAJ&dq\u003dScreenplays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0VPkko7K3MMC",
+   "etag": "MA1Z5f5PZmg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0VPkko7K3MMC",
+   "volumeInfo": {
+    "title": "Crafting Short Screenplays That Connect",
+    "authors": [
+     "Claudia H. Johnson"
+    ],
+    "publisher": "Focal Press",
+    "publishedDate": "2009-09-18",
+    "description": "Crafting Short Screenplays that Connect introduces the essential element of &#39;human connection&#39; - the ability to &#39;touch&#39; the reader or observer - to the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "024081214X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780240812144"
+     }
+    ],
+    "pageCount": 321,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "contentVersion": "1.1.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d0VPkko7K3MMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d0VPkko7K3MMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0VPkko7K3MMC&printsec\u003dfrontcover&dq\u003dScreenplays&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0VPkko7K3MMC&dq\u003dScreenplays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.17,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d0VPkko7K3MMC&dq\u003dScreenplays&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Crafting_Short_Screenplays_That_Connect-sample-epub.acsm?id\u003d0VPkko7K3MMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Crafting_Short_Screenplays_That_Connect-sample-pdf.acsm?id\u003d0VPkko7K3MMC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 370
+}

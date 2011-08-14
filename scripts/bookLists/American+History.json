@@ -1,0 +1,518 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "E8NEAAAAIAAJ",
+   "etag": "3i5PjXmbUAA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/E8NEAAAAIAAJ",
+   "volumeInfo": {
+    "title": "An American history",
+    "authors": [
+     "David Saville Muzzey"
+    ],
+    "publishedDate": "1933",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B309205"
+     }
+    ],
+    "pageCount": 568,
+    "printType": "BOOK",
+    "categories": [
+     "United States"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dE8NEAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dE8NEAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dE8NEAAAAIAAJ&q\u003dAmerican+History&dq\u003dAmerican+History&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dE8NEAAAAIAAJ&dq\u003dAmerican+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_VxTAAAAYAAJ",
+   "etag": "VdEF/KBhuis",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_VxTAAAAYAAJ",
+   "volumeInfo": {
+    "title": "American history",
+    "authors": [
+     "Marcius Willson"
+    ],
+    "publishedDate": "1847",
+    "description": "The i: Miniature Chart or \u003cb\u003eAmerican History\u003c/b\u003e,&quot; found on the two preceding pages, \u003cbr\u003e\r\nis a mere outline of a larger chart measuring about four feet by five and a \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X030742120"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d_VxTAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d_VxTAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_VxTAAAAYAAJ&printsec\u003dfrontcover&dq\u003dAmerican+History&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_VxTAAAAYAAJ&dq\u003dAmerican+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/American_history.pdf?id\u003d_VxTAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0LJypoAbOT2os6WURodc67Y56R6w&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "W2kAAAAAYAAJ",
+   "etag": "kwg6kiMp914",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/W2kAAAAAYAAJ",
+   "volumeInfo": {
+    "title": "American history",
+    "subtitle": "for use in secondary schools",
+    "authors": [
+     "Roscoe Lewis Ashley"
+    ],
+    "publishedDate": "1908",
+    "description": "Not many years ago the common What is opinion about \u003cb\u003ehistory\u003c/b\u003e was expressed in the \u003cbr\u003e\r\nwords, &quot;happy hls,ory? is that people who have no \u003cb\u003ehistory\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044097038533"
+     }
+    ],
+    "pageCount": 557,
+    "printType": "BOOK",
+    "categories": [
+     "United States"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dW2kAAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dW2kAAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dW2kAAAAAYAAJ&printsec\u003dfrontcover&dq\u003dAmerican+History&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dW2kAAAAAYAAJ&dq\u003dAmerican+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/American_history.pdf?id\u003dW2kAAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3UtU3oTuqSlCRc5JD9X7b7Agocog&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OywXe2qx_JkC",
+   "etag": "opTdslulKBI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OywXe2qx_JkC",
+   "volumeInfo": {
+    "title": "American history",
+    "subtitle": "a survey",
+    "authors": [
+     "Richard N. Current"
+    ],
+    "publishedDate": "1987",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0394343026"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780394343020"
+     }
+    ],
+    "pageCount": 463,
+    "printType": "BOOK",
+    "categories": [
+     "United States"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dOywXe2qx_JkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dOywXe2qx_JkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOywXe2qx_JkC&q\u003dAmerican+History&dq\u003dAmerican+History&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOywXe2qx_JkC&dq\u003dAmerican+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ltSIOnW6XLsC",
+   "etag": "jZHLA5z7b68",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ltSIOnW6XLsC",
+   "volumeInfo": {
+    "title": "The politically incorrect guide to American history",
+    "authors": [
+     "Thomas E. Woods"
+    ],
+    "publisher": "Regnery Publishing",
+    "publishedDate": "2004",
+    "description": "An American history professor sets the record straight on American history with an irreverant and hard-hitting look at the nation&#39;s most important people and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0895260476"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780895260475"
+     }
+    ],
+    "pageCount": 270,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 58,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dltSIOnW6XLsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dltSIOnW6XLsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dltSIOnW6XLsC&printsec\u003dfrontcover&dq\u003dAmerican+History&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dltSIOnW6XLsC&dq\u003dAmerican+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.96,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dltSIOnW6XLsC&dq\u003dAmerican+History&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_politically_incorrect_guide_to_Ameri-sample-epub.acsm?id\u003dltSIOnW6XLsC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_politically_incorrect_guide_to_Ameri-sample-pdf.acsm?id\u003dltSIOnW6XLsC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WwUOAAAAIAAJ",
+   "etag": "e2AQ29cRDBE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WwUOAAAAIAAJ",
+   "volumeInfo": {
+    "title": "American history",
+    "authors": [
+     "Jacob Abbott"
+    ],
+    "publishedDate": "1864",
+    "description": "LIST OF ENGRAVINGS. DESIGNEE. PAGE Encampment on Boston Common Jacob Wolls.... \u003cbr\u003e\r\nFrontispiece Progress of the Royal Governor Jacob Wells 81 Landing of John \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105011912966"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Indians of North America"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dWwUOAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dWwUOAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWwUOAAAAIAAJ&printsec\u003dfrontcover&dq\u003dAmerican+History&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWwUOAAAAIAAJ&dq\u003dAmerican+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/American_history.epub?id\u003dWwUOAAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/American_history.pdf?id\u003dWwUOAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1EyaPq_Kvip-i-KUVZTHKbEYVKzw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xVcrAQAAIAAJ",
+   "etag": "uR/hkYxDInI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xVcrAQAAIAAJ",
+   "volumeInfo": {
+    "title": "American history",
+    "authors": [
+     "James Alton James",
+     "Albert Hart Sanford"
+    ],
+    "publishedDate": "1909",
+    "description": "\u003cb\u003eAMERICAN HISTORY\u003c/b\u003e CHAPTER I THE DISCOVERY OF AMERICA The geographical separation \u003cbr\u003e\r\nof the American continents from those of the Eastern Hemisphere is the first \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B3287070"
+     }
+    ],
+    "pageCount": 565,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dxVcrAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dxVcrAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxVcrAQAAIAAJ&printsec\u003dfrontcover&dq\u003dAmerican+History&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxVcrAQAAIAAJ&dq\u003dAmerican+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/American_history.pdf?id\u003dxVcrAQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0I1jo0bm-KfCj5D2UH5t5A2QGMLw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "E3UAAAAAYAAJ",
+   "etag": "QE/6WuJosyk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/E3UAAAAAYAAJ",
+   "volumeInfo": {
+    "title": "An American history",
+    "authors": [
+     "Eleanor E. Riggs"
+    ],
+    "publishedDate": "1916",
+    "description": "They invariably had long, straight, black hair, black eyes, and high cheek bones\u003cbr\u003e\r\n. Their expression was serious and they were An \u003cb\u003eAmerican\u003c/b\u003e Indian. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044097039499"
+     }
+    ],
+    "pageCount": 526,
+    "printType": "BOOK",
+    "categories": [
+     "United States"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dE3UAAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dE3UAAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dE3UAAAAAYAAJ&pg\u003dPA5&dq\u003dAmerican+History&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dE3UAAAAAYAAJ&dq\u003dAmerican+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/An_American_history.pdf?id\u003dE3UAAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1Fp5xzrtMuxklq6LNBQ7jYrr8HNQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bXFCKEE7cO4C",
+   "etag": "xj7fnV4Vg9w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bXFCKEE7cO4C",
+   "volumeInfo": {
+    "title": "American history",
+    "subtitle": "a survey",
+    "authors": [
+     "Alan Brinkley"
+    ],
+    "publisher": "McGraw-Hill Humanities/Social Sciences/Languages",
+    "publishedDate": "2002-07-31",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0072490519"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780072490510"
+     }
+    ],
+    "pageCount": 536,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "0.2.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dbXFCKEE7cO4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dbXFCKEE7cO4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbXFCKEE7cO4C&q\u003dAmerican+History&dq\u003dAmerican+History&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbXFCKEE7cO4C&dq\u003dAmerican+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "U4q-05FN3WgC",
+   "etag": "ZEFUALzIPEk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/U4q-05FN3WgC",
+   "volumeInfo": {
+    "title": "American History",
+    "authors": [
+     "Rana K. Williamson"
+    ],
+    "publishedDate": "2005-03-01",
+    "description": "But with a single footstep that Paleo- Indian began \u003cb\u003eAmerican history\u003c/b\u003e. It did not \u003cbr\u003e\r\nstart with Christopher Columbus m 1492 or with the settlers of Jamestown, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1405447613"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405447614"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dU4q-05FN3WgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dU4q-05FN3WgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dU4q-05FN3WgC&q\u003dAmerican+History&dq\u003dAmerican+History&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dU4q-05FN3WgC&dq\u003dAmerican+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 582
+}

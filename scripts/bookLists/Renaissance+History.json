@@ -1,0 +1,562 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "QLKJ7R_zW14C",
+   "etag": "ovJVTDA+vQ0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QLKJ7R_zW14C",
+   "volumeInfo": {
+    "title": "The Renaissance",
+    "subtitle": "A Short History",
+    "authors": [
+     "Paul Johnson"
+    ],
+    "publisher": "Modern Library",
+    "publishedDate": "2002-08-06",
+    "description": "Traces the economic, technological, and social developments of the Renaissance period, and describes contributions made by such figures as Leonardo da Vinci, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0812966198"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780812966190"
+     }
+    ],
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 15,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dQLKJ7R_zW14C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dQLKJ7R_zW14C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQLKJ7R_zW14C&printsec\u003dfrontcover&dq\u003dRenaissance+History&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQLKJ7R_zW14C&dq\u003dRenaissance+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dQLKJ7R_zW14C&dq\u003dRenaissance+History&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Renaissance-sample-epub.acsm?id\u003dQLKJ7R_zW14C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Renaissance-sample-pdf.acsm?id\u003dQLKJ7R_zW14C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jJnyxg3xxTEC",
+   "etag": "vYe/Ozusc7k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jJnyxg3xxTEC",
+   "volumeInfo": {
+    "title": "The Cambridge history of Renaissance philosophy",
+    "authors": [
+     "Charles B. Schmitt",
+     "Quentin Skinner",
+     "Eckhard Kessler"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "1991-01-25",
+    "description": "The Renaissance has attracted intense scholarly attention for over a century, but in the beginning the philosophy of the period was relatively neglected and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521397480"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521397483"
+     }
+    ],
+    "pageCount": 922,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003djJnyxg3xxTEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003djJnyxg3xxTEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djJnyxg3xxTEC&printsec\u003dfrontcover&dq\u003dRenaissance+History&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djJnyxg3xxTEC&dq\u003dRenaissance+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "H5n4XPKkytQC",
+   "etag": "EzKk2sFTD5I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/H5n4XPKkytQC",
+   "volumeInfo": {
+    "title": "Worldly goods",
+    "subtitle": "a new history of the Renaissance",
+    "authors": [
+     "Lisa Jardine"
+    ],
+    "publisher": "W. W. Norton & Company",
+    "publishedDate": "1998",
+    "description": "Explores significant business dealings between artists and patrons in a historical tour through the Renaissance that posits that the period&#39;s fabulous advances ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0393318664"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780393318661"
+     }
+    ],
+    "pageCount": 470,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 16,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dH5n4XPKkytQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dH5n4XPKkytQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dH5n4XPKkytQC&printsec\u003dfrontcover&dq\u003dRenaissance+History&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dH5n4XPKkytQC&dq\u003dRenaissance+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WkELAAAAYAAJ",
+   "etag": "8DYDPW0KMDI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WkELAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Studies in the history of the renaissance",
+    "authors": [
+     "Walter Pater"
+    ],
+    "publishedDate": "1873",
+    "description": "The \u003cb\u003ehistory\u003c/b\u003e of the \u003cb\u003eRenaissance\u003c/b\u003e ends in France and carries us away from Italy to \u003cbr\u003e\r\nthe beautiful cities of the country of the Loire. But it was in France also, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433082475124"
+     }
+    ],
+    "pageCount": 213,
+    "printType": "BOOK",
+    "categories": [
+     "Renaissance"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dWkELAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dWkELAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWkELAAAAYAAJ&printsec\u003dfrontcover&dq\u003dRenaissance+History&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWkELAAAAYAAJ&dq\u003dRenaissance+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Studies_in_the_history_of_the_renaissanc.epub?id\u003dWkELAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Studies_in_the_history_of_the_renaissanc.pdf?id\u003dWkELAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3l5QyQ9RRbJaE9M6O92F5srJzjfA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CFB6V8TekrcC",
+   "etag": "iHVCJjopYJ0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CFB6V8TekrcC",
+   "volumeInfo": {
+    "title": "Renaissance Florence",
+    "subtitle": "a social history",
+    "authors": [
+     "Roger J. Crum",
+     "John T. Paoletti"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "2006",
+    "description": "An examination of the social history of Florence from the fourteenth through sixteenth centuries.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521846935"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521846936"
+     }
+    ],
+    "pageCount": 674,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dCFB6V8TekrcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dCFB6V8TekrcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCFB6V8TekrcC&printsec\u003dfrontcover&dq\u003dRenaissance+History&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCFB6V8TekrcC&dq\u003dRenaissance+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zgIGVWo_2FkC",
+   "etag": "WAtLxVXx3F8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zgIGVWo_2FkC",
+   "volumeInfo": {
+    "title": "History, medicine, and the traditions of Renaissance learning",
+    "authors": [
+     "Nancy G. Siraisi"
+    ],
+    "publisher": "Univ of Michigan Pr",
+    "publishedDate": "2007",
+    "description": "This is a major book, well written, richly learned and with further implications for more than students of medical history.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0472116029"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780472116027"
+     }
+    ],
+    "pageCount": 438,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dzgIGVWo_2FkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dzgIGVWo_2FkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzgIGVWo_2FkC&printsec\u003dfrontcover&dq\u003dRenaissance+History&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzgIGVWo_2FkC&dq\u003dRenaissance+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QWJxbXY9WWIC",
+   "etag": "36M5Ss1mfqY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QWJxbXY9WWIC",
+   "volumeInfo": {
+    "title": "Renaissance utopias and the problem of history",
+    "authors": [
+     "Marina Leslie"
+    ],
+    "publisher": "Cornell Univ Pr",
+    "publishedDate": "1998",
+    "description": "Marina Leslie draws on three important early modern utopian texts - Thomas More&#39;s Utopia, Francis Bacon&#39;s New Atlantis, and Margaret Cavendish&#39;s Description of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0801434009"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780801434006"
+     }
+    ],
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dQWJxbXY9WWIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dQWJxbXY9WWIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQWJxbXY9WWIC&printsec\u003dfrontcover&dq\u003dRenaissance+History&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQWJxbXY9WWIC&dq\u003dRenaissance+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "f8FmrXT1jdIC",
+   "etag": "zyH1QDkGfac",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f8FmrXT1jdIC",
+   "volumeInfo": {
+    "title": "The science of describing",
+    "subtitle": "natural history in Renaissance Europe",
+    "authors": [
+     "Brian W. Ogilvie"
+    ],
+    "publisher": "University Of Chicago Press",
+    "publishedDate": "2006",
+    "description": "Illustrated with woodcuts, engravings, and photographs, The Science of Describing is the first broad interpretation of Renaissance natural history in more than ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0226620875"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780226620879"
+     }
+    ],
+    "pageCount": 385,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003df8FmrXT1jdIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003df8FmrXT1jdIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003df8FmrXT1jdIC&printsec\u003dfrontcover&dq\u003dRenaissance+History&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003df8FmrXT1jdIC&dq\u003dRenaissance+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 30.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.5,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003df8FmrXT1jdIC&dq\u003dRenaissance+History&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_science_of_describing-sample-epub.acsm?id\u003df8FmrXT1jdIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_science_of_describing-sample-pdf.acsm?id\u003df8FmrXT1jdIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RtkePoWkij8C",
+   "etag": "GXKpz1dx10E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RtkePoWkij8C",
+   "volumeInfo": {
+    "title": "Renaissance military memoirs",
+    "subtitle": "war, history, and identity, 1450-1600",
+    "authors": [
+     "Yuval N. Harari"
+    ],
+    "publisher": "Boydell Pr",
+    "publishedDate": "2004",
+    "description": "Renaissance military memoirs studied for what they reveal of contemporary attiudes towards war, selfhood and identity.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1843830647"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781843830641"
+     }
+    ],
+    "pageCount": 225,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dRtkePoWkij8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dRtkePoWkij8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRtkePoWkij8C&printsec\u003dfrontcover&dq\u003dRenaissance+History&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRtkePoWkij8C&dq\u003dRenaissance+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FvgJhJdQOaEC",
+   "etag": "kpBFCllW+Eg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FvgJhJdQOaEC",
+   "volumeInfo": {
+    "title": "The African renaissance",
+    "subtitle": "history, significance and strategy",
+    "authors": [
+     "Washington A. Jalango Okumu"
+    ],
+    "publisher": "Africa World Pr",
+    "publishedDate": "2002",
+    "description": "We hear about the establishment of the African \u003cb\u003eRenaissance\u003c/b\u003e Institute: Where is \u003cbr\u003e\r\nit located and what does it do? The British Broadcasting Corporation, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1592210139"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781592210138"
+     }
+    ],
+    "pageCount": 295,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dFvgJhJdQOaEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dFvgJhJdQOaEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFvgJhJdQOaEC&printsec\u003dfrontcover&dq\u003dRenaissance+History&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFvgJhJdQOaEC&dq\u003dRenaissance+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 593
+}

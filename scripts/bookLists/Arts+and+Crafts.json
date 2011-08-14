@@ -1,0 +1,487 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "MPALGwAACAAJ",
+   "etag": "eiJMMHNrVsg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MPALGwAACAAJ",
+   "volumeInfo": {
+    "title": "Arts and crafts",
+    "authors": [
+     "William Morris"
+    ],
+    "publishedDate": "1910*",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:31499606"
+     }
+    ],
+    "pageCount": 28,
+    "printType": "BOOK",
+    "categories": [
+     "Arts and crafts movement"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMPALGwAACAAJ&dq\u003dArts+and+Crafts&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMPALGwAACAAJ&dq\u003dArts+and+Crafts&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-C0ZAAAAIAAJ",
+   "etag": "ekDxBc8No10",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-C0ZAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Arts and crafts",
+    "subtitle": "a practical handbook",
+    "authors": [
+     "Marguerite Ickis"
+    ],
+    "publisher": "New York, s.n",
+    "publishedDate": "1943",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105035282800"
+     }
+    ],
+    "pageCount": 309,
+    "printType": "BOOK",
+    "categories": [
+     "Handicraft"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d-C0ZAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d-C0ZAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-C0ZAAAAIAAJ&q\u003dArts+and+Crafts&dq\u003dArts+and+Crafts&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-C0ZAAAAIAAJ&dq\u003dArts+and+Crafts&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6sJ7eKL-y3AC",
+   "etag": "Q9RLXRL9UlU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6sJ7eKL-y3AC",
+   "volumeInfo": {
+    "title": "Arts and Crafts",
+    "authors": [
+     "L. Sonneborn",
+     "Victoria Sherrow"
+    ],
+    "publisher": "Rourke Pub Group",
+    "publishedDate": "1994-09",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0866255397"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780866255394"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d6sJ7eKL-y3AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d6sJ7eKL-y3AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6sJ7eKL-y3AC&q\u003dArts+and+Crafts&dq\u003dArts+and+Crafts&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6sJ7eKL-y3AC&dq\u003dArts+and+Crafts&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6D61A-6eY3gC",
+   "etag": "vtx08JeZlA8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6D61A-6eY3gC",
+   "volumeInfo": {
+    "title": "Arts and crafts",
+    "authors": [
+     "Malcolm Haslam"
+    ],
+    "publishedDate": "1989-01-15",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0345359364"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780345359360"
+     }
+    ],
+    "pageCount": 168,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d6D61A-6eY3gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d6D61A-6eY3gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6D61A-6eY3gC&q\u003dArts+and+Crafts&dq\u003dArts+and+Crafts&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6D61A-6eY3gC&dq\u003dArts+and+Crafts&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6Q6NAAAACAAJ",
+   "etag": "VeWRdVraKpU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6Q6NAAAACAAJ",
+   "volumeInfo": {
+    "title": "Arts and crafts",
+    "authors": [
+     "Judith Miller",
+     "Jill Bace"
+    ],
+    "publisher": "Dk Pub",
+    "publishedDate": "2005-03",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0756609631"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780756609634"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d6Q6NAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d6Q6NAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6Q6NAAAACAAJ&dq\u003dArts+and+Crafts&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6Q6NAAAACAAJ&dq\u003dArts+and+Crafts&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Vc3WAAAAMAAJ",
+   "etag": "Lt3CMNODJ00",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Vc3WAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Arts and crafts",
+    "subtitle": "a bibliography for craftsmen",
+    "authors": [
+     "Index of American Design",
+     "Erwin Ottomar Christensen",
+     "United States. Division of Vocational and Technical Education"
+    ],
+    "publishedDate": "1949",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "IND:39000005829804"
+     }
+    ],
+    "pageCount": 80,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dVc3WAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dVc3WAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVc3WAAAAMAAJ&q\u003dArts+and+Crafts&dq\u003dArts+and+Crafts&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVc3WAAAAMAAJ&dq\u003dArts+and+Crafts&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3BcEAAAACAAJ",
+   "etag": "TcHg0IeIrQA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3BcEAAAACAAJ",
+   "volumeInfo": {
+    "title": "Arts and crafts",
+    "authors": [
+     "Kitty Turgeon",
+     "Robert Rust"
+    ],
+    "publisher": "Friedman",
+    "publishedDate": "1997-05-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "156799363X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781567993639"
+     }
+    ],
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d3BcEAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d3BcEAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3BcEAAAACAAJ&dq\u003dArts+and+Crafts&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3BcEAAAACAAJ&dq\u003dArts+and+Crafts&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7r3XAAAAMAAJ",
+   "etag": "7PiHXJ2/y3o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7r3XAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Arts and crafts",
+    "subtitle": "careers",
+    "publishedDate": "1941",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PSU:000014273308"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7r3XAAAAMAAJ&q\u003dArts+and+Crafts&dq\u003dArts+and+Crafts&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7r3XAAAAMAAJ&dq\u003dArts+and+Crafts&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "H1goSgAACAAJ",
+   "etag": "nlOKAUdgkyI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/H1goSgAACAAJ",
+   "volumeInfo": {
+    "title": "Arts and Crafts",
+    "subtitle": "Handicraft, Beadwork, Knitting, Corn Dolly, Sewing, Pressed Flower Craft, Lapidary, Mexican Handcrafts and Folk Art, Fly Tying",
+    "authors": [
+     "Books, LLC"
+    ],
+    "publisher": "Books LLC",
+    "publishedDate": "2010-06",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1157590144"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781157590149"
+     }
+    ],
+    "pageCount": 362,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dH1goSgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dH1goSgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dH1goSgAACAAJ&dq\u003dArts+and+Crafts&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dH1goSgAACAAJ&dq\u003dArts+and+Crafts&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8MIHAAAACAAJ",
+   "etag": "2t1W1bsO+Mg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8MIHAAAACAAJ",
+   "volumeInfo": {
+    "title": "Arts and crafts",
+    "subtitle": "from things around the house",
+    "authors": [
+     "Imogene Forte"
+    ],
+    "publisher": "Incentive Pubns",
+    "publishedDate": "1983-08-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0865300909"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780865300903"
+     }
+    ],
+    "pageCount": 79,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d8MIHAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d8MIHAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8MIHAAAACAAJ&dq\u003dArts+and+Crafts&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8MIHAAAACAAJ&dq\u003dArts+and+Crafts&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 578
+}

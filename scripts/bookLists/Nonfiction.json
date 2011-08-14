@@ -1,0 +1,578 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "iBZBXWJiR7oC",
+   "etag": "l2fGZRCdcbw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iBZBXWJiR7oC",
+   "volumeInfo": {
+    "title": "Nonfiction",
+    "authors": [
+     "Christopher Anderson"
+    ],
+    "publisher": "design.Method of Operation LTD.",
+    "publishedDate": "2004-07-30",
+    "description": "The softcover book, containing a collection of 54 images, is housed in a colorful box that makes the perfect accessory for any coffee table.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0970576811"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780970576811"
+     }
+    ],
+    "pageCount": 104,
+    "printType": "BOOK",
+    "categories": [
+     "Photography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003diBZBXWJiR7oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003diBZBXWJiR7oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003diBZBXWJiR7oC&printsec\u003dfrontcover&dq\u003dNonfiction&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003diBZBXWJiR7oC&dq\u003dNonfiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eTQx-2VvovkC",
+   "etag": "crHtGOxw7QE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eTQx-2VvovkC",
+   "volumeInfo": {
+    "title": "Nonfiction matters",
+    "subtitle": "reading, writing, and research in grades 3-8",
+    "authors": [
+     "Stephanie Harvey"
+    ],
+    "publisher": "Stenhouse Pub",
+    "publishedDate": "1998-01",
+    "description": "A guide to bringing nonfiction into the curriculum in third through eighth-grade classrooms, with strategies and ideas for reading nonfiction, conducting ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1571100725"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781571100726"
+     }
+    ],
+    "pageCount": 236,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003deTQx-2VvovkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003deTQx-2VvovkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deTQx-2VvovkC&printsec\u003dfrontcover&dq\u003dNonfiction&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deTQx-2VvovkC&dq\u003dNonfiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Nonfiction_matters-sample-epub.acsm?id\u003deTQx-2VvovkC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jl9ajiURJAMC",
+   "etag": "Z6NDKvoW4ws",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jl9ajiURJAMC",
+   "volumeInfo": {
+    "title": "Nonfiction",
+    "subtitle": "Grades 1-2",
+    "authors": [
+     "Teresa Domnauer"
+    ],
+    "publisher": "Frank Schaffer Pubns Inc",
+    "publishedDate": "2007-12-29",
+    "description": "Teach nonfiction reading skills in a flash using these unit features: • A punctuation rules poster with related activities • Connections to literature and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0768238919"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780768238914"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003djl9ajiURJAMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003djl9ajiURJAMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djl9ajiURJAMC&printsec\u003dfrontcover&dq\u003dNonfiction&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djl9ajiURJAMC&dq\u003dNonfiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NgmFAAAAIAAJ",
+   "etag": "7tCJJOQrXrA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NgmFAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Nonfiction",
+    "subtitle": "from idea to published book",
+    "authors": [
+     "Harry Edward Neal"
+    ],
+    "publishedDate": "1964",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSC:32106001649190"
+     }
+    ],
+    "pageCount": 236,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dNgmFAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dNgmFAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNgmFAAAAIAAJ&q\u003dNonfiction&dq\u003dNonfiction&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNgmFAAAAIAAJ&dq\u003dNonfiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pCk80vAo5yQC",
+   "etag": "nNal2ZZnSzo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pCk80vAo5yQC",
+   "volumeInfo": {
+    "title": "Nonfiction craft lessons",
+    "subtitle": "teaching information writing K-8",
+    "authors": [
+     "JoAnn Portalupi",
+     "Ralph J. Fletcher"
+    ],
+    "publisher": "Stenhouse Pub",
+    "publishedDate": "2001-04",
+    "description": "This book will help students breathe voice into lifeless &quot;dump-truck&quot; writing and improve their nonfiction writing by making it clearer, more authoritative, and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1571103295"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781571103291"
+     }
+    ],
+    "pageCount": 148,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dpCk80vAo5yQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dpCk80vAo5yQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpCk80vAo5yQC&printsec\u003dfrontcover&dq\u003dNonfiction&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpCk80vAo5yQC&dq\u003dNonfiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Nonfiction_craft_lessons-sample-epub.acsm?id\u003dpCk80vAo5yQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "44fe0yZzjGUC",
+   "etag": "FwGz15AUSgY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/44fe0yZzjGUC",
+   "volumeInfo": {
+    "title": "Writing Nonfiction",
+    "subtitle": "Turning Thoughts Into Books",
+    "authors": [
+     "Dan Poynter"
+    ],
+    "publisher": "Para Pub",
+    "publishedDate": "2004-10",
+    "description": "Reference/Writing &quot;Imagine Being an Author&quot; Most books on writing cover fiction or writing for magazines; this book shows you how to write nonfiction books.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1568601166"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781568601168"
+     }
+    ],
+    "pageCount": 148,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d44fe0yZzjGUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d44fe0yZzjGUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d44fe0yZzjGUC&printsec\u003dfrontcover&dq\u003dNonfiction&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d44fe0yZzjGUC&dq\u003dNonfiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.96,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d44fe0yZzjGUC&dq\u003dNonfiction&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Writing_Nonfiction-sample-epub.acsm?id\u003d44fe0yZzjGUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Writing_Nonfiction-sample-pdf.acsm?id\u003d44fe0yZzjGUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "b2uKq1pzf1AC",
+   "etag": "QYHm6NiTFLg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/b2uKq1pzf1AC",
+   "volumeInfo": {
+    "title": "Truth in nonfiction",
+    "subtitle": "essays",
+    "authors": [
+     "David Lazar"
+    ],
+    "publisher": "University Of Iowa Press",
+    "publishedDate": "2008",
+    "description": "In personal essays, meditations on the nature of memory, considerations of the genres of memoir, prose poetry, essay, fiction, and film, the contributors to ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1587296543"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781587296543"
+     }
+    ],
+    "pageCount": 195,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003db2uKq1pzf1AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003db2uKq1pzf1AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003db2uKq1pzf1AC&printsec\u003dfrontcover&dq\u003dNonfiction&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003db2uKq1pzf1AC&dq\u003dNonfiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003db2uKq1pzf1AC&dq\u003dNonfiction&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Truth_in_nonfiction-sample-epub.acsm?id\u003db2uKq1pzf1AC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Truth_in_nonfiction-sample-pdf.acsm?id\u003db2uKq1pzf1AC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Pk_yfhTR3scC",
+   "etag": "1tcAg2COMgU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Pk_yfhTR3scC",
+   "volumeInfo": {
+    "title": "Writing creative nonfiction",
+    "subtitle": "instruction and insights from the teachers of the Associated Writing Programs",
+    "authors": [
+     "Carolyn Forché",
+     "Philip Gerard",
+     "Associated Writing Programs"
+    ],
+    "publisher": "Writer's Digest Books",
+    "publishedDate": "2001-05-10",
+    "description": "Annie Dillard, Grace Paley, and Lee Gutkind are among more than thirty writers and teachers affiliated with the Associated Writing Programs who use examples ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1884910505"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781884910500"
+     }
+    ],
+    "pageCount": 376,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 7,
+    "contentVersion": "2.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dPk_yfhTR3scC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dPk_yfhTR3scC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPk_yfhTR3scC&printsec\u003dfrontcover&dq\u003dNonfiction&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPk_yfhTR3scC&dq\u003dNonfiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dPk_yfhTR3scC&dq\u003dNonfiction&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Writing_creative_nonfiction-sample-pdf.acsm?id\u003dPk_yfhTR3scC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gz5GbwAACAAJ",
+   "etag": "ARjogC4B9KI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gz5GbwAACAAJ",
+   "volumeInfo": {
+    "title": "Nonfiction",
+    "subtitle": "Graphic Nonfiction, Non-Fiction, Back-Story, the Cartoon History of the Universe, Larry Gonick, the Undutchables, Ernie Colón",
+    "authors": [
+     "Books, LLC"
+    ],
+    "publisher": "Books LLC",
+    "publishedDate": "2010-06",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1158069383"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781158069385"
+     }
+    ],
+    "pageCount": 44,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dgz5GbwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dgz5GbwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgz5GbwAACAAJ&dq\u003dNonfiction&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgz5GbwAACAAJ&dq\u003dNonfiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2-oAa5Dr6KgC",
+   "etag": "cWdZXzMwfbA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2-oAa5Dr6KgC",
+   "volumeInfo": {
+    "title": "The new kings of nonfiction",
+    "authors": [
+     "Ira Glass"
+    ],
+    "publisher": "Riverhead Trade (Paperbacks)",
+    "publishedDate": "2007-10-02",
+    "description": "An anthology of the finest nonfiction writings by leading contemporary writers features contributions by Malcolm Gladwell, Chuck Klosterman, Bill Buford, Susan ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1594482675"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781594482670"
+     }
+    ],
+    "pageCount": 455,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 355,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d2-oAa5Dr6KgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d2-oAa5Dr6KgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2-oAa5Dr6KgC&printsec\u003dfrontcover&dq\u003dNonfiction&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2-oAa5Dr6KgC&dq\u003dNonfiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 595
+}

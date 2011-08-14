@@ -1,0 +1,556 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "k-GPxGMy8qMC",
+   "etag": "PUriv/9ym/M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/k-GPxGMy8qMC",
+   "volumeInfo": {
+    "title": "International Economics",
+    "authors": [
+     "Robert Carbaugh"
+    ],
+    "publisher": "South-Western Pub",
+    "publishedDate": "2010-09-09",
+    "description": "Discussions are presented both verbally and graphically, making the book highly accessible even if you have little economics background.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1439038945"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781439038949"
+     }
+    ],
+    "pageCount": 576,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dk-GPxGMy8qMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dk-GPxGMy8qMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dk-GPxGMy8qMC&printsec\u003dfrontcover&dq\u003dInternational&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dk-GPxGMy8qMC&dq\u003dInternational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UBWNE_75ivYC",
+   "etag": "lFqjCmbpXx0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UBWNE_75ivYC",
+   "volumeInfo": {
+    "title": "Careers in international affairs",
+    "authors": [
+     "Maria Pinto Carland"
+    ],
+    "publisher": "Georgetown Univ Pr",
+    "publishedDate": "2008-04",
+    "description": "This thoroughly revised edition provides up-to-date descriptions and data about careers in the global workplace and how to find them--along with nearly 300 ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1589011996"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781589011991"
+     }
+    ],
+    "pageCount": 420,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dUBWNE_75ivYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dUBWNE_75ivYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUBWNE_75ivYC&printsec\u003dfrontcover&dq\u003dInternational&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUBWNE_75ivYC&dq\u003dInternational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.55,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dUBWNE_75ivYC&dq\u003dInternational&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Careers_in_international_affairs-sample-epub.acsm?id\u003dUBWNE_75ivYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Careers_in_international_affairs-sample-pdf.acsm?id\u003dUBWNE_75ivYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cc3XzkFt-IUC",
+   "etag": "KX574eBAcWg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cc3XzkFt-IUC",
+   "volumeInfo": {
+    "title": "International law",
+    "authors": [
+     "Malcolm Nathan Shaw"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "2003",
+    "description": "An updated edition including a new chapter, topical subjects and electronic references.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521824737"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521824736"
+     }
+    ],
+    "pageCount": 1288,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dcc3XzkFt-IUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dcc3XzkFt-IUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcc3XzkFt-IUC&printsec\u003dfrontcover&dq\u003dInternational&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcc3XzkFt-IUC&dq\u003dInternational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YreJ42YFjb0C",
+   "etag": "5E1Cw/7MLEY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YreJ42YFjb0C",
+   "volumeInfo": {
+    "title": "International marketing",
+    "authors": [
+     "Michael R. Czinkota",
+     "Ilkka A. Ronkainen"
+    ],
+    "publisher": "South-Western Pub",
+    "publishedDate": "2007",
+    "description": "The text is designed for the undergraduate student with prior exposure to the marketing field.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0324317026"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780324317022"
+     }
+    ],
+    "pageCount": 646,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dYreJ42YFjb0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dYreJ42YFjb0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYreJ42YFjb0C&printsec\u003dfrontcover&dq\u003dInternational&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYreJ42YFjb0C&dq\u003dInternational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "owpFbzOoT_8C",
+   "etag": "99L+2w0+TaY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/owpFbzOoT_8C",
+   "volumeInfo": {
+    "title": "Advanced international trade",
+    "subtitle": "theory and evidence",
+    "authors": [
+     "Robert C. Feenstra"
+    ],
+    "publisher": "Princeton Univ Pr",
+    "publishedDate": "2004",
+    "description": "Not surprisingly, this book reflects both his awesome scholarship and his ability to communicate ideas simply.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0691114102"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780691114101"
+     }
+    ],
+    "pageCount": 484,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dowpFbzOoT_8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dowpFbzOoT_8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dowpFbzOoT_8C&printsec\u003dfrontcover&dq\u003dInternational&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dowpFbzOoT_8C&dq\u003dInternational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Advanced_international_trade-sample-pdf.acsm?id\u003dowpFbzOoT_8C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "21PXJahjjcYC",
+   "etag": "0fczWyd0tW8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/21PXJahjjcYC",
+   "volumeInfo": {
+    "title": "International marketing strategy",
+    "authors": [
+     "Frank Bradley"
+    ],
+    "publisher": "Pearson Education",
+    "publishedDate": "2005",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0273686887"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780273686880"
+     }
+    ],
+    "pageCount": 408,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d21PXJahjjcYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d21PXJahjjcYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d21PXJahjjcYC&dq\u003dInternational&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d21PXJahjjcYC&dq\u003dInternational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RdAfbsNwl70C",
+   "etag": "GswvftDKV00",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RdAfbsNwl70C",
+   "volumeInfo": {
+    "title": "Theories of international relations",
+    "authors": [
+     "Scott Burchill",
+     "Richard Devetak",
+     "Jack Donnelly",
+     "Terry Nardin",
+     "Matthew Paterson"
+    ],
+    "publisher": "Palgrave MacMillan",
+    "publishedDate": "2009",
+    "description": "Written by leading authorities, the most broad-ranging text on International Relations Theory on the market covering both traditional and more recent approaches ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0230219233"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780230219236"
+     }
+    ],
+    "pageCount": 382,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dRdAfbsNwl70C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dRdAfbsNwl70C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRdAfbsNwl70C&printsec\u003dfrontcover&dq\u003dInternational&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRdAfbsNwl70C&dq\u003dInternational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eCvWDIwanaoC",
+   "etag": "bmMeD8857mo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eCvWDIwanaoC",
+   "volumeInfo": {
+    "title": "International trade law",
+    "authors": [
+     "Indira Carr",
+     "Peter Stone"
+    ],
+    "publisher": "Routledge Cavendish",
+    "publishedDate": "2009-08-18",
+    "description": "Focusing on international sales of goods and the various relations that arise as a result of sale contract, this book considers and discusses: standard trade ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415458439"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415458436"
+     }
+    ],
+    "pageCount": 738,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003deCvWDIwanaoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003deCvWDIwanaoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deCvWDIwanaoC&printsec\u003dfrontcover&dq\u003dInternational&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deCvWDIwanaoC&dq\u003dInternational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/International_trade_law-sample-epub.acsm?id\u003deCvWDIwanaoC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6rEyu3iIk-4C",
+   "etag": "XyDa/rRVj0o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6rEyu3iIk-4C",
+   "volumeInfo": {
+    "title": "International commercial agreements",
+    "subtitle": "a primer on drafting, negotiating, and resolving disputes",
+    "authors": [
+     "William Fox"
+    ],
+    "publisher": "Kluwer Law Intl",
+    "publishedDate": "2009-06-15",
+    "description": "Well-known since its first edition for its lucid explanation of the important concepts affecting international commercial agreements in terms that a lawyer or ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9041126708"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789041126702"
+     }
+    ],
+    "pageCount": 420,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d6rEyu3iIk-4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d6rEyu3iIk-4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6rEyu3iIk-4C&printsec\u003dfrontcover&dq\u003dInternational&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6rEyu3iIk-4C&dq\u003dInternational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SpZ5CMaI_rYC",
+   "etag": "pJBM9NXkHU4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SpZ5CMaI_rYC",
+   "volumeInfo": {
+    "title": "International management",
+    "subtitle": "cross-cultural dimensions",
+    "authors": [
+     "Richard Mead"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "2005",
+    "description": "Its clear linking of management theories and practical examples will continue to make this text popular with both students and instructors.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0631231773"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780631231776"
+     }
+    ],
+    "pageCount": 454,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dSpZ5CMaI_rYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dSpZ5CMaI_rYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSpZ5CMaI_rYC&printsec\u003dfrontcover&dq\u003dInternational&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSpZ5CMaI_rYC&dq\u003dInternational&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 596
+}

@@ -1,0 +1,563 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "x3mZOf8iLQ0C",
+   "etag": "Lfoo1Tth99I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/x3mZOf8iLQ0C",
+   "volumeInfo": {
+    "title": "Eastern philosophy",
+    "subtitle": "key readings",
+    "authors": [
+     "Oliver Leaman"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2000",
+    "description": "Eastern Philosophy: Key Readings provides the key texts central to an understanding of eastern philosophy.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415173574"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415173575"
+     }
+    ],
+    "pageCount": 305,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dx3mZOf8iLQ0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dx3mZOf8iLQ0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dx3mZOf8iLQ0C&printsec\u003dfrontcover&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dx3mZOf8iLQ0C&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 35.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 19.77,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dx3mZOf8iLQ0C&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Eastern_philosophy-sample-epub.acsm?id\u003dx3mZOf8iLQ0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Eastern_philosophy-sample-pdf.acsm?id\u003dx3mZOf8iLQ0C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JUqJVY2bu38C",
+   "etag": "28NgzUMqJmI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JUqJVY2bu38C",
+   "volumeInfo": {
+    "title": "Eastern philosophy",
+    "authors": [
+     "Chakravarthi Ram-Prasad"
+    ],
+    "publisher": "Cassell",
+    "publishedDate": "2005-10-28",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0297847449"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780297847441"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dJUqJVY2bu38C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dJUqJVY2bu38C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJUqJVY2bu38C&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJUqJVY2bu38C&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XcyWAQAACAAJ",
+   "etag": "yeN+VqWrBWg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XcyWAQAACAAJ",
+   "volumeInfo": {
+    "title": "Eastern Philosophy",
+    "subtitle": "The Greatest Thinkers and Sages from Ancient to Modern Times",
+    "authors": [
+     "Kevin Burns"
+    ],
+    "publisher": "Egully.com",
+    "publishedDate": "2006-04",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1592700535"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781592700530"
+     }
+    ],
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dXcyWAQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dXcyWAQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXcyWAQAACAAJ&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXcyWAQAACAAJ&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NyG6HAAACAAJ",
+   "etag": "iqDbSJgxYqc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NyG6HAAACAAJ",
+   "volumeInfo": {
+    "title": "Eastern philosophy",
+    "authors": [
+     "Mel Thompson"
+    ],
+    "publisher": "Hodder Arnold",
+    "publishedDate": "2003-06-27",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0340867515"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780340867518"
+     }
+    ],
+    "pageCount": 241,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dNyG6HAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dNyG6HAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNyG6HAAACAAJ&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNyG6HAAACAAJ&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jrpkyfx50rcC",
+   "etag": "ae84/a0NATw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jrpkyfx50rcC",
+   "volumeInfo": {
+    "title": "Key concepts in Eastern philosophy",
+    "authors": [
+     "Oliver Leaman"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1999-06-30",
+    "description": "This book is a uniquely helpful source for anyone interested in coming to grips with the Eastern philosophical world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415173639"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415173636"
+     }
+    ],
+    "pageCount": 319,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003djrpkyfx50rcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003djrpkyfx50rcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djrpkyfx50rcC&printsec\u003dfrontcover&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djrpkyfx50rcC&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 33.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 18.33,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003djrpkyfx50rcC&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Key_concepts_in_Eastern_philosophy-sample-epub.acsm?id\u003djrpkyfx50rcC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Key_concepts_in_Eastern_philosophy-sample-pdf.acsm?id\u003djrpkyfx50rcC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dZqHYgrhbg0C",
+   "etag": "Tizomq3B0eI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dZqHYgrhbg0C",
+   "volumeInfo": {
+    "title": "Understanding Eastern philosophy",
+    "authors": [
+     "Ray Billington"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1997",
+    "description": "Ray Billington explores the spirituality of Eastern thought and its differences from and relationships with the Western religious tradition by presenting the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415129648"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415129640"
+     }
+    ],
+    "pageCount": 197,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003ddZqHYgrhbg0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003ddZqHYgrhbg0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddZqHYgrhbg0C&printsec\u003dfrontcover&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddZqHYgrhbg0C&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.16,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003ddZqHYgrhbg0C&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Understanding_Eastern_philosophy-sample-pdf.acsm?id\u003ddZqHYgrhbg0C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dvePSQAACAAJ",
+   "etag": "Q/VI0LG/5gQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dvePSQAACAAJ",
+   "volumeInfo": {
+    "title": "Eastern Philosophy",
+    "subtitle": "Avicennism, Mind Monkey, Catużkożi, Eastern Philosophy and Clinical Psychology, Mazdak, Hindu Views on God and Gender",
+    "authors": [
+     "Books, LLC"
+    ],
+    "publisher": "Books LLC",
+    "publishedDate": "2010-05",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1157370799"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781157370796"
+     }
+    ],
+    "pageCount": 146,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003ddvePSQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003ddvePSQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddvePSQAACAAJ&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddvePSQAACAAJ&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SKrnshWJ4-wC",
+   "etag": "5iUTEmEhY1g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SKrnshWJ4-wC",
+   "volumeInfo": {
+    "title": "The Complete Idiot's Guide to Eastern Philosophy",
+    "authors": [
+     "Jay Stevenson"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2000-01-21",
+    "description": "A comprehensive beginner&#39;s guide to knowing and understanding the principles of Eastern philosophy.Through Dr. Jay Stevenson&#39;s easy-to-understand language, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0028638204"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780028638201"
+     }
+    ],
+    "pageCount": 401,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dSKrnshWJ4-wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dSKrnshWJ4-wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSKrnshWJ4-wC&printsec\u003dfrontcover&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSKrnshWJ4-wC&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 18.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dSKrnshWJ4-wC&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HaTNcQAACAAJ",
+   "etag": "xjRb6WAhreA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HaTNcQAACAAJ",
+   "volumeInfo": {
+    "title": "Eastern Philosophy",
+    "authors": [
+     "OAC Review Index"
+    ],
+    "publishedDate": "1913",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:625962914"
+     }
+    ],
+    "pageCount": 1,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHaTNcQAACAAJ&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHaTNcQAACAAJ&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kHI-CwqV7bQC",
+   "etag": "ADZHfpqure4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kHI-CwqV7bQC",
+   "volumeInfo": {
+    "title": "The Best Guide to Eastern Philosophy and Religion",
+    "authors": [
+     "Diane Morgan"
+    ],
+    "publisher": "St. Martin's Griffin",
+    "publishedDate": "2001-08-25",
+    "description": "An informative overview of Eastern religious beliefs and rituals discusses the tenets of Hinduism, Buddhism, Confucianism, Taoism, Jainism, Shintoism, and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1580631975"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781580631976"
+     }
+    ],
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dkHI-CwqV7bQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dkHI-CwqV7bQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkHI-CwqV7bQC&printsec\u003dfrontcover&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkHI-CwqV7bQC&dq\u003dEastern+Philosophy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 589
+}

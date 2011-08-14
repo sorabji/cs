@@ -1,0 +1,488 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "YJV2SAAACAAJ",
+   "etag": "O+rAglawc24",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YJV2SAAACAAJ",
+   "volumeInfo": {
+    "title": "Ladybird books",
+    "subtitle": "Series 861, Discovering",
+    "publishedDate": "19??",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:314930134"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYJV2SAAACAAJ&dq\u003dLadybird+Books&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYJV2SAAACAAJ&dq\u003dLadybird+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2clxYgEACAAJ",
+   "etag": "E9YbTXrHGP0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2clxYgEACAAJ",
+   "volumeInfo": {
+    "title": "Ladybird Books",
+    "authors": [
+     "Frederic P Miller",
+     "Agnes F Vandome",
+     "John McBrewster"
+    ],
+    "publisher": "Alphascript Publishing",
+    "publishedDate": "2010-12-20",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "6134067636"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9786134067638"
+     }
+    ],
+    "pageCount": 72,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2clxYgEACAAJ&dq\u003dLadybird+Books&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2clxYgEACAAJ&dq\u003dLadybird+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qJovQAAACAAJ",
+   "etag": "brMDlWSTpl4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qJovQAAACAAJ",
+   "volumeInfo": {
+    "title": "The Enormous Turnip",
+    "authors": [
+     "LADYBIRD BOOKS"
+    ],
+    "publisher": "Ladybird Books",
+    "publishedDate": "2010-03-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1409304507"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781409304500"
+     }
+    ],
+    "pageCount": 10,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dqJovQAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dqJovQAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dqJovQAAACAAJ&dq\u003dLadybird+Books&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dqJovQAAACAAJ&dq\u003dLadybird+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IJjSAAAACAAJ",
+   "etag": "3oHDfnM0WY0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IJjSAAAACAAJ",
+   "volumeInfo": {
+    "title": "Ladybird",
+    "subtitle": "Volcanos",
+    "authors": [
+     "Ramboro Books"
+    ],
+    "publishedDate": "1998-11-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "7215974677"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9787215974678"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIJjSAAAACAAJ&dq\u003dLadybird+Books&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIJjSAAAACAAJ&dq\u003dLadybird+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "W0NkQgAACAAJ",
+   "etag": "/Tv6SsmS+vc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/W0NkQgAACAAJ",
+   "volumeInfo": {
+    "title": "Chicken Licken",
+    "authors": [
+     "LADYBIRD BOOKS",
+     "Ladybird Books Staff"
+    ],
+    "publisher": "Ladybird Books",
+    "publishedDate": "2006-06-29",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "184646109X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781846461095"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dW0NkQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dW0NkQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dW0NkQgAACAAJ&dq\u003dLadybird+Books&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dW0NkQgAACAAJ&dq\u003dLadybird+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Nb79KxNSTWUC",
+   "etag": "b5vysJfxXBs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Nb79KxNSTWUC",
+   "volumeInfo": {
+    "title": "Peppa Pig",
+    "subtitle": "Dentist Trip",
+    "authors": [
+     "LADYBIRD BOOKS",
+     "Ladybird Books Staff"
+    ],
+    "publisher": "Ladybird",
+    "publishedDate": "2009-05-07",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1409301931"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781409301936"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Children's stories"
+    ],
+    "contentVersion": "0.2.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dNb79KxNSTWUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dNb79KxNSTWUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNb79KxNSTWUC&dq\u003dLadybird+Books&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNb79KxNSTWUC&dq\u003dLadybird+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "U58cGQAACAAJ",
+   "etag": "gMQYCN4rIoY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/U58cGQAACAAJ",
+   "volumeInfo": {
+    "title": "Baby Touch Animal Book",
+    "authors": [
+     "LADYBIRD BOOKS",
+     "Fiona Land"
+    ],
+    "publisher": "Ladybird Books",
+    "publishedDate": "2007-09-06",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1846467225"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781846467226"
+     }
+    ],
+    "pageCount": 12,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dU58cGQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dU58cGQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dU58cGQAACAAJ&dq\u003dLadybird+Books&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dU58cGQAACAAJ&dq\u003dLadybird+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eH_o5OQbhw8C",
+   "etag": "PRKw9SADtF4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eH_o5OQbhw8C",
+   "volumeInfo": {
+    "title": "Ugly Duckling",
+    "authors": [
+     "Ladybird Books",
+     "Hans Christian Andersen"
+    ],
+    "publisher": "Ladybird Books",
+    "publishedDate": "1987-06",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0721450326"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780721450322"
+     }
+    ],
+    "pageCount": 28,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003deH_o5OQbhw8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003deH_o5OQbhw8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deH_o5OQbhw8C&q\u003dLadybird+Books&dq\u003dLadybird+Books&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deH_o5OQbhw8C&dq\u003dLadybird+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9GxkAAAACAAJ",
+   "etag": "kbk0IE6muQM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9GxkAAAACAAJ",
+   "volumeInfo": {
+    "title": "Key words with Ladybird : activity book 3 : read, write and say key words in English",
+    "authors": [
+     "LADYBIRD BOOKS"
+    ],
+    "publishedDate": "2001-05-03",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0721421601"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780721421605"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d9GxkAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d9GxkAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9GxkAAAACAAJ&dq\u003dLadybird+Books&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9GxkAAAACAAJ&dq\u003dLadybird+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bD1XPQAACAAJ",
+   "etag": "bIHFCVc7iL0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bD1XPQAACAAJ",
+   "volumeInfo": {
+    "title": "Peppa Goes Swimming",
+    "authors": [
+     "LADYBIRD BOOKS",
+     "Ladybird Books Staff"
+    ],
+    "publisher": "Ladybird Books",
+    "publishedDate": "2009-05-07",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "140930194X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781409301943"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dbD1XPQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dbD1XPQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbD1XPQAACAAJ&dq\u003dLadybird+Books&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbD1XPQAACAAJ&dq\u003dLadybird+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 579
+}

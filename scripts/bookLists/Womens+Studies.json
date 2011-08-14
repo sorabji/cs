@@ -1,0 +1,569 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "BFfXsiGWKyIC",
+   "etag": "rG4ReU09w+s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BFfXsiGWKyIC",
+   "volumeInfo": {
+    "title": "Women's studies",
+    "subtitle": "a recommended bibliography",
+    "authors": [
+     "Linda A. Krikos",
+     "Cindy Ingold",
+     "Catherine Loeb"
+    ],
+    "publisher": "Libraries Unltd Inc",
+    "publishedDate": "2004",
+    "description": "This monumental work maps the field of women&#39;s studies publications, covering thousands of titles and Web sites in 19 subject areas published in the last two ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1563085666"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781563085666"
+     }
+    ],
+    "pageCount": 828,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dBFfXsiGWKyIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dBFfXsiGWKyIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBFfXsiGWKyIC&printsec\u003dfrontcover&dq\u003dWomens+Studies&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBFfXsiGWKyIC&dq\u003dWomens+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 135.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 108.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dBFfXsiGWKyIC&dq\u003dWomens+Studies&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Women_s_studies-sample-pdf.acsm?id\u003dBFfXsiGWKyIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "o9KCVDNnwh0C",
+   "etag": "jZE6RAwwLtA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o9KCVDNnwh0C",
+   "volumeInfo": {
+    "title": "Women's studies for the future",
+    "subtitle": "foundations, interrogations, politics",
+    "authors": [
+     "Elizabeth Lapovsky Kennedy",
+     "Agatha Beins"
+    ],
+    "publisher": "Rutgers Univ Pr",
+    "publishedDate": "2005-09",
+    "description": "&quot;-Judith Kegan Gardiner, editor of Masculinity Studies and Feminist Theory: New Directions &quot;This collection provides insight on the institutional &#39;next steps&#39; ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0813536197"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780813536194"
+     }
+    ],
+    "pageCount": 347,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003do9KCVDNnwh0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003do9KCVDNnwh0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003do9KCVDNnwh0C&printsec\u003dfrontcover&dq\u003dWomens+Studies&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003do9KCVDNnwh0C&dq\u003dWomens+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tVjaAAAAMAAJ",
+   "etag": "oPoreC8teEk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tVjaAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Theories of women's studies",
+    "authors": [
+     "Gloria Bowles",
+     "Renate Klein"
+    ],
+    "publishedDate": "1983-07",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415042895"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415042895"
+     }
+    ],
+    "pageCount": 277,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dtVjaAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dtVjaAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtVjaAAAAMAAJ&q\u003dWomens+Studies&dq\u003dWomens+Studies&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtVjaAAAAMAAJ&dq\u003dWomens+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6TzLZwEACAAJ",
+   "etag": "VQVulY8hv6s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6TzLZwEACAAJ",
+   "volumeInfo": {
+    "title": "Womens studies",
+    "subtitle": "facts and issues",
+    "publishedDate": "1981",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:53415714"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6TzLZwEACAAJ&dq\u003dWomens+Studies&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6TzLZwEACAAJ&dq\u003dWomens+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "v07iMFKKXQcC",
+   "etag": "BOveHDBwwn8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/v07iMFKKXQcC",
+   "volumeInfo": {
+    "title": "Handbook of gender and women's studies",
+    "authors": [
+     "Kathy Davis",
+     "Mary Evans",
+     "Judith Lorber"
+    ],
+    "publisher": "Sage Publications Ltd",
+    "publishedDate": "2006",
+    "description": "This book offers critical analyses of women&#39;s and gender studies in work, the welfare state, family, education, religion, violence and war, and feminist global ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0761943900"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761943907"
+     }
+    ],
+    "pageCount": 494,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dv07iMFKKXQcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dv07iMFKKXQcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dv07iMFKKXQcC&printsec\u003dfrontcover&dq\u003dWomens+Studies&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dv07iMFKKXQcC&dq\u003dWomens+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Handbook_of_gender_and_women_s_studies-sample-epub.acsm?id\u003dv07iMFKKXQcC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Handbook_of_gender_and_women_s_studies-sample-pdf.acsm?id\u003dv07iMFKKXQcC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8p1YkEuhdXUC",
+   "etag": "CEmjk6FatCY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8p1YkEuhdXUC",
+   "volumeInfo": {
+    "title": "Israeli women's studies",
+    "subtitle": "a reader / Esther Fuchs, editor",
+    "authors": [
+     "Esther Fuchs"
+    ],
+    "publisher": "Rutgers Univ Pr",
+    "publishedDate": "2005",
+    "description": "This book will fill that gap for years to come!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0813536162"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780813536163"
+     }
+    ],
+    "pageCount": 342,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d8p1YkEuhdXUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d8p1YkEuhdXUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8p1YkEuhdXUC&printsec\u003dfrontcover&dq\u003dWomens+Studies&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8p1YkEuhdXUC&dq\u003dWomens+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QL2SFVV6KisC",
+   "etag": "tNIkKcrNNHs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QL2SFVV6KisC",
+   "volumeInfo": {
+    "title": "Women's studies on its own",
+    "subtitle": "a next wave reader in institutional change",
+    "authors": [
+     "Robyn Wiegman"
+    ],
+    "publisher": "Duke University Press Books",
+    "publishedDate": "2002",
+    "description": "&quot;As we enter something of a &#39;post-identity politics&#39; era, one in which colleges and universities are increasingly held accountable for the kinds of knowledge ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0822329867"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780822329862"
+     }
+    ],
+    "pageCount": 502,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dQL2SFVV6KisC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dQL2SFVV6KisC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQL2SFVV6KisC&printsec\u003dfrontcover&dq\u003dWomens+Studies&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQL2SFVV6KisC&dq\u003dWomens+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.55,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dQL2SFVV6KisC&dq\u003dWomens+Studies&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Women_s_studies_on_its_own-sample-pdf.acsm?id\u003dQL2SFVV6KisC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WLXxVyV42XwC",
+   "etag": "DkfEH1KFTSI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WLXxVyV42XwC",
+   "volumeInfo": {
+    "title": "The politics of women's studies",
+    "subtitle": "testimony from thirty founding mothers",
+    "authors": [
+     "Florence Howe"
+    ],
+    "publisher": "The Feminist Press at CUNY",
+    "publishedDate": "2000",
+    "description": "How women&#39;s studies was born --in the words of its founders.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1558612416"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781558612419"
+     }
+    ],
+    "pageCount": 422,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "1.0.0.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dWLXxVyV42XwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dWLXxVyV42XwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWLXxVyV42XwC&printsec\u003dfrontcover&dq\u003dWomens+Studies&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWLXxVyV42XwC&dq\u003dWomens+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_politics_of_women_s_studies-sample-epub.acsm?id\u003dWLXxVyV42XwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9hB_uBEtxNkC",
+   "etag": "mdUOS6CH8xY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9hB_uBEtxNkC",
+   "volumeInfo": {
+    "title": "Women's studies serials",
+    "subtitle": "a quarter-century of development",
+    "authors": [
+     "Kristin H. Gerhard"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "1998-09-08",
+    "description": "This text investigates the accessibility to women&#39;s studies periodicals, how they are used and by whom, and identifies areas where further research is needed to ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0789005417"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780789005410"
+     }
+    ],
+    "pageCount": 263,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d9hB_uBEtxNkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d9hB_uBEtxNkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9hB_uBEtxNkC&printsec\u003dfrontcover&dq\u003dWomens+Studies&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9hB_uBEtxNkC&dq\u003dWomens+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vEDoLJvklZAC",
+   "etag": "3kD54vEGw90",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vEDoLJvklZAC",
+   "volumeInfo": {
+    "title": "Women's studies on the edge",
+    "authors": [
+     "Joan Wallach Scott"
+    ],
+    "publisher": "Duke University Press Books",
+    "publishedDate": "2008",
+    "description": "Essays on the future of women&#39;s studies as an academic discipline.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "082234274X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780822342748"
+     }
+    ],
+    "pageCount": 223,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dvEDoLJvklZAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dvEDoLJvklZAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvEDoLJvklZAC&printsec\u003dfrontcover&dq\u003dWomens+Studies&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvEDoLJvklZAC&dq\u003dWomens+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.77,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dvEDoLJvklZAC&dq\u003dWomens+Studies&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Women_s_studies_on_the_edge-sample-epub.acsm?id\u003dvEDoLJvklZAC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Women_s_studies_on_the_edge-sample-pdf.acsm?id\u003dvEDoLJvklZAC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 589
+}

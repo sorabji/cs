@@ -1,0 +1,572 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "OGTr546vesYC",
+   "etag": "XiLkoSpMW6E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OGTr546vesYC",
+   "volumeInfo": {
+    "title": "About Space",
+    "authors": [
+     "Jana Carson"
+    ],
+    "publisher": "Treasure Bay, Inc.",
+    "publishedDate": "2002-04-01",
+    "description": "Provides information and photographs of the planets, moons, stars, and galaxies, and includes facts about space stations and how astronauts live in space.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1891327402"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781891327407"
+     }
+    ],
+    "pageCount": 40,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dOGTr546vesYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dOGTr546vesYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOGTr546vesYC&printsec\u003dfrontcover&dq\u003dSpace&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOGTr546vesYC&dq\u003dSpace&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xgrVr6Y_3ZcC",
+   "etag": "/KVNBPV9qKg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xgrVr6Y_3ZcC",
+   "volumeInfo": {
+    "title": "For space",
+    "authors": [
+     "Doreen B. Massey"
+    ],
+    "publisher": "Sage Publications Ltd",
+    "publishedDate": "2005",
+    "description": "&quot;The reason for my enthusiasm for this book is that Doreen Massey manages to describe a certain way of perceiving movement in space which I have been - and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1412903629"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781412903622"
+     }
+    ],
+    "pageCount": 222,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dxgrVr6Y_3ZcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dxgrVr6Y_3ZcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxgrVr6Y_3ZcC&printsec\u003dfrontcover&dq\u003dSpace&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxgrVr6Y_3ZcC&dq\u003dSpace&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/For_space-sample-pdf.acsm?id\u003dxgrVr6Y_3ZcC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RYscVlIO1OwC",
+   "etag": "P+BSjxZmyv4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RYscVlIO1OwC",
+   "volumeInfo": {
+    "title": "Space",
+    "authors": [
+     "Alan Dyer",
+     "Roy A. Gallant"
+    ],
+    "publisher": "Readers Digest",
+    "publishedDate": "1999-06",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1575842912"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781575842912"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dRYscVlIO1OwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dRYscVlIO1OwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRYscVlIO1OwC&q\u003dSpace&dq\u003dSpace&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRYscVlIO1OwC&dq\u003dSpace&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "S9CiPwAACAAJ",
+   "etag": "3jF/4Why/bE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/S9CiPwAACAAJ",
+   "volumeInfo": {
+    "title": "Space",
+    "authors": [
+     "James A. Michener"
+    ],
+    "publishedDate": "1989-10-18",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0517012375"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780517012376"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 68,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dS9CiPwAACAAJ&dq\u003dSpace&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dS9CiPwAACAAJ&dq\u003dSpace&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ULoOVI1T2hkC",
+   "etag": "jRGh2bKNsdM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ULoOVI1T2hkC",
+   "volumeInfo": {
+    "title": "Space",
+    "authors": [
+     "Carole Stott",
+     "Simon Holland"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2001",
+    "description": "Space is a colourful first guide to astronomy, packed with facts about space exploration, the planets, stars, galaxies and much more.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0756648084"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780756648084"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dULoOVI1T2hkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dULoOVI1T2hkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dULoOVI1T2hkC&printsec\u003dfrontcover&dq\u003dSpace&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dULoOVI1T2hkC&dq\u003dSpace&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dULoOVI1T2hkC&dq\u003dSpace&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "N0kPJv6-3tcC",
+   "etag": "quwyHDpJbis",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/N0kPJv6-3tcC",
+   "volumeInfo": {
+    "title": "Concepts of space",
+    "subtitle": "the history of theories of space in physics",
+    "authors": [
+     "Max Jammer"
+    ],
+    "publisher": "Dover Pubns",
+    "publishedDate": "1993",
+    "description": "Historical surveys of the concept of space considers Judeo-Christian ideas about space, Newton&#39;s concept of absolute space, space from 18th century to the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0486271196"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486271194"
+     }
+    ],
+    "pageCount": 261,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dN0kPJv6-3tcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dN0kPJv6-3tcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dN0kPJv6-3tcC&printsec\u003dfrontcover&dq\u003dSpace&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dN0kPJv6-3tcC&dq\u003dSpace&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nzbuV_WWS5EC",
+   "etag": "o4x+tffnHug",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nzbuV_WWS5EC",
+   "volumeInfo": {
+    "title": "Space",
+    "subtitle": "in science, art and society",
+    "authors": [
+     "François Penz",
+     "Gregory Radick",
+     "Robert Howell"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "2004-05-10",
+    "description": "What is space? This fascinating journey of exploration begins in our own minds - the space within our brains.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521823765"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521823760"
+     }
+    ],
+    "pageCount": 206,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dnzbuV_WWS5EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dnzbuV_WWS5EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnzbuV_WWS5EC&printsec\u003dfrontcover&dq\u003dSpace&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnzbuV_WWS5EC&dq\u003dSpace&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZRI1DvA4R1MC",
+   "etag": "ekEQbg/xWAc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZRI1DvA4R1MC",
+   "volumeInfo": {
+    "title": "Space",
+    "subtitle": "emerging options for national power",
+    "authors": [
+     "Dana J. Johnson",
+     "Scott Pace",
+     "Claybourne Bryan Gabbard",
+     "National Defense Research Institute (U.S.)"
+    ],
+    "publisher": "Rand Corp",
+    "publishedDate": "1998-04-25",
+    "description": "Examines the changing nature of space-power in the post-Cold War era.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0833024930"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780833024930"
+     }
+    ],
+    "pageCount": 90,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dZRI1DvA4R1MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dZRI1DvA4R1MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZRI1DvA4R1MC&printsec\u003dfrontcover&dq\u003dSpace&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZRI1DvA4R1MC&dq\u003dSpace&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.96,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dZRI1DvA4R1MC&dq\u003dSpace&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Space-sample-epub.acsm?id\u003dZRI1DvA4R1MC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Space-sample-pdf.acsm?id\u003dZRI1DvA4R1MC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2wIoqbYm0lIC",
+   "etag": "HCUK3U0AyJ8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2wIoqbYm0lIC",
+   "volumeInfo": {
+    "title": "Space",
+    "subtitle": "technologies, materials, structures",
+    "authors": [
+     "Boris Evgenʹevich Paton"
+    ],
+    "publisher": "CRC",
+    "publishedDate": "2003-04-10",
+    "description": "Astrophysicists, engineers and applied mathematicians will benefit from this text.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415299853"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415299855"
+     }
+    ],
+    "pageCount": 567,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d2wIoqbYm0lIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d2wIoqbYm0lIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2wIoqbYm0lIC&printsec\u003dfrontcover&dq\u003dSpace&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2wIoqbYm0lIC&dq\u003dSpace&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 199.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 159.96,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d2wIoqbYm0lIC&dq\u003dSpace&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Space-sample-pdf.acsm?id\u003d2wIoqbYm0lIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JH5eoUN7sVkC",
+   "etag": "pmqN9+KPloo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JH5eoUN7sVkC",
+   "volumeInfo": {
+    "title": "Space",
+    "subtitle": "Quick & Easy Internet Activities for the One-Computer Classroom",
+    "authors": [
+     "Mary Kay Carson"
+    ],
+    "publisher": "Teaching Resources",
+    "publishedDate": "2001-04-01",
+    "description": "This book offers more than 100 space Web sites, plus reproducible graphic organizers that help students record the information they gather.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0439244412"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780439244411"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dJH5eoUN7sVkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dJH5eoUN7sVkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJH5eoUN7sVkC&printsec\u003dfrontcover&dq\u003dSpace&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJH5eoUN7sVkC&dq\u003dSpace&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 589
+}

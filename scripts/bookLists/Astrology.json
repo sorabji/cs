@@ -1,0 +1,526 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Z0nnE2IP7A4C",
+   "etag": "mkG9PjEp3eo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Z0nnE2IP7A4C",
+   "volumeInfo": {
+    "title": "Astrology",
+    "subtitle": "understanding the birth chart : a comprehensive guide to classical interpretation",
+    "authors": [
+     "Kevin Burk"
+    ],
+    "publisher": "Llewellyn Worldwide",
+    "publishedDate": "2001-02-01",
+    "description": "In short, this is a well-designed course that provides a solid foundation for anyone who is interested in practicing astrology quickly and with confidence.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1567180884"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781567180886"
+     }
+    ],
+    "pageCount": 351,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dZ0nnE2IP7A4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dZ0nnE2IP7A4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZ0nnE2IP7A4C&printsec\u003dfrontcover&dq\u003dAstrology&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZ0nnE2IP7A4C&dq\u003dAstrology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "I1pKgUHDwEQC",
+   "etag": "eRCqC8cCaIo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/I1pKgUHDwEQC",
+   "volumeInfo": {
+    "title": "Astrology",
+    "authors": [
+     "B. K. Chaturvedi"
+    ],
+    "publisher": "Diamond Pocket Books (P) Ltd.",
+    "description": "Chapter 1 What is \u003cb\u003eAstrology\u003c/b\u003e? \u003cb\u003eAstrology\u003c/b\u003e is an occult science dealing with \u003cbr\u003e\r\nluminaries, ie, the whole subject studies the effect of the radiations emitted \u003cbr\u003e\r\nby \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8128802852"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788128802850"
+     }
+    ],
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dI1pKgUHDwEQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dI1pKgUHDwEQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dI1pKgUHDwEQC&printsec\u003dfrontcover&dq\u003dAstrology&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dI1pKgUHDwEQC&dq\u003dAstrology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BagDjpND43YC",
+   "etag": "CbG93sDxgxk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BagDjpND43YC",
+   "volumeInfo": {
+    "title": "Astrology",
+    "subtitle": "Get to Know Your Partner Better",
+    "authors": [
+     "Kimberly Ann Jones"
+    ],
+    "publisher": "AuthorHouse",
+    "publishedDate": "2007-09",
+    "description": "I&#39;ve been studying astrology since I was nine. My astrology has been proven to be 90 percent accurate.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1434338495"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781434338495"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dBagDjpND43YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dBagDjpND43YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBagDjpND43YC&printsec\u003dfrontcover&dq\u003dAstrology&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBagDjpND43YC&dq\u003dAstrology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Astrology-sample-epub.acsm?id\u003dBagDjpND43YC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "M5PgXbwYAGYC",
+   "etag": "sXJu5LmCE2I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/M5PgXbwYAGYC",
+   "volumeInfo": {
+    "title": "Astrology",
+    "subtitle": "woman to woman",
+    "authors": [
+     "Gloria Star"
+    ],
+    "publisher": "Llewellyn Worldwide",
+    "publishedDate": "1999-04-01",
+    "description": "Astrologer Gloria Star, author of &quot;Optimum Child&quot;, offers a complete astrological guide for women. Diagrams.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1567186866"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781567186864"
+     }
+    ],
+    "pageCount": 465,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dM5PgXbwYAGYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dM5PgXbwYAGYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dM5PgXbwYAGYC&printsec\u003dfrontcover&dq\u003dAstrology&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dM5PgXbwYAGYC&dq\u003dAstrology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gvNYCtN9eRIC",
+   "etag": "Pj0T4OKb4zU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gvNYCtN9eRIC",
+   "volumeInfo": {
+    "title": "Astrology",
+    "description": "PREFACE This book endeavours to show in a clear and simple manner the useful and \u003cbr\u003e\r\npractical truth that underlies the so-called occult study of reading \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8171821448"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788171821440"
+     }
+    ],
+    "pageCount": 280,
+    "printType": "BOOK",
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dgvNYCtN9eRIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dgvNYCtN9eRIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgvNYCtN9eRIC&printsec\u003dfrontcover&dq\u003dAstrology&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgvNYCtN9eRIC&dq\u003dAstrology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CpwlwfVUlgoC",
+   "etag": "ItUwdtbvOds",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CpwlwfVUlgoC",
+   "volumeInfo": {
+    "title": "Astrology",
+    "subtitle": "transformation & empowerment",
+    "authors": [
+     "Adrian Ross Duncan"
+    ],
+    "publisher": "Weiser Books",
+    "publishedDate": "2002-12-30",
+    "description": "Astrology ascribes meaning to planetary events and assumes that the energy that moves the universe has a kind of inherent intelligence.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1578632625"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781578632626"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dCpwlwfVUlgoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dCpwlwfVUlgoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCpwlwfVUlgoC&printsec\u003dfrontcover&dq\u003dAstrology&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCpwlwfVUlgoC&dq\u003dAstrology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HnR9RTmF-Z8C",
+   "etag": "gfSl8U2detw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HnR9RTmF-Z8C",
+   "volumeInfo": {
+    "title": "Astrology",
+    "subtitle": "a cosmic science",
+    "authors": [
+     "Isabel M. Hickey"
+    ],
+    "publisher": "Crcs Pubns",
+    "publishedDate": "1992-04",
+    "description": "Throughout this book, Isabel Hickey emphasizes a spiritual perspective that shows how to use astrology as a roadmap to a more meaningful and fulfilling way of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0916360520"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780916360528"
+     }
+    ],
+    "pageCount": 351,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 8,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dHnR9RTmF-Z8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dHnR9RTmF-Z8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHnR9RTmF-Z8C&printsec\u003dfrontcover&dq\u003dAstrology&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHnR9RTmF-Z8C&dq\u003dAstrology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CgMoAAAAYAAJ",
+   "etag": "mCDE6ZJHlFo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CgMoAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Astrology",
+    "authors": [
+     "Mrs. Mabel (McGeorge) Shoemaker"
+    ],
+    "publishedDate": "1904",
+    "description": "\u003cb\u003eAstrology\u003c/b\u003e CHAPTER I \u003cb\u003eASTROLOGY\u003c/b\u003e AS A SCIENCE \u003cb\u003eAstrology\u003c/b\u003e is the oldest science in \u003cbr\u003e\r\nthe world. The ancient Egyptians were past masters in the art of casting \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HNJIM2"
+     }
+    ],
+    "pageCount": 344,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dCgMoAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dCgMoAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCgMoAAAAYAAJ&printsec\u003dfrontcover&dq\u003dAstrology&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCgMoAAAAYAAJ&dq\u003dAstrology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Astrology.pdf?id\u003dCgMoAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2aGVNdX_FsamchWhqSlWhjxjMqvw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B7qyQeDODHQC",
+   "etag": "gPMhH3cbcLA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B7qyQeDODHQC",
+   "volumeInfo": {
+    "title": "Astrology",
+    "authors": [
+     "Frisell"
+    ],
+    "publishedDate": "1988",
+    "description": "William Shakespeare Fire, Earth, Air, and Water are the four element groupings \u003cbr\u003e\r\nof the twelve \u003cb\u003eastrological\u003c/b\u003e Signs. The element category is the most important \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0828321795"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780828321792"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dB7qyQeDODHQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dB7qyQeDODHQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dB7qyQeDODHQC&printsec\u003dfrontcover&dq\u003dAstrology&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dB7qyQeDODHQC&dq\u003dAstrology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Astrology.epub?id\u003dB7qyQeDODHQC&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Astrology.pdf?id\u003dB7qyQeDODHQC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2HKTHx1R71_oabDqeQhECVJfZ4hg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wmHgPS2ZJ9sC",
+   "etag": "8pA5sRguI8I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wmHgPS2ZJ9sC",
+   "volumeInfo": {
+    "title": "Astrology",
+    "authors": [
+     "Ariel Books"
+    ],
+    "publisher": "Andrews McMeel Pub",
+    "publishedDate": "2003-03-31",
+    "description": "Look to the stars. This little book provides an entertaining and informative introduction to the wonders of astrology.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0740727486"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780740727481"
+     }
+    ],
+    "pageCount": 80,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dwmHgPS2ZJ9sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dwmHgPS2ZJ9sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwmHgPS2ZJ9sC&printsec\u003dfrontcover&dq\u003dAstrology&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwmHgPS2ZJ9sC&dq\u003dAstrology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 600
+}

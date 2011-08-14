@@ -1,0 +1,526 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Az6nyO9xnaMC",
+   "etag": "+YT+MrlWhtg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Az6nyO9xnaMC",
+   "volumeInfo": {
+    "title": "Spirituality",
+    "subtitle": "living our connectedness",
+    "authors": [
+     "Margaret A. Burkhardt",
+     "Mary Gail Nagai-Jacobson"
+    ],
+    "publisher": "Cengage Learning",
+    "publishedDate": "2002",
+    "description": "This insightful text discusses methods of heightening spirituality such as prayer, meditation and mindfulness; bodywork, touch and movement; rest and leisure; ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0766820823"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780766820821"
+     }
+    ],
+    "pageCount": 380,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dAz6nyO9xnaMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dAz6nyO9xnaMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAz6nyO9xnaMC&printsec\u003dfrontcover&dq\u003dSpirituality&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAz6nyO9xnaMC&dq\u003dSpirituality&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "l_NDNbTQRB0C",
+   "etag": "tIbp+qPLg+4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/l_NDNbTQRB0C",
+   "volumeInfo": {
+    "title": "Spirituality",
+    "subtitle": "What Does It Mean to Be Spiritual?",
+    "authors": [
+     "Rick Richardson"
+    ],
+    "publisher": "Intervarsity Pr",
+    "publishedDate": "2002-08-01",
+    "description": "In this study guide, Rick Richardson offers you the opportunity to learn more about spirituality and how it can be developed in your life.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0830820272"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780830820276"
+     }
+    ],
+    "pageCount": 61,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "0.3.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dl_NDNbTQRB0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dl_NDNbTQRB0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dl_NDNbTQRB0C&printsec\u003dfrontcover&dq\u003dSpirituality&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dl_NDNbTQRB0C&dq\u003dSpirituality&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "StpZG8M0jSwC",
+   "etag": "6GXfgMq5+tw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/StpZG8M0jSwC",
+   "volumeInfo": {
+    "title": "Spirituality",
+    "subtitle": "forms, foundations, methods",
+    "authors": [
+     "Kees Waaijman"
+    ],
+    "publisher": "Peeters Pub & Booksellers",
+    "publishedDate": "2002",
+    "description": "Finally, the book provides methodic access to the study of spirituality, focusing on the following questions: Which are the different forms of spirituality and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9042911832"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789042911833"
+     }
+    ],
+    "pageCount": 968,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dStpZG8M0jSwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dStpZG8M0jSwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dStpZG8M0jSwC&printsec\u003dfrontcover&dq\u003dSpirituality&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dStpZG8M0jSwC&dq\u003dSpirituality&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BCAtswRwhLAC",
+   "etag": "lZtAr3wDRIQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BCAtswRwhLAC",
+   "volumeInfo": {
+    "title": "What Is Spirituality",
+    "authors": [
+     "Paul Bjorklund"
+    ],
+    "publisher": "Hazelden",
+    "publishedDate": "1983-06",
+    "description": "WHAT IS \u003cb\u003eSPIRITUALITY\u003c/b\u003e? One often hears in connection with Alcoholics Anonymous \u003cbr\u003e\r\nthat &quot;ours is a spiritual program.&quot; But what does &quot;spiritual&quot; mean? \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0894861824"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780894861826"
+     }
+    ],
+    "pageCount": 15,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dBCAtswRwhLAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dBCAtswRwhLAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBCAtswRwhLAC&printsec\u003dfrontcover&dq\u003dSpirituality&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBCAtswRwhLAC&dq\u003dSpirituality&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7K0D148NHM0C",
+   "etag": "PuDejMZtp6A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7K0D148NHM0C",
+   "volumeInfo": {
+    "title": "Spirituality",
+    "subtitle": "Transformation Within and Without",
+    "authors": [
+     "Swami Rama"
+    ],
+    "publisher": "Himalayan Inst Pr",
+    "publishedDate": "1998-01-01",
+    "description": "Contains chapters on culture and civilization, religion, the existence of God, and self-realization with a message for society to return to fundamental values.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0893891509"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780893891503"
+     }
+    ],
+    "pageCount": 151,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d7K0D148NHM0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d7K0D148NHM0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7K0D148NHM0C&printsec\u003dfrontcover&dq\u003dSpirituality&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7K0D148NHM0C&dq\u003dSpirituality&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pfmKLpuxvPsC",
+   "etag": "Q/VG0h+XH5c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pfmKLpuxvPsC",
+   "volumeInfo": {
+    "title": "A brief history of spirituality",
+    "authors": [
+     "Philip Sheldrake"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "2007-01-24",
+    "description": "&quot;A Brief History of Spirituality&quot; tells the story of Christian spirituality from its origins in the New Testament to the present day.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1405117710"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405117715"
+     }
+    ],
+    "pageCount": 251,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dpfmKLpuxvPsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dpfmKLpuxvPsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpfmKLpuxvPsC&printsec\u003dfrontcover&dq\u003dSpirituality&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpfmKLpuxvPsC&dq\u003dSpirituality&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BZjSSK0fbmIC",
+   "etag": "t3hLFCQZAkU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BZjSSK0fbmIC",
+   "volumeInfo": {
+    "title": "Spirituality",
+    "subtitle": "From Mental Anguish to Serenity",
+    "authors": [
+     "Arthur Roemer",
+     "Arthur S. Roemer, Jr."
+    ],
+    "publisher": "Vantage Press, Inc",
+    "publishedDate": "2006-01-01",
+    "description": "He blended in with the environment, just an average Joe. He never knew that he \u003cbr\u003e\r\nhad an addictive personality, but neither did others. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0533151007"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780533151004"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dBZjSSK0fbmIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dBZjSSK0fbmIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBZjSSK0fbmIC&printsec\u003dfrontcover&dq\u003dSpirituality&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBZjSSK0fbmIC&dq\u003dSpirituality&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B4taMQGIrSIC",
+   "etag": "OO1Yk22foxw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B4taMQGIrSIC",
+   "volumeInfo": {
+    "title": "Spirituality:",
+    "subtitle": "The Key to the Science of Theology",
+    "authors": [
+     "Parley P. Pratt"
+    ],
+    "publishedDate": "2008-01",
+    "description": "An LDS classic about the Restoration and the gifts of the Spirit, Parley P. Pratt&#39;s &quot;Spirituality: the Key to the Science of Theology&quot; teaches essential ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1599551160"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781599551166"
+     }
+    ],
+    "pageCount": 132,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dB4taMQGIrSIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dB4taMQGIrSIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dB4taMQGIrSIC&printsec\u003dfrontcover&dq\u003dSpirituality&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dB4taMQGIrSIC&dq\u003dSpirituality&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Spirituality-sample-epub.acsm?id\u003dB4taMQGIrSIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SR8RQka0KxsC",
+   "etag": "UY2HTW9GSEc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SR8RQka0KxsC",
+   "volumeInfo": {
+    "title": "Spirituality",
+    "subtitle": "True Odysseys",
+    "authors": [
+     "Zsuzsana Summer",
+     "Myriam Maytorena"
+    ],
+    "publisher": "Writers Club Press",
+    "publishedDate": "2002-12-01",
+    "description": "From Beginning to Bliss...join Myriam and Zsuzsana in a joyful exploration of personal and spiritual development for everyday living.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0595262074"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780595262076"
+     }
+    ],
+    "pageCount": 236,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dSR8RQka0KxsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dSR8RQka0KxsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSR8RQka0KxsC&printsec\u003dfrontcover&dq\u003dSpirituality&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSR8RQka0KxsC&dq\u003dSpirituality&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ChltAAAAMAAJ",
+   "etag": "93KdrfBe8sA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ChltAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Spirituality",
+    "subtitle": "the heart of nursing",
+    "authors": [
+     "Susan Ronaldson",
+     "Sue Ronaldson"
+    ],
+    "publisher": "Ausmed Pubns",
+    "publishedDate": "2000",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015042598899"
+     }
+    ],
+    "pageCount": 184,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dChltAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dChltAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dChltAAAAMAAJ&q\u003dSpirituality&dq\u003dSpirituality&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dChltAAAAMAAJ&dq\u003dSpirituality&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 599
+}

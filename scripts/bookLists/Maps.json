@@ -1,0 +1,536 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "fqAodw_-K-EC",
+   "etag": "lhZsElYepe4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fqAodw_-K-EC",
+   "volumeInfo": {
+    "title": "Maps",
+    "authors": [
+     "Nuruddin Farah"
+    ],
+    "publisher": "Arcade Publishing",
+    "publishedDate": "1999",
+    "description": "First in the author&#39;s Blood in the Sun trilogy, the thematic novel tackles the problem of violence and civil war in East Africa.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1559704853"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781559704854"
+     }
+    ],
+    "pageCount": 259,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 18,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dfqAodw_-K-EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dfqAodw_-K-EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfqAodw_-K-EC&printsec\u003dfrontcover&dq\u003dMaps&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfqAodw_-K-EC&dq\u003dMaps&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eQPWsZalRh4C",
+   "etag": "8K/FHyBdIF4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eQPWsZalRh4C",
+   "volumeInfo": {
+    "title": "Maps",
+    "subtitle": "Getting from Here to There",
+    "authors": [
+     "Harvey Weiss"
+    ],
+    "publisher": "Sandpiper",
+    "publishedDate": "1995-02-27",
+    "description": "Discusses various aspects of maps including direction, distance, symbols, latitude, and longitude, how maps are made, special purpose maps, and charts.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0395720281"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780395720288"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003deQPWsZalRh4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003deQPWsZalRh4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deQPWsZalRh4C&printsec\u003dfrontcover&dq\u003dMaps&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deQPWsZalRh4C&dq\u003dMaps&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Qh7nDfGm7BkC",
+   "etag": "R+IEyETsWZw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Qh7nDfGm7BkC",
+   "volumeInfo": {
+    "title": "The story of maps",
+    "authors": [
+     "Lloyd Arnold Brown"
+    ],
+    "publisher": "Dover Pubns",
+    "publishedDate": "1979",
+    "description": "&quot;The Story of Maps, &quot; first published thirty years ago, charts that course with a breadth and depth still unsurpassed in a scholarly survey.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0486238733"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486238739"
+     }
+    ],
+    "pageCount": 397,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dQh7nDfGm7BkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dQh7nDfGm7BkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQh7nDfGm7BkC&printsec\u003dfrontcover&dq\u003dMaps&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQh7nDfGm7BkC&dq\u003dMaps&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wnb72vEvU1cC",
+   "etag": "qFuRnNPRfFo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wnb72vEvU1cC",
+   "volumeInfo": {
+    "title": "Maps",
+    "authors": [
+     "Dana Meachen Rau"
+    ],
+    "publisher": "Marshall Cavendish Children's Books",
+    "publishedDate": "2008-09",
+    "description": "&quot;Discusses how people make sense of Earth by making maps and introduces globes, flat maps, and the idea of making borders&quot;--Provided by publisher.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0761430466"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761430469"
+     }
+    ],
+    "pageCount": 31,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dwnb72vEvU1cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dwnb72vEvU1cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwnb72vEvU1cC&printsec\u003dfrontcover&dq\u003dMaps&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwnb72vEvU1cC&dq\u003dMaps&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2t3AwxI81pYC",
+   "etag": "oOjOLH0OGo4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2t3AwxI81pYC",
+   "volumeInfo": {
+    "title": "The power of maps",
+    "authors": [
+     "Denis Wood",
+     "John Fels"
+    ],
+    "publisher": "The Guilford Press",
+    "publishedDate": "1992-10-16",
+    "description": "This volume ventures into terrain where even the most sophisticated map fails to lead--through the mapmaker&#39;s bias.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0898624932"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780898624939"
+     }
+    ],
+    "pageCount": 248,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d2t3AwxI81pYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d2t3AwxI81pYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2t3AwxI81pYC&printsec\u003dfrontcover&dq\u003dMaps&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2t3AwxI81pYC&dq\u003dMaps&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "skHwSg9HrGsC",
+   "etag": "68aLI8I25js",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/skHwSg9HrGsC",
+   "volumeInfo": {
+    "title": "100 maps",
+    "subtitle": "the science, art and politics of cartography throughout history",
+    "authors": [
+     "John Owen Edward Clark"
+    ],
+    "publisher": "Sterling Pub Co Inc",
+    "publishedDate": "2005-10-28",
+    "description": "Escape maps, military maps, cartographic breakthroughs, and follies and forgeries: these 100 maps, organized chronologically, are the most important, dramatic, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1402728859"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781402728853"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dskHwSg9HrGsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dskHwSg9HrGsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dskHwSg9HrGsC&printsec\u003dfrontcover&dq\u003dMaps&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dskHwSg9HrGsC&dq\u003dMaps&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xhAvN3B0CkUC",
+   "etag": "Ok2k0h21tCo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xhAvN3B0CkUC",
+   "volumeInfo": {
+    "title": "How maps work",
+    "subtitle": "representation, visualization, and design",
+    "authors": [
+     "Alan M. MacEachren"
+    ],
+    "publisher": "The Guilford Press",
+    "publishedDate": "2004-06-21",
+    "description": "Now available in paperback for the first time, this classic work presents a cognitive-semiotic framework for understanding how maps work as powerful, abstract, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "157230040X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781572300408"
+     }
+    ],
+    "pageCount": 513,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dxhAvN3B0CkUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dxhAvN3B0CkUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxhAvN3B0CkUC&printsec\u003dfrontcover&dq\u003dMaps&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxhAvN3B0CkUC&dq\u003dMaps&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5iLG2D5eBswC",
+   "etag": "YP5F4Pmuhng",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5iLG2D5eBswC",
+   "volumeInfo": {
+    "title": "Maps of the ancient sea kings",
+    "subtitle": "evidence of advanced civilization in the ice age",
+    "authors": [
+     "Charles H. Hapgood"
+    ],
+    "publisher": "Adventures Unlimited Press",
+    "publishedDate": "1966",
+    "description": "Charles Hapgood&#39;s classic 1966 book on ancient maps is back in print after 20 years.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0932813429"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780932813428"
+     }
+    ],
+    "pageCount": 315,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 8,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d5iLG2D5eBswC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d5iLG2D5eBswC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5iLG2D5eBswC&printsec\u003dfrontcover&dq\u003dMaps&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5iLG2D5eBswC&dq\u003dMaps&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "S-RL82rNU6YC",
+   "etag": "PHxZTfrB6JM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/S-RL82rNU6YC",
+   "volumeInfo": {
+    "title": "Maps",
+    "authors": [
+     "Robin Nelson"
+    ],
+    "publisher": "Lernerclassroom",
+    "publishedDate": "2005-01",
+    "description": "A very basic introduction to maps and their uses.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0822553937"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780822553939"
+     }
+    ],
+    "pageCount": 8,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dS-RL82rNU6YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dS-RL82rNU6YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dS-RL82rNU6YC&printsec\u003dfrontcover&dq\u003dMaps&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dS-RL82rNU6YC&dq\u003dMaps&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-npgHHQ5010C",
+   "etag": "8XkmHky/axE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-npgHHQ5010C",
+   "volumeInfo": {
+    "title": "Google Maps hacks",
+    "authors": [
+     "Rich Gibson",
+     "Schuyler Erle"
+    ],
+    "publisher": "O'Reilly Media, Inc.",
+    "publishedDate": "2006",
+    "description": "Google Maps makes Web-based mapping fun, and opens up an incredible variety of opportunities for developers.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0596101619"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596101619"
+     }
+    ],
+    "pageCount": 337,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d-npgHHQ5010C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d-npgHHQ5010C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-npgHHQ5010C&printsec\u003dfrontcover&dq\u003dMaps&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-npgHHQ5010C&dq\u003dMaps&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 406
+}

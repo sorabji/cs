@@ -1,0 +1,500 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "0QOMZwEACAAJ",
+   "etag": "gTRICaILK+0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0QOMZwEACAAJ",
+   "volumeInfo": {
+    "title": "The Harlequins",
+    "subtitle": "A comedy, after the manner of the Teatre Italien. As it is now acting with great applause, by a company of gentlemen, for the entertainment of their friends, at the Great Room in Drumcondra-lane",
+    "publishedDate": "1753",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:1574247"
+     }
+    ],
+    "pageCount": 46,
+    "printType": "BOOK",
+    "categories": [
+     "Great Britain"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0QOMZwEACAAJ&dq\u003dHarlequins&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0QOMZwEACAAJ&dq\u003dHarlequins&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OmFGcgAACAAJ",
+   "etag": "Dq03v51tZtE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OmFGcgAACAAJ",
+   "volumeInfo": {
+    "title": "Harlequins",
+    "authors": [
+     "Theatre Passe Muraille Archives",
+     "Melba Cuddy"
+    ],
+    "publishedDate": "1990",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:626228740"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOmFGcgAACAAJ&dq\u003dHarlequins&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOmFGcgAACAAJ&dq\u003dHarlequins&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2EmDMVHZ1oIC",
+   "etag": "35PRQHeHVe4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2EmDMVHZ1oIC",
+   "volumeInfo": {
+    "title": "Look at the Harlequins!",
+    "authors": [
+     "Vladimir Nabokov"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "1990",
+    "description": "Focusing on the central figures of his life--his four wives, his books, and his muse, Dementia--the book leads us to suspect that the fictions Vadim has created ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0679727280"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780679727286"
+     }
+    ],
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 26,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d2EmDMVHZ1oIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d2EmDMVHZ1oIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2EmDMVHZ1oIC&printsec\u003dfrontcover&dq\u003dHarlequins&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2EmDMVHZ1oIC&dq\u003dHarlequins&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d2EmDMVHZ1oIC&dq\u003dHarlequins&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Look_at_the_Harlequins-sample-epub.acsm?id\u003d2EmDMVHZ1oIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rhd-AAAACAAJ",
+   "etag": "bNH20vHeQB4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rhd-AAAACAAJ",
+   "volumeInfo": {
+    "title": "The Harlequins",
+    "subtitle": "125 years of rugby football",
+    "authors": [
+     "Philip Warner"
+    ],
+    "publishedDate": "1991-09-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1873626002"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781873626009"
+     }
+    ],
+    "pageCount": 253,
+    "printType": "BOOK",
+    "categories": [
+     "Rugby football"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003drhd-AAAACAAJ&dq\u003dHarlequins&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003drhd-AAAACAAJ&dq\u003dHarlequins&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7pkNAAAAQAAJ",
+   "etag": "bUFo50tchA4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7pkNAAAAQAAJ",
+   "volumeInfo": {
+    "title": "The two harlequins",
+    "subtitle": "A farce of three acts. Written by Mr. Noble. And acted by the King's Italian comedians at Paris. And now perform'd by the French comedians at the Theatre in Lincoln's-Inn-Fields",
+    "authors": [
+     "Eustache Le Noble"
+    ],
+    "publishedDate": "1718",
+    "description": "L Ç S Deux Arkpkj. &#39; i ) Acte I. Scène I. Geronte, ArUqnin. .• r. -• . . :.&#39;... \u003cbr\u003e\r\n.&#39;.&quot;:&#39;:&#39;• \\ Arlequin. j^^^^^^gUsqu&#39;ici je vous ai cru Ûp, &quot;) /. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:N11684556"
+     }
+    ],
+    "pageCount": 86,
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d7pkNAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d7pkNAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7pkNAAAAQAAJ&printsec\u003dfrontcover&dq\u003dHarlequins&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7pkNAAAAQAAJ&dq\u003dHarlequins&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_two_harlequins.pdf?id\u003d7pkNAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U24R95JvmKs8tTV_VaUW4-nb1ZRBg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FFg-bwAACAAJ",
+   "etag": "RJg6u4BFeHc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FFg-bwAACAAJ",
+   "volumeInfo": {
+    "title": "Belfast Harlequins",
+    "subtitle": "Belfast Harlequins Rugby Union Players, North of Ireland F. C. Players, Tommy Bowe, Jack Kyle, Neil Doak",
+    "authors": [
+     "Books, LLC"
+    ],
+    "publisher": "Books LLC",
+    "publishedDate": "2010-05",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1156087511"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781156087510"
+     }
+    ],
+    "pageCount": 82,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dFFg-bwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dFFg-bwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFFg-bwAACAAJ&dq\u003dHarlequins&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFFg-bwAACAAJ&dq\u003dHarlequins&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BkfwKIozT7MC",
+   "etag": "IFslxy9DaNM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BkfwKIozT7MC",
+   "volumeInfo": {
+    "title": "Marco Polo",
+    "authors": [
+     "Jonathan Levy"
+    ],
+    "publisher": "Dramatists Play Service, Inc.",
+    "publishedDate": "1977-10-01",
+    "description": "\u003cb\u003eHARLEQUIN\u003c/b\u003e. Tang kien tsu, I know you can&#39;t understand a word I&#39;m saying. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e\r\n\u003cb\u003eHarlequins\u003c/b\u003e in the pots in the kitchen. \u003cb\u003eHarlequins\u003c/b\u003e in the dresser drawers, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "082220732X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780822207320"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dBkfwKIozT7MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dBkfwKIozT7MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBkfwKIozT7MC&pg\u003dPA25&dq\u003dHarlequins&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBkfwKIozT7MC&dq\u003dHarlequins&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9gdWGBWXKWMC",
+   "etag": "huoakJ6GICM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9gdWGBWXKWMC",
+   "volumeInfo": {
+    "title": "Moth orchids",
+    "subtitle": "the complete guide to Phalaenopsis",
+    "authors": [
+     "Steven A. Frowine"
+    ],
+    "publisher": "Timber Pr",
+    "publishedDate": "2008-07-18",
+    "description": "6 \u003cb\u003eHarlequins\u003c/b\u003e Send in the clowns! \u003cb\u003eHarlequin\u003c/b\u003e Phalaenopsis hybrids have some of the \u003cbr\u003e\r\nwildest and most unpredictable flower color patterns in the entire orchid \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0881928704"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780881928709"
+     }
+    ],
+    "pageCount": 204,
+    "printType": "BOOK",
+    "categories": [
+     "Gardening"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d9gdWGBWXKWMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d9gdWGBWXKWMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9gdWGBWXKWMC&pg\u003dPA95&dq\u003dHarlequins&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9gdWGBWXKWMC&dq\u003dHarlequins&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZFyjcQAACAAJ",
+   "etag": "flFFyidui4w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZFyjcQAACAAJ",
+   "volumeInfo": {
+    "title": "The Hundred and One Harlequins",
+    "authors": [
+     "Sacheverell Sitwell"
+    ],
+    "publishedDate": "2010-09-03",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1178226115"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781178226119"
+     }
+    ],
+    "pageCount": 102,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dZFyjcQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dZFyjcQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZFyjcQAACAAJ&dq\u003dHarlequins&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZFyjcQAACAAJ&dq\u003dHarlequins&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cBEWAQAAIAAJ",
+   "etag": "cC+EdZfLrR4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cBEWAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Mediterranean harlequins",
+    "subtitle": "a field guide to Mediterranean sea slugs",
+    "authors": [
+     "Egidio Trainito",
+     "Stefano Trainito"
+    ],
+    "publishedDate": "2003",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8874320205"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788874320202"
+     }
+    ],
+    "pageCount": 58,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dcBEWAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dcBEWAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcBEWAQAAIAAJ&q\u003dHarlequins&dq\u003dHarlequins&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcBEWAQAAIAAJ&dq\u003dHarlequins&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 574
+}

@@ -1,0 +1,568 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "0jplKdxlmsUC",
+   "etag": "gwOQALWXMyI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0jplKdxlmsUC",
+   "volumeInfo": {
+    "title": "Classics",
+    "subtitle": "a very short introduction",
+    "authors": [
+     "Mary Beard",
+     "John Henderson"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2000-05-12",
+    "description": "Eventually, the series will encompass every major academic discipline, offering all readers an accessible and abundant reference library.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0192853856"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780192853851"
+     }
+    ],
+    "pageCount": 145,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 5,
+    "contentVersion": "0.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d0jplKdxlmsUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d0jplKdxlmsUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0jplKdxlmsUC&printsec\u003dfrontcover&dq\u003dClassics&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0jplKdxlmsUC&dq\u003dClassics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Classics-sample-pdf.acsm?id\u003d0jplKdxlmsUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5D6JOtZuoecC",
+   "etag": "hWl2mmIMqmE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5D6JOtZuoecC",
+   "volumeInfo": {
+    "title": "The Classics",
+    "subtitle": "All You Need to Know, from Zeus's Throne to the Fall of Rome",
+    "authors": [
+     "Caroline Taggart"
+    ],
+    "publisher": "Readers Digest",
+    "publishedDate": "2010-07-08",
+    "description": "The Classics puts the same information available in volumes of stuffy textbooks at your fingertips in one entertaining read, guaranteed to inform and delight.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1606521322"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781606521328"
+     }
+    ],
+    "pageCount": 169,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 10,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d5D6JOtZuoecC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d5D6JOtZuoecC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5D6JOtZuoecC&printsec\u003dfrontcover&dq\u003dClassics&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5D6JOtZuoecC&dq\u003dClassics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d5D6JOtZuoecC&dq\u003dClassics&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Classics-sample-epub.acsm?id\u003d5D6JOtZuoecC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mpP4VxEbGpUC",
+   "etag": "5PGg5HMXiVk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mpP4VxEbGpUC",
+   "volumeInfo": {
+    "title": "Classics",
+    "subtitle": "a discipline and profession in crisis?",
+    "authors": [
+     "Phyllis Culham",
+     "Lowell Edmunds"
+    ],
+    "publisher": "Univ Pr of Amer",
+    "publishedDate": "1989-10",
+    "description": "This collection meets that challenge by offering classicists of divergent viewpoints the opportunity to rethink Classics as a discipline.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0819174505"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780819174505"
+     }
+    ],
+    "pageCount": 381,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dmpP4VxEbGpUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dmpP4VxEbGpUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmpP4VxEbGpUC&printsec\u003dfrontcover&dq\u003dClassics&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmpP4VxEbGpUC&dq\u003dClassics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 69.5,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 55.6,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dmpP4VxEbGpUC&dq\u003dClassics&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Classics-sample-pdf.acsm?id\u003dmpP4VxEbGpUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NvIuPI6UoxsC",
+   "etag": "xv8ssT5f62o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NvIuPI6UoxsC",
+   "volumeInfo": {
+    "title": "Classics",
+    "authors": [
+     "Elana Frankel"
+    ],
+    "publisher": "Rockport Publishers",
+    "publishedDate": "2001-09-01",
+    "description": "Here are the design elements that make a room look great: from the perfect Shaker table to the Eames&#39; Sofa Compact, from the Windsor chair to the Hansen lamp.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1564968294"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781564968296"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dNvIuPI6UoxsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dNvIuPI6UoxsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNvIuPI6UoxsC&printsec\u003dfrontcover&dq\u003dClassics&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNvIuPI6UoxsC&dq\u003dClassics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mVo9GQAACAAJ",
+   "etag": "G6SJGAyuJKE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mVo9GQAACAAJ",
+   "volumeInfo": {
+    "title": "Classics",
+    "subtitle": "62 Great Books from the Iliad to Midnight's Children",
+    "authors": [
+     "Jane Gleeson-White"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "2009-11-11",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "174166473X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781741664737"
+     }
+    ],
+    "pageCount": 416,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dmVo9GQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dmVo9GQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmVo9GQAACAAJ&dq\u003dClassics&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmVo9GQAACAAJ&dq\u003dClassics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4Xfa92Z4v68C",
+   "etag": "nBhz+edhnDM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4Xfa92Z4v68C",
+   "volumeInfo": {
+    "title": "Classics",
+    "subtitle": "Their History and Present Status in Education: A Symposium of Essays",
+    "authors": [
+     "Felix M. Kirsch"
+    ],
+    "publisher": "Ayer Publishing",
+    "publishedDate": "1977-06-01",
+    "description": "THE \u003cb\u003eCLASSICS\u003c/b\u003e HISTORY OF CLASSICAL EDUCATION IN THE CHURCH ANSCAB ZAWART, OMCap. \u003cbr\u003e\r\nIN taking up the subject of the history of classical education in the Church \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0836906004"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780836906004"
+     }
+    ],
+    "pageCount": 279,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d4Xfa92Z4v68C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d4Xfa92Z4v68C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4Xfa92Z4v68C&printsec\u003dfrontcover&dq\u003dClassics&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4Xfa92Z4v68C&dq\u003dClassics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Classics-sample-pdf.acsm?id\u003d4Xfa92Z4v68C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HmcPAQAAMAAJ",
+   "etag": "sDOYHXwBRog",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HmcPAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Classics",
+    "subtitle": "an investor's anthology",
+    "authors": [
+     "Charles D. Ellis",
+     "James R. Vertin"
+    ],
+    "publisher": "Business One Irwin",
+    "publishedDate": "1989",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:49015000850157"
+     }
+    ],
+    "pageCount": 759,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dHmcPAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dHmcPAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHmcPAQAAMAAJ&q\u003dClassics&dq\u003dClassics&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHmcPAQAAMAAJ&dq\u003dClassics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QI0CAAAACAAJ",
+   "etag": "gtRGpKWamJA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QI0CAAAACAAJ",
+   "volumeInfo": {
+    "title": "Classics",
+    "subtitle": "the best the world has to offer",
+    "authors": [
+     "Mon Muellerschoen",
+     "Peter Steinfeld"
+    ],
+    "publisher": "General Pub Group",
+    "publishedDate": "1997-09",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "157544030X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781575440309"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dQI0CAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dQI0CAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQI0CAAAACAAJ&dq\u003dClassics&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQI0CAAAACAAJ&dq\u003dClassics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "atsoAAAAYAAJ",
+   "etag": "Gww02g/lzms",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/atsoAAAAYAAJ",
+   "volumeInfo": {
+    "title": "The Chinese classics",
+    "subtitle": "with a translation, critical and exegetical notes, prolegomena, and copious indexes",
+    "authors": [
+     "James Legge",
+     "Confucius",
+     "Mencius",
+     "Ssǔ shu",
+     "Wu king",
+     "Shu ching",
+     "Jin Shi",
+     "Shih ching",
+     "Tso-ch'iu Ming"
+    ],
+    "publishedDate": "1865",
+    "description": "A. £JMt 7^ o 1*1 m &amp; A ^ &#39;Ifi H 0 &quot;I have heard that the good man, doing good, \u003cbr\u003e\r\nfinds tlie day insufficient, and that the evil man, doing evil, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:AH64E7"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003datsoAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003datsoAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003datsoAAAAYAAJ&printsec\u003dfrontcover&dq\u003dClassics&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003datsoAAAAYAAJ&dq\u003dClassics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Chinese_classics.pdf?id\u003datsoAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3AQtwQjurEcTKBlTBI1m4l_YynNA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4d1FKBfX3gkC",
+   "etag": "Oa5zHECkxWc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4d1FKBfX3gkC",
+   "volumeInfo": {
+    "title": "Classics for Pleasure",
+    "authors": [
+     "Michael Dirda"
+    ],
+    "publisher": "Mariner Books",
+    "publishedDate": "2008-10-28",
+    "description": "In these delightful essays, Pulitzer Prize-winner Michael Dirda introduces nearly ninety of the world&#39;s most entertaining books.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0156033852"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780156033855"
+     }
+    ],
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 32,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d4d1FKBfX3gkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d4d1FKBfX3gkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4d1FKBfX3gkC&printsec\u003dfrontcover&dq\u003dClassics&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4d1FKBfX3gkC&dq\u003dClassics&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 592
+}

@@ -1,0 +1,425 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "tVOHPwAACAAJ",
+   "etag": "bYpPcucOM6M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tVOHPwAACAAJ",
+   "volumeInfo": {
+    "title": "Texana",
+    "authors": [
+     "Frank H. Watt",
+     "Terry G. Jordan",
+     "Robert L. Jones",
+     "Pauline H. Jones",
+     "Andrew Forest Muir",
+     "James M. Day",
+     "Harold B. Simpson"
+    ],
+    "publishedDate": "1968",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:67228961"
+     }
+    ],
+    "pageCount": 306,
+    "printType": "BOOK",
+    "categories": [
+     "Indians of North America"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtVOHPwAACAAJ&dq\u003dTexana&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtVOHPwAACAAJ&dq\u003dTexana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BqeZSwAACAAJ",
+   "etag": "TyeloE5PCfk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BqeZSwAACAAJ",
+   "volumeInfo": {
+    "title": "Texana",
+    "publishedDate": "1964",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:76709099"
+     }
+    ],
+    "pageCount": 85,
+    "printType": "BOOK",
+    "categories": [
+     "Texas"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBqeZSwAACAAJ&dq\u003dTexana&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBqeZSwAACAAJ&dq\u003dTexana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XPMhtwAACAAJ",
+   "etag": "GrhNCZ3Qz4g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XPMhtwAACAAJ",
+   "volumeInfo": {
+    "title": "Texana",
+    "subtitle": "facsimile reproductions of early Texana : and other publications of the Steck Company, Austin, Texas",
+    "authors": [
+     "Steck Company"
+    ],
+    "publishedDate": "1936",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:31594335"
+     }
+    ],
+    "pageCount": 28,
+    "printType": "BOOK",
+    "categories": [
+     "Booksellers' catalogs"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXPMhtwAACAAJ&dq\u003dTexana&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXPMhtwAACAAJ&dq\u003dTexana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "D7hdtwAACAAJ",
+   "etag": "T4++kUr6NqQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/D7hdtwAACAAJ",
+   "volumeInfo": {
+    "title": "Texana",
+    "subtitle": "a novel",
+    "authors": [
+     "Robert F. Mirvish"
+    ],
+    "publishedDate": "1954",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:54005805"
+     }
+    ],
+    "pageCount": 279,
+    "printType": "BOOK",
+    "categories": [
+     "Texas"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dD7hdtwAACAAJ&dq\u003dTexana&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dD7hdtwAACAAJ&dq\u003dTexana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LzBUtwAACAAJ",
+   "etag": "D+ySOm56dIQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LzBUtwAACAAJ",
+   "volumeInfo": {
+    "title": "Texana",
+    "subtitle": "a novel",
+    "authors": [
+     "Robert Franklin Mirvish"
+    ],
+    "publishedDate": "1954",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:152419460"
+     }
+    ],
+    "pageCount": 279,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLzBUtwAACAAJ&dq\u003dTexana&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLzBUtwAACAAJ&dq\u003dTexana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Thr8NwAACAAJ",
+   "etag": "SLOL0CM8tQg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Thr8NwAACAAJ",
+   "volumeInfo": {
+    "title": "Texana",
+    "subtitle": "excavations at a nineteenth-century inland coastal town, Jackson County, Texas",
+    "authors": [
+     "Marsha F. Jackson"
+    ],
+    "publishedDate": "1977",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:78620878"
+     }
+    ],
+    "pageCount": 166,
+    "printType": "BOOK",
+    "categories": [
+     "Texana, Tex"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dThr8NwAACAAJ&dq\u003dTexana&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dThr8NwAACAAJ&dq\u003dTexana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "svw0HAAACAAJ",
+   "etag": "iX8EtZOuZ8M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/svw0HAAACAAJ",
+   "volumeInfo": {
+    "title": "Texana",
+    "authors": [
+     "Jenkins Company"
+    ],
+    "publishedDate": "1986",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:17562556"
+     }
+    ],
+    "pageCount": 116,
+    "printType": "BOOK",
+    "categories": [
+     "Booksellers' catalogs"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dsvw0HAAACAAJ&dq\u003dTexana&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dsvw0HAAACAAJ&dq\u003dTexana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eouePgAACAAJ",
+   "etag": "kuZ0GP13/c4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eouePgAACAAJ",
+   "volumeInfo": {
+    "title": "Texana",
+    "authors": [
+     "Jenkins Company, Austin"
+    ],
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:226919871"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deouePgAACAAJ&dq\u003dTexana&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deouePgAACAAJ&dq\u003dTexana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UPSnHAAACAAJ",
+   "etag": "SmTY3ptLOzE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UPSnHAAACAAJ",
+   "volumeInfo": {
+    "title": "Texana",
+    "subtitle": "manuscripts, autographs, documents",
+    "authors": [
+     "C. Dorman David",
+     "John Holmes Jenkins"
+    ],
+    "publishedDate": "19??",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:48968477"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Texas"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUPSnHAAACAAJ&dq\u003dTexana&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUPSnHAAACAAJ&dq\u003dTexana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Mw3sHgAACAAJ",
+   "etag": "q6WABgJWAgk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Mw3sHgAACAAJ",
+   "volumeInfo": {
+    "title": "Texana",
+    "authors": [
+     "Yolanda Carter"
+    ],
+    "publishedDate": "1986",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:122348073"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Miniature Books"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMw3sHgAACAAJ&dq\u003dTexana&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMw3sHgAACAAJ&dq\u003dTexana&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 580
+}

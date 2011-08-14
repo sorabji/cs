@@ -1,0 +1,605 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "3DiQRbwz6jcC",
+   "etag": "PuvHxVBxexU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3DiQRbwz6jcC",
+   "volumeInfo": {
+    "title": "First ladies",
+    "authors": [
+     "Betty Boyd Caroli"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2003-09-04",
+    "description": "This intimate look at America&#39;s First Ladies is as much a portrait of the institution of marriage as it is a biographical look at the women themselves.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0195166760"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195166767"
+     }
+    ],
+    "pageCount": 447,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d3DiQRbwz6jcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d3DiQRbwz6jcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3DiQRbwz6jcC&printsec\u003dfrontcover&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3DiQRbwz6jcC&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/First_ladies-sample-epub.acsm?id\u003d3DiQRbwz6jcC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ybUjEuH8ArwC",
+   "etag": "VV8QSGfshRc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ybUjEuH8ArwC",
+   "volumeInfo": {
+    "title": "First Ladies",
+    "subtitle": "An Intimate Group Portrait of White House Wives",
+    "authors": [
+     "Margaret Truman"
+    ],
+    "publisher": "Ballantine Books",
+    "publishedDate": "1996-08-27",
+    "description": "A detailed look at twenty-three president&#39;s wives offers a perspective on their difficult roles and important contributions and includes interviews with the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "044922323X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780449223239"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 28,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dybUjEuH8ArwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dybUjEuH8ArwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dybUjEuH8ArwC&printsec\u003dfrontcover&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dybUjEuH8ArwC&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dybUjEuH8ArwC&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/First_Ladies-sample-epub.acsm?id\u003dybUjEuH8ArwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/First_Ladies-sample-pdf.acsm?id\u003dybUjEuH8ArwC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "n5YVoopwVgUC",
+   "etag": "u0E9Cy6QXls",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/n5YVoopwVgUC",
+   "volumeInfo": {
+    "title": "The First Ladies",
+    "authors": [
+     "Margaret Brown Klapthor",
+     "Allida M. Black"
+    ],
+    "publisher": "US Government Printing Office",
+    "publishedDate": "2002-10-08",
+    "description": "Presents a one page biography along with a portrait or photograph for all first ladies.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0912308834"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780912308838"
+     }
+    ],
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dn5YVoopwVgUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dn5YVoopwVgUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dn5YVoopwVgUC&printsec\u003dfrontcover&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dn5YVoopwVgUC&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8M0pUjnH2LUC",
+   "etag": "akCDIEe2pfA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8M0pUjnH2LUC",
+   "volumeInfo": {
+    "title": "First ladies",
+    "subtitle": "a biographical dictionary",
+    "authors": [
+     "Dorothy Schneider",
+     "Carl J. Schneider"
+    ],
+    "publisher": "Facts on File",
+    "publishedDate": "2009-12-31",
+    "description": "Praise for the previous edition: ..&quot;.appealing as well as informative. Recommended for high-school, public, and undergraduate libraries.&quot;--Booklist",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "081607724X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816077243"
+     }
+    ],
+    "pageCount": 436,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d8M0pUjnH2LUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d8M0pUjnH2LUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8M0pUjnH2LUC&printsec\u003dfrontcover&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8M0pUjnH2LUC&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fKcXxv2pqfYC",
+   "etag": "wrcTt9orFmA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fKcXxv2pqfYC",
+   "volumeInfo": {
+    "title": "First ladies",
+    "subtitle": "from Martha Washington to Michelle Obama",
+    "authors": [
+     "Betty Boyd Caroli"
+    ],
+    "publisher": "Oxford Univ Pr",
+    "publishedDate": "2010-07-15",
+    "description": "Presents a study of the forty women who served as &quot;first ladies,&quot; drawing on their own writings and other documents to relate their experiences and to trace the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "019539285X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195392852"
+     }
+    ],
+    "pageCount": 437,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dfKcXxv2pqfYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dfKcXxv2pqfYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfKcXxv2pqfYC&printsec\u003dfrontcover&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfKcXxv2pqfYC&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dfKcXxv2pqfYC&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/First_ladies-sample-epub.acsm?id\u003dfKcXxv2pqfYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/First_ladies-sample-pdf.acsm?id\u003dfKcXxv2pqfYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "u2ZMPwAACAAJ",
+   "etag": "2sK6mIVFg/g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u2ZMPwAACAAJ",
+   "volumeInfo": {
+    "title": "First ladies",
+    "subtitle": "the saga of the presidents' wives and their power",
+    "authors": [
+     "Carl Sferrazza Anthony"
+    ],
+    "publisher": "Harper Perennial",
+    "publishedDate": "1993-05-27",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0688125751"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780688125752"
+     }
+    ],
+    "pageCount": 512,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003du2ZMPwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003du2ZMPwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003du2ZMPwAACAAJ&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003du2ZMPwAACAAJ&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zyRSDOegzTUC",
+   "etag": "K/JIK+8zFcw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zyRSDOegzTUC",
+   "volumeInfo": {
+    "title": "First Lady",
+    "authors": [
+     "Susan Elizabeth Phillips"
+    ],
+    "publisher": "Avon",
+    "publishedDate": "2000-01-27",
+    "description": "Young and attractive, the widow the President of the United States finds herself a prisoner of her national &quot;role&quot; and strives to escape, even if only for a few ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0380808072"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780380808076"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 98,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dzyRSDOegzTUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dzyRSDOegzTUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzyRSDOegzTUC&printsec\u003dfrontcover&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzyRSDOegzTUC&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 6.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 6.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dzyRSDOegzTUC&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/First_Lady-sample-epub.acsm?id\u003dzyRSDOegzTUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "elFJALLAenIC",
+   "etag": "SfBBBBvevXY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/elFJALLAenIC",
+   "volumeInfo": {
+    "title": "The First Ladies",
+    "subtitle": "From Martha Washington to Mamie Eisenhower, an Intimate Portrait of the Women Who Shaped America",
+    "authors": [
+     "Feather Schwartz Foster"
+    ],
+    "publisher": "Cumberland House",
+    "publishedDate": "2011-02-01",
+    "description": "Offers biographical information on the American first ladies, from Martha Washington to Mamie Eisenhower, providing insight into their early lives, time in the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1402242727"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781402242724"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "0.1.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003delFJALLAenIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003delFJALLAenIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003delFJALLAenIC&printsec\u003dfrontcover&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003delFJALLAenIC&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003delFJALLAenIC&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_First_Ladies-sample-epub.acsm?id\u003delFJALLAenIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_First_Ladies-sample-pdf.acsm?id\u003delFJALLAenIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HGQ9VNAiRqcC",
+   "etag": "dU/SVi+Iq2Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HGQ9VNAiRqcC",
+   "volumeInfo": {
+    "title": "The First Lady",
+    "authors": [
+     "Carl Weber"
+    ],
+    "publisher": "Dafina",
+    "publishedDate": "2007-11-27",
+    "description": "When the Lord calls her home at the tender age of forty-four, Charlene Wilson, First Lady of First Jamaica Ministries, is determined to find a woman to take ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0758215762"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780758215765"
+     }
+    ],
+    "pageCount": 276,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 32,
+    "contentVersion": "0.1.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dHGQ9VNAiRqcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dHGQ9VNAiRqcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHGQ9VNAiRqcC&printsec\u003dfrontcover&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHGQ9VNAiRqcC&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.92,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dHGQ9VNAiRqcC&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_First_Lady-sample-epub.acsm?id\u003dHGQ9VNAiRqcC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_First_Lady-sample-pdf.acsm?id\u003dHGQ9VNAiRqcC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "v-1WAAAAYAAJ",
+   "etag": "M74RbdgBtx8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/v-1WAAAAYAAJ",
+   "volumeInfo": {
+    "title": "First Ladies",
+    "authors": [
+     "Betty Boyd Caroli"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "1988-08",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PSU:000031458375"
+     }
+    ],
+    "pageCount": 428,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dv-1WAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dv-1WAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dv-1WAAAAYAAJ&q\u003dFirst+Ladies&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dv-1WAAAAYAAJ&dq\u003dFirst+Ladies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 585
+}

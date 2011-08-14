@@ -1,0 +1,529 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "YccUi0k25xAC",
+   "etag": "peAi1sSBFdA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YccUi0k25xAC",
+   "volumeInfo": {
+    "title": "American folk tales and songs",
+    "subtitle": "and other examples of English-American tradition as preserved in the Appalachian Mountains and elsewhere in the United States",
+    "authors": [
+     "Richard Chase"
+    ],
+    "publisher": "Dover Pubns",
+    "publishedDate": "1956",
+    "description": "The humor, hardships and traditions of the Southern Appalachian Mountains are represented in stories and songs in the American folk tradition",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0486226921"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486226927"
+     }
+    ],
+    "pageCount": 239,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dYccUi0k25xAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dYccUi0k25xAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYccUi0k25xAC&printsec\u003dfrontcover&dq\u003dFolk+Tales&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYccUi0k25xAC&dq\u003dFolk+Tales&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "N1d6ExVQG00C",
+   "etag": "8D0/8Wxabv8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/N1d6ExVQG00C",
+   "volumeInfo": {
+    "title": "Folk tales",
+    "subtitle": "a short anthology",
+    "authors": [
+     "Jane O'Loughlin",
+     "David Kennett"
+    ],
+    "publisher": "Magic Bean",
+    "publishedDate": "1991-09",
+    "description": "They are tales of the people — the \u003cb\u003efolk tales\u003c/b\u003e. In this anthology five types of \u003cbr\u003e\r\n\u003cb\u003efolk tale\u003c/b\u003e are told. Each tale comes from a different part of the world, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0947212957"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780947212957"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dN1d6ExVQG00C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dN1d6ExVQG00C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dN1d6ExVQG00C&printsec\u003dfrontcover&dq\u003dFolk+Tales&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dN1d6ExVQG00C&dq\u003dFolk+Tales&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Folk_tales-sample-epub.acsm?id\u003dN1d6ExVQG00C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "F9FUAQFyuUcC",
+   "etag": "5Wgucw1R6bw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/F9FUAQFyuUcC",
+   "volumeInfo": {
+    "title": "Eskimo Folk-Tales",
+    "authors": [
+     "Knud Johan Victor Rasmussen"
+    ],
+    "description": "INTRODUCTION HESE \u003cb\u003estories\u003c/b\u003e were collected in various parts of Greenland, taken \u003cbr\u003e\r\ndown from the lips of the Eskimo story-tellers themselves, by Knud Rasmussen, \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "160506856X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781605068565"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dF9FUAQFyuUcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dF9FUAQFyuUcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dF9FUAQFyuUcC&printsec\u003dfrontcover&dq\u003dFolk+Tales&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dF9FUAQFyuUcC&dq\u003dFolk+Tales&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LLbfAAAAMAAJ",
+   "etag": "91NHZdFeYqs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LLbfAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Philippine folk tales",
+    "publishedDate": "1916",
+    "description": "INTRODUCTION &#39;l ^HE dim light of stars filtered through the leafy -*- canopy \u003cbr\u003e\r\nabove us, and the shadowy form of our guide once more appeared at my horse&#39;s \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "IND:39000005923334"
+     }
+    ],
+    "pageCount": 218,
+    "printType": "BOOK",
+    "categories": [
+     "Folklore"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dLLbfAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dLLbfAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLLbfAAAAMAAJ&printsec\u003dfrontcover&dq\u003dFolk+Tales&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLLbfAAAAMAAJ&dq\u003dFolk+Tales&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Philippine_folk_tales.epub?id\u003dLLbfAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Philippine_folk_tales.pdf?id\u003dLLbfAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1H476YbKXauyQvGT95-liMdUsyGQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s_WyX-DD43YC",
+   "etag": "Y0+/BQsMN5g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s_WyX-DD43YC",
+   "volumeInfo": {
+    "title": "Folk and fairy tales",
+    "subtitle": "a handbook",
+    "authors": [
+     "D. L. Ashliman"
+    ],
+    "publisher": "Greenwood Pub Group",
+    "publishedDate": "2004",
+    "description": "It examines folk and fairy tales as a folklore genre, discusses specific examples from around the world, explores the varied manifestations of folk and fairy ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0313328102"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780313328107"
+     }
+    ],
+    "pageCount": 268,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003ds_WyX-DD43YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003ds_WyX-DD43YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ds_WyX-DD43YC&printsec\u003dfrontcover&dq\u003dFolk+Tales&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ds_WyX-DD43YC&dq\u003dFolk+Tales&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 60.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 48.76,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003ds_WyX-DD43YC&dq\u003dFolk+Tales&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Folk_and_fairy_tales-sample-epub.acsm?id\u003ds_WyX-DD43YC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Folk_and_fairy_tales-sample-pdf.acsm?id\u003ds_WyX-DD43YC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "65hSPAAACAAJ",
+   "etag": "vnsqNuGcSy8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/65hSPAAACAAJ",
+   "volumeInfo": {
+    "title": "Folk tales",
+    "subtitle": "Snow White and Rose Red [and] The golden goose by the Brothers Grimm ; Jack and the beanstalk, an English folk tale",
+    "authors": [
+     "Jacob Grimm",
+     "Wilhelm Grimm"
+    ],
+    "publishedDate": "1973",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:79791906"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d65hSPAAACAAJ&dq\u003dFolk+Tales&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d65hSPAAACAAJ&dq\u003dFolk+Tales&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YwYBocX1jOMC",
+   "etag": "luVRgLbxlrw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YwYBocX1jOMC",
+   "volumeInfo": {
+    "title": "Folk tales",
+    "authors": [
+     "Helen Snell Neumeyer",
+     "Bee Thorpe",
+     "James Moffett"
+    ],
+    "publishedDate": "1973",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0395147786"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780395147788"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Folk literature"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dYwYBocX1jOMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dYwYBocX1jOMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYwYBocX1jOMC&q\u003dFolk+Tales&dq\u003dFolk+Tales&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYwYBocX1jOMC&dq\u003dFolk+Tales&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "a7EBzI0HuyoC",
+   "etag": "770hx4UJwCI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a7EBzI0HuyoC",
+   "volumeInfo": {
+    "title": "Navaho folk tales",
+    "authors": [
+     "Franc Johnson Newcomb"
+    ],
+    "publisher": "Univ of New Mexico Pr",
+    "publishedDate": "1967",
+    "description": "Their stories fill this book.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0826312314"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780826312310"
+     }
+    ],
+    "pageCount": 203,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003da7EBzI0HuyoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003da7EBzI0HuyoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003da7EBzI0HuyoC&printsec\u003dfrontcover&dq\u003dFolk+Tales&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003da7EBzI0HuyoC&dq\u003dFolk+Tales&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OQT4J69AlC8C",
+   "etag": "z02Jdn6bt7g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OQT4J69AlC8C",
+   "volumeInfo": {
+    "title": "Georgian Folk Tales",
+    "authors": [
+     "Marjory Wardrop"
+    ],
+    "publisher": "Abela Publishing Ltd",
+    "publishedDate": "2009-07-31",
+    "description": "Indeed, some of these stories closely parallel those published in Abela Publishing&#39;s Gypsy Folk Tales and Roumanian Folk Tales.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1907256121"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781907256127"
+     }
+    ],
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dOQT4J69AlC8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dOQT4J69AlC8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOQT4J69AlC8C&printsec\u003dfrontcover&dq\u003dFolk+Tales&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOQT4J69AlC8C&dq\u003dFolk+Tales&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Georgian_Folk_Tales-sample-epub.acsm?id\u003dOQT4J69AlC8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HXPwK8cBwM8C",
+   "etag": "tyBO+uT6msg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HXPwK8cBwM8C",
+   "volumeInfo": {
+    "title": "African Folk Tales",
+    "authors": [
+     "Hugh Vernon-Jackson",
+     "Yuko Green"
+    ],
+    "publisher": "Dover Publications",
+    "publishedDate": "1999-01-08",
+    "description": "Presents eighteen traditional tales from West Africa, including &quot;The Tortoise and the Leopard,&quot; &quot;The Story of Muhammadu,&quot; and &quot;The Magic Crocodile.&quot;",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0486405532"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486405537"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dHXPwK8cBwM8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dHXPwK8cBwM8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHXPwK8cBwM8C&printsec\u003dfrontcover&dq\u003dFolk+Tales&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHXPwK8cBwM8C&dq\u003dFolk+Tales&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 592
+}

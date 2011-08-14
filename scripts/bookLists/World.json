@@ -1,0 +1,578 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "oSsIfoDQHhgC",
+   "etag": "nvMTaZZUgUQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oSsIfoDQHhgC",
+   "volumeInfo": {
+    "title": "The World is Flat",
+    "subtitle": "a Brief History of the Twenty-First Century",
+    "authors": [
+     "Thomas L. Friedman"
+    ],
+    "publisher": "Picador",
+    "publishedDate": "2007-07-24",
+    "description": "The New York Times columnist offers a concise and compelling history of globalization, discussing a wide range of economic and political topics and issues, from ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0312425074"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780312425074"
+     }
+    ],
+    "pageCount": 660,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1739,
+    "contentVersion": "0.1.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003doSsIfoDQHhgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003doSsIfoDQHhgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doSsIfoDQHhgC&printsec\u003dfrontcover&dq\u003dWorld&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doSsIfoDQHhgC&dq\u003dWorld&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 4.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 4.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003doSsIfoDQHhgC&dq\u003dWorld&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_World_is_Flat-sample-epub.acsm?id\u003doSsIfoDQHhgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_World_is_Flat-sample-pdf.acsm?id\u003doSsIfoDQHhgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zaTRIPsXsAkC",
+   "etag": "SYbxGH0mB4s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zaTRIPsXsAkC",
+   "volumeInfo": {
+    "title": "The world",
+    "subtitle": "travels 1950-2000",
+    "authors": [
+     "Jan Morris"
+    ],
+    "publisher": "W. W. Norton & Company",
+    "publishedDate": "2003-10-28",
+    "description": "Dividing the volume into five decades, Morris presents history with an unparalleled dramatic flair, creating a riveting portrait of the twentieth century, from ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0393052087"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780393052084"
+     }
+    ],
+    "pageCount": 458,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 5,
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dzaTRIPsXsAkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dzaTRIPsXsAkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzaTRIPsXsAkC&printsec\u003dfrontcover&dq\u003dWorld&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzaTRIPsXsAkC&dq\u003dWorld&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Lttb1qPh4Z8C",
+   "etag": "L+Q1rOLaScE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Lttb1qPh4Z8C",
+   "volumeInfo": {
+    "title": "The world's water, 2006-2007",
+    "subtitle": "the biennial report on freshwater resources",
+    "authors": [
+     "Peter H. Gleick",
+     "Heather Cooley",
+     "David Katz"
+    ],
+    "publisher": "Island Pr",
+    "publishedDate": "2006",
+    "description": "Produced biennially, The World&#39;s Water provides a timely examination of the key issues surrounding freshwater resources and their use.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1597261068"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781597261067"
+     }
+    ],
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dLttb1qPh4Z8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dLttb1qPh4Z8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLttb1qPh4Z8C&printsec\u003dfrontcover&dq\u003dWorld&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLttb1qPh4Z8C&dq\u003dWorld&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 40.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dLttb1qPh4Z8C&dq\u003dWorld&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_world_s_water_2006_2007-sample-pdf.acsm?id\u003dLttb1qPh4Z8C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XmnHTbXT7mAC",
+   "etag": "n1ScrRhVIsA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XmnHTbXT7mAC",
+   "volumeInfo": {
+    "title": "World development report",
+    "authors": [
+     "World Bank"
+    ],
+    "publisher": "A World Bank Publication",
+    "publishedDate": "1980",
+    "description": "Includes statistical tables and graphs.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0195028341"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195028348"
+     }
+    ],
+    "pageCount": 174,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dXmnHTbXT7mAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dXmnHTbXT7mAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXmnHTbXT7mAC&printsec\u003dfrontcover&dq\u003dWorld&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXmnHTbXT7mAC&dq\u003dWorld&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UEt_xWoju_MC",
+   "etag": "8pk2ghDyEAc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UEt_xWoju_MC",
+   "volumeInfo": {
+    "title": "The World Without Us",
+    "authors": [
+     "Alan Weisman"
+    ],
+    "publisher": "Picador USA",
+    "publishedDate": "2008-08-05",
+    "description": "&quot;This is one of the grandest thought experiments of our time, a tremendous feat of imaginative reporting!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0312427905"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780312427900"
+     }
+    ],
+    "pageCount": 416,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 1646,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dUEt_xWoju_MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dUEt_xWoju_MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUEt_xWoju_MC&printsec\u003dfrontcover&dq\u003dWorld&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUEt_xWoju_MC&dq\u003dWorld&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5vGr7kRsXBkC",
+   "etag": "PP+ZlwHOLRM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5vGr7kRsXBkC",
+   "volumeInfo": {
+    "title": "World-systems analysis",
+    "subtitle": "an introduction",
+    "authors": [
+     "Immanuel Maurice Wallerstein"
+    ],
+    "publisher": "Duke University Press Books",
+    "publishedDate": "2004",
+    "description": "An introduction to world systems analysis by its creator. &quot;Immanuel Wallerstein&#39;s mind can reach as far and encompass as much as anyone&#39;s in our time.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0822334429"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780822334422"
+     }
+    ],
+    "pageCount": 109,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 12,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d5vGr7kRsXBkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d5vGr7kRsXBkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5vGr7kRsXBkC&printsec\u003dfrontcover&dq\u003dWorld&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5vGr7kRsXBkC&dq\u003dWorld&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "C4TbtgAACAAJ",
+   "etag": "GX9uHguijYg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/C4TbtgAACAAJ",
+   "volumeInfo": {
+    "title": "World",
+    "authors": [
+     "World Book, Inc"
+    ],
+    "publishedDate": "2001-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "071660101X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780716601012"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Encyclopedias and dictionaries"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dC4TbtgAACAAJ&dq\u003dWorld&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dC4TbtgAACAAJ&dq\u003dWorld&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KPMtVIsNo-wC",
+   "etag": "P4A8i8ZaRzw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KPMtVIsNo-wC",
+   "volumeInfo": {
+    "title": "Runaway world",
+    "subtitle": "how globalization is reshaping our lives",
+    "authors": [
+     "Anthony Giddens"
+    ],
+    "publisher": "Taylor & Francis",
+    "publishedDate": "2003",
+    "description": "&#39;This little book is full of insights about who we are and where we are going.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415944872"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415944878"
+     }
+    ],
+    "pageCount": 104,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dKPMtVIsNo-wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dKPMtVIsNo-wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKPMtVIsNo-wC&printsec\u003dfrontcover&dq\u003dWorld&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKPMtVIsNo-wC&dq\u003dWorld&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KSp1okOggpkC",
+   "etag": "3nLAEZ1Zl+k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KSp1okOggpkC",
+   "volumeInfo": {
+    "title": "World on fire",
+    "subtitle": "how exporting free market democracy breeds ethnic hatred and global instability",
+    "authors": [
+     "Amy Chua"
+    ],
+    "publisher": "Anchor",
+    "publishedDate": "2004-01-06",
+    "description": "Drawing on examples from around the world, the author describes the potential dangers of globalization and the exportation of free-market democracy, arguing ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0385721862"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780385721868"
+     }
+    ],
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 53,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dKSp1okOggpkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dKSp1okOggpkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKSp1okOggpkC&printsec\u003dfrontcover&dq\u003dWorld&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKSp1okOggpkC&dq\u003dWorld&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dKSp1okOggpkC&dq\u003dWorld&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/World_on_fire-sample-epub.acsm?id\u003dKSp1okOggpkC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/World_on_fire-sample-pdf.acsm?id\u003dKSp1okOggpkC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fPpi4XAQ9iQC",
+   "etag": "i7gu75+jr5I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fPpi4XAQ9iQC",
+   "volumeInfo": {
+    "title": "The World According to Garp",
+    "authors": [
+     "John Irving"
+    ],
+    "publisher": "Vintage Canada",
+    "publishedDate": "2000-11-07",
+    "description": "This is the life and times of T. S. Garp, the bastard son of Jenny Fields — a feminist leader ahead of her times.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0676973825"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780676973822"
+     }
+    ],
+    "pageCount": 640,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1512,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dfPpi4XAQ9iQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dfPpi4XAQ9iQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfPpi4XAQ9iQC&printsec\u003dfrontcover&dq\u003dWorld&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfPpi4XAQ9iQC&dq\u003dWorld&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 587
+}

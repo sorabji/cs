@@ -1,0 +1,525 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "GGEIuUtbYQEC",
+   "etag": "DL+XND0Guts",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GGEIuUtbYQEC",
+   "volumeInfo": {
+    "title": "US Presidents",
+    "authors": [
+     "Gail Blasser Riley"
+    ],
+    "publisher": "Instructional Fair",
+    "publishedDate": "2001-01-15",
+    "description": "This book is intended to be completed by the student with little or no help from a parent or teacher, which makes it a great resource for use at home or school.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0742401553"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780742401556"
+     }
+    ],
+    "pageCount": 80,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dGGEIuUtbYQEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dGGEIuUtbYQEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGGEIuUtbYQEC&printsec\u003dfrontcover&dq\u003dU.S.+Presidents&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGGEIuUtbYQEC&dq\u003dU.S.+Presidents&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pz7sTimoQkcC",
+   "etag": "97uvWXjLwFQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pz7sTimoQkcC",
+   "volumeInfo": {
+    "title": "U.S. Presidents",
+    "subtitle": "Truth and Rumors",
+    "authors": [
+     "Sean Price",
+     "Sean Stewart Price"
+    ],
+    "publisher": "Capstone Press(MN)",
+    "publishedDate": "2010",
+    "description": "&quot;Labels common stories about former U.S. presidents as fact or fiction and teaches readers how to tell the difference between truth and rumors&quot;--Provided by ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1429639520"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781429639521"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dpz7sTimoQkcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dpz7sTimoQkcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpz7sTimoQkcC&printsec\u003dfrontcover&dq\u003dU.S.+Presidents&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpz7sTimoQkcC&dq\u003dU.S.+Presidents&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Bv2uBkZzZygC",
+   "etag": "o5+dEKezk2w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Bv2uBkZzZygC",
+   "volumeInfo": {
+    "title": "Secret Lives of the U.S. Presidents",
+    "subtitle": "What Your Teachers Never Told You About the Men of the White House",
+    "authors": [
+     "Cormac O'Brien"
+    ],
+    "publisher": "Chronicle Books",
+    "publishedDate": "2009-02-04",
+    "description": "Presents little-known facts and trivia about the United States presidents, from George Washington to Barack Obama, including information on personal lives, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1594743444"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781594743443"
+     }
+    ],
+    "pageCount": 287,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 36,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dBv2uBkZzZygC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dBv2uBkZzZygC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBv2uBkZzZygC&printsec\u003dfrontcover&dq\u003dU.S.+Presidents&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBv2uBkZzZygC&dq\u003dU.S.+Presidents&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dBv2uBkZzZygC&dq\u003dU.S.+Presidents&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Secret_Lives_of_the_U_S_Presidents-sample-epub.acsm?id\u003dBv2uBkZzZygC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yHhFIik_l4sC",
+   "etag": "EiMUYAr1gaY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yHhFIik_l4sC",
+   "volumeInfo": {
+    "title": "U S Presidents",
+    "subtitle": "A Guide to Authenticating Autographs",
+    "authors": [
+     "Joseph Liberkowski"
+    ],
+    "publisher": "Lulu.Com",
+    "publishedDate": "2006-02",
+    "description": "A guide to authenticating autographs of the American Presidents: paper, ink, forgeries, and signature examples.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1411683196"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781411683198"
+     }
+    ],
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dyHhFIik_l4sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dyHhFIik_l4sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyHhFIik_l4sC&printsec\u003dfrontcover&dq\u003dU.S.+Presidents&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyHhFIik_l4sC&dq\u003dU.S.+Presidents&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/U_S_Presidents-sample-epub.acsm?id\u003dyHhFIik_l4sC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "h7Ec68e3_SsC",
+   "etag": "u/2KsXqtvUA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/h7Ec68e3_SsC",
+   "volumeInfo": {
+    "title": "U.S. Presidents",
+    "subtitle": "feats & foul-ups",
+    "authors": [
+     "Nell Fuqua",
+     "Dan Jankowki"
+    ],
+    "publishedDate": "2003-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "043954081X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780439540810"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dh7Ec68e3_SsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dh7Ec68e3_SsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dh7Ec68e3_SsC&q\u003dU.S.+Presidents&dq\u003dU.S.+Presidents&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dh7Ec68e3_SsC&dq\u003dU.S.+Presidents&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qXeRALIwozgC",
+   "etag": "N3IyfE6nxmo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qXeRALIwozgC",
+   "volumeInfo": {
+    "title": "US presidents and foreign policy",
+    "authors": [
+     "Carl Cavanagh Hodge",
+     "Cathal J. Nolan"
+    ],
+    "publisher": "Abc-Clio Inc",
+    "publishedDate": "2007",
+    "description": "This work is a unique single source for information on the foreign policy-wars, treaties, initiatives, and doctrines-of all 43 presidents of the United States.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1851097902"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781851097906"
+     }
+    ],
+    "pageCount": 474,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dqXeRALIwozgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dqXeRALIwozgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dqXeRALIwozgC&printsec\u003dfrontcover&dq\u003dU.S.+Presidents&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dqXeRALIwozgC&dq\u003dU.S.+Presidents&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 85.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 68.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dqXeRALIwozgC&dq\u003dU.S.+Presidents&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/US_presidents_and_foreign_policy-sample-pdf.acsm?id\u003dqXeRALIwozgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zkOsPQAACAAJ",
+   "etag": "cr4pLmFp3HQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zkOsPQAACAAJ",
+   "volumeInfo": {
+    "title": "U. S. Presidents",
+    "authors": [
+     "Learning Horizons Staff"
+    ],
+    "publishedDate": "2001-05",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1586103733"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781586103736"
+     }
+    ],
+    "pageCount": 50,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dzkOsPQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dzkOsPQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzkOsPQAACAAJ&dq\u003dU.S.+Presidents&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzkOsPQAACAAJ&dq\u003dU.S.+Presidents&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "itfiSAAACAAJ",
+   "etag": "PNkWvz4HTnc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/itfiSAAACAAJ",
+   "volumeInfo": {
+    "title": "U.S. Presidents",
+    "publishedDate": "2008",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:514791794"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Presidents"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ditfiSAAACAAJ&dq\u003dU.S.+Presidents&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ditfiSAAACAAJ&dq\u003dU.S.+Presidents&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JxZrPgAACAAJ",
+   "etag": "TS/sbkm/IX0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JxZrPgAACAAJ",
+   "volumeInfo": {
+    "title": "U. S. Presidents",
+    "authors": [
+     "Gail Blasser Riley"
+    ],
+    "publishedDate": "1986-02-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0170067734"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780170067737"
+     }
+    ],
+    "pageCount": 110,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJxZrPgAACAAJ&dq\u003dU.S.+Presidents&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJxZrPgAACAAJ&dq\u003dU.S.+Presidents&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_PAbPQAACAAJ",
+   "etag": "qyh/3felfAU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_PAbPQAACAAJ",
+   "volumeInfo": {
+    "title": "U. S. Presidents",
+    "authors": [
+     "Gail Blasser Riley"
+    ],
+    "publishedDate": "2003-01-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1840856297"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781840856293"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_PAbPQAACAAJ&dq\u003dU.S.+Presidents&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_PAbPQAACAAJ&dq\u003dU.S.+Presidents&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 582
+}

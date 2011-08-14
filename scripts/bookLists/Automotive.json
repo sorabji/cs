@@ -1,0 +1,557 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Yn9F0RhJ0EkC",
+   "etag": "YF6Y5QGnNso",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Yn9F0RhJ0EkC",
+   "volumeInfo": {
+    "title": "Automotive service",
+    "subtitle": "inspection, maintenance, repair",
+    "authors": [
+     "Tim Gilles"
+    ],
+    "publisher": "Delmar Pub",
+    "publishedDate": "2003-02-27",
+    "description": "Written by an ASE Master Technician and Master Machinist, the second edition of our popular Automotive Service: Inspection, Maintenance and Repair book has been ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1401812341"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781401812348"
+     }
+    ],
+    "pageCount": 1276,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dYn9F0RhJ0EkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dYn9F0RhJ0EkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYn9F0RhJ0EkC&printsec\u003dfrontcover&dq\u003dAutomotive&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYn9F0RhJ0EkC&dq\u003dAutomotive&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JX_zTMheqMcC",
+   "etag": "Uqu+icDX2QU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JX_zTMheqMcC",
+   "volumeInfo": {
+    "title": "AUTOMOTIVE TECHNOLOGY- A SYSTEMS APPROACH TECH MAN",
+    "authors": [
+     "Jack Erjavec"
+    ],
+    "publisher": "Delmar Pub",
+    "publishedDate": "2009-01-02",
+    "description": "OVERVIEW In Chapter 1 of \u003cb\u003eAutomotive\u003c/b\u003e Technology: A Systems Approach, many aspects \u003cbr\u003e\r\nof the \u003cb\u003eautomotive\u003c/b\u003e industry were looked at. One point from your reading \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1428311505"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781428311503"
+     }
+    ],
+    "pageCount": 784,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dJX_zTMheqMcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dJX_zTMheqMcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJX_zTMheqMcC&pg\u003dPA1&dq\u003dAutomotive&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJX_zTMheqMcC&dq\u003dAutomotive&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vEKbhuFVhJEC",
+   "etag": "AJYlh527BM4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vEKbhuFVhJEC",
+   "volumeInfo": {
+    "title": "Automotive transmissions",
+    "subtitle": "fundamentals, selection, design and application",
+    "authors": [
+     "Gisbert Lechner",
+     "Harald Naunheimer",
+     "Joachim Ryborz"
+    ],
+    "publisher": "Springer Verlag",
+    "publishedDate": "1999-07-30",
+    "description": "This book gives a full account of the development process for automotive transmissions.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "354065903X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540659037"
+     }
+    ],
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dvEKbhuFVhJEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dvEKbhuFVhJEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvEKbhuFVhJEC&printsec\u003dfrontcover&dq\u003dAutomotive&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvEKbhuFVhJEC&dq\u003dAutomotive&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 269.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 215.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dvEKbhuFVhJEC&dq\u003dAutomotive&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Automotive_transmissions-sample-pdf.acsm?id\u003dvEKbhuFVhJEC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MpSNZCOSy6MC",
+   "etag": "OJDUAqh1Xwk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MpSNZCOSy6MC",
+   "volumeInfo": {
+    "title": "Automotive electronics handbook",
+    "authors": [
+     "Ronald K. Jurgen"
+    ],
+    "publisher": "McGraw-Hill Professional",
+    "publishedDate": "1999-02-28",
+    "description": "The new edition of the leading book in the field has added: new chapters on improved safety features; new sections on adding electronic intelligence; electronic ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0070344531"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780070344532"
+     }
+    ],
+    "pageCount": 1000,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dMpSNZCOSy6MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dMpSNZCOSy6MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMpSNZCOSy6MC&printsec\u003dfrontcover&dq\u003dAutomotive&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMpSNZCOSy6MC&dq\u003dAutomotive&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IUXStgAACAAJ",
+   "etag": "UhZpeT5WAeI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IUXStgAACAAJ",
+   "volumeInfo": {
+    "title": "Advanced Automotive Fault Diagnosis",
+    "subtitle": "Automotive Technology: Vehicle Maintenance and Repair",
+    "authors": [
+     "Tom Denton"
+    ],
+    "publisher": "Butterworth-Heinemann",
+    "publishedDate": "2011-09-19",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0080969550"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780080969558"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dIUXStgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dIUXStgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIUXStgAACAAJ&dq\u003dAutomotive&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIUXStgAACAAJ&dq\u003dAutomotive&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "78HoZb-ohbIC",
+   "etag": "DOOut1V+ccA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/78HoZb-ohbIC",
+   "volumeInfo": {
+    "title": "Automotive Science and Mathematics",
+    "authors": [
+     "Allan Bonnick"
+    ],
+    "publisher": "Elsevier",
+    "publishedDate": "2008-03-10",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0750685220"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780750685221"
+     }
+    ],
+    "pageCount": 241,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d78HoZb-ohbIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d78HoZb-ohbIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d78HoZb-ohbIC&dq\u003dAutomotive&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d78HoZb-ohbIC&dq\u003dAutomotive&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tpzOoC_G4HAC",
+   "etag": "S7XMDrqcBmY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tpzOoC_G4HAC",
+   "volumeInfo": {
+    "title": "Total Automotive Technology",
+    "authors": [
+     "Anthony E. Schwaller"
+    ],
+    "publisher": "Cengage Learning",
+    "publishedDate": "2004-04-06",
+    "description": "The theory and practice for all major systems and components of todays automobiles are introduced in this fully-updated revision by experienced author, Anthony ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1401824765"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781401824761"
+     }
+    ],
+    "pageCount": 1080,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dtpzOoC_G4HAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dtpzOoC_G4HAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtpzOoC_G4HAC&printsec\u003dfrontcover&dq\u003dAutomotive&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtpzOoC_G4HAC&dq\u003dAutomotive&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IZ4xLEh_yI4C",
+   "etag": "Cjw0DRNF51k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IZ4xLEh_yI4C",
+   "volumeInfo": {
+    "title": "Automotive Service Management",
+    "subtitle": "From Intent to Implementation",
+    "authors": [
+     "Mitch Schneider"
+    ],
+    "publisher": "Delmar Pub",
+    "publishedDate": "2002-12-09",
+    "description": "The rationale for automotive services management as a unique discipline is also explained, making this series a great resource for professionals and those ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "140182658X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781401826581"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dIZ4xLEh_yI4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dIZ4xLEh_yI4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIZ4xLEh_yI4C&printsec\u003dfrontcover&dq\u003dAutomotive&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIZ4xLEh_yI4C&dq\u003dAutomotive&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pb2KSQAACAAJ",
+   "etag": "pu6PMmDJ834",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pb2KSQAACAAJ",
+   "volumeInfo": {
+    "title": "Automotive",
+    "subtitle": "Automotive Brakes",
+    "authors": [
+     "Delmar"
+    ],
+    "publishedDate": "2001-03-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "076683428X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780766834286"
+     }
+    ],
+    "pageCount": 80,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dpb2KSQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dpb2KSQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpb2KSQAACAAJ&dq\u003dAutomotive&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpb2KSQAACAAJ&dq\u003dAutomotive&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SH25JbyHrGgC",
+   "etag": "aPNZb9PTlL0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SH25JbyHrGgC",
+   "volumeInfo": {
+    "title": "Automotive quality systems handbook",
+    "subtitle": "ISO/TS 16949:2002 edition",
+    "authors": [
+     "David Hoyle"
+    ],
+    "publisher": "Butterworth-Heinemann",
+    "publishedDate": "2005-07-29",
+    "description": "Written by best-selling author on quality management David Hoyle, this book is ideal for anyone new to the standard or establishing a quality management system ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0750666633"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780750666633"
+     }
+    ],
+    "pageCount": 709,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dSH25JbyHrGgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dSH25JbyHrGgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSH25JbyHrGgC&printsec\u003dfrontcover&dq\u003dAutomotive&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSH25JbyHrGgC&dq\u003dAutomotive&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 84.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 67.96,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dSH25JbyHrGgC&dq\u003dAutomotive&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Automotive_quality_systems_handbook-sample-epub.acsm?id\u003dSH25JbyHrGgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Automotive_quality_systems_handbook-sample-pdf.acsm?id\u003dSH25JbyHrGgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 491
+}

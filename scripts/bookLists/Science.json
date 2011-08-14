@@ -1,0 +1,538 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "VjAWAAAAYAAJ",
+   "etag": "a+oJs2v5lVQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VjAWAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Science",
+    "authors": [
+     "American Association for the Advancement of Science"
+    ],
+    "publishedDate": "1888",
+    "description": "Since Jan. 1901 the official proceedings and most of the papers of the American Association for the Advancement of Science have been included in Science.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044106283997"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dVjAWAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dVjAWAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVjAWAAAAYAAJ&printsec\u003dfrontcover&dq\u003dScience&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVjAWAAAAYAAJ&dq\u003dScience&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Science.pdf?id\u003dVjAWAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U08AZgDlrE28exC9B0LldGWbuZGsQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uWluK83kzT0C",
+   "etag": "QUs9yO4+iiY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uWluK83kzT0C",
+   "volumeInfo": {
+    "title": "National Science Education Standards",
+    "subtitle": "observe, interact, change, learn",
+    "authors": [
+     "National Research Council (U.S.)"
+    ],
+    "publisher": "National Academies Press",
+    "publishedDate": "1996-06-15",
+    "description": "Suggests educational standards for use across the nation, and provides a plan for achieving widespread scientific literacy over the next decade",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0309053269"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780309053266"
+     }
+    ],
+    "pageCount": 262,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003duWluK83kzT0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003duWluK83kzT0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003duWluK83kzT0C&printsec\u003dfrontcover&dq\u003dScience&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003duWluK83kzT0C&dq\u003dScience&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "InAOI6Ln0XoC",
+   "etag": "FocAlpvGCdY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/InAOI6Ln0XoC",
+   "volumeInfo": {
+    "title": "The Science of Mind",
+    "authors": [
+     "Ernest Holmes"
+    ],
+    "publishedDate": "2007-09",
+    "description": "Here is the complete first edition of The Science of Mind.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1604590742"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781604590746"
+     }
+    ],
+    "pageCount": 276,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 25,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dInAOI6Ln0XoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dInAOI6Ln0XoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dInAOI6Ln0XoC&printsec\u003dfrontcover&dq\u003dScience&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dInAOI6Ln0XoC&dq\u003dScience&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Science_of_Mind-sample-epub.acsm?id\u003dInAOI6Ln0XoC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eah3IOz-zhYC",
+   "etag": "2kex8mZ+uSE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eah3IOz-zhYC",
+   "volumeInfo": {
+    "title": "The Science of Getting Rich",
+    "authors": [
+     "Wallace D. Wattles"
+    ],
+    "publisher": "Filiquarian Publishing, LLC.",
+    "publishedDate": "2005-12-31",
+    "description": "This book has often been compared to the Napoleon Hill book, Think and Grow Rich, and works well as a companion to that title.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1599869926"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781599869926"
+     }
+    ],
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003deah3IOz-zhYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003deah3IOz-zhYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deah3IOz-zhYC&printsec\u003dfrontcover&dq\u003dScience&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deah3IOz-zhYC&dq\u003dScience&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Science_of_Getting_Rich-sample-epub.acsm?id\u003deah3IOz-zhYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NtkLeYpv4SgC",
+   "etag": "n2w375MbbKw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NtkLeYpv4SgC",
+   "volumeInfo": {
+    "title": "Science",
+    "authors": [
+     "Steve Fuller"
+    ],
+    "publisher": "Univ Of Minnesota Press",
+    "publishedDate": "1997",
+    "description": "A surprising examination of our understanding of science. &quot;Science is a swashbuckling book. Fuller&#39;s formidable scholarship takes no prisoners&quot;.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0816631255"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816631254"
+     }
+    ],
+    "pageCount": 159,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dNtkLeYpv4SgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dNtkLeYpv4SgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNtkLeYpv4SgC&printsec\u003dfrontcover&dq\u003dScience&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNtkLeYpv4SgC&dq\u003dScience&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Science-sample-epub.acsm?id\u003dNtkLeYpv4SgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pmZ2e33RILcC",
+   "etag": "9lxhIyyiIzs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pmZ2e33RILcC",
+   "volumeInfo": {
+    "title": "The science of God",
+    "subtitle": "the convergence of scientific and biblical wisdom",
+    "authors": [
+     "Gerald L. Schroeder"
+    ],
+    "publisher": "Free Pr",
+    "publishedDate": "1997",
+    "description": "Argues that the Bible and science offer two perspectives on the same truth, exploring such topics as the development of the universe, the origin of life, and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0684837366"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780684837369"
+     }
+    ],
+    "pageCount": 226,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 38,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dpmZ2e33RILcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dpmZ2e33RILcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpmZ2e33RILcC&printsec\u003dfrontcover&dq\u003dScience&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpmZ2e33RILcC&dq\u003dScience&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Npq_qnqwYOwC",
+   "etag": "Sm7EdjG3uIY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Npq_qnqwYOwC",
+   "volumeInfo": {
+    "title": "Science and the Modern World",
+    "subtitle": "Lowell Lectures, 1925",
+    "authors": [
+     "Alfred North Whitehead"
+    ],
+    "publishedDate": "2011-06-09",
+    "description": "This is a fascinating volume that will be of value to anyone with an interest in philosophy or the history of science.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521237785"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521237789"
+     }
+    ],
+    "pageCount": 277,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dNpq_qnqwYOwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dNpq_qnqwYOwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNpq_qnqwYOwC&printsec\u003dfrontcover&dq\u003dScience&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNpq_qnqwYOwC&dq\u003dScience&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4nZn8LePGB0C",
+   "etag": "ykdCSgC6034",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4nZn8LePGB0C",
+   "volumeInfo": {
+    "title": "Science",
+    "authors": [
+     "Timothy M. Cooney"
+    ],
+    "publisher": "Scott Foresman",
+    "publishedDate": "2003-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0328034533"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780328034536"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d4nZn8LePGB0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d4nZn8LePGB0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4nZn8LePGB0C&q\u003dScience&dq\u003dScience&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4nZn8LePGB0C&dq\u003dScience&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sC4bk4DZXTQC",
+   "etag": "2RqCN1SQR8E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sC4bk4DZXTQC",
+   "volumeInfo": {
+    "title": "Science in action",
+    "subtitle": "how to follow scientists and engineers through society",
+    "authors": [
+     "Bruno Latour"
+    ],
+    "publisher": "Harvard Univ Pr",
+    "publishedDate": "1987",
+    "description": "In this book Bruno Latour brings together these different approaches to provide a lively and challenging analysis of science, demonstrating how social context ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0674792912"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780674792913"
+     }
+    ],
+    "pageCount": 274,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 9,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dsC4bk4DZXTQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dsC4bk4DZXTQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dsC4bk4DZXTQC&printsec\u003dfrontcover&dq\u003dScience&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dsC4bk4DZXTQC&dq\u003dScience&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Science_in_action-sample-epub.acsm?id\u003dsC4bk4DZXTQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2mXeGqCUlEkC",
+   "etag": "06kfenW5VAQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2mXeGqCUlEkC",
+   "volumeInfo": {
+    "title": "Bad Science",
+    "subtitle": "Quacks, Hacks, and Big Pharma Flacks",
+    "authors": [
+     "Ben Goldacre"
+    ],
+    "publisher": "Emblem Editions",
+    "publishedDate": "2011-07-05",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0771035799"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780771035791"
+     }
+    ],
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 168,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d2mXeGqCUlEkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d2mXeGqCUlEkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2mXeGqCUlEkC&dq\u003dScience&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2mXeGqCUlEkC&dq\u003dScience&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 308
+}

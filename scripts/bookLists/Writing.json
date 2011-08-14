@@ -1,0 +1,578 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "U78hAQAAIAAJ",
+   "etag": "Z3OT5V8mPh8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/U78hAQAAIAAJ",
+   "volumeInfo": {
+    "title": "On writing",
+    "subtitle": "a memoir of the craft",
+    "authors": [
+     "Stephen King"
+    ],
+    "publisher": "Scribner Book Company",
+    "publishedDate": "2000",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0684853523"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780684853529"
+     }
+    ],
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2030,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dU78hAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dU78hAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dU78hAQAAIAAJ&dq\u003dWriting&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dU78hAQAAIAAJ&dq\u003dWriting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "z-INANBuMBQC",
+   "etag": "PjXJ0u/VMXc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/z-INANBuMBQC",
+   "volumeInfo": {
+    "title": "On writing well",
+    "subtitle": "the classic guide to writing nonfiction",
+    "authors": [
+     "William Knowlton Zinsser"
+    ],
+    "publisher": "Collins",
+    "publishedDate": "2001-09-06",
+    "description": "With more than a million copies sole, this volume has stood the test of time and remains a valuable resource for writers and would-be writers.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0060006641"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780060006648"
+     }
+    ],
+    "pageCount": 308,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 216,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dz-INANBuMBQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dz-INANBuMBQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dz-INANBuMBQC&printsec\u003dfrontcover&dq\u003dWriting&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dz-INANBuMBQC&dq\u003dWriting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FYD26bt8Wz0C",
+   "etag": "SU1moGg2adU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FYD26bt8Wz0C",
+   "volumeInfo": {
+    "title": "About writing",
+    "subtitle": "seven essays, four letters, and five interviews",
+    "authors": [
+     "Samuel R. Delany"
+    ],
+    "publisher": "Wesleyan Univ Pr",
+    "publishedDate": "2005",
+    "description": "Essential reading for the creative writer.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0819567167"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780819567161"
+     }
+    ],
+    "pageCount": 419,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 13,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dFYD26bt8Wz0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dFYD26bt8Wz0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFYD26bt8Wz0C&printsec\u003dfrontcover&dq\u003dWriting&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFYD26bt8Wz0C&dq\u003dWriting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lFqnviLu4fsC",
+   "etag": "kh+w/ZZJhqA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lFqnviLu4fsC",
+   "volumeInfo": {
+    "title": "Writing with power",
+    "subtitle": "techniques for mastering the writing process",
+    "authors": [
+     "Peter Elbow"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "1998-07",
+    "description": "Outlines several approaches to writing, editing, and rewriting, discusses the relationship between the writer and his or her audience, and attempts to define ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0195120175"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195120172"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 15,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dlFqnviLu4fsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dlFqnviLu4fsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlFqnviLu4fsC&printsec\u003dfrontcover&dq\u003dWriting&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlFqnviLu4fsC&dq\u003dWriting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dlFqnviLu4fsC&dq\u003dWriting&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Writing_with_power-sample-epub.acsm?id\u003dlFqnviLu4fsC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Writing_with_power-sample-pdf.acsm?id\u003dlFqnviLu4fsC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nDEGxKePUFQC",
+   "etag": "PpJqEwh/NXI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nDEGxKePUFQC",
+   "volumeInfo": {
+    "title": "On writing",
+    "authors": [
+     "Eudora Welty"
+    ],
+    "publisher": "Random House, Inc.",
+    "publishedDate": "2002",
+    "description": "On Writing is concise and",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0679642706"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780679642701"
+     }
+    ],
+    "pageCount": 106,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 10,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dnDEGxKePUFQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dnDEGxKePUFQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnDEGxKePUFQC&printsec\u003dfrontcover&dq\u003dWriting&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnDEGxKePUFQC&dq\u003dWriting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dnDEGxKePUFQC&dq\u003dWriting&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/On_writing-sample-epub.acsm?id\u003dnDEGxKePUFQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vIE2Dx-knU8C",
+   "etag": "b4TVNstN/Z4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vIE2Dx-knU8C",
+   "volumeInfo": {
+    "title": "Writing Down the Bones",
+    "subtitle": "Freeing the Writer Within",
+    "authors": [
+     "Natalie Goldberg"
+    ],
+    "publisher": "Shambhala Publications",
+    "publishedDate": "2010-03-30",
+    "description": "This expanded edition includes a new preface and an interview with Natalie where she reflects on the relationship between Zen sitting practice and writing, the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1590307941"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781590307946"
+     }
+    ],
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 13,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dvIE2Dx-knU8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dvIE2Dx-knU8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvIE2Dx-knU8C&printsec\u003dfrontcover&dq\u003dWriting&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvIE2Dx-knU8C&dq\u003dWriting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 8.52,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dvIE2Dx-knU8C&dq\u003dWriting&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Writing_Down_the_Bones-sample-epub.acsm?id\u003dvIE2Dx-knU8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Writing_Down_the_Bones-sample-pdf.acsm?id\u003dvIE2Dx-knU8C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tVcdNRvwoDkC",
+   "etag": "RUjhwlfws60",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tVcdNRvwoDkC",
+   "volumeInfo": {
+    "title": "Writing Systems",
+    "subtitle": "A Linguistic Introduction",
+    "authors": [
+     "Geoffrey Sampson"
+    ],
+    "publisher": "Stanford Univ Pr",
+    "publishedDate": "1990-01-01",
+    "description": "Preface In \u003cb\u003ewriting\u003c/b\u003e this book I have been heavily dependent on others&#39; knowledge \u003cbr\u003e\r\nof fields in which I am not expert. A number of scholars have given me \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0804717567"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780804717564"
+     }
+    ],
+    "pageCount": 236,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dtVcdNRvwoDkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dtVcdNRvwoDkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtVcdNRvwoDkC&printsec\u003dfrontcover&dq\u003dWriting&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtVcdNRvwoDkC&dq\u003dWriting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "47A4AAAAIAAJ",
+   "etag": "N1igzYker4c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/47A4AAAAIAAJ",
+   "volumeInfo": {
+    "title": "On writing",
+    "subtitle": "critical studies on writing as an art",
+    "authors": [
+     "Willa Cather"
+    ],
+    "publishedDate": "1953",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105044939283"
+     }
+    ],
+    "pageCount": 126,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d47A4AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d47A4AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d47A4AAAAIAAJ&q\u003dWriting&dq\u003dWriting&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d47A4AAAAIAAJ&dq\u003dWriting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "b6Gx-MwHvaoC",
+   "etag": "Vv3kMUb0c9o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/b6Gx-MwHvaoC",
+   "volumeInfo": {
+    "title": "Writing",
+    "subtitle": "theory and history of the technology of civilization",
+    "authors": [
+     "Barry B. Powell"
+    ],
+    "publisher": "Blackwell Pub",
+    "publishedDate": "2009-04-10",
+    "description": "Writing: Theory and History of the Technology of Civilization traces the origins of writing tied to speech from ancient Sumer through the Greek alphabet and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1405162562"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405162562"
+     }
+    ],
+    "pageCount": 276,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "0.2.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003db6Gx-MwHvaoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003db6Gx-MwHvaoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003db6Gx-MwHvaoC&printsec\u003dfrontcover&dq\u003dWriting&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003db6Gx-MwHvaoC&dq\u003dWriting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lyIFAAAACAAJ",
+   "etag": "LfZ4gME79Uo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lyIFAAAACAAJ",
+   "volumeInfo": {
+    "title": "Writing",
+    "subtitle": "grammar, usage, and style",
+    "authors": [
+     "Jean Eggenschwiler",
+     "Emily Dotson Biggs"
+    ],
+    "publisher": "Cliffs Notes",
+    "publishedDate": "2001-05-15",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0764563939"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780764563935"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dlyIFAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dlyIFAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlyIFAAAACAAJ&dq\u003dWriting&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlyIFAAAACAAJ&dq\u003dWriting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 593
+}

@@ -1,0 +1,534 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "8j1XImgh6NwC",
+   "etag": "iLx2Mq+NHbs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8j1XImgh6NwC",
+   "volumeInfo": {
+    "title": "Exploration",
+    "authors": [
+     "Greg Reid"
+    ],
+    "publisher": "Creative Co",
+    "publishedDate": "2005-08",
+    "description": "Discusses the adventures, successes, and disasters of early explorers, scientists, sealers, and whalers, and examines the main issues relating to modern ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1583407626"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781583407622"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d8j1XImgh6NwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d8j1XImgh6NwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8j1XImgh6NwC&printsec\u003dfrontcover&dq\u003dExploration&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8j1XImgh6NwC&dq\u003dExploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "w-UZAQAAIAAJ",
+   "etag": "KjQ3vplwn6c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/w-UZAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Exploration",
+    "authors": [
+     "MLA Seminar on the Literature of Exploration"
+    ],
+    "publishedDate": "1981",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105015116143"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Travel in literature"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dw-UZAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dw-UZAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dw-UZAQAAIAAJ&q\u003dExploration&dq\u003dExploration&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dw-UZAQAAIAAJ&dq\u003dExploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7vgLYo6igrQC",
+   "etag": "P+hknDrePGY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7vgLYo6igrQC",
+   "volumeInfo": {
+    "title": "Introduction to mineral exploration",
+    "authors": [
+     "Charles J. Moon",
+     "M. K. G. Whateley",
+     "Anthony M. Evans"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "2006",
+    "description": "Artwork from the book is available to instructors online at www.blackwellpublishing.com/moon.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1405113170"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405113175"
+     }
+    ],
+    "pageCount": 481,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d7vgLYo6igrQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d7vgLYo6igrQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7vgLYo6igrQC&printsec\u003dfrontcover&dq\u003dExploration&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7vgLYo6igrQC&dq\u003dExploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3WNQb5QBQkoC",
+   "etag": "voRGlRNNhuQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3WNQb5QBQkoC",
+   "volumeInfo": {
+    "title": "Exploration",
+    "authors": [
+     "Rebecca Stefoff"
+    ],
+    "publisher": "Benchmark Books (NY)",
+    "publishedDate": "2004-09",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0761416404"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761416401"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d3WNQb5QBQkoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d3WNQb5QBQkoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3WNQb5QBQkoC&q\u003dExploration&dq\u003dExploration&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3WNQb5QBQkoC&dq\u003dExploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hZJkIu_BXO0C",
+   "etag": "lODycaLO7Ok",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hZJkIu_BXO0C",
+   "volumeInfo": {
+    "title": "Exploration",
+    "authors": [
+     "Deborah Cannarella",
+     "Jane Fournier"
+    ],
+    "publisher": "Rourke Pub Group",
+    "publishedDate": "1999-07",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1571032738"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781571032737"
+     }
+    ],
+    "pageCount": 31,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dhZJkIu_BXO0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dhZJkIu_BXO0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhZJkIu_BXO0C&q\u003dExploration&dq\u003dExploration&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhZJkIu_BXO0C&dq\u003dExploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "b30FcSxp1AkC",
+   "etag": "MTgpSL/I3PQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/b30FcSxp1AkC",
+   "volumeInfo": {
+    "title": "Exploration",
+    "authors": [
+     "James C. Christensen"
+    ],
+    "publishedDate": "2000-09",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1573458562"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781573458566"
+     }
+    ],
+    "pageCount": 80,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003db30FcSxp1AkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003db30FcSxp1AkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003db30FcSxp1AkC&q\u003dExploration&dq\u003dExploration&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003db30FcSxp1AkC&dq\u003dExploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "em1yQgAACAAJ",
+   "etag": "8s1iOKLcB3c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/em1yQgAACAAJ",
+   "volumeInfo": {
+    "title": "Exploration",
+    "authors": [
+     "Milton Lomask"
+    ],
+    "publisher": "Atheneum",
+    "publishedDate": "1988-11-30",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0684185113"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780684185118"
+     }
+    ],
+    "pageCount": 258,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dem1yQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dem1yQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dem1yQgAACAAJ&dq\u003dExploration&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dem1yQgAACAAJ&dq\u003dExploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3NQ8AAAACAAJ",
+   "etag": "SvFrlC/n0KQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3NQ8AAAACAAJ",
+   "volumeInfo": {
+    "title": "Exploration",
+    "authors": [
+     "Peggy J. Parks"
+    ],
+    "publisher": "Blackbirch Pr Inc",
+    "publishedDate": "2005-03-02",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1567118313"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781567118315"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d3NQ8AAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d3NQ8AAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3NQ8AAAACAAJ&dq\u003dExploration&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3NQ8AAAACAAJ&dq\u003dExploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ocUT8hEDu1AC",
+   "etag": "bSxYfRU4buU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ocUT8hEDu1AC",
+   "volumeInfo": {
+    "title": "Hydrocarbon exploration and production",
+    "authors": [
+     "Frank Jahn",
+     "Mark Cook",
+     "Mark Graham"
+    ],
+    "publisher": "Elsevier Science",
+    "publishedDate": "2008",
+    "description": "The book is written for industry professionals who wish to be better informed about the basic technical and commercial methods, concepts and techniques used in ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0444532366"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780444532367"
+     }
+    ],
+    "pageCount": 444,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003docUT8hEDu1AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003docUT8hEDu1AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003docUT8hEDu1AC&printsec\u003dfrontcover&dq\u003dExploration&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003docUT8hEDu1AC&dq\u003dExploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 145.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 116.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003docUT8hEDu1AC&dq\u003dExploration&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Hydrocarbon_exploration_and_production-sample-epub.acsm?id\u003docUT8hEDu1AC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Hydrocarbon_exploration_and_production-sample-pdf.acsm?id\u003docUT8hEDu1AC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KLj58xlI4wkC",
+   "etag": "7fefYLJ75Tc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KLj58xlI4wkC",
+   "volumeInfo": {
+    "title": "Memory architecture exploration for programmable embedded systems",
+    "authors": [
+     "Peter Grun",
+     "Nikil Dutt",
+     "Alexandru Nicolau"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2003",
+    "description": "First, the book is designed for researchers and graduate students interested in memory architecture exploration in the context of compiler-in-the-loop ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1402073240"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781402073243"
+     }
+    ],
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dKLj58xlI4wkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dKLj58xlI4wkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKLj58xlI4wkC&printsec\u003dfrontcover&dq\u003dExploration&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKLj58xlI4wkC&dq\u003dExploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Memory_architecture_exploration_for_prog-sample-pdf.acsm?id\u003dKLj58xlI4wkC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 595
+}

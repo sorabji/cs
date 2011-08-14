@@ -1,0 +1,542 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "NMhKiemjsSEC",
+   "etag": "H0iC1D10Vmk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NMhKiemjsSEC",
+   "volumeInfo": {
+    "title": "Comic Strips",
+    "subtitle": "Create Your Own Comic Strips from Start to Finish",
+    "authors": [
+     "Art Roche"
+    ],
+    "publisher": "Lark Books (NC)",
+    "publishedDate": "2007-01-28",
+    "description": "Presents a step-by-step process of creating comic strips including characters and writing jokes.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1579907881"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781579907884"
+     }
+    ],
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dNMhKiemjsSEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dNMhKiemjsSEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNMhKiemjsSEC&printsec\u003dfrontcover&dq\u003dComic&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNMhKiemjsSEC&dq\u003dComic&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YAEnNAAACAAJ",
+   "etag": "5ay1SHkDbek",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YAEnNAAACAAJ",
+   "volumeInfo": {
+    "title": "Comic",
+    "authors": [
+     "SiHyun Ha"
+    ],
+    "publisher": "Yen Press",
+    "publishedDate": "2009-02-17",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0759530114"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780759530119"
+     }
+    ],
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Comics & Graphic Novels"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 9,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dYAEnNAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dYAEnNAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYAEnNAAACAAJ&dq\u003dComic&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYAEnNAAACAAJ&dq\u003dComic&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vAH24kOdCq8C",
+   "etag": "b0JECB8nBF0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vAH24kOdCq8C",
+   "volumeInfo": {
+    "title": "The art of the comic book",
+    "subtitle": "an aesthetic history",
+    "authors": [
+     "Robert C. Harvey"
+    ],
+    "publisher": "Univ Pr of Mississippi",
+    "publishedDate": "1996",
+    "description": "Traces the history of comic books, discusses the economics of the field and the changing relationship between the words and the pictures, and profiles leading ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0878057587"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780878057580"
+     }
+    ],
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "0.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dvAH24kOdCq8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dvAH24kOdCq8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvAH24kOdCq8C&printsec\u003dfrontcover&dq\u003dComic&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvAH24kOdCq8C&dq\u003dComic&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_art_of_the_comic_book-sample-pdf.acsm?id\u003dvAH24kOdCq8C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nRhCPgAACAAJ",
+   "etag": "Br7gVPEJ2MM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nRhCPgAACAAJ",
+   "volumeInfo": {
+    "title": "Comic",
+    "authors": [
+     "Brian Glanville"
+    ],
+    "publishedDate": "2003-11-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1903100100"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781903100103"
+     }
+    ],
+    "pageCount": 270,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dnRhCPgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dnRhCPgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnRhCPgAACAAJ&dq\u003dComic&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnRhCPgAACAAJ&dq\u003dComic&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wd64BfZQ04IC",
+   "etag": "VF6iC1gF7Bk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wd64BfZQ04IC",
+   "volumeInfo": {
+    "title": "Comic abstraction",
+    "subtitle": "image breaking, image making",
+    "authors": [
+     "Roxana Marcoci",
+     "Museum of Modern Art (New York, N.Y.)"
+    ],
+    "publisher": "The Museum of Modern Art",
+    "publishedDate": "2007-03",
+    "description": "This volume, which accompanies an exhibition at The Museum of Modern Art, presents the first investigation into this mode of representation.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0870707094"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780870707094"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dwd64BfZQ04IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dwd64BfZQ04IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwd64BfZQ04IC&printsec\u003dfrontcover&dq\u003dComic&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwd64BfZQ04IC&dq\u003dComic&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gW36Qs3rLB0C",
+   "etag": "sVCYxOo71RA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gW36Qs3rLB0C",
+   "volumeInfo": {
+    "title": "Comic book culture",
+    "subtitle": "an illustrated history",
+    "authors": [
+     "Ron Goulart"
+    ],
+    "publisher": "Collectors Press, Inc.",
+    "publishedDate": "2000",
+    "description": "Provides a concise history of the comic book business from its shaky beginnings in the early 1930s to its multimillion-dollar success during World War II, and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1888054387"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781888054385"
+     }
+    ],
+    "pageCount": 204,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dgW36Qs3rLB0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dgW36Qs3rLB0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgW36Qs3rLB0C&printsec\u003dfrontcover&dq\u003dComic&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgW36Qs3rLB0C&dq\u003dComic&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "n23M0Bn0JmwC",
+   "etag": "EHubd3ElSVo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/n23M0Bn0JmwC",
+   "volumeInfo": {
+    "title": "Comic book century",
+    "subtitle": "the history of American comic books",
+    "authors": [
+     "Stephen Krensky"
+    ],
+    "publisher": "Twenty First Century Books",
+    "publishedDate": "2008",
+    "description": "Provides a history of comic books in America during the twentieth century, showing how it has influenced and been influenced by American culture.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0822566540"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780822566540"
+     }
+    ],
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "Comics & Graphic Novels"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dn23M0Bn0JmwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dn23M0Bn0JmwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dn23M0Bn0JmwC&printsec\u003dfrontcover&dq\u003dComic&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dn23M0Bn0JmwC&dq\u003dComic&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Comic_book_century-sample-epub.acsm?id\u003dn23M0Bn0JmwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_iYL9qTMu1EC",
+   "etag": "rH7YbMjKdI0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_iYL9qTMu1EC",
+   "volumeInfo": {
+    "title": "Comic book nation",
+    "subtitle": "the transformation of youth culture in America",
+    "authors": [
+     "Bradford W. Wright"
+    ],
+    "publisher": "Johns Hopkins Univ Pr",
+    "publishedDate": "2003-10",
+    "description": "Portrays the role of comic books in shaping American youth and pop culture, from Batman&#39;s struggles with corrupt politicians during the Depression to Iron Man&#39;s ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0801874505"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780801874505"
+     }
+    ],
+    "pageCount": 360,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 16,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d_iYL9qTMu1EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d_iYL9qTMu1EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_iYL9qTMu1EC&printsec\u003dfrontcover&dq\u003dComic&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_iYL9qTMu1EC&dq\u003dComic&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mGoJroIihSUC",
+   "etag": "JeexKGevxQA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mGoJroIihSUC",
+   "volumeInfo": {
+    "title": "Comic Strip Conversations",
+    "authors": [
+     "Carol Gray"
+    ],
+    "publisher": "Future Horizons Inc",
+    "publishedDate": "1994",
+    "description": "Carol Gray combines stick-figures with &quot;conversation symbols&quot; to illustrate what people say and think during conversations.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1885477228"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781885477224"
+     }
+    ],
+    "pageCount": 39,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dmGoJroIihSUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dmGoJroIihSUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmGoJroIihSUC&printsec\u003dfrontcover&dq\u003dComic&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmGoJroIihSUC&dq\u003dComic&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XLumYSrVuasC",
+   "etag": "BRsWVTxHdLk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XLumYSrVuasC",
+   "volumeInfo": {
+    "title": "Comic book culture",
+    "subtitle": "fanboys and true believers",
+    "authors": [
+     "Matthew J. Pustz"
+    ],
+    "publisher": "Univ Pr of Mississippi",
+    "publishedDate": "1999",
+    "description": "This book provides good answers as it scrutinizes the fans whose profiles can be traced at their conventions, in pages of fanzines, on websites, in chat-rooms, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1578062012"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781578062010"
+     }
+    ],
+    "pageCount": 244,
+    "printType": "BOOK",
+    "categories": [
+     "Humor"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dXLumYSrVuasC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dXLumYSrVuasC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXLumYSrVuasC&printsec\u003dfrontcover&dq\u003dComic&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXLumYSrVuasC&dq\u003dComic&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 461
+}

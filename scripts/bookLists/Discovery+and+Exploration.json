@@ -1,0 +1,500 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "JuwNAAAAIAAJ",
+   "etag": "L/STm9lbrkM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JuwNAAAAIAAJ",
+   "volumeInfo": {
+    "title": "... Discovery and exploration",
+    "authors": [
+     "Alfred Brittain",
+     "George Edward Reed"
+    ],
+    "publishedDate": "1903",
+    "description": "With the exception of the voyages with which the present chapter will deal, the \u003cbr\u003e\r\n\u003cb\u003ediscovery\u003c/b\u003e, the peopling, the development of America went on under the eyes \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105048888361"
+     }
+    ],
+    "pageCount": 511,
+    "printType": "BOOK",
+    "categories": [
+     "America"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dJuwNAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dJuwNAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJuwNAAAAIAAJ&printsec\u003dfrontcover&dq\u003dDiscovery+and+Exploration&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJuwNAAAAIAAJ&dq\u003dDiscovery+and+Exploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Discovery_and_exploration.epub?id\u003dJuwNAAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Discovery_and_exploration.pdf?id\u003dJuwNAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U06zzN8gE76NayPiHdqULeGrgDA7g&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EwsKAQAAIAAJ",
+   "etag": "Nl7Nr9RJ4X4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EwsKAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Discovery and exploration",
+    "subtitle": "a concise history",
+    "authors": [
+     "Alan Reid"
+    ],
+    "publisher": "Hippocrene Books",
+    "publishedDate": "1980",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105039232165"
+     }
+    ],
+    "pageCount": 328,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dEwsKAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dEwsKAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEwsKAQAAIAAJ&q\u003dDiscovery+and+Exploration&dq\u003dDiscovery+and+Exploration&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEwsKAQAAIAAJ&dq\u003dDiscovery+and+Exploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ej4IkgAACAAJ",
+   "etag": "SvQLEm1SBIY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ej4IkgAACAAJ",
+   "volumeInfo": {
+    "title": "Discovery and Exploration",
+    "subtitle": "An Atlas of Man's Wanderings",
+    "authors": [
+     "Frank Debenham"
+    ],
+    "publisher": "Kessinger Publishing",
+    "publishedDate": "2010-09",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1169698484"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781169698482"
+     }
+    ],
+    "pageCount": 278,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dEj4IkgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dEj4IkgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEj4IkgAACAAJ&dq\u003dDiscovery+and+Exploration&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEj4IkgAACAAJ&dq\u003dDiscovery+and+Exploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AYh-AAAAMAAJ",
+   "etag": "LC8LFNLWhCM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AYh-AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Discovery and exploration",
+    "subtitle": "a reference handbook : the Old World",
+    "authors": [
+     "Alan Edwin Day"
+    ],
+    "publisher": "Bingley [etc.]",
+    "publishedDate": "1980-12",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0851572561"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780851572567"
+     }
+    ],
+    "pageCount": 295,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dAYh-AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dAYh-AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAYh-AAAAMAAJ&q\u003dDiscovery+and+Exploration&dq\u003dDiscovery+and+Exploration&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAYh-AAAAMAAJ&dq\u003dDiscovery+and+Exploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uJIZAQAAIAAJ",
+   "etag": "+3B8wYwQRoU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uJIZAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Discovery and exploration",
+    "authors": [
+     "Guy Carleton Lee"
+    ],
+    "publishedDate": "1903",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B3021533"
+     }
+    ],
+    "pageCount": 508,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003duJIZAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003duJIZAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003duJIZAQAAIAAJ&q\u003dDiscovery+and+Exploration&dq\u003dDiscovery+and+Exploration&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003duJIZAQAAIAAJ&dq\u003dDiscovery+and+Exploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6VDsHAAACAAJ",
+   "etag": "xzTdYcVzazA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6VDsHAAACAAJ",
+   "volumeInfo": {
+    "title": "Discovery and Exploration",
+    "authors": [
+     "John S. Bowman",
+     "Maurice Isserman"
+    ],
+    "publisher": "Facts on File",
+    "publishedDate": "2004-01-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0816059381"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816059386"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d6VDsHAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d6VDsHAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6VDsHAAACAAJ&dq\u003dDiscovery+and+Exploration&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6VDsHAAACAAJ&dq\u003dDiscovery+and+Exploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "chevQAAACAAJ",
+   "etag": "BA/zclmTQNE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/chevQAAACAAJ",
+   "volumeInfo": {
+    "title": "Discovery and exploration",
+    "subtitle": "an atlas-history of man's journeys into the unknown",
+    "authors": [
+     "Frank Debenham"
+    ],
+    "publishedDate": "1968",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:b68008468"
+     }
+    ],
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Discoveries in geography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dchevQAAACAAJ&dq\u003dDiscovery+and+Exploration&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dchevQAAACAAJ&dq\u003dDiscovery+and+Exploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kI6BPgAACAAJ",
+   "etag": "GiKevL103x8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kI6BPgAACAAJ",
+   "volumeInfo": {
+    "title": "Discovery and Exploration",
+    "subtitle": "A Reference Handbook: Old World",
+    "authors": [
+     "Alan E. Day"
+    ],
+    "publishedDate": "1980",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0783752954"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780783752952"
+     }
+    ],
+    "pageCount": 295,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkI6BPgAACAAJ&dq\u003dDiscovery+and+Exploration&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkI6BPgAACAAJ&dq\u003dDiscovery+and+Exploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "d9fJAAAACAAJ",
+   "etag": "04sI2hIRq2g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/d9fJAAAACAAJ",
+   "volumeInfo": {
+    "title": "Discovery and Exploration",
+    "subtitle": "A Canadian Adventure",
+    "authors": [
+     "Santor,"
+    ],
+    "publisher": "Prentice-Hall Canada",
+    "publishedDate": "1985",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0132159708"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780132159708"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dd9fJAAAACAAJ&dq\u003dDiscovery+and+Exploration&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dd9fJAAAACAAJ&dq\u003dDiscovery+and+Exploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "J9W4QO1b_A8C",
+   "etag": "li068TBcARE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/J9W4QO1b_A8C",
+   "volumeInfo": {
+    "title": "Ships of discovery and exploration",
+    "authors": [
+     "Lincoln P. Paine"
+    ],
+    "publisher": "Mariner Books",
+    "publishedDate": "2000-11-15",
+    "description": "SHIPS OF DISCOVERY AND EXPLORATION tells the stories of 125 vessels that have played important roles in voyages of geographical exploration and scientific ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0395984157"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780395984154"
+     }
+    ],
+    "pageCount": 188,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "contentVersion": "2.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dJ9W4QO1b_A8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dJ9W4QO1b_A8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJ9W4QO1b_A8C&printsec\u003dfrontcover&dq\u003dDiscovery+and+Exploration&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJ9W4QO1b_A8C&dq\u003dDiscovery+and+Exploration&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Ships_of_discovery_and_exploration-sample-pdf.acsm?id\u003dJ9W4QO1b_A8C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 581
+}

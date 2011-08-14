@@ -1,0 +1,577 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "346BL8WhzJwC",
+   "etag": "DgcWednhAa0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/346BL8WhzJwC",
+   "volumeInfo": {
+    "title": "The romance revolution",
+    "subtitle": "erotic novels for women and the quest for a new sexual identity",
+    "authors": [
+     "Carol Thurston"
+    ],
+    "publisher": "Univ of Illinois Pr",
+    "publishedDate": "1987",
+    "description": "A modern mass entertainment medium that rivals popular television programs for \u003cbr\u003e\r\naudience size and repeat exposure, the new paperback \u003cb\u003eromance\u003c/b\u003e novel came to \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "025201247X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780252012471"
+     }
+    ],
+    "pageCount": 259,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d346BL8WhzJwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d346BL8WhzJwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d346BL8WhzJwC&printsec\u003dfrontcover&dq\u003dRomance&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d346BL8WhzJwC&dq\u003dRomance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mZ4TAAAAYAAJ",
+   "etag": "mG8BJ1QetzE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mZ4TAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Romance",
+    "subtitle": "A Novel",
+    "authors": [
+     "Joseph Conrad",
+     "Ford Madox Ford"
+    ],
+    "publishedDate": "1922",
+    "description": "But that far-off day of my \u003cb\u003eromance\u003c/b\u003e, when from between the blue and white bales \u003cbr\u003e\r\nin Don Ramon&#39;s darkened storeroom, at Kingston, I saw the door open before \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044021653621"
+     }
+    ],
+    "pageCount": 428,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dmZ4TAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dmZ4TAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmZ4TAAAAYAAJ&printsec\u003dfrontcover&dq\u003dRomance&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmZ4TAAAAYAAJ&dq\u003dRomance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Romance.epub?id\u003dmZ4TAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Romance.pdf?id\u003dmZ4TAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2oLH3chRbDAnQiJwBEj72NlzZ6yQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NFStvEAgZjQC",
+   "etag": "kbR0hQC+8Fg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NFStvEAgZjQC",
+   "volumeInfo": {
+    "title": "Romance",
+    "authors": [
+     "David Mamet"
+    ],
+    "publisher": "Dramatists Play Service, Inc.",
+    "publishedDate": "2007-09-30",
+    "description": "\u003cb\u003eROMANCE\u003c/b\u003e Scene 1 A courtroom. The judge is on the bench. The defendant is being \u003cbr\u003e\r\ninterrogated by a prosecutor. The defense attorney sits at the defense bench. \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0822221276"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780822221272"
+     }
+    ],
+    "pageCount": 54,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dNFStvEAgZjQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dNFStvEAgZjQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNFStvEAgZjQC&printsec\u003dfrontcover&dq\u003dRomance&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNFStvEAgZjQC&dq\u003dRomance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YfXC4PRV5-8C",
+   "etag": "SdWAJAi0aqc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YfXC4PRV5-8C",
+   "volumeInfo": {
+    "title": "Never Romance a Rake",
+    "authors": [
+     "Liz Carlyle"
+    ],
+    "publisher": "Pocket",
+    "publishedDate": "2008-07-22",
+    "description": "When Kieran, Baron Rothewell, wins Camille Marchant, illegitimate daughter of the Comte de Valigny, in a card game, he has her entirely at his mercy, but the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1416527168"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781416527169"
+     }
+    ],
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 42,
+    "contentVersion": "0.2.0.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dYfXC4PRV5-8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dYfXC4PRV5-8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYfXC4PRV5-8C&printsec\u003dfrontcover&dq\u003dRomance&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYfXC4PRV5-8C&dq\u003dRomance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dYfXC4PRV5-8C&dq\u003dRomance&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Never_Romance_a_Rake-sample-epub.acsm?id\u003dYfXC4PRV5-8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bM0gAAAAMAAJ",
+   "etag": "UOTogudX7Ho",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bM0gAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Romance",
+    "subtitle": "a novel",
+    "authors": [
+     "Acton Davies",
+     "Edward Sheldon"
+    ],
+    "publishedDate": "1913",
+    "description": "\u003cb\u003e...\u003c/b\u003e cried Rita&quot; . . . .226 &#39; &#39; Good-by, madame — I offer you the best of wishes \u003cbr\u003e\r\n— &#39;&quot; 254 &#39; &#39; I thank you from the bottom of my soul! &#39;&quot; . . 290 \u003cb\u003eROMANCE\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433074841689"
+     }
+    ],
+    "pageCount": 310,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dbM0gAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dbM0gAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbM0gAAAAMAAJ&printsec\u003dfrontcover&dq\u003dRomance&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbM0gAAAAMAAJ&dq\u003dRomance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Romance.epub?id\u003dbM0gAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Romance.pdf?id\u003dbM0gAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U22P85F5JVdXqccUj96UqW0Kmnqww&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "c4mz0SwJEDMC",
+   "etag": "v9/s0MFRHWU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/c4mz0SwJEDMC",
+   "volumeInfo": {
+    "title": "Romance",
+    "authors": [
+     "Ed McBain"
+    ],
+    "publisher": "Grand Central Publishing",
+    "publishedDate": "1995-04-14",
+    "description": "A visionary director, a greedy producer, and an ambitious agent are suspects when a Broadway play about an actress who is stabbed leads to the real thing, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0446518042"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780446518048"
+     }
+    ],
+    "pageCount": 321,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dc4mz0SwJEDMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dc4mz0SwJEDMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dc4mz0SwJEDMC&printsec\u003dfrontcover&dq\u003dRomance&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dc4mz0SwJEDMC&dq\u003dRomance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dc4mz0SwJEDMC&dq\u003dRomance&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Romance-sample-epub.acsm?id\u003dc4mz0SwJEDMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "h5lDIAAACAAJ",
+   "etag": "Fp2GHtn1j7o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/h5lDIAAACAAJ",
+   "volumeInfo": {
+    "title": "The Romance",
+    "authors": [
+     "Marion Chesney"
+    ],
+    "publisher": "G K Hall & Co",
+    "publishedDate": "1998-05",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0783883854"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780783883854"
+     }
+    ],
+    "pageCount": 216,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dh5lDIAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dh5lDIAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dh5lDIAAACAAJ&dq\u003dRomance&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dh5lDIAAACAAJ&dq\u003dRomance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1FQAAAAAYAAJ",
+   "etag": "RuojMZtAEhc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1FQAAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Romance",
+    "subtitle": "being the tales of the New York Story Club",
+    "authors": [
+     "New York Story Club"
+    ],
+    "publishedDate": "1891",
+    "description": "HARVARD COLLEfit LIBRARY BEQUEST OF WINWARD PRESCOTf JANUARY 27, 11*3 IN \u003cb\u003eROMANCE\u003c/b\u003e \u003cbr\u003e\r\nFOR MARCH WILL BE BEGUN A SERIAL STORY BASED ON REAL INCIDENTS IN AMERICAN \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044092784818"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Short stories, American"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d1FQAAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d1FQAAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1FQAAAAAYAAJ&printsec\u003dfrontcover&dq\u003dRomance&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1FQAAAAAYAAJ&dq\u003dRomance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Romance.epub?id\u003d1FQAAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Romance.pdf?id\u003d1FQAAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0K_BIjswRh251j3A6iXdzNUss0rg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mEqreTam2G0C",
+   "etag": "xqyI31YFuZI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mEqreTam2G0C",
+   "volumeInfo": {
+    "title": "Romance",
+    "authors": [
+     "Barbara Fuchs"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2004",
+    "description": "Romance is a clear and wide-ranging introduction for students of literary history, comparative literature, and modern literary forms.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415212618"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415212618"
+     }
+    ],
+    "pageCount": 146,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dmEqreTam2G0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dmEqreTam2G0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmEqreTam2G0C&printsec\u003dfrontcover&dq\u003dRomance&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmEqreTam2G0C&dq\u003dRomance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.77,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dmEqreTam2G0C&dq\u003dRomance&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Romance-sample-epub.acsm?id\u003dmEqreTam2G0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Romance-sample-pdf.acsm?id\u003dmEqreTam2G0C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EpgkAAAAMAAJ",
+   "etag": "DLssQ+VCJ9s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EpgkAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Romance",
+    "subtitle": "two lectures",
+    "authors": [
+     "Sir Walter Alexander Raleigh"
+    ],
+    "publishedDate": "1916",
+    "description": "THE ORIGIN OF \u003cb\u003eROMANCE\u003c/b\u003e The period of English political history which falls \u003cbr\u003e\r\nbetween Pitt&#39;s acceptance of office as prime minister, in 1783, and the passing \u003cbr\u003e\r\nof \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015012946953"
+     }
+    ],
+    "pageCount": 84,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dEpgkAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dEpgkAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEpgkAAAAMAAJ&printsec\u003dfrontcover&dq\u003dRomance&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEpgkAAAAMAAJ&dq\u003dRomance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Romance.epub?id\u003dEpgkAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Romance.pdf?id\u003dEpgkAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U001UbgAbo91yIKDdN4awQ5UZ80Ng&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 579
+}

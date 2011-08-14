@@ -1,0 +1,467 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "SDfgAAAAMAAJ",
+   "etag": "BWrxffng+hE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SDfgAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Judaica",
+    "subtitle": "a selective bibliography",
+    "authors": [
+     "Harriet Reiter",
+     "Stephen Powitz"
+    ],
+    "publishedDate": "1992",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015043220006"
+     }
+    ],
+    "pageCount": 42,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dSDfgAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dSDfgAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSDfgAAAAMAAJ&q\u003dJudaica&dq\u003dJudaica&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSDfgAAAAMAAJ&dq\u003dJudaica&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0EHGjwEACAAJ",
+   "etag": "0xp8oKO0pZM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0EHGjwEACAAJ",
+   "volumeInfo": {
+    "title": "Judaica",
+    "subtitle": "a short-title catalogue of the books, pamphlets and manuscripts relating to the political, social and cultural history of the Jews and to the Jewish question in the library of Ludwig Rosenberger",
+    "authors": [
+     "Ludwig Rosenberger"
+    ],
+    "publishedDate": "1971",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:718173479"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0EHGjwEACAAJ&dq\u003dJudaica&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0EHGjwEACAAJ&dq\u003dJudaica&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LXPUAAAACAAJ",
+   "etag": "4ii+s83FCMg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LXPUAAAACAAJ",
+   "volumeInfo": {
+    "title": "Judaica",
+    "authors": [
+     "Myra Yellin Outwater",
+     "Eric Boe Outwater"
+    ],
+    "publisher": "Schiffer Pub Ltd",
+    "publishedDate": "1999-05",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0764307851"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780764307850"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dLXPUAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dLXPUAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLXPUAAAACAAJ&dq\u003dJudaica&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLXPUAAAACAAJ&dq\u003dJudaica&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "H2qOSwAACAAJ",
+   "etag": "YQdQivLaHrY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/H2qOSwAACAAJ",
+   "volumeInfo": {
+    "title": "Judaica",
+    "authors": [
+     "Sotheby's Israel Limited"
+    ],
+    "publishedDate": "1995",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:171401356"
+     }
+    ],
+    "pageCount": 82,
+    "printType": "BOOK",
+    "categories": [
+     "Judaism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dH2qOSwAACAAJ&dq\u003dJudaica&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dH2qOSwAACAAJ&dq\u003dJudaica&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6uK5pa3R4d8C",
+   "etag": "iriPNv/xLBc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6uK5pa3R4d8C",
+   "volumeInfo": {
+    "title": "Codex Judaica",
+    "subtitle": "chronological index of Jewish history, covering 5,764 years of Biblical, Talmudic & post-Talmudic history",
+    "authors": [
+     "Máttis Kantor"
+    ],
+    "publishedDate": "2005-11-01",
+    "description": "Preface his book is a digest of the history of Biblical and Tal- mudic times, \u003cbr\u003e\r\npost Talmudic scholars (major events in their lives) and events that affected \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0967037832"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780967037837"
+     }
+    ],
+    "pageCount": 393,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d6uK5pa3R4d8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d6uK5pa3R4d8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6uK5pa3R4d8C&printsec\u003dfrontcover&dq\u003dJudaica&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6uK5pa3R4d8C&dq\u003dJudaica&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vGbmQwAACAAJ",
+   "etag": "jwfjhIpyp40",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vGbmQwAACAAJ",
+   "volumeInfo": {
+    "title": "Judaica",
+    "authors": [
+     "Sotheby Parke Bernet Inc"
+    ],
+    "publishedDate": "1969",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:171348408"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvGbmQwAACAAJ&dq\u003dJudaica&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvGbmQwAACAAJ&dq\u003dJudaica&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8r9ssdexMWoC",
+   "etag": "Q4nGdyntaY8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8r9ssdexMWoC",
+   "volumeInfo": {
+    "title": "A classification system for libraries of Judaica",
+    "authors": [
+     "David H. Elazar",
+     "Daniel Judah Elazar",
+     "Rachel K. Glasser",
+     "Rita B. Frischer"
+    ],
+    "publisher": "Jason Aronson Inc",
+    "publishedDate": "1997-08-01",
+    "description": "To find more information on Rowman &amp; Littlefield titles, please visit www.rlpgbooks.com.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0765759837"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780765759832"
+     }
+    ],
+    "pageCount": 250,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d8r9ssdexMWoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d8r9ssdexMWoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8r9ssdexMWoC&printsec\u003dfrontcover&dq\u003dJudaica&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8r9ssdexMWoC&dq\u003dJudaica&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 61.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 48.8,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d8r9ssdexMWoC&dq\u003dJudaica&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/A_classification_system_for_libraries_of-sample-pdf.acsm?id\u003d8r9ssdexMWoC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TW8IOAAACAAJ",
+   "etag": "+f/LdluvChs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TW8IOAAACAAJ",
+   "volumeInfo": {
+    "title": "Judaica",
+    "subtitle": "silver, gold, pewter and brass ritual objects, marriage contracts, scrolls, MSS and books, paintings, embroideries and rugs : from the collection of Tullio Castelbolognese, Rome : sold by his order and from other sources, Egyptian, Greek, Etruscan & Roman antiquities : Romanesque, Gothic & Renaissance art ... : together with the William D. Kolle collection of Renaissance Bronze medals & plaquettes, sold by his order : public auction sale: Judaica: Thurday, February 23 ... : other property: Friday, February 24",
+    "authors": [
+     "Tullio Castelbolognese",
+     "William D. Kolle",
+     "Parke-Bernet Galleries"
+    ],
+    "publishedDate": "1956",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:225741858"
+     }
+    ],
+    "pageCount": 106,
+    "printType": "BOOK",
+    "categories": [
+     "Art, Jewish"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTW8IOAAACAAJ&dq\u003dJudaica&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTW8IOAAACAAJ&dq\u003dJudaica&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8gFXPwAACAAJ",
+   "etag": "NMgrI9prpik",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8gFXPwAACAAJ",
+   "volumeInfo": {
+    "title": "Judaica",
+    "authors": [
+     "Sotheby's (Firm)"
+    ],
+    "publishedDate": "1996",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:171299723"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8gFXPwAACAAJ&dq\u003dJudaica&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8gFXPwAACAAJ&dq\u003dJudaica&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fpvMOwAACAAJ",
+   "etag": "dc7HMDLyYtE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fpvMOwAACAAJ",
+   "volumeInfo": {
+    "title": "Judaica",
+    "subtitle": "a selected reading list of books in the public library of the city of Boston",
+    "authors": [
+     "Fanny Goldstein"
+    ],
+    "publishedDate": "1931",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:10601748"
+     }
+    ],
+    "pageCount": 53,
+    "printType": "BOOK",
+    "categories": [
+     "Hebrew literature"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfpvMOwAACAAJ&dq\u003dJudaica&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfpvMOwAACAAJ&dq\u003dJudaica&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 408
+}

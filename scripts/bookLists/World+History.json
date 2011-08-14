@@ -1,0 +1,543 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "arxyJC05vScC",
+   "etag": "cq6a16p6Qdg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/arxyJC05vScC",
+   "volumeInfo": {
+    "title": "World History",
+    "authors": [
+     "William J. Duiker",
+     "Jackson J. Spielvogel"
+    ],
+    "publisher": "Wadsworth Pub Co",
+    "publishedDate": "2009-02-01",
+    "description": "This edition of WORLD HISTORY continues to take a global approach to world history, with an emphasis on analytical comparisons between and among cultures ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "049556902X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780495569022"
+     }
+    ],
+    "pageCount": 592,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003darxyJC05vScC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003darxyJC05vScC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003darxyJC05vScC&printsec\u003dfrontcover&dq\u003dWorld+History&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003darxyJC05vScC&dq\u003dWorld+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Pu3KwLK4jo8C",
+   "etag": "s3oE7dV2BKc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Pu3KwLK4jo8C",
+   "volumeInfo": {
+    "title": "World history",
+    "authors": [
+     "Steven Adams",
+     "Kevin Reilly"
+    ],
+    "publisher": "Markus Wiener Pub",
+    "publishedDate": "1998-06",
+    "description": "Michael Adas Rutgers University Seminar in Comparative &amp; Global \u003cb\u003eHistory\u003c/b\u003e: Race, \u003cbr\u003e\r\nGender and Class under Colonialism. Rutgers University Department of \u003cb\u003eHistory\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1558761365"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781558761360"
+     }
+    ],
+    "pageCount": 231,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dPu3KwLK4jo8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dPu3KwLK4jo8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPu3KwLK4jo8C&printsec\u003dfrontcover&dq\u003dWorld+History&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPu3KwLK4jo8C&dq\u003dWorld+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cboXAAAAIAAJ",
+   "etag": "Rijxbu0pMwY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cboXAAAAIAAJ",
+   "volumeInfo": {
+    "title": "World history",
+    "authors": [
+     "Hutton Webster"
+    ],
+    "publishedDate": "1921",
+    "description": "Since men do not live in isolation, Definition of but everywhere in association, \u003cbr\u003e\r\n\u003cb\u003ehistory\u003c/b\u003e is necessarily Wstory concerned with social groups and especially \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105049337996"
+     }
+    ],
+    "pageCount": 755,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dcboXAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dcboXAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcboXAAAAIAAJ&printsec\u003dfrontcover&dq\u003dWorld+History&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcboXAAAAIAAJ&dq\u003dWorld+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/World_history.pdf?id\u003dcboXAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1ti6Govxg742UtPgsyY2xPu1jtJQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AxWLxjyOUooC",
+   "etag": "9DmUTENo3ZA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AxWLxjyOUooC",
+   "volumeInfo": {
+    "title": "The Essential World History, Volume 1: To 1800",
+    "authors": [
+     "William J. Duiker",
+     "Jackson J. Spielvogel"
+    ],
+    "publisher": "Wadsworth Pub Co",
+    "publishedDate": "2010-02-01",
+    "description": "The text covers individual civilizations such as China, India, and Europe, with due attention paid to the rise of the West, and provides points of comparison ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0495902918"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780495902911"
+     }
+    ],
+    "pageCount": 507,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dAxWLxjyOUooC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dAxWLxjyOUooC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAxWLxjyOUooC&printsec\u003dfrontcover&dq\u003dWorld+History&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAxWLxjyOUooC&dq\u003dWorld+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gIwRuwD9bpkC",
+   "etag": "INHAuGPj9U0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gIwRuwD9bpkC",
+   "volumeInfo": {
+    "title": "World History",
+    "authors": [
+     "Irving L. Gordon",
+     "Jeremy Black"
+    ],
+    "publisher": "Dempsey Parr",
+    "publishedDate": "2002-01-01",
+    "description": "The key thematic perspectives through which each century is seen offer both a \u003cbr\u003e\r\ncomprehensive account of \u003cb\u003eworld history\u003c/b\u003e and provide a coherent coverage of \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1840844450"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781840844450"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dgIwRuwD9bpkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dgIwRuwD9bpkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgIwRuwD9bpkC&q\u003dWorld+History&dq\u003dWorld+History&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgIwRuwD9bpkC&dq\u003dWorld+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tlmDNZcrivoC",
+   "etag": "0Oc17EuJUDg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tlmDNZcrivoC",
+   "volumeInfo": {
+    "title": "World History",
+    "subtitle": "The Basics",
+    "authors": [
+     "Peter N. Stearns"
+    ],
+    "publisher": "Taylor & Francis US",
+    "publishedDate": "2011-01-04",
+    "description": "Written by one of the founders of the field and addressing all of the major issues including time, place, civilizations, contact, themes and more, this book is ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415582741"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415582742"
+     }
+    ],
+    "pageCount": 202,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dtlmDNZcrivoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dtlmDNZcrivoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtlmDNZcrivoC&printsec\u003dfrontcover&dq\u003dWorld+History&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtlmDNZcrivoC&dq\u003dWorld+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dtlmDNZcrivoC&dq\u003dWorld+History&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/World_History-sample-epub.acsm?id\u003dtlmDNZcrivoC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/World_History-sample-pdf.acsm?id\u003dtlmDNZcrivoC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "StNolUirppkC",
+   "etag": "tTPerrTgw3A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/StNolUirppkC",
+   "volumeInfo": {
+    "title": "World History",
+    "authors": [
+     "Elisabeth Gaynor Ellis",
+     "Anthony Esler",
+     "Prentice-Hall, inc"
+    ],
+    "publishedDate": "1999-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0134359151"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780134359151"
+     }
+    ],
+    "pageCount": 638,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dStNolUirppkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dStNolUirppkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dStNolUirppkC&q\u003dWorld+History&dq\u003dWorld+History&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dStNolUirppkC&dq\u003dWorld+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KuH8BVWybuYC",
+   "etag": "gfTe7Ym5saw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KuH8BVWybuYC",
+   "volumeInfo": {
+    "title": "World History",
+    "authors": [
+     "Jeremy Black"
+    ],
+    "publishedDate": "2005-03",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1405447664"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405447669"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dKuH8BVWybuYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dKuH8BVWybuYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKuH8BVWybuYC&q\u003dWorld+History&dq\u003dWorld+History&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKuH8BVWybuYC&dq\u003dWorld+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8iw2VaGbepAC",
+   "etag": "4ZLgvcQF0P4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8iw2VaGbepAC",
+   "volumeInfo": {
+    "title": "World history",
+    "subtitle": "patterns of civilization",
+    "authors": [
+     "Burton F. Beers"
+    ],
+    "publisher": "Pearson Prentice Hall",
+    "publishedDate": "1993-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0139638857"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780139638855"
+     }
+    ],
+    "pageCount": 904,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d8iw2VaGbepAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d8iw2VaGbepAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8iw2VaGbepAC&q\u003dWorld+History&dq\u003dWorld+History&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8iw2VaGbepAC&dq\u003dWorld+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2xg_HTg7dKwC",
+   "etag": "PtfK+I7ir90",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2xg_HTg7dKwC",
+   "volumeInfo": {
+    "title": "World history",
+    "subtitle": "comprehensive volume",
+    "authors": [
+     "Jiu-Hwa Lo Upshur",
+     "Patrick Manning",
+     "Northeastern University (Boston, Mass.). World History Center"
+    ],
+    "publishedDate": "2002",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0534574408"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780534574406"
+     }
+    ],
+    "pageCount": 830,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d2xg_HTg7dKwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d2xg_HTg7dKwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2xg_HTg7dKwC&q\u003dWorld+History&dq\u003dWorld+History&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2xg_HTg7dKwC&dq\u003dWorld+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 586
+}

@@ -1,0 +1,538 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "pLSAay_xwjEC",
+   "etag": "hsJ3SgLttMg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pLSAay_xwjEC",
+   "volumeInfo": {
+    "title": "Sociology",
+    "subtitle": "Introductory Readings",
+    "authors": [
+     "Anthony Giddens"
+    ],
+    "publisher": "Polity",
+    "publishedDate": "2010-07-30",
+    "description": "The third edition of this best-selling introductory reader in sociology has been thoroughly restructured, and fully revised and updated to offer a stimulating ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0745648843"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780745648842"
+     }
+    ],
+    "pageCount": 376,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 7,
+    "contentVersion": "1.1.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dpLSAay_xwjEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dpLSAay_xwjEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpLSAay_xwjEC&printsec\u003dfrontcover&dq\u003dSociology&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpLSAay_xwjEC&dq\u003dSociology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Sociology-sample-epub.acsm?id\u003dpLSAay_xwjEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vbu2gis26C0C",
+   "etag": "L7qO+EMuEfI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vbu2gis26C0C",
+   "volumeInfo": {
+    "title": "Sociology",
+    "authors": [
+     "Anthony Giddens",
+     "Simon Griffiths"
+    ],
+    "publisher": "Polity Pr",
+    "publishedDate": "2006",
+    "description": "This fifth edition remains a state of the art textbook, with fresh and engaging new material added throughout.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "074563379X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780745633794"
+     }
+    ],
+    "pageCount": 1094,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 28,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dvbu2gis26C0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dvbu2gis26C0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvbu2gis26C0C&printsec\u003dfrontcover&dq\u003dSociology&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvbu2gis26C0C&dq\u003dSociology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FzefFQ-WMlYC",
+   "etag": "03BkUFVSjws",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FzefFQ-WMlYC",
+   "volumeInfo": {
+    "title": "Sociology",
+    "authors": [
+     "Jon M. Shepard"
+    ],
+    "publisher": "Wadsworth Pub Co",
+    "publishedDate": "2009-01-12",
+    "description": "With a dynamic critical-thinking focus and a theoretically balanced presentation, this advantage text is noteworthy for its free built-in student study guide, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0495599018"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780495599012"
+     }
+    ],
+    "pageCount": 620,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dFzefFQ-WMlYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dFzefFQ-WMlYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFzefFQ-WMlYC&printsec\u003dfrontcover&dq\u003dSociology&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFzefFQ-WMlYC&dq\u003dSociology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AwnIIXI6y38C",
+   "etag": "fek4/SeTEKI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AwnIIXI6y38C",
+   "volumeInfo": {
+    "title": "Sociology",
+    "subtitle": "A Global Perspective",
+    "authors": [
+     "Joan Ferrante"
+    ],
+    "publisher": "Wadsworth Pub Co",
+    "publishedDate": "2010-01-01",
+    "description": "The enhanced seventh edition has been substantially updated to reflect the current global economic crisis.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0840032048"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780840032041"
+     }
+    ],
+    "pageCount": 592,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dAwnIIXI6y38C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dAwnIIXI6y38C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAwnIIXI6y38C&printsec\u003dfrontcover&dq\u003dSociology&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAwnIIXI6y38C&dq\u003dSociology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tcSnrtWEkNkC",
+   "etag": "9IaMFQAE3MU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tcSnrtWEkNkC",
+   "volumeInfo": {
+    "title": "Sociology",
+    "subtitle": "A Global Introduction",
+    "authors": [
+     "John J. Macionis",
+     "Ken Plummer"
+    ],
+    "publisher": "Prentice Hall",
+    "publishedDate": "2008-07",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0132051583"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780132051583"
+     }
+    ],
+    "pageCount": 953,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dtcSnrtWEkNkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dtcSnrtWEkNkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtcSnrtWEkNkC&dq\u003dSociology&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtcSnrtWEkNkC&dq\u003dSociology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vje_Pl5JmkcC",
+   "etag": "yoX1yE7WNJo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vje_Pl5JmkcC",
+   "volumeInfo": {
+    "title": "Sociology",
+    "subtitle": "your compass for a new world, the brief edition",
+    "authors": [
+     "Robert J. Brym",
+     "John Lie"
+    ],
+    "publisher": "Wadsworth Pub Co",
+    "publishedDate": "2009-06-12",
+    "description": "Intended for the introduction to sociology course found in departments of sociology and social sciences at two- and four-year schools.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0495598933"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780495598930"
+     }
+    ],
+    "pageCount": 558,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dvje_Pl5JmkcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dvje_Pl5JmkcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvje_Pl5JmkcC&printsec\u003dfrontcover&dq\u003dSociology&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvje_Pl5JmkcC&dq\u003dSociology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xeKM5THSEKsC",
+   "etag": "ZC/jwBK5htY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xeKM5THSEKsC",
+   "volumeInfo": {
+    "title": "Sociology",
+    "subtitle": "The Essentials",
+    "authors": [
+     "Margaret L. Andersen",
+     "Howard F. Taylor"
+    ],
+    "publisher": "Wadsworth Pub Co",
+    "publishedDate": "2010-01-01",
+    "description": "This mainstream book is characterized by its superior scholarship, accessible writing style, unmatched coverage of diversity, and unparalleled, integrated ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0495812234"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780495812234"
+     }
+    ],
+    "pageCount": 504,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dxeKM5THSEKsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dxeKM5THSEKsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxeKM5THSEKsC&printsec\u003dfrontcover&dq\u003dSociology&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxeKM5THSEKsC&dq\u003dSociology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "a_lt3ys4NIoC",
+   "etag": "zSDo0C9Ljnk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a_lt3ys4NIoC",
+   "volumeInfo": {
+    "title": "Sociology",
+    "subtitle": "Exploring the Architecture of Everyday Life",
+    "authors": [
+     "David M. Newman"
+    ],
+    "publisher": "Pine Forge Pr",
+    "publishedDate": "2008-01",
+    "description": "This book is available bundled with Sociology: Exploring the Architecture of Everyday Life Readings, Seventh Edition (bundle ISBN: 978-1-4129-6151-6) &quot;When I ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1412961521"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781412961523"
+     }
+    ],
+    "pageCount": 547,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003da_lt3ys4NIoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003da_lt3ys4NIoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003da_lt3ys4NIoC&printsec\u003dfrontcover&dq\u003dSociology&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003da_lt3ys4NIoC&dq\u003dSociology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Sociology-sample-epub.acsm?id\u003da_lt3ys4NIoC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-qXpAAAAIAAJ",
+   "etag": "f1baEw3ptI4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-qXpAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Sociology",
+    "subtitle": "a brief but critical introduction",
+    "authors": [
+     "Anthony Giddens"
+    ],
+    "publishedDate": "1982-06",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSC:32106006653692"
+     }
+    ],
+    "pageCount": 182,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-qXpAAAAIAAJ&q\u003dSociology&dq\u003dSociology&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-qXpAAAAIAAJ&dq\u003dSociology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aMw7PgAACAAJ",
+   "etag": "8Jd+mZsv1pI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aMw7PgAACAAJ",
+   "volumeInfo": {
+    "title": "Sociology",
+    "authors": [
+     "T Schaefer Richard",
+     "Richard T. Schaefer"
+    ],
+    "publisher": "McGraw-Hill Humanities/Social Sciences/Languages",
+    "publishedDate": "2009-11-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0073404330"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780073404332"
+     }
+    ],
+    "pageCount": 640,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003daMw7PgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003daMw7PgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daMw7PgAACAAJ&dq\u003dSociology&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daMw7PgAACAAJ&dq\u003dSociology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 486
+}

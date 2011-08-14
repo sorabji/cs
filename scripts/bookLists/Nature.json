@@ -1,0 +1,545 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "G00hAAAAMAAJ",
+   "etag": "En6qDOPRjG4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G00hAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Nature",
+    "authors": [
+     "Ralph Waldo Emerson"
+    ],
+    "publishedDate": "1849",
+    "description": "The foregoing generations beheld God and \u003cb\u003enature\u003c/b\u003e face to face ; we, through their \u003cbr\u003e\r\neyes. Why should not we also enjoy an original relation to the universe ? \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433074814173"
+     }
+    ],
+    "pageCount": 74,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 7,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dG00hAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dG00hAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dG00hAAAAMAAJ&printsec\u003dfrontcover&dq\u003dNature&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dG00hAAAAMAAJ&dq\u003dNature&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Nature.epub?id\u003dG00hAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Nature.pdf?id\u003dG00hAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2DDvLZcvTTsehRcDoycv2g_QsYhg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "52hg1CDzESAC",
+   "etag": "0y8VnzWy0R4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/52hg1CDzESAC",
+   "volumeInfo": {
+    "title": "What is nature?",
+    "subtitle": "culture, politics and the non-human",
+    "authors": [
+     "Kate Soper"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "1995",
+    "description": "&#39;This is an excellent book.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0631188916"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780631188919"
+     }
+    ],
+    "pageCount": 289,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d52hg1CDzESAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d52hg1CDzESAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d52hg1CDzESAC&printsec\u003dfrontcover&dq\u003dNature&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d52hg1CDzESAC&dq\u003dNature&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IYgCAAAAIAAJ",
+   "etag": "h+FNPLbDnMo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IYgCAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Nature",
+    "authors": [
+     "Sir Norman Lockyer"
+    ],
+    "publishedDate": "1871",
+    "description": "A WEEKLY ILLUSTRATED JOURNAL OF SCIENCE &#39; &#39; To the solid ground Of \u003cb\u003eNature\u003c/b\u003e trusts \u003cbr\u003e\r\nthe mind which builds for aye.&quot; — WORDSWORTH \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015038818327"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dIYgCAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dIYgCAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIYgCAAAAIAAJ&printsec\u003dfrontcover&dq\u003dNature&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIYgCAAAAIAAJ&dq\u003dNature&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Nature.pdf?id\u003dIYgCAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2NcP0QqPkIU_3oXNv8GBEVOGhBEQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yuBgppgX4CMC",
+   "etag": "aJ5IGCiLCLQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yuBgppgX4CMC",
+   "volumeInfo": {
+    "title": "Nature",
+    "subtitle": "Poems Old and New",
+    "authors": [
+     "May Swenson"
+    ],
+    "publisher": "Mariner Books",
+    "publishedDate": "2000-03-22",
+    "description": "With Elizabeth Bishop and Marianne Moore, May Swenson ranks among the foremost poets of this century. All who love nature and poety will relish this work.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0618064087"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780618064083"
+     }
+    ],
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dyuBgppgX4CMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dyuBgppgX4CMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyuBgppgX4CMC&printsec\u003dfrontcover&dq\u003dNature&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyuBgppgX4CMC&dq\u003dNature&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "84IfAAAAYAAJ",
+   "etag": "e2+tr3hd9bY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/84IfAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Nature; addresses, and lectures",
+    "authors": [
+     "Ralph Waldo Emerson"
+    ],
+    "publishedDate": "1849",
+    "description": "The foregoing generations beheld God and \u003cb\u003enature\u003c/b\u003e face to face ; we, through their \u003cbr\u003e\r\neyes. Why should not we also enjoy an original relation to the universe ? \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:AH63VB"
+     }
+    ],
+    "pageCount": 383,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy of nature"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d84IfAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d84IfAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d84IfAAAAYAAJ&printsec\u003dfrontcover&dq\u003dNature&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d84IfAAAAYAAJ&dq\u003dNature&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Nature_addresses_and_lectures.epub?id\u003d84IfAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Nature_addresses_and_lectures.pdf?id\u003d84IfAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0jbQLjZd7otjlpCqFekSDiNBYM1g&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LorUjwEACAAJ",
+   "etag": "IL3EK2iw/Qo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LorUjwEACAAJ",
+   "volumeInfo": {
+    "title": "Nature",
+    "authors": [
+     "Ralph Waldo Emerson"
+    ],
+    "publisher": "Beacon Pr",
+    "publishedDate": "1989-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0807014559"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780807014554"
+     }
+    ],
+    "pageCount": 161,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 8,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLorUjwEACAAJ&dq\u003dNature&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLorUjwEACAAJ&dq\u003dNature&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ja5MAAAAYAAJ",
+   "etag": "r15dOzbt20Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ja5MAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Nature",
+    "publishedDate": "1893",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PRNC:32101049999764"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dja5MAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dja5MAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "fr",
+    "previewLink": "http://books.google.com/books?id\u003dja5MAAAAYAAJ&q\u003dNature&dq\u003dNature&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dja5MAAAAYAAJ&dq\u003dNature&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "H9RFCa7rH8QC",
+   "etag": "GZvEjSonWSg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/H9RFCa7rH8QC",
+   "volumeInfo": {
+    "title": "Nature",
+    "subtitle": "an economic history",
+    "authors": [
+     "Geerat J. Vermeij"
+    ],
+    "publisher": "Princeton Univ Pr",
+    "publishedDate": "2006-08-21",
+    "description": "This is the basic theme of Vermeij&#39;s masterful and scholarly book. From a biological point of view, Nature is a remarkable synthesis.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "069112793X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780691127934"
+     }
+    ],
+    "pageCount": 464,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dH9RFCa7rH8QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dH9RFCa7rH8QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dH9RFCa7rH8QC&printsec\u003dfrontcover&dq\u003dNature&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dH9RFCa7rH8QC&dq\u003dNature&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.17,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dH9RFCa7rH8QC&dq\u003dNature&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Nature-sample-epub.acsm?id\u003dH9RFCa7rH8QC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Nature-sample-pdf.acsm?id\u003dH9RFCa7rH8QC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DWLeGp2Wv9MC",
+   "etag": "OEOsr9F325k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DWLeGp2Wv9MC",
+   "volumeInfo": {
+    "title": "Nature",
+    "subtitle": "an environmental cosmology",
+    "authors": [
+     "Joseph Grange"
+    ],
+    "publisher": "State Univ of New York Pr",
+    "publishedDate": "1997-06",
+    "description": "Provides a set of normative measures to assess the value of nature and proposes the new discipline of foundational ecology as a response to environmental crisis ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "079143348X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780791433485"
+     }
+    ],
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dDWLeGp2Wv9MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dDWLeGp2Wv9MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDWLeGp2Wv9MC&printsec\u003dfrontcover&dq\u003dNature&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDWLeGp2Wv9MC&dq\u003dNature&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.17,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dDWLeGp2Wv9MC&dq\u003dNature&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Nature-sample-epub.acsm?id\u003dDWLeGp2Wv9MC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Nature-sample-pdf.acsm?id\u003dDWLeGp2Wv9MC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RsoLAAAAIAAJ",
+   "etag": "5RPcBDNrS7g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RsoLAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Nature",
+    "subtitle": "the other earthlings",
+    "authors": [
+     "James Shreeve"
+    ],
+    "publisher": "MacMillan Publishing Company",
+    "publishedDate": "1987",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0025349201"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780025349209"
+     }
+    ],
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dRsoLAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dRsoLAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRsoLAAAAIAAJ&q\u003dNature&dq\u003dNature&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRsoLAAAAIAAJ&dq\u003dNature&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 427
+}

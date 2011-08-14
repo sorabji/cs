@@ -1,0 +1,544 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "71TqZ6_aWusC",
+   "etag": "Bvv1kyaWd+Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/71TqZ6_aWusC",
+   "volumeInfo": {
+    "title": "Psychiatry",
+    "subtitle": "behavioral science and clinical essentials",
+    "authors": [
+     "Jerald Kay",
+     "Jeffrey A. Lieberman",
+     "Allan Tasman"
+    ],
+    "publisher": "W B Saunders Co",
+    "publishedDate": "2000",
+    "description": "This is a new Eedition to the Psychiatry series.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0721658466"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780721658469"
+     }
+    ],
+    "pageCount": 707,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d71TqZ6_aWusC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d71TqZ6_aWusC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d71TqZ6_aWusC&printsec\u003dfrontcover&dq\u003dPsychiatry&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d71TqZ6_aWusC&dq\u003dPsychiatry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lt0-i8xLINoC",
+   "etag": "GLKmn22WBDc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lt0-i8xLINoC",
+   "volumeInfo": {
+    "title": "Psychiatry",
+    "authors": [
+     "David A. Tomb"
+    ],
+    "publishedDate": "2007-08-01",
+    "description": "Thoroughly updated for its Seventh Edition, this House Officer Series volume will remain a best-seller among medical students in psychiatry clerkships, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0781774527"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780781774529"
+     }
+    ],
+    "pageCount": 309,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dlt0-i8xLINoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dlt0-i8xLINoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlt0-i8xLINoC&printsec\u003dfrontcover&dq\u003dPsychiatry&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlt0-i8xLINoC&dq\u003dPsychiatry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "15fbAIJio5YC",
+   "etag": "p0+RzeYzl6s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/15fbAIJio5YC",
+   "volumeInfo": {
+    "title": "Psychiatry",
+    "subtitle": "PreTest self-assessment and review",
+    "authors": [
+     "Debra L. Klamen",
+     "Phil Pan"
+    ],
+    "publisher": "McGraw-Hill",
+    "publishedDate": "2009-03-10",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0071598308"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071598309"
+     }
+    ],
+    "pageCount": 302,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d15fbAIJio5YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d15fbAIJio5YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d15fbAIJio5YC&dq\u003dPsychiatry&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d15fbAIJio5YC&dq\u003dPsychiatry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "13jlmrj7sAQC",
+   "etag": "3aZk8tDBENc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/13jlmrj7sAQC",
+   "volumeInfo": {
+    "title": "Psychiatry",
+    "subtitle": "1200 questions to help you pass the boards",
+    "authors": [
+     "Maju Mathews",
+     "Kumar Budur",
+     "Biju Basil"
+    ],
+    "publishedDate": "2004-12-01",
+    "description": "This review book contains 1,200 multiple-choice questions modeled on the types of questions seen in Part 1 of the board certification exam in adult psychiatry.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0781761069"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780781761062"
+     }
+    ],
+    "pageCount": 426,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d13jlmrj7sAQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d13jlmrj7sAQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d13jlmrj7sAQC&printsec\u003dfrontcover&dq\u003dPsychiatry&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d13jlmrj7sAQC&dq\u003dPsychiatry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "W3FALCgiwqgC",
+   "etag": "ee/g6Sloj+o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/W3FALCgiwqgC",
+   "volumeInfo": {
+    "title": "Psychiatry",
+    "subtitle": "the science of lies",
+    "authors": [
+     "Thomas Stephen Szasz"
+    ],
+    "publisher": "Syracuse Univ Pr",
+    "publishedDate": "2008-09",
+    "description": "A leading authority on the study of psychiatry, mental illness, and its treatment portrays of the integral role of deception in the history, diagnosis, and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0815609108"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780815609100"
+     }
+    ],
+    "pageCount": 148,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dW3FALCgiwqgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dW3FALCgiwqgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dW3FALCgiwqgC&printsec\u003dfrontcover&dq\u003dPsychiatry&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dW3FALCgiwqgC&dq\u003dPsychiatry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RMoisJndtvoC",
+   "etag": "EjzxP5AnZb4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RMoisJndtvoC",
+   "volumeInfo": {
+    "title": "Psychiatry",
+    "subtitle": "an illustrated colour text",
+    "authors": [
+     "Lesley Stevens",
+     "Ian Rodin"
+    ],
+    "publisher": "Elsevier Health Sciences",
+    "publishedDate": "2001-04-23",
+    "description": "The volume includes a wide range of full-color illustrations, diagrams, and tables as well as an abundance of case histories with questions and answers.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0443057036"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780443057038"
+     }
+    ],
+    "pageCount": 90,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dRMoisJndtvoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dRMoisJndtvoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRMoisJndtvoC&printsec\u003dfrontcover&dq\u003dPsychiatry&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRMoisJndtvoC&dq\u003dPsychiatry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nMvqeG7lGwwC",
+   "etag": "7vs/1IKMTnM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nMvqeG7lGwwC",
+   "volumeInfo": {
+    "title": "Psychiatry",
+    "authors": [
+     "Janis L. Cutler",
+     "Eric Robert Marcus"
+    ],
+    "publisher": "Oxford Univ Pr",
+    "publishedDate": "2010-04-01",
+    "description": "Psychiatry 2e also uses case studies, DSM-IV guidelines, and extensive tables offset from the text to act as a comprehensive yet concise guide for the busy ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0195372743"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195372748"
+     }
+    ],
+    "pageCount": 636,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dnMvqeG7lGwwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dnMvqeG7lGwwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnMvqeG7lGwwC&printsec\u003dfrontcover&dq\u003dPsychiatry&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnMvqeG7lGwwC&dq\u003dPsychiatry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.69,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dnMvqeG7lGwwC&dq\u003dPsychiatry&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Psychiatry-sample-pdf.acsm?id\u003dnMvqeG7lGwwC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lt1wBMZ8CzkC",
+   "etag": "sAiz1wyHOjs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lt1wBMZ8CzkC",
+   "volumeInfo": {
+    "title": "Psychiatry",
+    "authors": [
+     "Eugene C. Toy",
+     "Debra L. Klamen"
+    ],
+    "publisher": "McGraw-Hill Medical",
+    "publishedDate": "2009-07-30",
+    "description": "This one stands out because the cases are representative of psychiatry, the explanations are complete yet concise, and the text uses bolded words, tables, and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0071598650"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071598651"
+     }
+    ],
+    "pageCount": 493,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dlt1wBMZ8CzkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dlt1wBMZ8CzkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlt1wBMZ8CzkC&printsec\u003dfrontcover&dq\u003dPsychiatry&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlt1wBMZ8CzkC&dq\u003dPsychiatry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Psychiatry-sample-epub.acsm?id\u003dlt1wBMZ8CzkC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mSR0Q0K1tE0C",
+   "etag": "sHcE/RpAWL0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mSR0Q0K1tE0C",
+   "volumeInfo": {
+    "title": "Psychiatry",
+    "authors": [
+     "Stewart Paton"
+    ],
+    "publishedDate": "1905",
+    "description": "\u003cb\u003ePSYCHIATRY\u003c/b\u003e CHAPTER I THE IMPORTANCE, SCOPE, AND METHODS OF MODERN \u003cb\u003ePSYCHIATRY\u003c/b\u003e 1 \u003cbr\u003e\r\n\u003cb\u003ePsychiatry\u003c/b\u003e is a branch of general medicine. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:24503341565"
+     }
+    ],
+    "pageCount": 618,
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dmSR0Q0K1tE0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dmSR0Q0K1tE0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmSR0Q0K1tE0C&printsec\u003dfrontcover&dq\u003dPsychiatry&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmSR0Q0K1tE0C&dq\u003dPsychiatry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Psychiatry.epub?id\u003dmSR0Q0K1tE0C&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Psychiatry.pdf?id\u003dmSR0Q0K1tE0C&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1pDLhB9VXTm3X_PtBm5Z0svh-A0w&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Duuyb7T0ZiIC",
+   "etag": "dnmEVLkJ7/A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Duuyb7T0ZiIC",
+   "volumeInfo": {
+    "title": "Psychiatry",
+    "authors": [
+     "Neel Burton"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "2010-01-26",
+    "description": "&quot;This book is very different from any medical textbook you&#39;ve ever read… its greatest merit is to have single-handedly transformed the perception of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1405190965"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405190961"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dDuuyb7T0ZiIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dDuuyb7T0ZiIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDuuyb7T0ZiIC&printsec\u003dfrontcover&dq\u003dPsychiatry&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDuuyb7T0ZiIC&dq\u003dPsychiatry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 521
+}

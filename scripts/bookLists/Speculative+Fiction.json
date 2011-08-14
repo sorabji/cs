@@ -1,0 +1,551 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Qq5BYgEACAAJ",
+   "etag": "0Jj9IX/amgQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Qq5BYgEACAAJ",
+   "volumeInfo": {
+    "title": "Speculative Fiction",
+    "subtitle": "Science Fiction, Gothic Fiction, Horror Fiction, List of Time Travel Science Fiction, List of Cyberpunk Works",
+    "authors": [
+     "Books, LLC",
+     "Books Group"
+    ],
+    "publisher": "Books LLC",
+    "publishedDate": "2010-10",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1157670679"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781157670674"
+     }
+    ],
+    "pageCount": 278,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dQq5BYgEACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dQq5BYgEACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQq5BYgEACAAJ&dq\u003dSpeculative+Fiction&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQq5BYgEACAAJ&dq\u003dSpeculative+Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2n2rcQAACAAJ",
+   "etag": "/MW2sVgurHw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2n2rcQAACAAJ",
+   "volumeInfo": {
+    "title": "Speculative Fiction",
+    "authors": [
+     "Lambert M Surhone",
+     "Mariam T Tennoe",
+     "Susan F Henssonow"
+    ],
+    "publishedDate": "2010-08-14",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "6131244162"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9786131244162"
+     }
+    ],
+    "pageCount": 90,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2n2rcQAACAAJ&dq\u003dSpeculative+Fiction&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2n2rcQAACAAJ&dq\u003dSpeculative+Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "D-shGwAACAAJ",
+   "etag": "i1da6nYp7lw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/D-shGwAACAAJ",
+   "volumeInfo": {
+    "title": "Speculative fiction",
+    "subtitle": "trips into inner and outer space ; (a course in science fiction and the quest for meaning)",
+    "authors": [
+     "Aaron W. Hillman",
+     "Confluent Education Development and Research Center"
+    ],
+    "publishedDate": "1972*",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:7370645"
+     }
+    ],
+    "pageCount": 110,
+    "printType": "BOOK",
+    "categories": [
+     "Science fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dD-shGwAACAAJ&dq\u003dSpeculative+Fiction&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dD-shGwAACAAJ&dq\u003dSpeculative+Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GJFnOtrrqB8C",
+   "etag": "lvqsFUK/mp8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GJFnOtrrqB8C",
+   "volumeInfo": {
+    "title": "Firebirds Soaring",
+    "subtitle": "An Anthology of Original Speculative Fiction",
+    "authors": [
+     "Nancy Farmer",
+     "Nancy Springer",
+     "Sharyn November"
+    ],
+    "publisher": "Firebird",
+    "publishedDate": "2009-03-10",
+    "description": "A collection of fantasy and science fiction stories includes contributions by such authors as Ellen Klages, Jane Yolen, and Nancy Farmer.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0142405523"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780142405529"
+     }
+    ],
+    "pageCount": 592,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 38,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dGJFnOtrrqB8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dGJFnOtrrqB8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGJFnOtrrqB8C&printsec\u003dfrontcover&dq\u003dSpeculative+Fiction&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGJFnOtrrqB8C&dq\u003dSpeculative+Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dGJFnOtrrqB8C&dq\u003dSpeculative+Fiction&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Firebirds_Soaring-sample-epub.acsm?id\u003dGJFnOtrrqB8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Firebirds_Soaring-sample-pdf.acsm?id\u003dGJFnOtrrqB8C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "l9yaapyin98C",
+   "etag": "h8T0zRx3fRI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/l9yaapyin98C",
+   "volumeInfo": {
+    "title": "Gravity Wells",
+    "subtitle": "Speculative Fiction Stories",
+    "authors": [
+     "James Alan Gardner"
+    ],
+    "publisher": "HarperCollins",
+    "publishedDate": "2005-04-28",
+    "description": "A debut collection of short fiction by the award-winning author of Radiant features fourteen tales of speculative fiction that explore topics ranging from the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0060087706"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780060087708"
+     }
+    ],
+    "pageCount": 344,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 8,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dl9yaapyin98C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dl9yaapyin98C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dl9yaapyin98C&printsec\u003dfrontcover&dq\u003dSpeculative+Fiction&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dl9yaapyin98C&dq\u003dSpeculative+Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Gravity_Wells-sample-epub.acsm?id\u003dl9yaapyin98C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4IWuSN_XPHMC",
+   "etag": "Qk+yHEDf2Qg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4IWuSN_XPHMC",
+   "volumeInfo": {
+    "title": "Dark matter",
+    "subtitle": "reading the bones",
+    "authors": [
+     "Sheree R. Thomas"
+    ],
+    "publisher": "Aspect",
+    "publishedDate": "2004-01-02",
+    "description": "A second diverse anthology of science fiction, fantasy, and speculative fiction by an array of African-American authors includes both original works and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0446528609"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780446528603"
+     }
+    ],
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d4IWuSN_XPHMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d4IWuSN_XPHMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4IWuSN_XPHMC&printsec\u003dfrontcover&dq\u003dSpeculative+Fiction&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4IWuSN_XPHMC&dq\u003dSpeculative+Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d4IWuSN_XPHMC&dq\u003dSpeculative+Fiction&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Dark_matter-sample-epub.acsm?id\u003d4IWuSN_XPHMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EKoIG4auiB4C",
+   "etag": "5xXHsU1j7CU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EKoIG4auiB4C",
+   "volumeInfo": {
+    "title": "Worlds enough & time",
+    "subtitle": "five tales of speculative fiction",
+    "authors": [
+     "Dan Simmons"
+    ],
+    "publisher": "HarperCollins",
+    "publishedDate": "2002-11-14",
+    "description": "Presents five works of fiction that dive into the after world and the extraterrestrial.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0060506040"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780060506049"
+     }
+    ],
+    "pageCount": 262,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 16,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dEKoIG4auiB4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dEKoIG4auiB4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEKoIG4auiB4C&printsec\u003dfrontcover&dq\u003dSpeculative+Fiction&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEKoIG4auiB4C&dq\u003dSpeculative+Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KH9YAAAACAAJ",
+   "etag": "/YRBu0XQUsg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KH9YAAAACAAJ",
+   "volumeInfo": {
+    "title": "New Wave of Speculative Fiction",
+    "subtitle": "The What If Factor",
+    "authors": [
+     "Sean Wright"
+    ],
+    "publishedDate": "2005-09-24",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1905100027"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781905100026"
+     }
+    ],
+    "pageCount": 212,
+    "printType": "BOOK",
+    "categories": [
+     "Design"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dKH9YAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dKH9YAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKH9YAAAACAAJ&dq\u003dSpeculative+Fiction&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKH9YAAAACAAJ&dq\u003dSpeculative+Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_2Td68XQE5MC",
+   "etag": "Np03lT5+mKE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_2Td68XQE5MC",
+   "volumeInfo": {
+    "title": "Stories in Between",
+    "subtitle": "Narratives and Mediums @ Play",
+    "authors": [
+     "Andrew Davidson"
+    ],
+    "publisher": "Lulu.Com",
+    "publishedDate": "2008-07",
+    "description": "\u003cb\u003especulative fiction\u003c/b\u003e All of the objects of study, while occurring in different \u003cbr\u003e\r\nmediums, share the genre of \u003cb\u003especulative fiction\u003c/b\u003e (and Myst also has a mystery \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1435720806"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781435720800"
+     }
+    ],
+    "pageCount": 194,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d_2Td68XQE5MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d_2Td68XQE5MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_2Td68XQE5MC&pg\u003dPA28&dq\u003dSpeculative+Fiction&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_2Td68XQE5MC&dq\u003dSpeculative+Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Stories_in_Between-sample-epub.acsm?id\u003d_2Td68XQE5MC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TAmPIYnMekMC",
+   "etag": "mSFtawy7biw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TAmPIYnMekMC",
+   "volumeInfo": {
+    "title": "Posthuman visions in postwar U.S. and Japanese speculative fiction: Re(con)figuring Western (post)humanism",
+    "authors": [
+     "Shigeru Suzuki",
+     "University of California, Santa Cruz"
+    ],
+    "publisher": "ProQuest",
+    "publishedDate": "2008",
+    "description": "This dissertation explores the &quot;posthuman visions&quot; in U.S. and Japanese science fiction/speculative fiction (SF) produced after World War II. By &quot;posthuman ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "054993135X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780549931355"
+     }
+    ],
+    "pageCount": 221,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dTAmPIYnMekMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dTAmPIYnMekMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTAmPIYnMekMC&printsec\u003dfrontcover&dq\u003dSpeculative+Fiction&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTAmPIYnMekMC&dq\u003dSpeculative+Fiction&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 599
+}

@@ -1,0 +1,566 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "uGAqEp4AsfcC",
+   "etag": "7ssXSreyNKQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uGAqEp4AsfcC",
+   "volumeInfo": {
+    "title": "Ecology",
+    "subtitle": "from individuals to ecosystems",
+    "authors": [
+     "Michael Begon",
+     "Colin R. Townsend",
+     "John L. Harper"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "2006",
+    "description": "Thoroughly revised and updated, this fourth edition includes: three new chapters on applied ecology, reflecting a rigorous, scientific approach to the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1405111178"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405111171"
+     }
+    ],
+    "pageCount": 738,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003duGAqEp4AsfcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003duGAqEp4AsfcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003duGAqEp4AsfcC&printsec\u003dfrontcover&dq\u003dEcology&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003duGAqEp4AsfcC&dq\u003dEcology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6TMvdZQiySoC",
+   "etag": "zuLQlm9YFQ4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6TMvdZQiySoC",
+   "volumeInfo": {
+    "title": "Ecology",
+    "authors": [
+     "Robert E. Ricklefs",
+     "Gary Leon Miller"
+    ],
+    "publisher": "W. H. Freeman",
+    "publishedDate": "2000",
+    "description": "In the decade since the last edition of this classic text, vast changes have occurred in the ecological landscape.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "071672829X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780716728290"
+     }
+    ],
+    "pageCount": 822,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d6TMvdZQiySoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d6TMvdZQiySoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6TMvdZQiySoC&printsec\u003dfrontcover&dq\u003dEcology&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6TMvdZQiySoC&dq\u003dEcology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3xklog5kVGMC",
+   "etag": "QlrONd1gzPk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3xklog5kVGMC",
+   "volumeInfo": {
+    "title": "Ecology",
+    "subtitle": "individuals, populations, and communities",
+    "authors": [
+     "Michael Begon",
+     "John L. Harper",
+     "Colin R. Townsend"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "1996",
+    "description": "This is the fourth edition of a book that has been widely acknowledged as the higher-level ecology text of choice throughout the world for almost 20 years.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0632038012"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780632038015"
+     }
+    ],
+    "pageCount": 1068,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d3xklog5kVGMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d3xklog5kVGMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3xklog5kVGMC&printsec\u003dfrontcover&dq\u003dEcology&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3xklog5kVGMC&dq\u003dEcology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KwBDYgEACAAJ",
+   "etag": "/zAqEmZYt20",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KwBDYgEACAAJ",
+   "volumeInfo": {
+    "title": "Ecology",
+    "authors": [
+     "Cain",
+     "Michael L Cain",
+     "William D. Bowman",
+     "Sally D. Hacker"
+    ],
+    "publisher": "Sinauer Associates",
+    "publishedDate": "2011-03-23",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0878936017"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780878936014"
+     }
+    ],
+    "pageCount": 558,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dKwBDYgEACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dKwBDYgEACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKwBDYgEACAAJ&dq\u003dEcology&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKwBDYgEACAAJ&dq\u003dEcology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "m7U94z35r3wC",
+   "etag": "7b85ulMOCTA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/m7U94z35r3wC",
+   "volumeInfo": {
+    "title": "Ecology",
+    "subtitle": "Plants, Animals, and the Environment",
+    "authors": [
+     "Michael Allaby"
+    ],
+    "publisher": "Infobase Publishing",
+    "publishedDate": "2009-10",
+    "description": "Traces the history of ecology and how the field has developed into a scientific discipline, including information on conservation, sociobiology, and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0816061009"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816061006"
+     }
+    ],
+    "pageCount": 223,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dm7U94z35r3wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dm7U94z35r3wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dm7U94z35r3wC&printsec\u003dfrontcover&dq\u003dEcology&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dm7U94z35r3wC&dq\u003dEcology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.16,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dm7U94z35r3wC&dq\u003dEcology&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Ecology-sample-pdf.acsm?id\u003dm7U94z35r3wC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dQUSARpr22cC",
+   "etag": "z07OWBkQZJE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dQUSARpr22cC",
+   "volumeInfo": {
+    "title": "Ecology",
+    "subtitle": "basic and applied",
+    "authors": [
+     "S. C. Santra"
+    ],
+    "publisher": "M.D. Publications Pvt. Ltd.",
+    "publishedDate": "1994-01-01",
+    "description": "In the present book Ecology-Basic and Applied, various biological and physical environmental aspects were considered within the ecological arena of study.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8185880484"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788185880488"
+     }
+    ],
+    "pageCount": 250,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003ddQUSARpr22cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003ddQUSARpr22cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddQUSARpr22cC&printsec\u003dfrontcover&dq\u003dEcology&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddQUSARpr22cC&dq\u003dEcology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5C5FAQAAIAAJ",
+   "etag": "RAF1mfm+EFw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5C5FAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Ecology",
+    "subtitle": "concepts and applications",
+    "authors": [
+     "Manuel Carl Molles"
+    ],
+    "publisher": "McGraw-Hill Science/Engineering/Math",
+    "publishedDate": "2009-01-27",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0073383228"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780073383224"
+     }
+    ],
+    "pageCount": 572,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d5C5FAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d5C5FAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5C5FAQAAIAAJ&q\u003dEcology&dq\u003dEcology&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5C5FAQAAIAAJ&dq\u003dEcology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ls1RRv09HWMC",
+   "etag": "ay02Ap/hQxQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ls1RRv09HWMC",
+   "volumeInfo": {
+    "title": "Ecology",
+    "authors": [
+     "Donna Latham"
+    ],
+    "publisher": "Raintree",
+    "publishedDate": "2009-09-01",
+    "description": "what giant alien apecies has taken over Florida&#39;s Everglades?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1410933369"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781410933362"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dLs1RRv09HWMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dLs1RRv09HWMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLs1RRv09HWMC&printsec\u003dfrontcover&dq\u003dEcology&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLs1RRv09HWMC&dq\u003dEcology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wcMWAAAAYAAJ",
+   "etag": "kIdpGFHjkn4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wcMWAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Ecology",
+    "authors": [
+     "Ecological Society of America",
+     "Brooklyn Botanic Garden"
+    ],
+    "publishedDate": "1922",
+    "description": "\u003cb\u003eECOLOGY\u003c/b\u003e VOL. Ill JANUARY, 1922 No. I CITY STREET DUST AND INFECTIOUS DISEASES1 \u003cbr\u003e\r\nJACQUES W. REDWAY, FRGS Meteorological Laboratory, Mount Vernon, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044106440936"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 2,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dwcMWAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dwcMWAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwcMWAAAAYAAJ&printsec\u003dfrontcover&dq\u003dEcology&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwcMWAAAAYAAJ&dq\u003dEcology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Ecology.pdf?id\u003dwcMWAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3Xm76mJBsvCpr8B-sIKktUa-uecA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LwRT_ZYP_ocC",
+   "etag": "PyFfGc0s7uk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LwRT_ZYP_ocC",
+   "volumeInfo": {
+    "title": "Ecology",
+    "subtitle": "a pocket guide",
+    "authors": [
+     "Ernest Callenbach"
+    ],
+    "publisher": "Univ of California Pr",
+    "publishedDate": "2008-09-03",
+    "description": "Offering essential environmental wisdom for the twenty-first century, this lively, compact book explains more than sixty basic ecological concepts in an easy-to ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520257197"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520257191"
+     }
+    ],
+    "pageCount": 175,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dLwRT_ZYP_ocC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dLwRT_ZYP_ocC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLwRT_ZYP_ocC&printsec\u003dfrontcover&dq\u003dEcology&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLwRT_ZYP_ocC&dq\u003dEcology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dLwRT_ZYP_ocC&dq\u003dEcology&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Ecology-sample-epub.acsm?id\u003dLwRT_ZYP_ocC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Ecology-sample-pdf.acsm?id\u003dLwRT_ZYP_ocC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 584
+}

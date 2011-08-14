@@ -1,0 +1,543 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "kln-G7ui93IC",
+   "etag": "Xr3L3EldmXA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kln-G7ui93IC",
+   "volumeInfo": {
+    "title": "Foreign Languages",
+    "subtitle": "Human Capital Approach Needed to Correct Staffing and Proficiency Shortfalls",
+    "authors": [
+     "Joseph A. Christoff"
+    ],
+    "publisher": "DIANE Publishing",
+    "publishedDate": "2003-07-01",
+    "description": "This report reviews the use of foreign language skills at the U.S. Army, the Dept., of State, the Dept. of Commerce&#39;s Foreign Commercial Service, &amp; the FBI.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0756725151"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780756725150"
+     }
+    ],
+    "pageCount": 50,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dkln-G7ui93IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dkln-G7ui93IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkln-G7ui93IC&printsec\u003dfrontcover&dq\u003dForeign+Languages&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkln-G7ui93IC&dq\u003dForeign+Languages&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dkln-G7ui93IC&dq\u003dForeign+Languages&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ewNKAAAAYAAJ",
+   "etag": "AIPS/oacXbE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ewNKAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Foreign languages",
+    "subtitle": "a chapter of the Curriculum handbook",
+    "authors": [
+     "Joyce Stone",
+     "Myriam Met",
+     "June K. Phillips",
+     "Association for Supervision and Curriculum Development"
+    ],
+    "publishedDate": "2002",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X006133646"
+     }
+    ],
+    "pageCount": 91,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dewNKAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dewNKAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dewNKAAAAYAAJ&q\u003dForeign+Languages&dq\u003dForeign+Languages&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dewNKAAAAYAAJ&dq\u003dForeign+Languages&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CK4MAAAAIAAJ",
+   "etag": "J2ylNiuNXYM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CK4MAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Foreign languages",
+    "authors": [
+     "上海外国语学院"
+    ],
+    "publishedDate": "1985",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015039633469"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCK4MAAAAIAAJ&q\u003dForeign+Languages&dq\u003dForeign+Languages&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCK4MAAAAIAAJ&dq\u003dForeign+Languages&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ap0pHAAACAAJ",
+   "etag": "RHZB7LCK/l8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ap0pHAAACAAJ",
+   "volumeInfo": {
+    "title": "Foreign languages",
+    "subtitle": "selected materials for prospective teachers of foreign languages",
+    "authors": [
+     "Joanna Breedlove Crane",
+     "Alabama. Dept. of Education"
+    ],
+    "publishedDate": "1971",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:7095302"
+     }
+    ],
+    "pageCount": 16,
+    "printType": "BOOK",
+    "categories": [
+     "Language and languages"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dap0pHAAACAAJ&dq\u003dForeign+Languages&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dap0pHAAACAAJ&dq\u003dForeign+Languages&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BiuurgVkVswC",
+   "etag": "szRRwh6v9HQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BiuurgVkVswC",
+   "volumeInfo": {
+    "title": "Teaching foreign languages in the block",
+    "authors": [
+     "Deborah Blaz"
+    ],
+    "publisher": "Eye On Education, Inc.",
+    "publishedDate": "1998-01",
+    "description": "Provides detailed instructional strategies, sample lesson plans, and sample assessments so that foreign language teachers can make the best use of the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1883001528"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781883001520"
+     }
+    ],
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dBiuurgVkVswC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dBiuurgVkVswC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBiuurgVkVswC&printsec\u003dfrontcover&dq\u003dForeign+Languages&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBiuurgVkVswC&dq\u003dForeign+Languages&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YbzJAAAACAAJ",
+   "etag": "k7SrbOFDgcI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YbzJAAAACAAJ",
+   "volumeInfo": {
+    "title": "Foreign languages",
+    "subtitle": "key links in the chain of learning",
+    "authors": [
+     "Robert G. Mead"
+    ],
+    "publisher": "Northeast Conference on the",
+    "publishedDate": "1983-01-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0915432838"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780915432837"
+     }
+    ],
+    "pageCount": 169,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYbzJAAAACAAJ&dq\u003dForeign+Languages&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYbzJAAAACAAJ&dq\u003dForeign+Languages&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-05ZPwAACAAJ",
+   "etag": "fA8d6IQ1GKo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-05ZPwAACAAJ",
+   "volumeInfo": {
+    "title": "Foreign languages",
+    "subtitle": "grades 7-12",
+    "authors": [
+     "Connecticut. State Dept. of Education"
+    ],
+    "publishedDate": "1958",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:950498"
+     }
+    ],
+    "pageCount": 61,
+    "printType": "BOOK",
+    "categories": [
+     "Languages, Modern"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-05ZPwAACAAJ&dq\u003dForeign+Languages&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-05ZPwAACAAJ&dq\u003dForeign+Languages&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4DTkH9Y8xAMC",
+   "etag": "/NG/FLrNzB4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4DTkH9Y8xAMC",
+   "volumeInfo": {
+    "title": "Issues in modern foreign languages teaching",
+    "authors": [
+     "Kit Field"
+    ],
+    "publisher": "RoutledgeFalmer",
+    "publishedDate": "2000",
+    "description": "Building on their learning about the teaching of MFL (modern foreign languages) in ITT courses, this book will encourage students and newly qualified teachers ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415230640"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415230643"
+     }
+    ],
+    "pageCount": 287,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d4DTkH9Y8xAMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d4DTkH9Y8xAMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4DTkH9Y8xAMC&printsec\u003dfrontcover&dq\u003dForeign+Languages&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4DTkH9Y8xAMC&dq\u003dForeign+Languages&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 47.5,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 37.29,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d4DTkH9Y8xAMC&dq\u003dForeign+Languages&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Issues_in_modern_foreign_languages_teach-sample-epub.acsm?id\u003d4DTkH9Y8xAMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Issues_in_modern_foreign_languages_teach-sample-pdf.acsm?id\u003d4DTkH9Y8xAMC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zYzcTZyu3YAC",
+   "etag": "bcVz4reqQws",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zYzcTZyu3YAC",
+   "volumeInfo": {
+    "title": "Modern foreign languages",
+    "subtitle": "teaching school subjects 11-19",
+    "authors": [
+     "Pachler/Evans/L",
+     "Norbert Pachler",
+     "Michael Evans",
+     "Shirley Lawes"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2008-02-15",
+    "description": "This book will prove an invaluable resource to those on PGCE courses, those in their induction year, and those in the early years of their teaching career.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415373425"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415373425"
+     }
+    ],
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dzYzcTZyu3YAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dzYzcTZyu3YAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzYzcTZyu3YAC&printsec\u003dfrontcover&dq\u003dForeign+Languages&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzYzcTZyu3YAC&dq\u003dForeign+Languages&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 30.36,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dzYzcTZyu3YAC&dq\u003dForeign+Languages&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Modern_foreign_languages-sample-epub.acsm?id\u003dzYzcTZyu3YAC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Modern_foreign_languages-sample-pdf.acsm?id\u003dzYzcTZyu3YAC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "G9q-jVqzI1oC",
+   "etag": "5hTClFrW/zw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G9q-jVqzI1oC",
+   "volumeInfo": {
+    "title": "Learning to teach modern foreign languages in the secondary school",
+    "subtitle": "a companion to school experience",
+    "authors": [
+     "Norbert Pachler",
+     "Kit Field"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2001",
+    "description": "This is the second edition of our best-selling title, in turn one the extremely successful Learning to Teach series, The teaching of Modern Foreign Languages ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415240204"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415240208"
+     }
+    ],
+    "pageCount": 328,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dG9q-jVqzI1oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dG9q-jVqzI1oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dG9q-jVqzI1oC&printsec\u003dfrontcover&dq\u003dForeign+Languages&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dG9q-jVqzI1oC&dq\u003dForeign+Languages&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 45.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 36.76,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dG9q-jVqzI1oC&dq\u003dForeign+Languages&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Learning_to_teach_modern_foreign_languag-sample-pdf.acsm?id\u003dG9q-jVqzI1oC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 594
+}

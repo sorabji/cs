@@ -1,0 +1,528 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "xPLGdYW9t5kC",
+   "etag": "XVWjR+WQCVw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xPLGdYW9t5kC",
+   "volumeInfo": {
+    "title": "Botany",
+    "subtitle": "an introduction to plant biology",
+    "authors": [
+     "James D. Mauseth"
+    ],
+    "publisher": "Jones & Bartlett Learning",
+    "publishedDate": "2009",
+    "description": "Newly updated, Botany: An Introduction to Plant Biology, Fourth Edition provides an current, thorough overview of the fundamentals of botany.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0763753459"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780763753450"
+     }
+    ],
+    "pageCount": 624,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dxPLGdYW9t5kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dxPLGdYW9t5kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxPLGdYW9t5kC&printsec\u003dfrontcover&dq\u003dBotany&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxPLGdYW9t5kC&dq\u003dBotany&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "h4EcAAAAIAAJ",
+   "etag": "xpx2KaOq59k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/h4EcAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Botany",
+    "subtitle": "an elementary text for schools",
+    "authors": [
+     "Liberty Hyde Bailey"
+    ],
+    "publishedDate": "1901",
+    "description": "\u003cb\u003eBOTANY\u003c/b\u003e PART I— THE PLANT ITSELF CHAPTER I THE PLANT AS A WHOLE 1. A plant is a \u003cbr\u003e\r\nliving, growing thing. It partakes of the soil and air and sunshine. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B3873978"
+     }
+    ],
+    "pageCount": 355,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dh4EcAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dh4EcAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dh4EcAAAAIAAJ&printsec\u003dfrontcover&dq\u003dBotany&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dh4EcAAAAIAAJ&dq\u003dBotany&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Botany.pdf?id\u003dh4EcAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2JwQTNMFDtyOyMzpsp2uihqI-DYA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fAQWAAAAYAAJ",
+   "etag": "i+rMVNFoCkM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fAQWAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Botany",
+    "subtitle": "the story of plant life",
+    "authors": [
+     "Julia McNair Wright"
+    ],
+    "publishedDate": "1898",
+    "description": "\u003cb\u003eBOTANY\u003c/b\u003e CHAPTER I THE STORY OF THE ROOT January &quot; Never quite shall disappear The \u003cbr\u003e\r\nglory of the circling year.&quot; THE EXTENT OF PLANT LIFE Plant life extends \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HN6PCN"
+     }
+    ],
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Botany"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dfAQWAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dfAQWAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfAQWAAAAYAAJ&printsec\u003dfrontcover&dq\u003dBotany&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfAQWAAAAYAAJ&dq\u003dBotany&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Botany.epub?id\u003dfAQWAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Botany.pdf?id\u003dfAQWAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U19oBdlH3AlG2xVq67b68-mUxKipA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9AoFAAAAQAAJ",
+   "etag": "JlZuNrZHEv8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9AoFAAAAQAAJ",
+   "volumeInfo": {
+    "title": "Botany",
+    "authors": [
+     "Robert Bentley"
+    ],
+    "publishedDate": "1875",
+    "description": "ELEME \u003cb\u003eBOTANY\u003c/b\u003e, GENERAL INTRODUCTION. The study of the various bodies which are \u003cbr\u003e\r\nplaced on the surface of the earth, or which combine to form its substance, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:N10645727"
+     }
+    ],
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Botany"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d9AoFAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d9AoFAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9AoFAAAAQAAJ&printsec\u003dfrontcover&dq\u003dBotany&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9AoFAAAAQAAJ&dq\u003dBotany&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Botany.pdf?id\u003d9AoFAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0_mBnhDNUg70RqWuh9WiKMa98Ckw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RmZJAAAAIAAJ",
+   "etag": "z2dzuo6q2Ok",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RmZJAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Botany",
+    "authors": [
+     "Sir Joseph Dalton Hooker"
+    ],
+    "publishedDate": "1877",
+    "description": "\u003cb\u003eBOTANY\u003c/b\u003e. I.— INTRODUCTORY. The study of \u003cb\u003eBotany\u003c/b\u003e is best commenced with the careful \u003cbr\u003e\r\nobservation of the different parts of living plants, their positions and \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B266838"
+     }
+    ],
+    "pageCount": 117,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dRmZJAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dRmZJAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRmZJAAAAIAAJ&printsec\u003dfrontcover&dq\u003dBotany&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRmZJAAAAIAAJ&dq\u003dBotany&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Botany.pdf?id\u003dRmZJAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0HCMvz6_N4dnLe2y9748Dsupul2Q&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "W_L_2yTfOEEC",
+   "etag": "PKB0+y845+s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/W_L_2yTfOEEC",
+   "volumeInfo": {
+    "title": "The Botany of Desire",
+    "authors": [
+     "Michael Pollan"
+    ],
+    "publisher": "Random House Inc",
+    "publishedDate": "2001-05-08",
+    "description": "Focusing on the human relationship with plants, the author of Second Nature uses botany to explore four basic human desires--sweetness, beauty, intoxication, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0375501290"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780375501296"
+     }
+    ],
+    "pageCount": 271,
+    "printType": "BOOK",
+    "categories": [
+     "Gardening"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 1425,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dW_L_2yTfOEEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dW_L_2yTfOEEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dW_L_2yTfOEEC&printsec\u003dfrontcover&dq\u003dBotany&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dW_L_2yTfOEEC&dq\u003dBotany&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dW_L_2yTfOEEC&dq\u003dBotany&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Botany_of_Desire-sample-epub.acsm?id\u003dW_L_2yTfOEEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Botany_of_Desire-sample-pdf.acsm?id\u003dW_L_2yTfOEEC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XiRNVMdTbicC",
+   "etag": "DHMXx0gGCv4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XiRNVMdTbicC",
+   "volumeInfo": {
+    "title": "Botany",
+    "authors": [
+     "Benjamin Lincoln Robinson"
+    ],
+    "description": "Bringing Laughter and Learning Together In the Hands of a Child From the day we \u003cbr\u003e\r\nfirst began using and creating Project Packs we fell in love with them. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:3AQ4D48NRL5"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dXiRNVMdTbicC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dXiRNVMdTbicC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXiRNVMdTbicC&printsec\u003dfrontcover&dq\u003dBotany&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXiRNVMdTbicC&dq\u003dBotany&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Botany-sample-epub.acsm?id\u003dXiRNVMdTbicC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2wkwAAAAYAAJ",
+   "etag": "XFAicjPVoBE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2wkwAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Botany",
+    "subtitle": "with agricultural applications",
+    "authors": [
+     "John Nathan Martin"
+    ],
+    "publishedDate": "1920",
+    "description": "\u003cb\u003eBotany\u003c/b\u003e, with Agricultural Applications CHAPTER I THE NATURE OF \u003cb\u003eBOTANY\u003c/b\u003e Centuries \u003cbr\u003e\r\nago, even before the Christian Era, \u003cb\u003eBotany\u003c/b\u003e was studied. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433010839417"
+     }
+    ],
+    "pageCount": 604,
+    "printType": "BOOK",
+    "categories": [
+     "Botany, Economic"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d2wkwAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d2wkwAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2wkwAAAAYAAJ&printsec\u003dfrontcover&dq\u003dBotany&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2wkwAAAAYAAJ&dq\u003dBotany&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Botany.pdf?id\u003d2wkwAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3SyVxHIaLOA7-ftudyiJk9v-MpgA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ebcYAAAAYAAJ",
+   "etag": "qQYMy03CcH0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ebcYAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Botany ...",
+    "authors": [
+     "Geological Survey of California",
+     "William Henry Brewer",
+     "Sereno Watson",
+     "Asa Gray"
+    ],
+    "publishedDate": "1876",
+    "description": "\u003cb\u003eBOTANY\u003c/b\u003e or CALIFORNIA. Series L PH^NOGAMOUS ok FLOWERING PLANTS. Plants bearing \u003cbr\u003e\r\ntrue flowers, that is, having stamens and pistils, and producing seeds which \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044106363302"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Botany"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003debcYAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003debcYAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003debcYAAAAYAAJ&printsec\u003dfrontcover&dq\u003dBotany&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003debcYAAAAYAAJ&dq\u003dBotany&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Botany.pdf?id\u003debcYAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2Px47NMr9P-2QtDF9Cv4yvmCBnyw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PcpLAAAAYAAJ",
+   "etag": "5puDR555t3U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PcpLAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Botany",
+    "subtitle": "containing a catalogue of the indigenous and naturalized plants of the state",
+    "authors": [
+     "North Carolina. Geological Survey, 1852-1863",
+     "Moses Ashley Curtis"
+    ],
+    "publishedDate": "1867",
+    "description": "1.л&gt; ^ GEOLOGICAL AND NATÜEAL HISTORY SURVEY OF NORTH CAROLINA. PART III, Nà&lt; - \u003cbr\u003e\r\nW Cat с V\\&gt;* . of.&#39;;:&#39;*! iur •&#39; m ) No&gt;&quot;*&#39; -is i (\u003cb\u003eBOTANY\u003c/b\u003e; CONTAINING A \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PRNC:32101075396406"
+     }
+    ],
+    "pageCount": 156,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dPcpLAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dPcpLAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPcpLAAAAYAAJ&printsec\u003dfrontcover&dq\u003dBotany&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPcpLAAAAYAAJ&dq\u003dBotany&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Botany.pdf?id\u003dPcpLAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2Ul-UBY5JSKImCKUOdp2TB3_XGVw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 554
+}

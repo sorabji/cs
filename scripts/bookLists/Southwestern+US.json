@@ -1,0 +1,514 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "AtfYtNp4bIkC",
+   "etag": "3D1Wx/357j4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AtfYtNp4bIkC",
+   "volumeInfo": {
+    "title": "Riparian areas of the southwestern United States",
+    "subtitle": "hydrology, ecology, and management",
+    "authors": [
+     "Malchus B. Baker"
+    ],
+    "publisher": "CRC",
+    "publishedDate": "2004",
+    "description": "Riparian Areas of the Southwestern United States: Hydrology, Ecology, and Management offers a holistic overview of the effects of human activity on these ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1566706262"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781566706261"
+     }
+    ],
+    "pageCount": 408,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dAtfYtNp4bIkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dAtfYtNp4bIkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAtfYtNp4bIkC&printsec\u003dfrontcover&dq\u003dSouthwestern+US&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAtfYtNp4bIkC&dq\u003dSouthwestern+US&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 144.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 115.96,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dAtfYtNp4bIkC&dq\u003dSouthwestern+US&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Riparian_areas_of_the_southwestern_Unite-sample-epub.acsm?id\u003dAtfYtNp4bIkC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Riparian_areas_of_the_southwestern_Unite-sample-pdf.acsm?id\u003dAtfYtNp4bIkC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HB3dqxLkQ8QC",
+   "etag": "n7dMKV1fYCg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HB3dqxLkQ8QC",
+   "volumeInfo": {
+    "title": "Detection and characterization of dust source areas in the Chihuahuan Desert, southwestern North America",
+    "authors": [
+     "Nancy I. Rivera Rivera",
+     "The University of Texas at El Paso"
+    ],
+    "publishedDate": "2006",
+    "description": "This methodology was applied to several dust events associated with long-distance aerosol transport to determine whether these surface features were persistent ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0542968371"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780542968372"
+     }
+    ],
+    "pageCount": 159,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dHB3dqxLkQ8QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dHB3dqxLkQ8QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHB3dqxLkQ8QC&printsec\u003dfrontcover&dq\u003dSouthwestern+US&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHB3dqxLkQ8QC&dq\u003dSouthwestern+US&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "T8esHAAACAAJ",
+   "etag": "miXvx3IbIJs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/T8esHAAACAAJ",
+   "volumeInfo": {
+    "title": "Desert regions of Southwestern U.S.",
+    "authors": [
+     "United States. Dept. of the Army"
+    ],
+    "publishedDate": "1949",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:24666443"
+     }
+    ],
+    "pageCount": 14,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dT8esHAAACAAJ&dq\u003dSouthwestern+US&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dT8esHAAACAAJ&dq\u003dSouthwestern+US&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gnyhx-zC_UYC",
+   "etag": "9AY/uxTaduM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gnyhx-zC_UYC",
+   "volumeInfo": {
+    "title": "U.S. National Forest Campground Guide, Southwestern Region",
+    "authors": [
+     "Fred Dow and Suzanne Dow"
+    ],
+    "description": "Management of National Forests and Parks Under the \u003cb\u003eUS\u003c/b\u003e Department of Agriculture, \u003cbr\u003e\r\nthe Forest Service manages national forests and grasslands. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0976751682"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780976751687"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dgnyhx-zC_UYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dgnyhx-zC_UYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgnyhx-zC_UYC&printsec\u003dfrontcover&dq\u003dSouthwestern+US&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgnyhx-zC_UYC&dq\u003dSouthwestern+US&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/U_S_National_Forest_Campground_Guide_Sou-sample-pdf.acsm?id\u003dgnyhx-zC_UYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qJ-N4IM2Ld8C",
+   "etag": "9gROuvBsmy8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qJ-N4IM2Ld8C",
+   "volumeInfo": {
+    "title": "Safe Application of Reclaimed Water Reuse in the Southwestern United States",
+    "authors": [
+     "Laosheng Wu"
+    ],
+    "publisher": "ANR Publications",
+    "publishedDate": "2009",
+    "description": "\u003cb\u003e...\u003c/b\u003e Introduction In the arid and semiarid \u003cb\u003esouthwestern United States\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e US \u003cbr\u003e\r\nCensus Bureau estimates show that populations in both Arizona and Nevada are \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1601076096"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781601076090"
+     }
+    ],
+    "pageCount": 21,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dqJ-N4IM2Ld8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dqJ-N4IM2Ld8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dqJ-N4IM2Ld8C&pg\u003dPA1&dq\u003dSouthwestern+US&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dqJ-N4IM2Ld8C&dq\u003dSouthwestern+US&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6SIMAAAAYAAJ",
+   "etag": "Ox3rFs0OgJg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6SIMAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Bulletin - United States Geological Survey",
+    "authors": [
+     "Geological Survey (U.S.)"
+    ],
+    "publishedDate": "1892",
+    "description": "\u003cb\u003eSOUTHWESTERN\u003c/b\u003e FLORIDA. The shores of the Gulf of Mexico in the state of Florida \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e A \u003cb\u003eUS\u003c/b\u003e Geological Survey party has l&gt;ern engaged at work in that region. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044055613624"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d6SIMAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d6SIMAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6SIMAAAAYAAJ&pg\u003dPA95&dq\u003dSouthwestern+US&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6SIMAAAAYAAJ&dq\u003dSouthwestern+US&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Bulletin_United_States_Geological_Survey.pdf?id\u003d6SIMAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0hcRf6CBiHQPSDLVam0FcoZex3uQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lMhXlD8v3KgC",
+   "etag": "R4ZROwUvL1U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lMhXlD8v3KgC",
+   "volumeInfo": {
+    "title": "Pheidole in the new world",
+    "subtitle": "a dominant, hyperdiverse ant genus",
+    "authors": [
+     "Edward O. Wilson"
+    ],
+    "publisher": "Harvard Univ Pr",
+    "publishedDate": "2003",
+    "description": "(1984) hyatti fallax group \u003cb\u003esouthwestern US\u003c/b\u003e 20 Taber and Cokendolpher (1988) \u003cbr\u003e\r\nnitidula (\u003d strobili) fallax group Uruguay 20 Gonietal. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0674002938"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780674002937"
+     }
+    ],
+    "pageCount": 794,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dlMhXlD8v3KgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dlMhXlD8v3KgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlMhXlD8v3KgC&pg\u003dPA10&dq\u003dSouthwestern+US&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlMhXlD8v3KgC&dq\u003dSouthwestern+US&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aWVi0IF_jcQC",
+   "etag": "9FX8RfaS+Z8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aWVi0IF_jcQC",
+   "volumeInfo": {
+    "title": "Kaufman field guide to insects of North America",
+    "authors": [
+     "Eric R. Eaton",
+     "Kenn Kaufman"
+    ],
+    "publisher": "Houghton Mifflin Harcourt",
+    "publishedDate": "2007-01-24",
+    "description": "The 27 North American species of Chrysanthrax are most diverse in the \u003cbr\u003e\r\n\u003cb\u003esouthwestern US\u003c/b\u003e Look for adults on low-growing composite flowers. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0618153101"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780618153107"
+     }
+    ],
+    "pageCount": 391,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003daWVi0IF_jcQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003daWVi0IF_jcQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daWVi0IF_jcQC&pg\u003dPA292&dq\u003dSouthwestern+US&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daWVi0IF_jcQC&dq\u003dSouthwestern+US&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dTFjNwAACAAJ",
+   "etag": "OuvFkOCo5uM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dTFjNwAACAAJ",
+   "volumeInfo": {
+    "title": "Potential field analyses of southwestern U.S.",
+    "subtitle": "implications for Proterozoic tectonics and AUSWUS",
+    "authors": [
+     "Bill Fry"
+    ],
+    "publishedDate": "2003",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:55611434"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Geology, Stratigraphic"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddTFjNwAACAAJ&dq\u003dSouthwestern+US&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddTFjNwAACAAJ&dq\u003dSouthwestern+US&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "f2hq_RNbebsC",
+   "etag": "krwp8hu4QQA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f2hq_RNbebsC",
+   "volumeInfo": {
+    "title": "Reptiles of North America",
+    "subtitle": "A Guide to Field Identification",
+    "authors": [
+     "Hobart M. Smith",
+     "Edmund D. Brodie",
+     "David M. Dennis",
+     "Sy Barlowe"
+    ],
+    "publisher": "Golden Guides from St. Martin's Press",
+    "publishedDate": "2001-02-27",
+    "description": "Night lizards (Xantusiidae) range from \u003cb\u003esouthwestern US\u003c/b\u003e to Central America. \u003cbr\u003e\r\nAnguids (Anguidae) are diurnal and mostly American, absent or sparse elsewhere. \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1582381232"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781582381237"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003df2hq_RNbebsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003df2hq_RNbebsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003df2hq_RNbebsC&pg\u003dPA64&dq\u003dSouthwestern+US&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003df2hq_RNbebsC&dq\u003dSouthwestern+US&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 549
+}

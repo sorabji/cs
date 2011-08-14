@@ -1,0 +1,559 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "GryqqV58cXcC",
+   "etag": "17msFvxO1rc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GryqqV58cXcC",
+   "volumeInfo": {
+    "title": "Architecture",
+    "subtitle": "Form, Space, & Order",
+    "authors": [
+     "Frank Ching"
+    ],
+    "publisher": "Wiley",
+    "publishedDate": "2007-06-18",
+    "description": "In addition to updates to content and many of the illustrations, this new edition includes a companion CD-ROM that brings the book&#39;s architectural concepts to ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0471752169"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780471752165"
+     }
+    ],
+    "pageCount": 431,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 28,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dGryqqV58cXcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dGryqqV58cXcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGryqqV58cXcC&printsec\u003dfrontcover&dq\u003dArchitecture&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGryqqV58cXcC&dq\u003dArchitecture&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 34.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dGryqqV58cXcC&dq\u003dArchitecture&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Architecture-sample-pdf.acsm?id\u003dGryqqV58cXcC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uz2zg7nSDQEC",
+   "etag": "D/zO6javoZU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uz2zg7nSDQEC",
+   "volumeInfo": {
+    "title": "What is architecture?",
+    "subtitle": "an essay on landscapes, buildings, and machines",
+    "authors": [
+     "Paul Shepheard"
+    ],
+    "publisher": "The MIT Press",
+    "publishedDate": "1994",
+    "description": "What Is Architecture? An Essay On Landscapes, Buildings, And Machines --Paul Shepheard&#39;This is one of the strangest and most enchanting books I have ever seen.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0262691663"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780262691666"
+     }
+    ],
+    "pageCount": 131,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003duz2zg7nSDQEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003duz2zg7nSDQEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003duz2zg7nSDQEC&printsec\u003dfrontcover&dq\u003dArchitecture&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003duz2zg7nSDQEC&dq\u003dArchitecture&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fyUBgspcsgAC",
+   "etag": "avtpl+1Llhg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fyUBgspcsgAC",
+   "volumeInfo": {
+    "title": "Architecture",
+    "subtitle": "Nineteenth and Twentieth Centuries",
+    "authors": [
+     "Henry Russell Hitchcock"
+    ],
+    "publishedDate": "1992-05-28",
+    "description": "The volume traces the development and progress of modern architecture from around 1800 until the middle of the twentieth century.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0300053207"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780300053203"
+     }
+    ],
+    "pageCount": 696,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dfyUBgspcsgAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dfyUBgspcsgAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfyUBgspcsgAC&printsec\u003dfrontcover&dq\u003dArchitecture&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfyUBgspcsgAC&dq\u003dArchitecture&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pZ50MeEQRAoC",
+   "etag": "JHgG4ZrWQN8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pZ50MeEQRAoC",
+   "volumeInfo": {
+    "title": "Experiencing architecture",
+    "authors": [
+     "Steen Eiler Rasmussen"
+    ],
+    "publishedDate": "1992",
+    "description": "Preface When my previous book, &quot;Towns and Buildings,&quot; appeared the learned \u003cbr\u003e\r\nEnglish historian of \u003cb\u003earchitecture\u003c/b\u003e, John Summerson, wrote that the preface should \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0262680025"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780262680028"
+     }
+    ],
+    "pageCount": 245,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 9,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dpZ50MeEQRAoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dpZ50MeEQRAoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpZ50MeEQRAoC&printsec\u003dfrontcover&dq\u003dArchitecture&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpZ50MeEQRAoC&dq\u003dArchitecture&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "C84DAAAAYAAJ",
+   "etag": "5um3DU8FC14",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/C84DAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Architecture",
+    "authors": [
+     "Hezekiah Howe"
+    ],
+    "publishedDate": "1831",
+    "description": "There are three kinds of \u003cb\u003eArchitecture\u003c/b\u003e: — 1. Civil \u003cb\u003eArchitecture\u003c/b\u003e. 2. Naval \u003cbr\u003e\r\n\u003cb\u003eArchitecture\u003c/b\u003e. 3. Military \u003cb\u003eArchitecture\u003c/b\u003e. The first, comprehends all that relates \u003cbr\u003e\r\nto \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044033499302"
+     }
+    ],
+    "pageCount": 74,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dC84DAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dC84DAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dC84DAAAAYAAJ&printsec\u003dfrontcover&dq\u003dArchitecture&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dC84DAAAAYAAJ&dq\u003dArchitecture&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Architecture.epub?id\u003dC84DAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Architecture.pdf?id\u003dC84DAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U10GtxrttmVyrFhWMA4TkniBEZVng&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZqFd1TCLkLAC",
+   "etag": "chsepI+MYc0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZqFd1TCLkLAC",
+   "volumeInfo": {
+    "title": "Architecture",
+    "subtitle": "choice or fate",
+    "authors": [
+     "Léon Krier"
+    ],
+    "publisher": "Papadakis Publisher",
+    "publishedDate": "1998-04-25",
+    "description": "This polemic is essential reading for anyone concerned with the state and direction of architecture and urban planning today.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1901092038"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781901092035"
+     }
+    ],
+    "pageCount": 205,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dZqFd1TCLkLAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dZqFd1TCLkLAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZqFd1TCLkLAC&printsec\u003dfrontcover&dq\u003dArchitecture&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZqFd1TCLkLAC&dq\u003dArchitecture&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yIJtHcg70UAC",
+   "etag": "iYB19PBdrDw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yIJtHcg70UAC",
+   "volumeInfo": {
+    "title": "Architecture",
+    "authors": [
+     "Sir Thomas Graham Jackson"
+    ],
+    "publisher": "Ayer Co Pub",
+    "publishedDate": "1925",
+    "description": "i EARLY GREEK \u003cb\u003eARCHITECTURE\u003c/b\u003e 3 which the pin-holes, and I believe some of the \u003cbr\u003e\r\nmetal pins, still remain. The upper part of the walls of Solomon&#39;s palace at \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "083699938X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780836999389"
+     }
+    ],
+    "pageCount": 366,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dyIJtHcg70UAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dyIJtHcg70UAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyIJtHcg70UAC&printsec\u003dfrontcover&dq\u003dArchitecture&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyIJtHcg70UAC&dq\u003dArchitecture&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 25.94,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 15.31,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dyIJtHcg70UAC&dq\u003dArchitecture&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Architecture-sample-pdf.acsm?id\u003dyIJtHcg70UAC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mgkMAQAAMAAJ",
+   "etag": "w50Srff+ebs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mgkMAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Architecture",
+    "publishedDate": "1896",
+    "description": "Ruskin, in one of those inimitable aphorisms to be found in his &quot; Seven Lamps,&quot; \u003cbr\u003e\r\nsays this : &quot; The forms of \u003cb\u003eArchitecture\u003c/b\u003e already known are good enough for us \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X001146176"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dmgkMAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dmgkMAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmgkMAQAAMAAJ&printsec\u003dfrontcover&dq\u003dArchitecture&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmgkMAQAAMAAJ&dq\u003dArchitecture&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Architecture.pdf?id\u003dmgkMAQAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U06mEr-EcMI9SP5B-wiMO16qZfkkg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "m2dxe3Yd9X4C",
+   "etag": "PdFZnVfo2lM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/m2dxe3Yd9X4C",
+   "volumeInfo": {
+    "title": "Architecture",
+    "subtitle": "a visual history",
+    "authors": [
+     "James Neal"
+    ],
+    "publisher": "Promotional Reprint Co Ltd",
+    "publishedDate": "2001-06-30",
+    "description": "Although it is always functional, such as a home, workspace, or public area, architecture also stands as the only art form of art we actually walk through, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1856485889"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781856485883"
+     }
+    ],
+    "pageCount": 511,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dm2dxe3Yd9X4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dm2dxe3Yd9X4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dm2dxe3Yd9X4C&printsec\u003dfrontcover&dq\u003dArchitecture&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dm2dxe3Yd9X4C&dq\u003dArchitecture&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Architecture-sample-epub.acsm?id\u003dm2dxe3Yd9X4C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CfOj37an-EAC",
+   "etag": "NxAjp/Kz1bg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CfOj37an-EAC",
+   "volumeInfo": {
+    "title": "Architecture is elementary",
+    "subtitle": "visual thinking through architectural concepts",
+    "authors": [
+     "Nathan B. Winters"
+    ],
+    "publisher": "Gibbs Smith",
+    "publishedDate": "2005-09-15",
+    "description": "Already awarded for its unique illustrations in both number and quality, the book features fifty new illustrations of recent and planned buildings.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1586858297"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781586858292"
+     }
+    ],
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dCfOj37an-EAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dCfOj37an-EAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCfOj37an-EAC&printsec\u003dfrontcover&dq\u003dArchitecture&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCfOj37an-EAC&dq\u003dArchitecture&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Architecture_is_elementary-sample-pdf.acsm?id\u003dCfOj37an-EAC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 585
+}

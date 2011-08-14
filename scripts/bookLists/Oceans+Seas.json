@@ -1,0 +1,565 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "wFpOgVSvdvgC",
+   "etag": "OHCIA/uvgqQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wFpOgVSvdvgC",
+   "volumeInfo": {
+    "title": "Seas and Oceans",
+    "authors": [
+     "Neil Champion"
+    ],
+    "publisher": "Black Rabbit Books",
+    "publishedDate": "2006",
+    "description": "Describes the oceans of the world, the animals and plants that live in them, and current worldwide threats to sea life such as pollution, overfishing, and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1583405119"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781583405116"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dwFpOgVSvdvgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dwFpOgVSvdvgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwFpOgVSvdvgC&printsec\u003dfrontcover&dq\u003dOceans+Seas&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwFpOgVSvdvgC&dq\u003dOceans+Seas&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zQGgLkZDUJIC",
+   "etag": "fIfNJn6k5Zk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zQGgLkZDUJIC",
+   "volumeInfo": {
+    "title": "Oceans and Seas",
+    "authors": [
+     "Nicola Davies"
+    ],
+    "publisher": "Pan Macmillan",
+    "publishedDate": "2004-03-15",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0753410540"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780753410547"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dzQGgLkZDUJIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dzQGgLkZDUJIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzQGgLkZDUJIC&dq\u003dOceans+Seas&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzQGgLkZDUJIC&dq\u003dOceans+Seas&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "983O3K6_kfAC",
+   "etag": "nYyPt3pLHRI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/983O3K6_kfAC",
+   "volumeInfo": {
+    "title": "Oceans and Seas",
+    "authors": [
+     "Steven Savage"
+    ],
+    "publisher": "Hubsta Ltd",
+    "publishedDate": "2010-05-11",
+    "description": "Helps the reader explore rock pools, coral reefs, and shipwrecks, and introduces fascinating creatures that live in the world&#39;s oceans and seas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0753464012"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780753464014"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d983O3K6_kfAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d983O3K6_kfAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d983O3K6_kfAC&printsec\u003dfrontcover&dq\u003dOceans+Seas&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d983O3K6_kfAC&dq\u003dOceans+Seas&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Gb3LSnTgvx8C",
+   "etag": "y+sWlpkv9BA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Gb3LSnTgvx8C",
+   "volumeInfo": {
+    "title": "Oceans and seas",
+    "authors": [
+     "Catherine Chambers",
+     "Nicholas Lapthorn"
+    ],
+    "publisher": "Heinemann/Raintree",
+    "publishedDate": "2008-03-01",
+    "description": "Explores the world&#39;s seas and oceans, discussing how they were formed, what organisms live there, and how they are used by humans.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1403496137"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781403496133"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dGb3LSnTgvx8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dGb3LSnTgvx8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGb3LSnTgvx8C&printsec\u003dfrontcover&dq\u003dOceans+Seas&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGb3LSnTgvx8C&dq\u003dOceans+Seas&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jQ5qarRxm50C",
+   "etag": "NoKcDcksAag",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jQ5qarRxm50C",
+   "volumeInfo": {
+    "title": "Oceans",
+    "subtitle": "The Threats to Our Seas and What You Can Do to Turn the Tide",
+    "authors": [
+     "Jon Bowermaster"
+    ],
+    "publisher": "Public Affairs",
+    "publishedDate": "2010-04-13",
+    "description": "Presents a collection of essays by leading experts examining the current condition of the world&#39;s oceans and their inhabitants and emphasizing the need to ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1586488309"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781586488307"
+     }
+    ],
+    "pageCount": 319,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003djQ5qarRxm50C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003djQ5qarRxm50C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djQ5qarRxm50C&printsec\u003dfrontcover&dq\u003dOceans+Seas&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djQ5qarRxm50C&dq\u003dOceans+Seas&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003djQ5qarRxm50C&dq\u003dOceans+Seas&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Oceans-sample-epub.acsm?id\u003djQ5qarRxm50C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Oceans-sample-pdf.acsm?id\u003djQ5qarRxm50C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Nb5Iugc56jUC",
+   "etag": "hELygZNqZqw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Nb5Iugc56jUC",
+   "volumeInfo": {
+    "title": "Oceans and Seas",
+    "authors": [
+     "Cassie Mayer"
+    ],
+    "publisher": "Heinemann/Raintree",
+    "publishedDate": "2007-06-15",
+    "description": "Introduces oceans and seas, describing their characteristics and how they differ from each other, where they are located, the animals and plants that live in ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1403493634"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781403493637"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dNb5Iugc56jUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dNb5Iugc56jUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNb5Iugc56jUC&printsec\u003dfrontcover&dq\u003dOceans+Seas&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNb5Iugc56jUC&dq\u003dOceans+Seas&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FEh1x_Ebv4oC",
+   "etag": "tHBb7cP6jC8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FEh1x_Ebv4oC",
+   "volumeInfo": {
+    "title": "Marine geography",
+    "subtitle": "GIS for the oceans and seas",
+    "authors": [
+     "Joe Breman"
+    ],
+    "publisher": "Esri Press",
+    "publishedDate": "2002",
+    "description": "Explains how those studying the world&#39;s oceans and seas use geographic information systems to investigate the health of the environment and the potential ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1589480457"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781589480452"
+     }
+    ],
+    "pageCount": 204,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dFEh1x_Ebv4oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dFEh1x_Ebv4oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFEh1x_Ebv4oC&printsec\u003dfrontcover&dq\u003dOceans+Seas&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFEh1x_Ebv4oC&dq\u003dOceans+Seas&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fFlhbOmZisMC",
+   "etag": "l9+q0YwJEOQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fFlhbOmZisMC",
+   "volumeInfo": {
+    "title": "Oceans",
+    "subtitle": "How We Use the Seas",
+    "authors": [
+     "Dana Desonie"
+    ],
+    "publisher": "Chelsea House Pub",
+    "publishedDate": "2007-11-30",
+    "description": "An introduction to how life in our oceans works, and how we are threatening it with pollution and depletion of fisheries.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0816062161"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816062164"
+     }
+    ],
+    "pageCount": 215,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dfFlhbOmZisMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dfFlhbOmZisMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfFlhbOmZisMC&printsec\u003dfrontcover&dq\u003dOceans+Seas&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfFlhbOmZisMC&dq\u003dOceans+Seas&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 35.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 19.25,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dfFlhbOmZisMC&dq\u003dOceans+Seas&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Oceans-sample-epub.acsm?id\u003dfFlhbOmZisMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Oceans-sample-pdf.acsm?id\u003dfFlhbOmZisMC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HvuIuS2UIn0C",
+   "etag": "ObAyo+j4jUo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HvuIuS2UIn0C",
+   "volumeInfo": {
+    "title": "National Geographic family reference atlas of the world",
+    "authors": [
+     "National Geographic",
+     "National Geographic Society (U.S.)"
+    ],
+    "publisher": "National Geographic",
+    "publishedDate": "2006-10-17",
+    "description": "\u003cb\u003e...\u003c/b\u003e of the \u003cb\u003eOceans\u003c/b\u003e and \u003cb\u003eSeas\u003c/b\u003e ARCTIC ^u Al A2 r» New Siberian Is. A3 Wrange! \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e\r\nC19 Andaman \u003cb\u003eSea\u003c/b\u003e B2 Arabian \u003cb\u003eSea\u003c/b\u003e Bl7 Arafura \u003cb\u003eSea\u003c/b\u003e D4 Arctic \u003cb\u003eOcean\u003c/b\u003e A AruSea D3 \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0792255674"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780792255673"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dHvuIuS2UIn0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dHvuIuS2UIn0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHvuIuS2UIn0C&pg\u003dPA234&dq\u003dOceans+Seas&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHvuIuS2UIn0C&dq\u003dOceans+Seas&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ad27krP9VjYC",
+   "etag": "fxYThtrrn4Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ad27krP9VjYC",
+   "volumeInfo": {
+    "title": "Children's Illustrated Encyclopedia",
+    "authors": [
+     "DK Publishing, Inc"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2010",
+    "description": "\u003cb\u003eOceans\u003c/b\u003e and \u003cb\u003eseas\u003c/b\u003e make up 71 percent of Earth&#39;s surface. \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eoceans\u003c/b\u003e and \u003cb\u003eseas\u003c/b\u003e \u003cbr\u003e\r\nbegan millions of years ago when Earth cooled from its original molten state. \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0756672546"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780756672546"
+     }
+    ],
+    "pageCount": 600,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dad27krP9VjYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dad27krP9VjYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dad27krP9VjYC&pg\u003dPA387&dq\u003dOceans+Seas&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dad27krP9VjYC&dq\u003dOceans+Seas&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 30.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 30.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dad27krP9VjYC&dq\u003dOceans+Seas&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Children_s_Illustrated_Encyclopedia-sample-pdf.acsm?id\u003dad27krP9VjYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 595
+}

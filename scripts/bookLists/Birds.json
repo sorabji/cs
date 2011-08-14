@@ -1,0 +1,544 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "vImhAKRRUEYC",
+   "etag": "OPM2I8CAixY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vImhAKRRUEYC",
+   "volumeInfo": {
+    "title": "Birds",
+    "authors": [
+     "Roger Tory Peterson",
+     "Peter Alden",
+     "John Sill"
+    ],
+    "publisher": "Houghton Mifflin Harcourt",
+    "publishedDate": "2003-03-27",
+    "description": "This series is sponsored by the National Wildlife Federation and the Roger Tory Peterson Institute.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0618307222"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780618307227"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dvImhAKRRUEYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dvImhAKRRUEYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvImhAKRRUEYC&printsec\u003dfrontcover&dq\u003dBirds&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvImhAKRRUEYC&dq\u003dBirds&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "x1MDAAAAYAAJ",
+   "etag": "fwnDhQrI3Xc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/x1MDAAAAYAAJ",
+   "volumeInfo": {
+    "title": "The birds of America",
+    "authors": [
+     "John James Audubon"
+    ],
+    "publishedDate": "1840",
+    "description": "This edition has 65 new images, making a total of 500.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044102823804"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dx1MDAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dx1MDAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dx1MDAAAAYAAJ&printsec\u003dfrontcover&dq\u003dBirds&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dx1MDAAAAYAAJ&dq\u003dBirds&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_birds_of_America.pdf?id\u003dx1MDAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1CIeQio6W9q3Ev4emuiOiiJHalTw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GNg56HpwdhgC",
+   "etag": "KxfZpb0Bn+c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GNg56HpwdhgC",
+   "volumeInfo": {
+    "title": "Birds",
+    "authors": [
+     "Kevin Henkes",
+     "Laura Dronzek"
+    ],
+    "publisher": "Greenwillow Books",
+    "publishedDate": "2009-02-06",
+    "description": "Fascinated by the colors, shapes, sounds, and movements of the many different birds she sees through her window, a little girl is happy to discover that she and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0061363049"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780061363047"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 98,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dGNg56HpwdhgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dGNg56HpwdhgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGNg56HpwdhgC&printsec\u003dfrontcover&dq\u003dBirds&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGNg56HpwdhgC&dq\u003dBirds&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "t3DF4sSazggC",
+   "etag": "fBTwpLjuKCw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/t3DF4sSazggC",
+   "volumeInfo": {
+    "title": "Birds",
+    "authors": [
+     "Herbert S. Zim",
+     "Ira N. Gabrielson"
+    ],
+    "publisher": "Golden Guides from St. Martin's Press",
+    "publishedDate": "2001-02-27",
+    "description": "An illustrated guide to the identification of 129 common birds in the United States and southern Canada, describing their physical characteristics and habitats.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1582381283"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781582381282"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dt3DF4sSazggC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dt3DF4sSazggC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dt3DF4sSazggC&printsec\u003dfrontcover&dq\u003dBirds&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dt3DF4sSazggC&dq\u003dBirds&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3jw1FRV5WuoC",
+   "etag": "KOKyKJIAHj0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3jw1FRV5WuoC",
+   "volumeInfo": {
+    "title": "The Birds",
+    "authors": [
+     "Aristophanes"
+    ],
+    "publishedDate": "1904",
+    "description": "3 ARISTOPHANES THE \u003cb\u003eBIRDS\u003c/b\u003e WITH INTRODUCTION AND NOTES BY WW MERRY, DD Rector of \u003cbr\u003e\r\nLincoln College, Oxford FART I.— INTRODUCTION AND TEXT FOURTH EDITION OXFORD \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044014288096"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d3jw1FRV5WuoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d3jw1FRV5WuoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3jw1FRV5WuoC&printsec\u003dfrontcover&dq\u003dBirds&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3jw1FRV5WuoC&dq\u003dBirds&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Birds.pdf?id\u003d3jw1FRV5WuoC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1c1wMuPlcQMHGy3pgXFJWv_R26TQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WOFCSiiH9ewC",
+   "etag": "i34nvKE5yPI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WOFCSiiH9ewC",
+   "volumeInfo": {
+    "title": "Birds",
+    "authors": [
+     "Adele Richardson"
+    ],
+    "publisher": "First Facts",
+    "publishedDate": "2004-07-01",
+    "description": "Discusses the characteristics, eating habits, and offspring of birds, one of the main groups of the animal kingdom.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0736826211"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780736826211"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dWOFCSiiH9ewC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dWOFCSiiH9ewC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWOFCSiiH9ewC&printsec\u003dfrontcover&dq\u003dBirds&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWOFCSiiH9ewC&dq\u003dBirds&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pv4qaL-P8YEC",
+   "etag": "AC3TnFMvFVc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pv4qaL-P8YEC",
+   "volumeInfo": {
+    "title": "Birds",
+    "subtitle": "nature's magnificent flying machines",
+    "authors": [
+     "Caroline Arnold",
+     "Patricia Wynne"
+    ],
+    "publisher": "Charlesbridge Publishing",
+    "publishedDate": "2003-07",
+    "description": "An introduction to the science that explains how birds fly.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1570915164"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781570915161"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dpv4qaL-P8YEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dpv4qaL-P8YEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpv4qaL-P8YEC&printsec\u003dfrontcover&dq\u003dBirds&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpv4qaL-P8YEC&dq\u003dBirds&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "U8NLAAAAYAAJ",
+   "etag": "7unIIB4fQT0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/U8NLAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Birds",
+    "subtitle": "every child should know",
+    "authors": [
+     "Neltje Blanchan"
+    ],
+    "publishedDate": "1907",
+    "description": "List of Illustrations xv Mcnro page The Flicker. (CW Beebe) . . .206 Two Baby \u003cbr\u003e\r\nCuckoos on the Rickety Bundle of Sticks that by Courtesy we Call a Nest. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PRNC:32101076036472"
+     }
+    ],
+    "pageCount": 273,
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dU8NLAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dU8NLAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dU8NLAAAAYAAJ&printsec\u003dfrontcover&dq\u003dBirds&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dU8NLAAAAYAAJ&dq\u003dBirds&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Birds.epub?id\u003dU8NLAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Birds.pdf?id\u003dU8NLAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U33cKZsCRhvRFZzLheGQMx48YuMAA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GGUtkpL9f9cC",
+   "etag": "o3YVETbgUuo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GGUtkpL9f9cC",
+   "volumeInfo": {
+    "title": "Birds of eastern and Central North America",
+    "authors": [
+     "Roger Tory Peterson",
+     "Virginia Marie Peterson"
+    ],
+    "publisher": "Houghton Mifflin Harcourt",
+    "publishedDate": "2002-03-07",
+    "description": "Blending the steadfast observations of a scientist with the creativity of an artist and writer, a definitive field guide, featuring the renowned Peterson ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0395740460"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780395740460"
+     }
+    ],
+    "pageCount": 427,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 15,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dGGUtkpL9f9cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dGGUtkpL9f9cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGGUtkpL9f9cC&printsec\u003dfrontcover&dq\u003dBirds&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGGUtkpL9f9cC&dq\u003dBirds&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.18,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dGGUtkpL9f9cC&dq\u003dBirds&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Birds_of_eastern_and_Central_North_Ameri-sample-pdf.acsm?id\u003dGGUtkpL9f9cC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "THX_1Hhmwo8C",
+   "etag": "hKW9DVdvvfs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/THX_1Hhmwo8C",
+   "volumeInfo": {
+    "title": "Birds",
+    "subtitle": "poems",
+    "authors": [
+     "Judith Wright",
+     "National Library of Australia"
+    ],
+    "publisher": "National Library Australia",
+    "publishedDate": "2003-06-01",
+    "description": "Now, in this new edition, commemorating 25 years since the poems were last published as a single collection, these works appear with six additional poems and a ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0642107742"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780642107749"
+     }
+    ],
+    "pageCount": 80,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dTHX_1Hhmwo8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dTHX_1Hhmwo8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTHX_1Hhmwo8C&printsec\u003dfrontcover&dq\u003dBirds&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTHX_1Hhmwo8C&dq\u003dBirds&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 573
+}

@@ -1,0 +1,510 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "yfFTSXftIOcC",
+   "etag": "E1iFwgHVvAs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yfFTSXftIOcC",
+   "volumeInfo": {
+    "title": "British Columbia",
+    "authors": [
+     "Ryan Ver Berkmoes",
+     "John Lee"
+    ],
+    "publishedDate": "2007-05-15",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1741045843"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781741045840"
+     }
+    ],
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dyfFTSXftIOcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dyfFTSXftIOcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyfFTSXftIOcC&dq\u003dBritish+Columbia&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyfFTSXftIOcC&dq\u003dBritish+Columbia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aWNKAAAAYAAJ",
+   "etag": "6q+S7EMPyxY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aWNKAAAAYAAJ",
+   "volumeInfo": {
+    "title": "British Columbia",
+    "subtitle": "Papers relative to the affairs of British Columbia .. .Copies of despatches from the secretary of state for the colonies to the governor of British Columbia, and from the governor to the secretary of state",
+    "authors": [
+     "Great Britain. Colonial Office",
+     "Baron Edward Bulwer Lytton Lytton",
+     "Henry Pelham Newcastle (Duke of)",
+     "James Douglas",
+     "British Columbia. Governor (1858-1864 : Douglas)"
+    ],
+    "publishedDate": "1859",
+    "description": "Papers relating to \u003cb\u003eBritish Columbia\u003c/b\u003e. \u003cb\u003eBritish Columbia\u003c/b\u003e. No. 1. Nal. Copies of the \u003cbr\u003e\r\nAct of Parliament to provide for the Government of \u003cb\u003eBritish Columbia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "COLUMBIA:0042828716"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003daWNKAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003daWNKAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daWNKAAAAYAAJ&printsec\u003dfrontcover&dq\u003dBritish+Columbia&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daWNKAAAAYAAJ&dq\u003dBritish+Columbia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/British_Columbia.pdf?id\u003daWNKAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3W94tWjJ2Bkih-03PzPjxU8zwfgw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PyljShH2bjAC",
+   "etag": "xMGVUkfnZ1A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PyljShH2bjAC",
+   "volumeInfo": {
+    "title": "British Columbia",
+    "authors": [
+     "Jill Foran"
+    ],
+    "publisher": "Weigl",
+    "publishedDate": "2002",
+    "description": "LAND AND CLIMATE \u003cb\u003eBritish Columbia&#39;s\u003c/b\u003e landscape is made up of dense rain forests, \u003cbr\u003e\r\nrolling plateaus, lush farmland, and hundreds of islands. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1896990894"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781896990897"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dPyljShH2bjAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dPyljShH2bjAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPyljShH2bjAC&printsec\u003dfrontcover&dq\u003dBritish+Columbia&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPyljShH2bjAC&dq\u003dBritish+Columbia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dPyljShH2bjAC&dq\u003dBritish+Columbia&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/British_Columbia-sample-pdf.acsm?id\u003dPyljShH2bjAC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aICHQAAACAAJ",
+   "etag": "zbpD/YC+0Ec",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aICHQAAACAAJ",
+   "volumeInfo": {
+    "title": "British Columbia",
+    "subtitle": "its present resources and future possibilities, a brief attempt to demonstrate the value of the province",
+    "authors": [
+     "British Columbia"
+    ],
+    "publishedDate": "1893",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:63006992"
+     }
+    ],
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "Natural resources"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daICHQAAACAAJ&dq\u003dBritish+Columbia&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daICHQAAACAAJ&dq\u003dBritish+Columbia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "N7cwJK-BJn0C",
+   "etag": "jgTSEtlwUHo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/N7cwJK-BJn0C",
+   "volumeInfo": {
+    "title": "British Columbia",
+    "authors": [
+     "Nanton, Isabel",
+     "Nancy Flight"
+    ],
+    "publisher": "Grolier",
+    "publishedDate": "1994",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0717227162"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780717227167"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dN7cwJK-BJn0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dN7cwJK-BJn0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dN7cwJK-BJn0C&q\u003dBritish+Columbia&dq\u003dBritish+Columbia&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dN7cwJK-BJn0C&dq\u003dBritish+Columbia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Zd55AAAAMAAJ",
+   "etag": "nc7o5/zfwHg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Zd55AAAAMAAJ",
+   "volumeInfo": {
+    "title": "British Columbia",
+    "subtitle": "land of promises",
+    "authors": [
+     "Patricia Roy",
+     "John Herd Thompson"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2005",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0195410483"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195410488"
+     }
+    ],
+    "pageCount": 216,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dZd55AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dZd55AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZd55AAAAMAAJ&q\u003dBritish+Columbia&dq\u003dBritish+Columbia&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZd55AAAAMAAJ&dq\u003dBritish+Columbia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5c4OAAAAYAAJ",
+   "etag": "eQP2/WQHM0E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5c4OAAAAYAAJ",
+   "volumeInfo": {
+    "title": "British Columbia",
+    "authors": [
+     "Sir Hector Langevin"
+    ],
+    "publishedDate": "1872",
+    "description": "On my journey to \u003cb\u003eBritish Columbia\u003c/b\u003e, I travelled from Chicago to San Route. \u003cbr\u003e\r\nFrancisco by the American Pacific Railway, and at San F rancisco, 1 embarked on \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044081328379"
+     }
+    ],
+    "pageCount": 246,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d5c4OAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d5c4OAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5c4OAAAAYAAJ&pg\u003dPA1&dq\u003dBritish+Columbia&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5c4OAAAAYAAJ&dq\u003dBritish+Columbia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/British_Columbia.pdf?id\u003d5c4OAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1d6FR4anpZP2pQBLgbtW0s2sI7Jg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dV0mAAAAMAAJ",
+   "etag": "GSr4nTeGQHM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dV0mAAAAMAAJ",
+   "volumeInfo": {
+    "title": "British Columbia",
+    "authors": [
+     "John Lewis Robinson"
+    ],
+    "publishedDate": "1972",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0802019226"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780802019226"
+     }
+    ],
+    "pageCount": 139,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003ddV0mAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003ddV0mAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddV0mAAAAMAAJ&q\u003dBritish+Columbia&dq\u003dBritish+Columbia&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddV0mAAAAMAAJ&dq\u003dBritish+Columbia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hEMPAQAAMAAJ",
+   "etag": "BWy1jvOtT4Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hEMPAQAAMAAJ",
+   "volumeInfo": {
+    "title": "British Columbia",
+    "subtitle": "An essay",
+    "authors": [
+     "Robert Christopher Lundin Brown"
+    ],
+    "publishedDate": "1863",
+    "description": "It is the object of the following pages to give some account of \u003cb\u003eBritish Columbia\u003c/b\u003e\u003cbr\u003e\r\n, the youngest, but not the least promising, of the Colonies of that Empire \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "MINN:31951001683161C"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dhEMPAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dhEMPAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhEMPAQAAMAAJ&pg\u003dPA1&dq\u003dBritish+Columbia&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhEMPAQAAMAAJ&dq\u003dBritish+Columbia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/British_Columbia.pdf?id\u003dhEMPAQAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1twMyDe940v1F1xOF828nBtAVzFg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NTRsAAAAIAAJ",
+   "etag": "LLDy7C1kuL8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NTRsAAAAIAAJ",
+   "volumeInfo": {
+    "title": "British Columbia",
+    "subtitle": "a centennial anthology",
+    "publishedDate": "1958",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B4594132"
+     }
+    ],
+    "pageCount": 576,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dNTRsAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dNTRsAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNTRsAAAAIAAJ&q\u003dBritish+Columbia&dq\u003dBritish+Columbia&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNTRsAAAAIAAJ&dq\u003dBritish+Columbia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 598
+}

@@ -1,0 +1,568 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "wnApr9HhrowC",
+   "etag": "4P94F7jzQ8g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wnApr9HhrowC",
+   "volumeInfo": {
+    "title": "The North American Indian",
+    "authors": [
+     "Edward S. Curtis"
+    ],
+    "publisher": "Bibliolife",
+    "publishedDate": "2009-04-30",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0559126034"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780559126031"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dwnApr9HhrowC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dwnApr9HhrowC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwnApr9HhrowC&dq\u003dNorth+American&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwnApr9HhrowC&dq\u003dNorth+American&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oAAYM9uIPosC",
+   "etag": "GHxzq/29Ibw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oAAYM9uIPosC",
+   "volumeInfo": {
+    "title": "North American trees",
+    "authors": [
+     "Richard Joseph Preston",
+     "Richard R. Braham"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "2002",
+    "description": "Completely updated, this new edition continues the grand tradition of this classic reference covering trees of North America excluding Mexico and tropical ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0813815266"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780813815268"
+     }
+    ],
+    "pageCount": 520,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003doAAYM9uIPosC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003doAAYM9uIPosC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doAAYM9uIPosC&printsec\u003dfrontcover&dq\u003dNorth+American&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doAAYM9uIPosC&dq\u003dNorth+American&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SPBeFgeU-voC",
+   "etag": "9Zqy2jPEr28",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SPBeFgeU-voC",
+   "volumeInfo": {
+    "title": "North American archaeology",
+    "authors": [
+     "Timothy R. Pauketat",
+     "Diana DiPaolo Loren"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "2005",
+    "description": "By highlighting current understandings of cultural and historical processes in North America and situating these understandings within a global perspective, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0631231846"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780631231844"
+     }
+    ],
+    "pageCount": 398,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dSPBeFgeU-voC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dSPBeFgeU-voC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSPBeFgeU-voC&printsec\u003dfrontcover&dq\u003dNorth+American&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSPBeFgeU-voC&dq\u003dNorth+American&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ERMggkRg2WgC",
+   "etag": "5+ZG3YZLGlE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ERMggkRg2WgC",
+   "volumeInfo": {
+    "title": "North American pinot noir",
+    "authors": [
+     "John Winthrop Haeger"
+    ],
+    "publisher": "Univ of California Pr",
+    "publishedDate": "2004-09-14",
+    "description": "Wine lovers will gain a broader understanding and appreciation of pinot noir wines; aficionados of pinot noir will find the book a bible to feed their passion.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520241142"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520241145"
+     }
+    ],
+    "pageCount": 445,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dERMggkRg2WgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dERMggkRg2WgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dERMggkRg2WgC&printsec\u003dfrontcover&dq\u003dNorth+American&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dERMggkRg2WgC&dq\u003dNorth+American&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.16,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dERMggkRg2WgC&dq\u003dNorth+American&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/North_American_pinot_noir-sample-pdf.acsm?id\u003dERMggkRg2WgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zjvXkLpqsEgC",
+   "etag": "sUoU2IZby3w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zjvXkLpqsEgC",
+   "volumeInfo": {
+    "title": "North American mushrooms",
+    "subtitle": "a field guide to edible and inedible fungi",
+    "authors": [
+     "Orson K. Miller",
+     "Hope Miller"
+    ],
+    "publisher": "Falcon",
+    "publishedDate": "2006-05-01",
+    "description": "This is a must-have reference book for anyone interested in wild mushrooms, their uses, and their habitats.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0762731095"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780762731091"
+     }
+    ],
+    "pageCount": 583,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dzjvXkLpqsEgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dzjvXkLpqsEgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzjvXkLpqsEgC&printsec\u003dfrontcover&dq\u003dNorth+American&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzjvXkLpqsEgC&dq\u003dNorth+American&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ppJU1CIGoaYC",
+   "etag": "LaFj9nZt7Lg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ppJU1CIGoaYC",
+   "volumeInfo": {
+    "title": "North American Railroad Bridges",
+    "authors": [
+     "Brian Solomon"
+    ],
+    "publisher": "Voyageur Pr",
+    "publishedDate": "2008-01-15",
+    "description": "In this marvelously illustrated book sure to appeal to modelers and railfans alike, Brian Solomon presents the only completely illustrated history to tackle the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0760325278"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780760325278"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dppJU1CIGoaYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dppJU1CIGoaYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dppJU1CIGoaYC&printsec\u003dfrontcover&dq\u003dNorth+American&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dppJU1CIGoaYC&dq\u003dNorth+American&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 28.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 15.65,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dppJU1CIGoaYC&dq\u003dNorth+American&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/North_American_Railroad_Bridges-sample-pdf.acsm?id\u003dppJU1CIGoaYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aj2ZMSekmHEC",
+   "etag": "jl6Z4hBP1Nw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aj2ZMSekmHEC",
+   "volumeInfo": {
+    "title": "Ecology and classification of North American freshwater invertebrates",
+    "authors": [
+     "James H. Thorp",
+     "Alan P. Covich"
+    ],
+    "publisher": "Academic Pr",
+    "publishedDate": "2001",
+    "description": "The First Edition of Ecology and Classification of North American Freshwater Invertebrates has been immensely popular with students and researchers interested ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0126906475"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780126906479"
+     }
+    ],
+    "pageCount": 1056,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003daj2ZMSekmHEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003daj2ZMSekmHEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daj2ZMSekmHEC&printsec\u003dfrontcover&dq\u003dNorth+American&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daj2ZMSekmHEC&dq\u003dNorth+American&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "I6b6EEE1YlIC",
+   "etag": "PcU7NqunJ7c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/I6b6EEE1YlIC",
+   "volumeInfo": {
+    "title": "Handbook of North American Indians",
+    "subtitle": "California",
+    "authors": [
+     "Robert Heizer",
+     "William C. Sturtevant"
+    ],
+    "publisher": "Smithsonian Institution",
+    "publishedDate": "1978-06",
+    "description": "Combines history and anthropology to investigate the origins, development, cultures, religion, and social and political organization of the aboriginal peoples ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0160045746"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780160045745"
+     }
+    ],
+    "pageCount": 816,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dI6b6EEE1YlIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dI6b6EEE1YlIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dI6b6EEE1YlIC&printsec\u003dfrontcover&dq\u003dNorth+American&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dI6b6EEE1YlIC&dq\u003dNorth+American&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lSHH9cL_OfkC",
+   "etag": "sxCXRzMyGXg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lSHH9cL_OfkC",
+   "volumeInfo": {
+    "title": "Atlas of North American Railroads",
+    "authors": [
+     "Bill Yenne"
+    ],
+    "publisher": "Voyageur Press",
+    "publishedDate": "2005-12-25",
+    "description": "The classic system maps produced by the railroads of the day, collected for the first time in this volume, offer a sweeping view of the industry’s remarkable ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0760322996"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780760322994"
+     }
+    ],
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dlSHH9cL_OfkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dlSHH9cL_OfkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlSHH9cL_OfkC&printsec\u003dfrontcover&dq\u003dNorth+American&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlSHH9cL_OfkC&dq\u003dNorth+American&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 28.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 15.65,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dlSHH9cL_OfkC&dq\u003dNorth+American&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Atlas_of_North_American_Railroads-sample-pdf.acsm?id\u003dlSHH9cL_OfkC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EHKjRgCJOtUC",
+   "etag": "2YEyLwS2eIo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EHKjRgCJOtUC",
+   "volumeInfo": {
+    "title": "North American Railyards",
+    "authors": [
+     "Michael Rhodes"
+    ],
+    "publisher": "Voyageur Press",
+    "publishedDate": "2003-12-14",
+    "description": "With the glory days of train passenger service and thus railroad terminals long gone, classification yards have become the focus of modern railroad operations ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0760315787"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780760315781"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Transportation"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dEHKjRgCJOtUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dEHKjRgCJOtUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEHKjRgCJOtUC&printsec\u003dfrontcover&dq\u003dNorth+American&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEHKjRgCJOtUC&dq\u003dNorth+American&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/North_American_Railyards-sample-pdf.acsm?id\u003dEHKjRgCJOtUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 590
+}

@@ -1,0 +1,564 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "UalNAAAAYAAJ",
+   "etag": "7UseyuGRP2g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UalNAAAAYAAJ",
+   "volumeInfo": {
+    "title": "The European",
+    "publishedDate": "1956",
+    "description": "Any \u003cb\u003eEuropean\u003c/b\u003e truly regarding the Middle Eastern problem from the \u003cb\u003eEuropean\u003c/b\u003e \u003cbr\u003e\r\nstandpoint would have pursued an entirely different policy, which would \u003cbr\u003e\r\ncertainly \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X030600919"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dUalNAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dUalNAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUalNAAAAYAAJ&q\u003dEuropean&dq\u003dEuropean&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUalNAAAAYAAJ&dq\u003dEuropean&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gePMlsVzZI0C",
+   "etag": "m36Bng6mwzc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gePMlsVzZI0C",
+   "volumeInfo": {
+    "title": "The European Union Explained, Second Edition",
+    "subtitle": "Institutions, Actors, Global Impact",
+    "authors": [
+     "Andreas Staab"
+    ],
+    "publisher": "Indiana Univ Pr",
+    "publishedDate": "2011-06-07",
+    "description": "Provides a concise overview of the structure, history and policies of the European Union. Original.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0253223032"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780253223036"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dgePMlsVzZI0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dgePMlsVzZI0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgePMlsVzZI0C&printsec\u003dfrontcover&dq\u003dEuropean&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgePMlsVzZI0C&dq\u003dEuropean&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dgePMlsVzZI0C&dq\u003dEuropean&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_European_Union_Explained_Second_Edit-sample-pdf.acsm?id\u003dgePMlsVzZI0C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_kn5c5dJmNUC",
+   "etag": "b1WlJUKFelk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_kn5c5dJmNUC",
+   "volumeInfo": {
+    "title": "Indo-European Language and Culture",
+    "subtitle": "An Introduction",
+    "authors": [
+     "Benjamin W. Fortson"
+    ],
+    "publisher": "Blackwell Pub",
+    "publishedDate": "2009-05-30",
+    "description": "This new edition contains illustrations and photographs of inscriptions illustrating the ancient writing systems, and enhanced and new coverage of dozens of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1405188960"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405188968"
+     }
+    ],
+    "pageCount": 542,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d_kn5c5dJmNUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d_kn5c5dJmNUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_kn5c5dJmNUC&printsec\u003dfrontcover&dq\u003dEuropean&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_kn5c5dJmNUC&dq\u003dEuropean&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5J56J-vmNBUC",
+   "etag": "JEKtxx/oxtw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5J56J-vmNBUC",
+   "volumeInfo": {
+    "title": "The European dream",
+    "subtitle": "how Europe's vision of the future is quietly eclipsing the American dream",
+    "authors": [
+     "Jeremy Rifkin"
+    ],
+    "publisher": "Polity",
+    "publishedDate": "2004",
+    "description": "New in paperback comes the national bestseller that shows how the American Dream is languishing, surpassed worldwide by a powerful alternative in the lifestyle ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0745634257"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780745634258"
+     }
+    ],
+    "pageCount": 434,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 14,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d5J56J-vmNBUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d5J56J-vmNBUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5J56J-vmNBUC&printsec\u003dfrontcover&dq\u003dEuropean&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5J56J-vmNBUC&dq\u003dEuropean&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_European_dream-sample-epub.acsm?id\u003d5J56J-vmNBUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Qrud4YnG_7kC",
+   "etag": "jgtnQQr1dD4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Qrud4YnG_7kC",
+   "volumeInfo": {
+    "title": "European labour law",
+    "authors": [
+     "Roger Blanpain"
+    ],
+    "publisher": "Kluwer Law Intl",
+    "publishedDate": "2010-03-31",
+    "description": "This Twelfth Edition remains the preeminent practice guide in its field. covering the full spectrum - legislation, collective agreements, and more than 400 ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9041132554"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789041132550"
+     }
+    ],
+    "pageCount": 958,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dQrud4YnG_7kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dQrud4YnG_7kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQrud4YnG_7kC&printsec\u003dfrontcover&dq\u003dEuropean&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQrud4YnG_7kC&dq\u003dEuropean&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/European_labour_law-sample-epub.acsm?id\u003dQrud4YnG_7kC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kVWX7ldiBGsC",
+   "etag": "jF6cJsIM8dk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kVWX7ldiBGsC",
+   "volumeInfo": {
+    "title": "European Development Cooperation",
+    "subtitle": "In Between the Local and the Global",
+    "authors": [
+     "Paul Hoebink"
+    ],
+    "publisher": "Amsterdam Univ Pr",
+    "publishedDate": "2011-01-15",
+    "description": "This definitive study analyses a wide range of aspects of European development cooperation, covering, among others, some hotly debated issues such as the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9089642250"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789089642257"
+     }
+    ],
+    "pageCount": 335,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dkVWX7ldiBGsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dkVWX7ldiBGsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkVWX7ldiBGsC&printsec\u003dfrontcover&dq\u003dEuropean&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkVWX7ldiBGsC&dq\u003dEuropean&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/European_Development_Cooperation-sample-epub.acsm?id\u003dkVWX7ldiBGsC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MKroMOXYrFoC",
+   "etag": "0genEybDPpE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MKroMOXYrFoC",
+   "volumeInfo": {
+    "title": "European media law",
+    "authors": [
+     "Oliver Castendyk",
+     "E. J. Dommering",
+     "Alexander Scheuer"
+    ],
+    "publisher": "Kluwer Law Intl",
+    "publishedDate": "2008-07",
+    "description": "The project of which this book is the result was supported by the Institute of European Media Law, The Erich Pommer Institut for Media Law and Media Economics, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9041123474"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789041123473"
+     }
+    ],
+    "pageCount": 1379,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dMKroMOXYrFoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dMKroMOXYrFoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMKroMOXYrFoC&printsec\u003dfrontcover&dq\u003dEuropean&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMKroMOXYrFoC&dq\u003dEuropean&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "n1iRNXmmSU4C",
+   "etag": "UwUeGRVPF0E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/n1iRNXmmSU4C",
+   "volumeInfo": {
+    "title": "The European Union",
+    "subtitle": "politics and policies",
+    "authors": [
+     "John McCormick"
+    ],
+    "publisher": "Westview Pr",
+    "publishedDate": "2007-12-24",
+    "description": "&quot;One of the most widely used introductions to the politics and policies of the European Union, and one of the few written specifically for American students, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0813343763"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780813343761"
+     }
+    ],
+    "pageCount": 417,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dn1iRNXmmSU4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dn1iRNXmmSU4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dn1iRNXmmSU4C&printsec\u003dfrontcover&dq\u003dEuropean&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dn1iRNXmmSU4C&dq\u003dEuropean&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 42.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.08,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dn1iRNXmmSU4C&dq\u003dEuropean&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_European_Union-sample-epub.acsm?id\u003dn1iRNXmmSU4C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_European_Union-sample-pdf.acsm?id\u003dn1iRNXmmSU4C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cGmJK5IPVu4C",
+   "etag": "5duk5Dhmc8Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cGmJK5IPVu4C",
+   "volumeInfo": {
+    "title": "The European Economy Since 1945",
+    "subtitle": "Coordinated Capitalism and Beyond",
+    "authors": [
+     "Barry Eichengreen"
+    ],
+    "publishedDate": "2009-02-01",
+    "description": "The European Economy since 1945 is a broad, accessible, forthright account of the extraordinary development of Europe&#39;s economy since the end of World War II. ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1400829542"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781400829545"
+     }
+    ],
+    "pageCount": 520,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dcGmJK5IPVu4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dcGmJK5IPVu4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcGmJK5IPVu4C&printsec\u003dfrontcover&dq\u003dEuropean&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcGmJK5IPVu4C&dq\u003dEuropean&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_European_Economy_Since_1945-sample-epub.acsm?id\u003dcGmJK5IPVu4C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_pJyKvyGlUoC",
+   "etag": "VKv+nDVxALc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_pJyKvyGlUoC",
+   "volumeInfo": {
+    "title": "Concise European copyright law",
+    "authors": [
+     "Thomas Dreier"
+    ],
+    "publisher": "Kluwer Law Intl",
+    "publishedDate": "2006",
+    "description": "The formula of this series is based on the successful German and Dutch formula &#39;KurzKommentar&#39; and &#39;Tekst en Commentaar&#39;.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9041123849"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789041123848"
+     }
+    ],
+    "pageCount": 476,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d_pJyKvyGlUoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d_pJyKvyGlUoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_pJyKvyGlUoC&printsec\u003dfrontcover&dq\u003dEuropean&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_pJyKvyGlUoC&dq\u003dEuropean&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Concise_European_copyright_law-sample-epub.acsm?id\u003d_pJyKvyGlUoC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 588
+}

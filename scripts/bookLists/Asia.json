@@ -1,0 +1,539 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "G-XReTfyoj0C",
+   "etag": "Ogi7VrMVWrk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G-XReTfyoj0C",
+   "volumeInfo": {
+    "title": "Asia",
+    "authors": [
+     "Leila Merrell Foster"
+    ],
+    "publisher": "NA-h",
+    "publishedDate": "2006-08-19",
+    "description": "Briefly describes the landscape, weather, plants, animals, languages, and famous attractions of the continent of Asia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1403485496"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781403485496"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dG-XReTfyoj0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dG-XReTfyoj0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dG-XReTfyoj0C&printsec\u003dfrontcover&dq\u003dAsia&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dG-XReTfyoj0C&dq\u003dAsia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Npp_VEMtap4C",
+   "etag": "RvQVDZ+9KjQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Npp_VEMtap4C",
+   "volumeInfo": {
+    "title": "Asia",
+    "authors": [
+     "Rob Bowden"
+    ],
+    "publisher": "Gareth Stevens",
+    "publishedDate": "2005-07",
+    "description": "Discusses the environment, culture, religion, economy, politics, and history of Asia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0836859111"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780836859119"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dNpp_VEMtap4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dNpp_VEMtap4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNpp_VEMtap4C&printsec\u003dfrontcover&dq\u003dAsia&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNpp_VEMtap4C&dq\u003dAsia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "i7gLAAAAYAAJ",
+   "etag": "tKfRb5OKHEM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/i7gLAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Asia",
+    "subtitle": "the journal of the American Asiatic Association",
+    "authors": [
+     "American Asiatic Association"
+    ],
+    "publishedDate": "1898",
+    "description": "\u003cb\u003e...\u003c/b\u003e and its touch with affairs in Eastern \u003cb\u003eAsia\u003c/b\u003e and Oceania becomes more intimate\u003cbr\u003e\r\n, the value of this Journal will necessarily increase. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044050524362"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003di7gLAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003di7gLAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003di7gLAAAAYAAJ&printsec\u003dfrontcover&dq\u003dAsia&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003di7gLAAAAYAAJ&dq\u003dAsia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Asia.pdf?id\u003di7gLAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0tAnK-9pCAbHJNuT1bJa3Ocn0jeQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "m2TggZHK7QcC",
+   "etag": "o2hUMfiLShY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/m2TggZHK7QcC",
+   "volumeInfo": {
+    "title": "Asia",
+    "authors": [
+     "Adam R. Schaefer"
+    ],
+    "publisher": "Bridgestone Books",
+    "publishedDate": "2006-04-30",
+    "description": "&quot;Describes the continent of Asia, including climate, landforms, plants, animals, countries, people, as well as Asia and the world&quot;--Provided by publisher.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0736854274"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780736854276"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dm2TggZHK7QcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dm2TggZHK7QcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dm2TggZHK7QcC&printsec\u003dfrontcover&dq\u003dAsia&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dm2TggZHK7QcC&dq\u003dAsia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "F9dQaKZvb4gC",
+   "etag": "49335ivbmiA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/F9dQaKZvb4gC",
+   "volumeInfo": {
+    "title": "Asia",
+    "authors": [
+     "Mike Graf"
+    ],
+    "publisher": "Capstone Press",
+    "publishedDate": "2003-08",
+    "description": "Provides an introduction to the geography, various regions, natural resources, people, and wildlife of Asia, the largest and most populous continent in the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0736833587"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780736833585"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dF9dQaKZvb4gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dF9dQaKZvb4gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dF9dQaKZvb4gC&printsec\u003dfrontcover&dq\u003dAsia&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dF9dQaKZvb4gC&dq\u003dAsia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gju056rn_fwC",
+   "etag": "bgSd2q29qF0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gju056rn_fwC",
+   "volumeInfo": {
+    "title": "Asia.com",
+    "subtitle": "Asia encounters the internet",
+    "authors": [
+     "Kong-Chong Ho",
+     "Kenneth C. C. Yang"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2003",
+    "description": "This book is the first comprehensive analysis of the information society in an Asian context and the impact of these technologies in Asia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415315042"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415315043"
+     }
+    ],
+    "pageCount": 270,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dgju056rn_fwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dgju056rn_fwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgju056rn_fwC&printsec\u003dfrontcover&dq\u003dAsia&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgju056rn_fwC&dq\u003dAsia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 54.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 43.41,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dgju056rn_fwC&dq\u003dAsia&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Asia_com-sample-epub.acsm?id\u003dgju056rn_fwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Asia_com-sample-pdf.acsm?id\u003dgju056rn_fwC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GkQLAAAAIAAJ",
+   "etag": "p58hG6kX3Jc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GkQLAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Asia",
+    "authors": [
+     "Augustus Henry Keane",
+     "Sir Richard Carnac Temple"
+    ],
+    "publishedDate": "1882",
+    "description": "\u003cb\u003eASIA\u003c/b\u003e. CHAPTER I. INTRODUCTION : GENERAL SURVEY. 1. Extent — Area — Boundaries. \u003cbr\u003e\r\n\u003cb\u003eAsia\u003c/b\u003e is not only the largest, but in many respects the grandest and most \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105041072658"
+     }
+    ],
+    "pageCount": 723,
+    "printType": "BOOK",
+    "categories": [
+     "Asia"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dGkQLAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dGkQLAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGkQLAAAAIAAJ&printsec\u003dfrontcover&dq\u003dAsia&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGkQLAAAAIAAJ&dq\u003dAsia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Asia.pdf?id\u003dGkQLAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1NRgX2R_ZxsALUZdA7aQspge9HDQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Wkf09ZZRw2IC",
+   "etag": "sZKfBHv/U/k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Wkf09ZZRw2IC",
+   "volumeInfo": {
+    "title": "What about Asia?",
+    "subtitle": "revisiting Asian studies",
+    "authors": [
+     "Josine Stremmelaar",
+     "Paul van der Velde"
+    ],
+    "publisher": "Amsterdam Univ Pr",
+    "publishedDate": "2006-11-30",
+    "description": "But is it? This is one of the many questions that the contributors to this volume ask themselves.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9053569596"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789053569597"
+     }
+    ],
+    "pageCount": 107,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dWkf09ZZRw2IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dWkf09ZZRw2IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWkf09ZZRw2IC&printsec\u003dfrontcover&dq\u003dAsia&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWkf09ZZRw2IC&dq\u003dAsia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/What_about_Asia-sample-epub.acsm?id\u003dWkf09ZZRw2IC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Uf02AAAAMAAJ",
+   "etag": "iFC/Kf55Xhk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Uf02AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Asia",
+    "subtitle": "a geography reader",
+    "authors": [
+     "Ellsworth Huntington"
+    ],
+    "publishedDate": "1912",
+    "description": "\u003cb\u003eASIA\u003c/b\u003e: A GEOGRAPHY READER CHAPTER I THE COUNTRY AND ITS PEOPLE At a Khan in \u003cb\u003eAsia\u003c/b\u003e \u003cbr\u003e\r\nMinor. As the first pink light of morning appeared in the east, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015063637899"
+     }
+    ],
+    "pageCount": 344,
+    "printType": "BOOK",
+    "categories": [
+     "Asia"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dUf02AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dUf02AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUf02AAAAMAAJ&printsec\u003dfrontcover&dq\u003dAsia&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUf02AAAAMAAJ&dq\u003dAsia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Asia.epub?id\u003dUf02AAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Asia.pdf?id\u003dUf02AAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0W010uT7Xu6eCHv44HnI-I3AW6VA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "71ihqLtbL4MC",
+   "etag": "0bUS1t6u9zs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/71ihqLtbL4MC",
+   "volumeInfo": {
+    "title": "Asia",
+    "subtitle": "cultural politics in the global age",
+    "authors": [
+     "David Birch",
+     "Tony Schirato",
+     "Sanjay Srivastava"
+    ],
+    "publisher": "Palgrave Macmillan",
+    "publishedDate": "2001",
+    "description": "This concise introduction to contemporary Asian societies goes beyond the clich s and stereotypes to explore the cultural dynamics of the region.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0312293763"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780312293765"
+     }
+    ],
+    "pageCount": 225,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d71ihqLtbL4MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d71ihqLtbL4MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d71ihqLtbL4MC&printsec\u003dfrontcover&dq\u003dAsia&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d71ihqLtbL4MC&dq\u003dAsia&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 581
+}

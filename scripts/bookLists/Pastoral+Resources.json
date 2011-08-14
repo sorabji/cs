@@ -1,0 +1,534 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "yVclHAAACAAJ",
+   "etag": "IgUFJCksH5g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yVclHAAACAAJ",
+   "volumeInfo": {
+    "title": "Pastoral resources",
+    "subtitle": "some informational resources for the parish and retreat house apostolates",
+    "authors": [
+     "Jesuits. Missouri Province"
+    ],
+    "publishedDate": "1969",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:55222976"
+     }
+    ],
+    "pageCount": 79,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyVclHAAACAAJ&dq\u003dPastoral+Resources&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyVclHAAACAAJ&dq\u003dPastoral+Resources&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PEZCes94CRMC",
+   "etag": "z5XhRx+m5MU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PEZCes94CRMC",
+   "volumeInfo": {
+    "title": "Ministry Resources for Pastoral Care",
+    "authors": [
+     "Marilyn Kielbasa"
+    ],
+    "publisher": "St Marys Pr",
+    "publishedDate": "2004-03",
+    "description": "The last section of the manual includes a compilation of strategies for doing the on-going work of pastoral care.Each manual in the Total Youth Ministry series ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0884897702"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780884897705"
+     }
+    ],
+    "pageCount": 171,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dPEZCes94CRMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dPEZCes94CRMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPEZCes94CRMC&printsec\u003dfrontcover&dq\u003dPastoral+Resources&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPEZCes94CRMC&dq\u003dPastoral+Resources&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "c7pqAAAAMAAJ",
+   "etag": "WGrkJaJSOn8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/c7pqAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Basic types of pastoral care & counseling",
+    "subtitle": "resources for the ministry of healing and growth",
+    "authors": [
+     "Howard John Clinebell"
+    ],
+    "publisher": "Abingdon Pr",
+    "publishedDate": "1984",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015006689023"
+     }
+    ],
+    "pageCount": 463,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dc7pqAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dc7pqAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dc7pqAAAAMAAJ&q\u003dPastoral+Resources&dq\u003dPastoral+Resources&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dc7pqAAAAMAAJ&dq\u003dPastoral+Resources&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NC1v5bjsWJYC",
+   "etag": "LknQ4VQ+msk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NC1v5bjsWJYC",
+   "volumeInfo": {
+    "title": "Impacts of Changing Pastoral Strategies on Environmental Resources and Livelihoods in Tanzania's Lake Victoria Basin",
+    "authors": [
+     "Elliot Phillemons Niboye"
+    ],
+    "publisher": "Ossrea",
+    "publishedDate": "2010-04-01",
+    "description": "Land tenure in pastoral and agro pastoral areas of Tanzania is under stress.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9994455443"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789994455447"
+     }
+    ],
+    "pageCount": 74,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dNC1v5bjsWJYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dNC1v5bjsWJYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNC1v5bjsWJYC&printsec\u003dfrontcover&dq\u003dPastoral+Resources&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNC1v5bjsWJYC&dq\u003dPastoral+Resources&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Impacts_of_Changing_Pastoral_Strategies-sample-epub.acsm?id\u003dNC1v5bjsWJYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KSdXoLmkAXQC",
+   "etag": "UWdEpMch9cw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KSdXoLmkAXQC",
+   "volumeInfo": {
+    "title": "Strategic Pastoral Counseling",
+    "subtitle": "A Short-Term Structured Model",
+    "authors": [
+     "David G. Benner"
+    ],
+    "publishedDate": "2003-09-01",
+    "description": "This new edition has been thoroughly revised and includes two new chapters, helpful case studies, and a new appendix on contemporary ethical issues.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0801026318"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780801026317"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dKSdXoLmkAXQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dKSdXoLmkAXQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKSdXoLmkAXQC&printsec\u003dfrontcover&dq\u003dPastoral+Resources&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKSdXoLmkAXQC&dq\u003dPastoral+Resources&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dKSdXoLmkAXQC&dq\u003dPastoral+Resources&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Strategic_Pastoral_Counseling-sample-epub.acsm?id\u003dKSdXoLmkAXQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jTIZAAAAYAAJ",
+   "etag": "MgCtUgepnjg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jTIZAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Special agents series",
+    "authors": [
+     "United States. Bureau of Foreign and Domestic Commerce",
+     "United States. Bureau of Manufactures"
+    ],
+    "publishedDate": "1918",
+    "description": "\u003cb\u003ePASTORAL RESOURCES\u003c/b\u003e. As already stated, the largest item contributing to the \u003cbr\u003e\r\nwealth of Australia has been its pastoral products. The most important factors \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044105549778"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003djTIZAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003djTIZAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djTIZAAAAYAAJ&pg\u003dPA12&dq\u003dPastoral+Resources&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djTIZAAAAYAAJ&dq\u003dPastoral+Resources&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Special_agents_series.pdf?id\u003djTIZAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2a61WI9FMyMdvbAKQB4Ljutt9h6g&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CgBi_Yxska0C",
+   "etag": "6o55uy4AVWE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CgBi_Yxska0C",
+   "volumeInfo": {
+    "title": "In living color",
+    "subtitle": "an intercultural approach to pastoral care and counseling",
+    "authors": [
+     "Emmanuel Yartekwei Lartey"
+    ],
+    "publisher": "Jessica Kingsley Pub",
+    "publishedDate": "2003-03-01",
+    "description": "CHAPTER 4 \u003cb\u003ePastoral\u003c/b\u003e Care Functions and \u003cb\u003eResources\u003c/b\u003e Functions What is \u003cb\u003epastoral\u003c/b\u003e care \u003cbr\u003e\r\nfor? What purpose does it serve? Is there a need for it? \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1843107503"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781843107507"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dCgBi_Yxska0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dCgBi_Yxska0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCgBi_Yxska0C&pg\u003dPA60&dq\u003dPastoral+Resources&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCgBi_Yxska0C&dq\u003dPastoral+Resources&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/In_living_color-sample-pdf.acsm?id\u003dCgBi_Yxska0C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9NTVAAAAMAAJ",
+   "etag": "seg9guIrVZc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9NTVAAAAMAAJ",
+   "volumeInfo": {
+    "title": "A statistical account of the seven colonies of Australasia, ...",
+    "authors": [
+     "Sir Timothy Augustine Coghlan"
+    ],
+    "publishedDate": "1900",
+    "description": "474 \u003cb\u003ePASTORAL RESOURCES\u003c/b\u003e AND DAIRY INDUSTRY. \u003cb\u003e...\u003c/b\u003e Then the settlers began to \u003cbr\u003e\r\nunderstand and utilise the natural resources of the country ; and as the \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "WISC:89100126093"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Australasia"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d9NTVAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d9NTVAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9NTVAAAAMAAJ&pg\u003dPA474&dq\u003dPastoral+Resources&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9NTVAAAAMAAJ&dq\u003dPastoral+Resources&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/A_statistical_account_of_the_seven_colon.pdf?id\u003d9NTVAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1qkoOsPd2ZGvMQ8ZIRYHRSGqGckA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eM5fmkuPiP8C",
+   "etag": "nWtMl43cl08",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eM5fmkuPiP8C",
+   "volumeInfo": {
+    "title": "Spirituality in Nursing",
+    "authors": [
+     "Mary Elizabeth O'Brien"
+    ],
+    "publisher": "Jones & Bartlett Publishers",
+    "publishedDate": "2010-09-30",
+    "description": "SPIRITUAL AND RELIGIOUS \u003cb\u003eRESOURCES\u003c/b\u003e In order to provide spiritual care to patients \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e the available \u003cb\u003eresources\u003c/b\u003e, particularly \u003cb\u003epastoral\u003c/b\u003e care, prayer, Scripture, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0763796506"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780763796501"
+     }
+    ],
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "1.2.0.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003deM5fmkuPiP8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003deM5fmkuPiP8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deM5fmkuPiP8C&pg\u003dPA152&dq\u003dPastoral+Resources&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deM5fmkuPiP8C&dq\u003dPastoral+Resources&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Spirituality_in_Nursing-sample-epub.acsm?id\u003deM5fmkuPiP8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xoq-aNFqhJQC",
+   "etag": "NsrpZA+Oz+4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xoq-aNFqhJQC",
+   "volumeInfo": {
+    "title": "The economic life of the ancient world",
+    "authors": [
+     "Jules Toutain"
+    ],
+    "publisher": "Ayer Co Pub",
+    "publishedDate": "1979-06",
+    "description": "THE AGRICULTURAL AND \u003cb\u003ePASTORAL RESOURCES\u003c/b\u003e OF THE HELLENIZED EAST After the \u003cbr\u003e\r\nconquest of the East, a new field, not only enormous in size, but very varied in \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0405115784"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780405115783"
+     }
+    ],
+    "pageCount": 361,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dxoq-aNFqhJQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dxoq-aNFqhJQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxoq-aNFqhJQC&pg\u003dPA97&dq\u003dPastoral+Resources&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxoq-aNFqhJQC&dq\u003dPastoral+Resources&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.93,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dxoq-aNFqhJQC&dq\u003dPastoral+Resources&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_economic_life_of_the_ancient_world-sample-pdf.acsm?id\u003dxoq-aNFqhJQC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 599
+}

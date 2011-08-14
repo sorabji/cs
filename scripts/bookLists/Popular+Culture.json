@@ -1,0 +1,568 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "hQmV1M5H-qEC",
+   "etag": "IyIk4RQjSvA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hQmV1M5H-qEC",
+   "volumeInfo": {
+    "title": "Cultural theory and popular culture",
+    "subtitle": "an introduction",
+    "authors": [
+     "John Storey"
+    ],
+    "publisher": "Univ of Georgia Pr",
+    "publishedDate": "2006-08",
+    "description": "In this new edition of his widely adopted Cultural Theory and Popular Culture: An Introduction, John Storey has extensively revised the text throughout.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0820328391"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780820328393"
+     }
+    ],
+    "pageCount": 191,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dhQmV1M5H-qEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dhQmV1M5H-qEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhQmV1M5H-qEC&printsec\u003dfrontcover&dq\u003dPopular+Culture&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhQmV1M5H-qEC&dq\u003dPopular+Culture&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Cultural_theory_and_popular_culture-sample-epub.acsm?id\u003dhQmV1M5H-qEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rcBR7u5wRTgC",
+   "etag": "lc777bONbHE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rcBR7u5wRTgC",
+   "volumeInfo": {
+    "title": "Popular culture",
+    "subtitle": "introductory perspectives",
+    "authors": [
+     "Marcel Danesi"
+    ],
+    "publisher": "Rowman & Littlefield Pub Inc",
+    "publishedDate": "2008",
+    "description": "Marcel Danesi explores our human desire for meaning and the need to symbolize it in music, language, art, and other creative forms.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "074255547X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780742555471"
+     }
+    ],
+    "pageCount": 315,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003drcBR7u5wRTgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003drcBR7u5wRTgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003drcBR7u5wRTgC&printsec\u003dfrontcover&dq\u003dPopular+Culture&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003drcBR7u5wRTgC&dq\u003dPopular+Culture&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 32.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 18.12,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003drcBR7u5wRTgC&dq\u003dPopular+Culture&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Popular_culture-sample-epub.acsm?id\u003drcBR7u5wRTgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Popular_culture-sample-pdf.acsm?id\u003drcBR7u5wRTgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PZ6lgRl6VAwC",
+   "etag": "WVNt2VRhemg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PZ6lgRl6VAwC",
+   "volumeInfo": {
+    "title": "Popular culture",
+    "authors": [
+     "David Manning White"
+    ],
+    "publisher": "Ayer Co Pub",
+    "publishedDate": "1975-06",
+    "description": "CHAPTER 1 Nothing Like a Good Book Advertisement for Margaret Mitchell &#39;s Gone \u003cbr\u003e\r\nWith the Wind The New Book Times Book Review, July 19, 1936 Courtesy \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "040506649X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780405066498"
+     }
+    ],
+    "pageCount": 415,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dPZ6lgRl6VAwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dPZ6lgRl6VAwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPZ6lgRl6VAwC&printsec\u003dfrontcover&dq\u003dPopular+Culture&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPZ6lgRl6VAwC&dq\u003dPopular+Culture&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.87,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dPZ6lgRl6VAwC&dq\u003dPopular+Culture&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Popular_culture-sample-pdf.acsm?id\u003dPZ6lgRl6VAwC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "q3vFZgcsmhUC",
+   "etag": "DkCOrJex3yY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/q3vFZgcsmhUC",
+   "volumeInfo": {
+    "title": "Popular culture",
+    "subtitle": "a reader",
+    "authors": [
+     "Raiford Guins",
+     "Omayra Zaragoza Cruz"
+    ],
+    "publisher": "Sage Publications Ltd",
+    "publishedDate": "2005-05-01",
+    "description": "The book contains classic writings from all the &#39;big names;&#39; plenty of contemporary cultural references that will appeal to students, including skateboarding, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0761974725"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761974727"
+     }
+    ],
+    "pageCount": 549,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dq3vFZgcsmhUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dq3vFZgcsmhUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dq3vFZgcsmhUC&printsec\u003dfrontcover&dq\u003dPopular+Culture&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dq3vFZgcsmhUC&dq\u003dPopular+Culture&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3G4SAQAAMAAJ",
+   "etag": "agNFuRJSxTo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3G4SAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Popular culture",
+    "subtitle": "a reader",
+    "authors": [
+     "Raiford Guins"
+    ],
+    "publisher": "Sage Publications Ltd",
+    "publishedDate": "2005-05-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0761974717"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761974710"
+     }
+    ],
+    "pageCount": 549,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d3G4SAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d3G4SAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3G4SAQAAMAAJ&q\u003dPopular+Culture&dq\u003dPopular+Culture&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3G4SAQAAMAAJ&dq\u003dPopular+Culture&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BEkB2J-Wb4sC",
+   "etag": "h2N48ulshFw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BEkB2J-Wb4sC",
+   "volumeInfo": {
+    "title": "Popular culture",
+    "subtitle": "an introductory text",
+    "authors": [
+     "John G. Nachbar"
+    ],
+    "publisher": "Popular Press",
+    "publishedDate": "1992",
+    "description": "This volume is an exciting beginning for the study of the materials of everyday life that define our culture and confirm our individual senses of identity.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0879725729"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780879725723"
+     }
+    ],
+    "pageCount": 504,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dBEkB2J-Wb4sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dBEkB2J-Wb4sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBEkB2J-Wb4sC&printsec\u003dfrontcover&dq\u003dPopular+Culture&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBEkB2J-Wb4sC&dq\u003dPopular+Culture&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5wv_93uMe-wC",
+   "etag": "N4sTeITGElw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5wv_93uMe-wC",
+   "volumeInfo": {
+    "title": "Popular culture",
+    "subtitle": "an introduction",
+    "authors": [
+     "Carla Freccero"
+    ],
+    "publisher": "NYU Press",
+    "publishedDate": "1999-08-01",
+    "description": "Complete with a glossary of useful terms, a sample syllabus and extensive bibliography, this book is theconcise introduction to the study of popular culture.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0814726704"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780814726709"
+     }
+    ],
+    "pageCount": 202,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d5wv_93uMe-wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d5wv_93uMe-wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5wv_93uMe-wC&printsec\u003dfrontcover&dq\u003dPopular+Culture&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5wv_93uMe-wC&dq\u003dPopular+Culture&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RUbcgm0cwT8C",
+   "etag": "QhOL93rwU3U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RUbcgm0cwT8C",
+   "volumeInfo": {
+    "title": "Popular culture",
+    "subtitle": "production and consumption",
+    "authors": [
+     "C. Lee Harrington",
+     "Denise D. Bielby"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "2001",
+    "description": "This is a rich collection of contemporary perspectives on how culture is produced and commodified using current examples from music, television, magazines, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "063121710X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780631217107"
+     }
+    ],
+    "pageCount": 348,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dRUbcgm0cwT8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dRUbcgm0cwT8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRUbcgm0cwT8C&printsec\u003dfrontcover&dq\u003dPopular+Culture&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRUbcgm0cwT8C&dq\u003dPopular+Culture&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XLQ6cN9GUbEC",
+   "etag": "uickGVJ9WuY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XLQ6cN9GUbEC",
+   "volumeInfo": {
+    "title": "Popular culture",
+    "subtitle": "the metropolitan experience",
+    "authors": [
+     "Iain Chambers"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1986",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415025516"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415025515"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dXLQ6cN9GUbEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dXLQ6cN9GUbEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXLQ6cN9GUbEC&dq\u003dPopular+Culture&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXLQ6cN9GUbEC&dq\u003dPopular+Culture&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CzpZrt_38YIC",
+   "etag": "hRa1nZY46eM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CzpZrt_38YIC",
+   "volumeInfo": {
+    "title": "Popular culture",
+    "subtitle": "cavespace to cyberspace",
+    "authors": [
+     "Marshall William Fishwick"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "1999-05-10",
+    "description": "This book tells the stories of the 1991 discovery of Oetzi the Ice Man, who is 5,300 years old; the legends of the Greeks, Romans, Egyptians, and Americans; the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "078900643X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780789006431"
+     }
+    ],
+    "pageCount": 287,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dCzpZrt_38YIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dCzpZrt_38YIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCzpZrt_38YIC&printsec\u003dfrontcover&dq\u003dPopular+Culture&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCzpZrt_38YIC&dq\u003dPopular+Culture&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 590
+}

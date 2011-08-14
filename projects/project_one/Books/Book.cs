@@ -52,9 +52,12 @@ namespace Books
 		
 		public override string ToString ()
 		{
-			return string.Format ("[Book: title={0}\nauthor={1}\nisbn={2}\nprice={3}]\n\n", 
+			/*return string.Format ("[Book: title={0}\nauthor={1}\nisbn={2}\nprice={3}]\n\n", 
 			                      title, author, isbn, price);
+			                      */
+			return "";
 		}
+		
 
 	}
 }

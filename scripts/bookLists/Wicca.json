@@ -1,0 +1,581 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "hYYaFVr8ztUC",
+   "etag": "ZrQOdxfrHGg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hYYaFVr8ztUC",
+   "volumeInfo": {
+    "title": "Wicca",
+    "description": "Preface THIS BOOK, THE result of sixteen years of practical experience and \u003cbr\u003e\r\nresearch, is a guidebook outlining basic \u003cb\u003eWiccan\u003c/b\u003e theory and practice. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0738717150"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780738717159"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dhYYaFVr8ztUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dhYYaFVr8ztUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhYYaFVr8ztUC&printsec\u003dfrontcover&dq\u003dWicca&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhYYaFVr8ztUC&dq\u003dWicca&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Wicca-sample-epub.acsm?id\u003dhYYaFVr8ztUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fF53S4AlYGcC",
+   "etag": "YGURnGTOqCc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fF53S4AlYGcC",
+   "volumeInfo": {
+    "title": "Wicca",
+    "subtitle": "Satan's Little White Lie",
+    "authors": [
+     "William Schnoebelen"
+    ],
+    "publisher": "Chick Pub",
+    "publishedDate": "1990-09",
+    "description": "Many of them have been deeply involved themselves. Having found the Lord Jesus \u003cbr\u003e\r\nChrist and been set free, they leap to the call of reaching back to help \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0937958344"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780937958346"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dfF53S4AlYGcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dfF53S4AlYGcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfF53S4AlYGcC&printsec\u003dfrontcover&dq\u003dWicca&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfF53S4AlYGcC&dq\u003dWicca&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Wicca-sample-epub.acsm?id\u003dfF53S4AlYGcC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Wicca-sample-pdf.acsm?id\u003dfF53S4AlYGcC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EXgcFmRxSTIC",
+   "etag": "U1zFDGtIk+0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EXgcFmRxSTIC",
+   "volumeInfo": {
+    "title": "Wicca",
+    "subtitle": "the complete craft",
+    "authors": [
+     "Deanna J. Conway"
+    ],
+    "publisher": "Crossing Pr",
+    "publishedDate": "2001-09-01",
+    "description": "Presents an overview of Wiccan philosophy covering such topics as holy days, meditations, spells, sacred space, and ritual tools.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1580910920"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781580910927"
+     }
+    ],
+    "pageCount": 499,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dEXgcFmRxSTIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dEXgcFmRxSTIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEXgcFmRxSTIC&printsec\u003dfrontcover&dq\u003dWicca&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEXgcFmRxSTIC&dq\u003dWicca&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 18.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dEXgcFmRxSTIC&dq\u003dWicca&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Wicca-sample-epub.acsm?id\u003dEXgcFmRxSTIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kGOZZAHbm8YC",
+   "etag": "uYGqfmJl7KA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kGOZZAHbm8YC",
+   "volumeInfo": {
+    "title": "Living Wicca",
+    "subtitle": "a further guide for the solitary practitioner",
+    "authors": [
+     "Scott Cunningham"
+    ],
+    "publisher": "Llewellyn Worldwide",
+    "publishedDate": "1993-12-01",
+    "description": "The sequel to &quot;Wicca: A Guide for the Solitary Practitioner, &quot; this book is a step-by-step guide for those who have made the conscious decision to bring their ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0875421849"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780875421841"
+     }
+    ],
+    "pageCount": 220,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 36,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dkGOZZAHbm8YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dkGOZZAHbm8YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkGOZZAHbm8YC&printsec\u003dfrontcover&dq\u003dWicca&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkGOZZAHbm8YC&dq\u003dWicca&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Zl2UgIwrZgMC",
+   "etag": "hk8v2ixznLk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Zl2UgIwrZgMC",
+   "volumeInfo": {
+    "title": "The Wicca Handbook",
+    "authors": [
+     "Eileen Holland"
+    ],
+    "publisher": "Weiser Books",
+    "publishedDate": "2000-06-06",
+    "description": "With so much information, this is bound to become a dog-eared favorite in any witch&#39;s library.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1578631351"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781578631353"
+     }
+    ],
+    "pageCount": 309,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 18,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dZl2UgIwrZgMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dZl2UgIwrZgMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZl2UgIwrZgMC&printsec\u003dfrontcover&dq\u003dWicca&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZl2UgIwrZgMC&dq\u003dWicca&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dZl2UgIwrZgMC&dq\u003dWicca&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Wicca_Handbook-sample-pdf.acsm?id\u003dZl2UgIwrZgMC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JzCrEE55WccC",
+   "etag": "L0ziwMDMsMQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JzCrEE55WccC",
+   "volumeInfo": {
+    "title": "The Wicca spellbook",
+    "authors": [
+     "Gerina Dunwich"
+    ],
+    "publisher": "Citadel Pr",
+    "publishedDate": "1994-05-01",
+    "description": "Contains a collection of spells, potions, and recipes of the Wiccan community as well as an up-to-date directory of occult shops, publications, and services",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0806514760"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780806514765"
+     }
+    ],
+    "pageCount": 190,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 8,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dJzCrEE55WccC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dJzCrEE55WccC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJzCrEE55WccC&printsec\u003dfrontcover&dq\u003dWicca&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJzCrEE55WccC&dq\u003dWicca&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ks6AvsrVCUoC",
+   "etag": "AxWSaTe5vCc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ks6AvsrVCUoC",
+   "volumeInfo": {
+    "title": "The Complete Idiot's Guide to Wicca and Witchcraft",
+    "authors": [
+     "Denise Zimmermann",
+     "Katherine Gleason",
+     "Miria Liguana"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2006-08-01",
+    "description": "An updated guide to Wicca and witchcraft furnishes information on the theory, ritual, tradition, and history of Wicca, including advice on how to practice the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1592575331"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781592575336"
+     }
+    ],
+    "pageCount": 360,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 24,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dks6AvsrVCUoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dks6AvsrVCUoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dks6AvsrVCUoC&printsec\u003dfrontcover&dq\u003dWicca&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dks6AvsrVCUoC&dq\u003dWicca&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dks6AvsrVCUoC&dq\u003dWicca&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Complete_Idiot_s_Guide_to_Wicca_and-sample-epub.acsm?id\u003dks6AvsrVCUoC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZeRKlCbOdnIC",
+   "etag": "TUdKYKbrXAo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZeRKlCbOdnIC",
+   "volumeInfo": {
+    "title": "Exploring Wicca",
+    "subtitle": "the beliefs, rites, and rituals of the Wiccan religion",
+    "authors": [
+     "Lady Sabrina"
+    ],
+    "publisher": "Career Press",
+    "publishedDate": "2006-03-30",
+    "description": "An examination of Witchcraft and the many ways it is practiced today uncovers the roots of Wiccan beliefs, Wiccan Scripture, and sacred symbols, in an updated ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "156414884X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781564148841"
+     }
+    ],
+    "pageCount": 223,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dZeRKlCbOdnIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dZeRKlCbOdnIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZeRKlCbOdnIC&printsec\u003dfrontcover&dq\u003dWicca&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZeRKlCbOdnIC&dq\u003dWicca&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Exploring_Wicca-sample-epub.acsm?id\u003dZeRKlCbOdnIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vPMGO_KVpycC",
+   "etag": "GktwiggStcU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vPMGO_KVpycC",
+   "volumeInfo": {
+    "title": "The Wicca",
+    "subtitle": "And Other Tales",
+    "authors": [
+     "Randy T. Sultzer"
+    ],
+    "publisher": "Writers Club Press",
+    "publishedDate": "2002-04",
+    "description": "A collection of tales for young people that entertain with a message.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0595224903"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780595224906"
+     }
+    ],
+    "pageCount": 152,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dvPMGO_KVpycC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dvPMGO_KVpycC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvPMGO_KVpycC&printsec\u003dfrontcover&dq\u003dWicca&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvPMGO_KVpycC&dq\u003dWicca&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kzp63ep-MlQC",
+   "etag": "GrSlVQOKws0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kzp63ep-MlQC",
+   "volumeInfo": {
+    "title": "Encyclopedia of Wicca & witchcraft",
+    "authors": [
+     "Raven Grimassi"
+    ],
+    "publisher": "Llewellyn Worldwide Ltd",
+    "publishedDate": "2000-09-01",
+    "description": "Use this book to research any aspect of the Craft, including: -- Theology -- pantheons, Wiccan Rede, Three-Fold Law -- History -- Craft roots and influence -- ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1567182577"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781567182576"
+     }
+    ],
+    "pageCount": 470,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 8,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dkzp63ep-MlQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dkzp63ep-MlQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkzp63ep-MlQC&printsec\u003dfrontcover&dq\u003dWicca&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkzp63ep-MlQC&dq\u003dWicca&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 204
+}

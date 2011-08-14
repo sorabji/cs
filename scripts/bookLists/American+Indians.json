@@ -1,0 +1,531 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "yh9j9Dd5uoAC",
+   "etag": "hJsRPAGuAZs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yh9j9Dd5uoAC",
+   "volumeInfo": {
+    "title": "American Indians",
+    "subtitle": "answers to today's questions",
+    "authors": [
+     "Jack Utter"
+    ],
+    "publisher": "Univ of Oklahoma Pr",
+    "publishedDate": "2001",
+    "description": "Covers the most important issues facing American Indians today: tribal sovereignty, gaming, water rights, treaty rights, cultural rights, and the evolving ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0806133090"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780806133096"
+     }
+    ],
+    "pageCount": 494,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dyh9j9Dd5uoAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dyh9j9Dd5uoAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyh9j9Dd5uoAC&printsec\u003dfrontcover&dq\u003dAmerican+Indians&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyh9j9Dd5uoAC&dq\u003dAmerican+Indians&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sw-8Ctu1pPgC",
+   "etag": "vK5GdV84bvA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sw-8Ctu1pPgC",
+   "volumeInfo": {
+    "title": "American Indians",
+    "authors": [
+     "William Thomas Hagan"
+    ],
+    "publisher": "University Of Chicago Press",
+    "publishedDate": "1993",
+    "description": "&quot;San Francisco Chronicle This is a concise account of Indian-white relations which has become one of the standard histories of the subject.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0226312372"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780226312378"
+     }
+    ],
+    "pageCount": 239,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dsw-8Ctu1pPgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dsw-8Ctu1pPgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dsw-8Ctu1pPgC&printsec\u003dfrontcover&dq\u003dAmerican+Indians&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dsw-8Ctu1pPgC&dq\u003dAmerican+Indians&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "06pxAAAAMAAJ",
+   "etag": "1JjDGItgg1A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/06pxAAAAMAAJ",
+   "volumeInfo": {
+    "title": "American Indians",
+    "authors": [
+     "Frederick Starr"
+    ],
+    "publishedDate": "1909",
+    "description": "\u003cb\u003eAMERICAN INDIANS\u003c/b\u003e. I. SOME GENERAL FACTS ABOUT INDIANS. We all know how the \u003cbr\u003e\r\n\u003cb\u003enative Americans\u003c/b\u003e found here by the whites at their first arrival, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "IND:30000005361252"
+     }
+    ],
+    "pageCount": 242,
+    "printType": "BOOK",
+    "categories": [
+     "Indians of Mexico"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d06pxAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d06pxAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d06pxAAAAMAAJ&printsec\u003dfrontcover&dq\u003dAmerican+Indians&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d06pxAAAAMAAJ&dq\u003dAmerican+Indians&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/American_Indians.epub?id\u003d06pxAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/American_Indians.pdf?id\u003d06pxAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U09AHuQ2UWH4zRrD3bOOPtM-zm8Ag&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "E0CsvVoVA90C",
+   "etag": "LlA4expUIHE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/E0CsvVoVA90C",
+   "volumeInfo": {
+    "title": "American Indians",
+    "subtitle": "the first of this land",
+    "authors": [
+     "C. Matthew Snipp",
+     "National Committee for Research on the 1980 Census"
+    ],
+    "publishedDate": "1989",
+    "description": "It deals with the number, distribution, and social characteristics of \u003cb\u003eAmerican\u003c/b\u003e \u003cbr\u003e\r\n\u003cb\u003eIndians\u003c/b\u003e and Alaska Natives. These dimensions of the Native American \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0871548224"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780871548221"
+     }
+    ],
+    "pageCount": 408,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dE0CsvVoVA90C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dE0CsvVoVA90C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dE0CsvVoVA90C&printsec\u003dfrontcover&dq\u003dAmerican+Indians&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dE0CsvVoVA90C&dq\u003dAmerican+Indians&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/American_Indians-sample-pdf.acsm?id\u003dE0CsvVoVA90C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4Q31BueCmJwC",
+   "etag": "gYn/Jku6jXk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4Q31BueCmJwC",
+   "volumeInfo": {
+    "title": "American Indians",
+    "authors": [
+     "Nancy Shoemaker"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "2001",
+    "description": "This collection brings together the best recent works covering over five hundred years of American Indian history.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0631219951"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780631219958"
+     }
+    ],
+    "pageCount": 291,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d4Q31BueCmJwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d4Q31BueCmJwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4Q31BueCmJwC&printsec\u003dfrontcover&dq\u003dAmerican+Indians&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4Q31BueCmJwC&dq\u003dAmerican+Indians&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5FH5mRF_aY8C",
+   "etag": "W2F52WeKizo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5FH5mRF_aY8C",
+   "volumeInfo": {
+    "title": "American Indians",
+    "authors": [
+     "Devon A. Mihesuah"
+    ],
+    "publisher": "SCB Distributors",
+    "publishedDate": "2004",
+    "description": "ACKNOWLEDGEMENTS I am sincerely-grateful for the advice and suggestions from \u003cbr\u003e\r\nCurtis Hinsley, Professor of History at Northern Arizona University (NAU), \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0932863957"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780932863959"
+     }
+    ],
+    "pageCount": 154,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 6,
+    "contentVersion": "0.0.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d5FH5mRF_aY8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d5FH5mRF_aY8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5FH5mRF_aY8C&printsec\u003dfrontcover&dq\u003dAmerican+Indians&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5FH5mRF_aY8C&dq\u003dAmerican+Indians&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/American_Indians-sample-epub.acsm?id\u003d5FH5mRF_aY8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9rWm1UToohwC",
+   "etag": "cIxtzf2jEh4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9rWm1UToohwC",
+   "volumeInfo": {
+    "title": "The American Indians",
+    "authors": [
+     "Edward Holland Spicer"
+    ],
+    "publisher": "Belknap Pr",
+    "publishedDate": "1982",
+    "description": "Surveys the current Indian population of each section of the United States and traces their interaction with white American society",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0674024761"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780674024762"
+     }
+    ],
+    "pageCount": 210,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d9rWm1UToohwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d9rWm1UToohwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9rWm1UToohwC&printsec\u003dfrontcover&dq\u003dAmerican+Indians&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9rWm1UToohwC&dq\u003dAmerican+Indians&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HPGjYIvRz3kC",
+   "etag": "A5lvuf77mto",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HPGjYIvRz3kC",
+   "volumeInfo": {
+    "title": "The American Indians",
+    "subtitle": "Their history, condition and prospects, from original notes and manuscripts",
+    "authors": [
+     "Henry Rowe Schoolcraft"
+    ],
+    "publishedDate": "1851",
+    "description": "\u003cb\u003eAMERICAN INDIANS\u003c/b\u003e, THEIR* HISTORY, CONDITION AND PROSPECTS, ORIGINAL NOTES AND \u003cbr\u003e\r\nMANUSCRIPTS. BY HENRY R. SCHOOLCRAFT. TOGETHER WITH AN APPENDIX, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044051719888"
+     }
+    ],
+    "pageCount": 495,
+    "printType": "BOOK",
+    "categories": [
+     "Indian captivities"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dHPGjYIvRz3kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dHPGjYIvRz3kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHPGjYIvRz3kC&printsec\u003dfrontcover&dq\u003dAmerican+Indians&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHPGjYIvRz3kC&dq\u003dAmerican+Indians&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/The_American_Indians.epub?id\u003dHPGjYIvRz3kC&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_American_Indians.pdf?id\u003dHPGjYIvRz3kC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0e8n92RK5HMsbKfvcHQX-0HxzZGQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Imw3AAAAIAAJ",
+   "etag": "WTQj3Erz5xA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Imw3AAAAIAAJ",
+   "volumeInfo": {
+    "title": "American Indians",
+    "authors": [
+     "Indiana University. Office of Research and the University Graduate School"
+    ],
+    "publishedDate": "1990",
+    "description": "CHAPTER I INTRODUCTION To obtain even a cursory knowledge of the native races of \u003cbr\u003e\r\nthe North \u003cb\u003eAmerican\u003c/b\u003e continent a general idea of the country in which this \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:18R49H2BJ8W"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dImw3AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dImw3AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dImw3AAAAIAAJ&printsec\u003dfrontcover&dq\u003dAmerican+Indians&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dImw3AAAAIAAJ&dq\u003dAmerican+Indians&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oxdlP8MZKtMC",
+   "etag": "Zk6OF05oY/0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oxdlP8MZKtMC",
+   "volumeInfo": {
+    "title": "American Indians!",
+    "subtitle": "A Special Look at American Indians With a Unique Perspective Especially for Hawai'I Kids!",
+    "authors": [
+     "Carole Marsh"
+    ],
+    "publisher": "Carole Marsh Family CD-Rom",
+    "publishedDate": "1995-08",
+    "description": "\u003cb\u003e...\u003c/b\u003e acquiring increasing funds, using professional resources &amp; remaining \u003cbr\u003e\r\npolitically active, many native peoples of all types in all \u003cb\u003eAmerican\u003c/b\u003e states are \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0793376785"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780793376780"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003doxdlP8MZKtMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003doxdlP8MZKtMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doxdlP8MZKtMC&printsec\u003dfrontcover&dq\u003dAmerican+Indians&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doxdlP8MZKtMC&dq\u003dAmerican+Indians&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/American_Indians-sample-epub.acsm?id\u003doxdlP8MZKtMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 576
+}

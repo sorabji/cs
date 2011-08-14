@@ -1,0 +1,554 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "xN7t7DgsclcC",
+   "etag": "HDAa7QdwuqY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xN7t7DgsclcC",
+   "volumeInfo": {
+    "title": "World War I",
+    "authors": [
+     "Samuel Lyman Atwood Marshall"
+    ],
+    "publisher": "Mariner Books",
+    "publishedDate": "2001",
+    "description": "A &quot;full-dress history of the war by one of our most distinguished military writers&quot; (NEW YORK TIMES), WORLD WAR I takes us from the first shots in Sarajevo to ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0618056866"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780618056866"
+     }
+    ],
+    "pageCount": 528,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dxN7t7DgsclcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dxN7t7DgsclcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxN7t7DgsclcC&printsec\u003dfrontcover&dq\u003dWorld+War+I&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxN7t7DgsclcC&dq\u003dWorld+War+I&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "60H4lMieIdUC",
+   "etag": "QMetA8prNUY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/60H4lMieIdUC",
+   "volumeInfo": {
+    "title": "World War I",
+    "authors": [
+     "Neil M. Heyman"
+    ],
+    "publisher": "Greenwood Pub Group",
+    "publishedDate": "1997-11",
+    "description": "Presents an overview of World War I, including its chronology, origins, military events, and political and diplomatic consequences, and examines the major ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0313298807"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780313298806"
+     }
+    ],
+    "pageCount": 257,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d60H4lMieIdUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d60H4lMieIdUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d60H4lMieIdUC&printsec\u003dfrontcover&dq\u003dWorld+War+I&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d60H4lMieIdUC&dq\u003dWorld+War+I&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 51.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 41.04,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d60H4lMieIdUC&dq\u003dWorld+War+I&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/World_War_I-sample-epub.acsm?id\u003d60H4lMieIdUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/World_War_I-sample-pdf.acsm?id\u003d60H4lMieIdUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Rk_uJrPWzGAC",
+   "etag": "hGGgxo7jO+M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Rk_uJrPWzGAC",
+   "volumeInfo": {
+    "title": "World War I",
+    "authors": [
+     "Peter I. Bosco",
+     "Antoinette Bosco",
+     "John S. Bowman"
+    ],
+    "publisher": "Infobase Publishing",
+    "publishedDate": "2003-03",
+    "description": "Discusses the circumstances that led to the United States becoming involved in World War I, profiles key figures, and describes major battles.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0816049408"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816049400"
+     }
+    ],
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dRk_uJrPWzGAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dRk_uJrPWzGAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRk_uJrPWzGAC&printsec\u003dfrontcover&dq\u003dWorld+War+I&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRk_uJrPWzGAC&dq\u003dWorld+War+I&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/World_War_I-sample-epub.acsm?id\u003dRk_uJrPWzGAC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "__Hq12BgjgEC",
+   "etag": "O7/EkYc8Qyg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/__Hq12BgjgEC",
+   "volumeInfo": {
+    "title": "World War I",
+    "authors": [
+     "Stewart Ross"
+    ],
+    "publisher": "Heinemann/Raintree",
+    "publishedDate": "2010-02-01",
+    "description": "Presents an introduction to the study of World War I, discussing how to research basic facts, find a topic, evaluate sources, use tangible evidence, and write a ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1432934945"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781432934941"
+     }
+    ],
+    "pageCount": 56,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d__Hq12BgjgEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d__Hq12BgjgEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d__Hq12BgjgEC&printsec\u003dfrontcover&dq\u003dWorld+War+I&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d__Hq12BgjgEC&dq\u003dWorld+War+I&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4hJgOQAACAAJ",
+   "etag": "ZK7EQq82vsA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4hJgOQAACAAJ",
+   "volumeInfo": {
+    "title": "World War I",
+    "authors": [
+     "H. P. Willmott"
+    ],
+    "publisher": "Dk Pub",
+    "publishedDate": "2009-05-04",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0756650151"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780756650155"
+     }
+    ],
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d4hJgOQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d4hJgOQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4hJgOQAACAAJ&dq\u003dWorld+War+I&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4hJgOQAACAAJ&dq\u003dWorld+War+I&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wv9-NVwFWpQC",
+   "etag": "0o5P6+oV4pg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wv9-NVwFWpQC",
+   "volumeInfo": {
+    "title": "World War I",
+    "authors": [
+     "Ruth Tenzer Feldman"
+    ],
+    "publisher": "Lerner Pub Group",
+    "publishedDate": "2004-03",
+    "description": "Traces the causes of the first World War, the progress of the war, the United States involvement in the conflict, and the aftermath.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0822501481"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780822501480"
+     }
+    ],
+    "pageCount": 88,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dwv9-NVwFWpQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dwv9-NVwFWpQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwv9-NVwFWpQC&printsec\u003dfrontcover&dq\u003dWorld+War+I&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwv9-NVwFWpQC&dq\u003dWorld+War+I&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Q9dmAAAAMAAJ",
+   "etag": "59C9cQ7D8u4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Q9dmAAAAMAAJ",
+   "volumeInfo": {
+    "title": "World War I",
+    "subtitle": "an outline history",
+    "authors": [
+     "Hanson Weightman Baldwin"
+    ],
+    "publishedDate": "1962",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015013121671"
+     }
+    ],
+    "pageCount": 181,
+    "printType": "BOOK",
+    "categories": [
+     "European War, 1914-1918"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dQ9dmAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dQ9dmAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQ9dmAAAAMAAJ&q\u003dWorld+War+I&dq\u003dWorld+War+I&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQ9dmAAAAMAAJ&dq\u003dWorld+War+I&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xJcnDCOT0jQC",
+   "etag": "z0nzVcOrOb8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xJcnDCOT0jQC",
+   "volumeInfo": {
+    "title": "World War I",
+    "authors": [
+     "Rodney P. Carlisle"
+    ],
+    "publisher": "Facts on File",
+    "publishedDate": "2007-01-30",
+    "description": "A chronological history of World War I, including the events that led up to it and its political and social legacy, is supplemented with such primary source ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0816060614"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816060610"
+     }
+    ],
+    "pageCount": 454,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "0.0.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dxJcnDCOT0jQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dxJcnDCOT0jQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxJcnDCOT0jQC&printsec\u003dfrontcover&dq\u003dWorld+War+I&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxJcnDCOT0jQC&dq\u003dWorld+War+I&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/World_War_I-sample-epub.acsm?id\u003dxJcnDCOT0jQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5GIo7ffEEjgC",
+   "etag": "sdWQt3bZ520",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5GIo7ffEEjgC",
+   "volumeInfo": {
+    "title": "World War I",
+    "subtitle": "A Primary Source History",
+    "authors": [
+     "Nicholas Saunders"
+    ],
+    "publisher": "Gareth Stevens Pub Secondary Lib",
+    "publishedDate": "2005-07",
+    "description": "Discusses the reasons behind World War I, important battles of the war, and how the war was portrayed in the media, and presents key European and American ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0836859820"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780836859829"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d5GIo7ffEEjgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d5GIo7ffEEjgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5GIo7ffEEjgC&printsec\u003dfrontcover&dq\u003dWorld+War+I&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5GIo7ffEEjgC&dq\u003dWorld+War+I&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QC0PPRkr-mUC",
+   "etag": "qibwRpRrtOo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QC0PPRkr-mUC",
+   "volumeInfo": {
+    "title": "World War I",
+    "authors": [
+     "Norman Stone"
+    ],
+    "publishedDate": "2009-04-27",
+    "description": "Describes the causes, events, and aftermath of World War One.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0465013686"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780465013685"
+     }
+    ],
+    "pageCount": 226,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 19,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dQC0PPRkr-mUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dQC0PPRkr-mUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQC0PPRkr-mUC&printsec\u003dfrontcover&dq\u003dWorld+War+I&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQC0PPRkr-mUC&dq\u003dWorld+War+I&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dQC0PPRkr-mUC&dq\u003dWorld+War+I&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/World_War_I-sample-epub.acsm?id\u003dQC0PPRkr-mUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 565
+}

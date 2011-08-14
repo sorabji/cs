@@ -1,0 +1,579 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "BgoDR_Jw4jwC",
+   "etag": "kI5o2Iy6WrI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BgoDR_Jw4jwC",
+   "volumeInfo": {
+    "title": "Sheet Music",
+    "subtitle": "Uncovering the Secrets of Sexual Intimacy in Marriage",
+    "authors": [
+     "Kevin Leman"
+    ],
+    "publisher": "Tyndale House Pub",
+    "publishedDate": "2003-08-01",
+    "description": "A practical guide to Christian sex blends humor, warmth, and practical advice to address a wide spectrum of issues on how to improve the quality of a sexual ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0842360247"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780842360241"
+     }
+    ],
+    "pageCount": 246,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 136,
+    "contentVersion": "0.1.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dBgoDR_Jw4jwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dBgoDR_Jw4jwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBgoDR_Jw4jwC&printsec\u003dfrontcover&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBgoDR_Jw4jwC&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 8.57,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dBgoDR_Jw4jwC&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Sheet_Music-sample-epub.acsm?id\u003dBgoDR_Jw4jwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Sheet_Music-sample-pdf.acsm?id\u003dBgoDR_Jw4jwC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NmEmhs8zBRMC",
+   "etag": "MJ0VCxDkhIg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NmEmhs8zBRMC",
+   "volumeInfo": {
+    "title": "Mechanics of sheet metal forming",
+    "authors": [
+     "Z. Marciniak",
+     "J. L. Duncan",
+     "Jack Hu"
+    ],
+    "publishedDate": "2002",
+    "description": "The original text, published 10 years ago, has been completely rewritten for this edition and newer topics such as hydroforming included.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0750653000"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780750653008"
+     }
+    ],
+    "pageCount": 211,
+    "printType": "BOOK",
+    "categories": [
+     "Crafts & Hobbies"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dNmEmhs8zBRMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dNmEmhs8zBRMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNmEmhs8zBRMC&printsec\u003dfrontcover&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNmEmhs8zBRMC&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 70.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 56.76,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dNmEmhs8zBRMC&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Mechanics_of_sheet_metal_forming-sample-pdf.acsm?id\u003dNmEmhs8zBRMC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DsY02WevOF0C",
+   "etag": "D9s2XOyac7U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DsY02WevOF0C",
+   "volumeInfo": {
+    "title": "Personal Balance Sheet",
+    "subtitle": "A Practical Career Planning Guide",
+    "authors": [
+     "Randall M. Craig"
+    ],
+    "publishedDate": "2007-06-01",
+    "description": "You will learn: - To define your career goals and then achieve them (Reality Check Interviews) - How to take control over your balance by defining it properly ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0973540435"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780973540437"
+     }
+    ],
+    "pageCount": 220,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dDsY02WevOF0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dDsY02WevOF0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDsY02WevOF0C&printsec\u003dfrontcover&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDsY02WevOF0C&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Vv3DIQ0qDawC",
+   "etag": "0l0KMIdi17U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Vv3DIQ0qDawC",
+   "volumeInfo": {
+    "title": "Composite sheet forming",
+    "authors": [
+     "D. Bhattacharyya"
+    ],
+    "publisher": "Elsevier Science",
+    "publishedDate": "1997-06-01",
+    "description": "This book contains twelve chapters and attempts to cover different aspects of sheet forming including both thermoplastic and thermosetting materials.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0444826416"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780444826411"
+     }
+    ],
+    "pageCount": 531,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dVv3DIQ0qDawC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dVv3DIQ0qDawC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVv3DIQ0qDawC&printsec\u003dfrontcover&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVv3DIQ0qDawC&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 287.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 230.36,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dVv3DIQ0qDawC&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Composite_sheet_forming-sample-pdf.acsm?id\u003dVv3DIQ0qDawC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ykNBAAAAYAAJ",
+   "etag": "jbXIknqt3S0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ykNBAAAAYAAJ",
+   "volumeInfo": {
+    "title": "News sheet",
+    "authors": [
+     "Bibliographical Society (Great Britain)"
+    ],
+    "publishedDate": "1894",
+    "description": "To the bibliographical student a mere catalogue of a few \u003cb\u003ebooks\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e To the \u003cb\u003ebook\u003c/b\u003e-\u003cbr\u003e\r\ncollector, the auction prices of a past age are no guide to the present \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HNYR52"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dykNBAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dykNBAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dykNBAAAAYAAJ&pg\u003dPA1865&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dykNBAAAAYAAJ&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/News_sheet.pdf?id\u003dykNBAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3by7EWFjwoPupvSiRZjrvX7TLdTA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BBPDPwAACAAJ",
+   "etag": "CCemOYBQlD0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BBPDPwAACAAJ",
+   "volumeInfo": {
+    "title": "Student's text book on sheet metal work",
+    "subtitle": "with technology of sheet metal work",
+    "authors": [
+     "David Alma Graham"
+    ],
+    "publishedDate": "1939",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:155838361"
+     }
+    ],
+    "pageCount": 197,
+    "printType": "BOOK",
+    "categories": [
+     "Sheet-metal"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBBPDPwAACAAJ&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBBPDPwAACAAJ&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rVtJyF3jh0MC",
+   "etag": "o9uoS0YLxUw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rVtJyF3jh0MC",
+   "volumeInfo": {
+    "title": "The stakeholder balance sheet",
+    "subtitle": "profiting from really understanding your market",
+    "authors": [
+     "Farrokh Suntook",
+     "John A. Murphy"
+    ],
+    "publisher": "John Wiley & Sons Inc",
+    "publishedDate": "2009-01-09",
+    "description": "This book provides an as yet unavailable tool, the Stakeholder Balance Sheet, enabling managers within any organisation to unlock the DNA of the market place in ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0470712163"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470712160"
+     }
+    ],
+    "pageCount": 310,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003drVtJyF3jh0MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003drVtJyF3jh0MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003drVtJyF3jh0MC&printsec\u003dfrontcover&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003drVtJyF3jh0MC&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 29.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003drVtJyF3jh0MC&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_stakeholder_balance_sheet-sample-pdf.acsm?id\u003drVtJyF3jh0MC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HbvOxvWc5ZIC",
+   "etag": "RYKnQeBwFVU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HbvOxvWc5ZIC",
+   "volumeInfo": {
+    "title": "The Russia Balance Sheet",
+    "authors": [
+     "Anders Åslund",
+     "Andrew Kuchins"
+    ],
+    "publisher": "Peterson Institute",
+    "publishedDate": "2009-04",
+    "description": "This important new book provides comprehensive, balanced, and accurate information on all key aspects of Russia and discusses what its status means for the US ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0881324248"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780881324242"
+     }
+    ],
+    "pageCount": 207,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dHbvOxvWc5ZIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dHbvOxvWc5ZIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHbvOxvWc5ZIC&printsec\u003dfrontcover&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHbvOxvWc5ZIC&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.46,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dHbvOxvWc5ZIC&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Russia_Balance_Sheet-sample-pdf.acsm?id\u003dHbvOxvWc5ZIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "afSdeuddPcEC",
+   "etag": "4RUri2jzIi4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/afSdeuddPcEC",
+   "volumeInfo": {
+    "title": "Balance Sheet Structures",
+    "authors": [
+     "Anthony N. Birts"
+    ],
+    "publisher": "Woodhead Pub Ltd",
+    "publishedDate": "2001-03-20",
+    "description": "The book begins by covering the financial theory necessary for an understanding of the debt versus equity issue and then focuses on real world issues by ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1855732475"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781855732476"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dafSdeuddPcEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dafSdeuddPcEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dafSdeuddPcEC&printsec\u003dfrontcover&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dafSdeuddPcEC&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "e-WMObwib4EC",
+   "etag": "lEL+gHOnC2k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/e-WMObwib4EC",
+   "volumeInfo": {
+    "title": "Sheet metal forming processes and die design",
+    "authors": [
+     "Vukota Boljanovic"
+    ],
+    "publisher": "Industrial Press Inc.",
+    "publishedDate": "2004-04-08",
+    "description": "By an engineer with decades of practical manufacturing experience, this book is a complete modern guide to sheet metal forming processes and die design still ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0831131829"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780831131821"
+     }
+    ],
+    "pageCount": 219,
+    "printType": "BOOK",
+    "categories": [
+     "Crafts & Hobbies"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003de-WMObwib4EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003de-WMObwib4EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003de-WMObwib4EC&printsec\u003dfrontcover&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003de-WMObwib4EC&dq\u003dBooks+or+Sheet&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 598
+}

@@ -1,0 +1,516 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "TGoWAQAAIAAJ",
+   "etag": "CGlw7yq03hE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TGoWAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Antiques and collectibles",
+    "subtitle": "a bibliography of works in English, 16th century to 1976",
+    "authors": [
+     "Linda Campbell Franklin"
+    ],
+    "publisher": "Scarecrow Pr",
+    "publishedDate": "1978-06",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105118583074"
+     }
+    ],
+    "pageCount": 1091,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTGoWAQAAIAAJ&dq\u003dAntiques+and+Collectibles&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTGoWAQAAIAAJ&dq\u003dAntiques+and+Collectibles&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QKUqHAAACAAJ",
+   "etag": "IZ4osMTqwjI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QKUqHAAACAAJ",
+   "volumeInfo": {
+    "title": "Antiques and collectibles",
+    "subtitle": "a bibliography",
+    "authors": [
+     "Oswego Public Library District. Adult Services Dept",
+     "Bur Oak Library System"
+    ],
+    "publishedDate": "1983",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:10312121"
+     }
+    ],
+    "pageCount": 152,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQKUqHAAACAAJ&dq\u003dAntiques+and+Collectibles&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQKUqHAAACAAJ&dq\u003dAntiques+and+Collectibles&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GXbuPgAACAAJ",
+   "etag": "TW1lL9u2YeI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GXbuPgAACAAJ",
+   "volumeInfo": {
+    "title": "Antiques and collectibles",
+    "authors": [
+     "Maynards (Firm)"
+    ],
+    "publishedDate": "2008",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:314766135"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGXbuPgAACAAJ&dq\u003dAntiques+and+Collectibles&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGXbuPgAACAAJ&dq\u003dAntiques+and+Collectibles&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Nk14Us8-iCsC",
+   "etag": "tISPUGVmTlw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Nk14Us8-iCsC",
+   "volumeInfo": {
+    "title": "Antiques roadshow collectibles",
+    "subtitle": "the complete guide to collecting 20th-century toys, glassware, costume jewelry, memorabilia, ceramics & more, from the most-watched series on PBS",
+    "authors": [
+     "Carol Prisant"
+    ],
+    "publisher": "Workman Publishing",
+    "publishedDate": "2003-01-18",
+    "description": "Brimming on every page with lively authority and expertise, photographs and insider details, this is the indispensible introductory guide to twentieth-century ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0761128220"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761128229"
+     }
+    ],
+    "pageCount": 588,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dNk14Us8-iCsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dNk14Us8-iCsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNk14Us8-iCsC&printsec\u003dfrontcover&dq\u003dAntiques+and+Collectibles&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNk14Us8-iCsC&dq\u003dAntiques+and+Collectibles&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IMIlpMx8a0IC",
+   "etag": "AJXuKcbnPWs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IMIlpMx8a0IC",
+   "volumeInfo": {
+    "title": "Warman's Antiques & Collectibles 2012 Price Guide",
+    "authors": [
+     "Mark F. Moran"
+    ],
+    "publisher": "Krause Pubns Inc",
+    "publishedDate": "2011-04-03",
+    "description": "Encompassing hundreds of different collectible categories, a comprehensive guide to thousands of antiques and collectibles comes complete with up-to-date prices ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1440214042"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781440214042"
+     }
+    ],
+    "pageCount": 800,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dIMIlpMx8a0IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dIMIlpMx8a0IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIMIlpMx8a0IC&printsec\u003dfrontcover&dq\u003dAntiques+and+Collectibles&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIMIlpMx8a0IC&dq\u003dAntiques+and+Collectibles&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 15.39,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dIMIlpMx8a0IC&dq\u003dAntiques+and+Collectibles&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2mZbsj8m0isC",
+   "etag": "PhgD+z8ftYk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2mZbsj8m0isC",
+   "volumeInfo": {
+    "title": "Antique Trader Antiques And Collectibles Price Guide 2011",
+    "authors": [
+     "Dan Brownell"
+    ],
+    "publisher": "Krause Pubns Inc",
+    "publishedDate": "2010-10-13",
+    "description": "Provides descriptions, values, and identification tips for a broad spectrum of popular collectibles, with more than 4,500 photographs in hundreds of categories.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1440212333"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781440212338"
+     }
+    ],
+    "pageCount": 816,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d2mZbsj8m0isC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d2mZbsj8m0isC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2mZbsj8m0isC&printsec\u003dfrontcover&dq\u003dAntiques+and+Collectibles&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2mZbsj8m0isC&dq\u003dAntiques+and+Collectibles&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d2mZbsj8m0isC&dq\u003dAntiques+and+Collectibles&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hwfFJOvGymkC",
+   "etag": "Kf4srPT0L1Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hwfFJOvGymkC",
+   "volumeInfo": {
+    "title": "Warman's Antiques & Collectibles 2011 Price Guide",
+    "authors": [
+     "Mark F. Moran"
+    ],
+    "publisher": "Krause Pubns Inc",
+    "publishedDate": "2010-03-30",
+    "description": "A comprehensive guide to antiques and collectibles, complete with prices, and listings.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "144020408X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781440204081"
+     }
+    ],
+    "pageCount": 800,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dhwfFJOvGymkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dhwfFJOvGymkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhwfFJOvGymkC&printsec\u003dfrontcover&dq\u003dAntiques+and+Collectibles&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhwfFJOvGymkC&dq\u003dAntiques+and+Collectibles&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Z3Jflp02QoEC",
+   "etag": "YWCVPPzTid8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Z3Jflp02QoEC",
+   "volumeInfo": {
+    "title": "Antique trader answers to questions about antiques & collectibles",
+    "authors": [
+     "Kyle Husfloen"
+    ],
+    "publisher": "Krause Pubns Inc",
+    "publishedDate": "2004-03-31",
+    "description": "Furniture, clocks, jewelry, and toys are among the categories covered in this informative collection. Book jacket.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0873497767"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780873497763"
+     }
+    ],
+    "pageCount": 296,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dZ3Jflp02QoEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dZ3Jflp02QoEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZ3Jflp02QoEC&printsec\u003dfrontcover&dq\u003dAntiques+and+Collectibles&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZ3Jflp02QoEC&dq\u003dAntiques+and+Collectibles&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NAWDRAAACAAJ",
+   "etag": "XX8Wic+rR+E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NAWDRAAACAAJ",
+   "volumeInfo": {
+    "title": "Kovels' Antiques & Collectibles Price Guide 2011",
+    "subtitle": "America's Bestselling Antiques Annual",
+    "authors": [
+     "Terry Kovel",
+     "Kim Kovel"
+    ],
+    "publisher": "Black Dog & Leventhal Publishers",
+    "publishedDate": "2010-09-15",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "157912853X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781579128531"
+     }
+    ],
+    "pageCount": 752,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dNAWDRAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dNAWDRAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNAWDRAAACAAJ&dq\u003dAntiques+and+Collectibles&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNAWDRAAACAAJ&dq\u003dAntiques+and+Collectibles&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HKN3NQAACAAJ",
+   "etag": "1UXf7ableb8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HKN3NQAACAAJ",
+   "volumeInfo": {
+    "title": "How to Sell Antiques and Collectibles on Ebay... and Make a Fortune!",
+    "authors": [
+     "Dennis L. Prince",
+     "Lynn Dralle"
+    ],
+    "publishedDate": "2004-10-25",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0071445692"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071445696"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dHKN3NQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dHKN3NQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHKN3NQAACAAJ&dq\u003dAntiques+and+Collectibles&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHKN3NQAACAAJ&dq\u003dAntiques+and+Collectibles&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 192
+}

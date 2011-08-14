@@ -1,0 +1,526 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "_QlnK4INlL8C",
+   "etag": "UmVf7V2u/P0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_QlnK4INlL8C",
+   "volumeInfo": {
+    "title": "Decorating",
+    "subtitle": "The Professional Touch",
+    "authors": [
+     "Carol Donayre Bugg"
+    ],
+    "publisher": "Capital Books Inc",
+    "publishedDate": "2009-03-15",
+    "description": "At last, for busy non-DIY people-how to work with a professional to solve and complete your home decorating dreams in colors, fabrics, window treatments, paints ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1933102713"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781933102719"
+     }
+    ],
+    "pageCount": 223,
+    "printType": "BOOK",
+    "categories": [
+     "House & Home"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d_QlnK4INlL8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d_QlnK4INlL8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_QlnK4INlL8C&printsec\u003dfrontcover&dq\u003dDecorating&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_QlnK4INlL8C&dq\u003dDecorating&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4RNGw-EB9_kC",
+   "etag": "fpI5QuBS9eQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4RNGw-EB9_kC",
+   "volumeInfo": {
+    "title": "New Decorating Book",
+    "authors": [
+     "Denise L. Caringer"
+    ],
+    "publisher": "Better Homes & Gardens Books",
+    "publishedDate": "2003-02-15",
+    "description": "The definitive reference book on home decor, written and designed to inspire readers, move them to action by helping define their personal style, then implement ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0696214016"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780696214011"
+     }
+    ],
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d4RNGw-EB9_kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d4RNGw-EB9_kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4RNGw-EB9_kC&printsec\u003dfrontcover&dq\u003dDecorating&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4RNGw-EB9_kC&dq\u003dDecorating&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Sdbes0MFY74C",
+   "etag": "kKyLlkggotA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Sdbes0MFY74C",
+   "volumeInfo": {
+    "title": "Design Ideas for Home Decorating",
+    "authors": [
+     "Heidi King"
+    ],
+    "publisher": "Creative Homeowner Pr",
+    "publishedDate": "2006-10-15",
+    "description": "Design Ideas for Home Decorating Find fresh solutions to the decorating blahs with&quot; Design Ideas for Home Decorating.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1580113133"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781580113137"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "House & Home"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dSdbes0MFY74C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dSdbes0MFY74C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSdbes0MFY74C&printsec\u003dfrontcover&dq\u003dDecorating&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSdbes0MFY74C&dq\u003dDecorating&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mQU5GR32figC",
+   "etag": "e/C2ohjDgC0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mQU5GR32figC",
+   "volumeInfo": {
+    "title": "Speed Decorating",
+    "subtitle": "A Pro Stager's Tips and Trade Secrets for a Fabulous Home in a Week Or Less",
+    "authors": [
+     "Jill Vegas",
+     "Michael Grimm"
+    ],
+    "publisher": "Taunton Press",
+    "publishedDate": "2009-09-01",
+    "description": "Planning a party? A college roommate calling to say she&#39;s in town? Speed Decorating is the ultimate guide to making a house look great fast.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1600850332"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781600850332"
+     }
+    ],
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dmQU5GR32figC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dmQU5GR32figC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmQU5GR32figC&printsec\u003dfrontcover&dq\u003dDecorating&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmQU5GR32figC&dq\u003dDecorating&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3nJAEzSCuCIC",
+   "etag": "BDa65L54jD0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3nJAEzSCuCIC",
+   "volumeInfo": {
+    "title": "Decorating Details",
+    "subtitle": "Projects and Ideas for a More Comfortable, More Beautiful Home",
+    "authors": [
+     "Martha Stewart",
+     "Martha Stewart Living Magazine"
+    ],
+    "publisher": "Clarkson Potter",
+    "publishedDate": "1998-03-17",
+    "description": "Provides instructions for making picture frames, tables, stools, lamps and shades, shelves, screens, mirrors, pillows, and throws",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0609802585"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780609802588"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d3nJAEzSCuCIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d3nJAEzSCuCIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3nJAEzSCuCIC&printsec\u003dfrontcover&dq\u003dDecorating&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3nJAEzSCuCIC&dq\u003dDecorating&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "c9AWw1fo4JgC",
+   "etag": "PypG8vqRF2E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/c9AWw1fo4JgC",
+   "volumeInfo": {
+    "title": "Flawless interior decorating",
+    "subtitle": "a style-by-style guide",
+    "authors": [
+     "Beverly Murphy"
+    ],
+    "publisher": "McGraw-Hill Professional",
+    "publishedDate": "2004-11-23",
+    "description": "So, it&#39;s time to stop fretting and start decorating! Beverly Murphy has put everything you need to succeed right here in this book.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0071440739"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071440738"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dc9AWw1fo4JgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dc9AWw1fo4JgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dc9AWw1fo4JgC&printsec\u003dfrontcover&dq\u003dDecorating&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dc9AWw1fo4JgC&dq\u003dDecorating&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "X7tJgY8feMcC",
+   "etag": "UUr3qfIjT24",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/X7tJgY8feMcC",
+   "volumeInfo": {
+    "title": "Decorating Idea Book",
+    "authors": [
+     "Heather Paper"
+    ],
+    "publisher": "Taunton Pr",
+    "publishedDate": "2005-11-01",
+    "description": "A showcase of fresh decorating ideas for every room of a house and some outdoor areas spotlights quick fixes, tricks of the trade, and elements of design for ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1561587621"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781561587629"
+     }
+    ],
+    "pageCount": 313,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dX7tJgY8feMcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dX7tJgY8feMcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dX7tJgY8feMcC&printsec\u003dfrontcover&dq\u003dDecorating&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dX7tJgY8feMcC&dq\u003dDecorating&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NmQIAQAAMAAJ",
+   "etag": "SzZZixHpynI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NmQIAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Decorating",
+    "subtitle": "a realistic guide",
+    "authors": [
+     "Mary Gilliatt"
+    ],
+    "publisher": "Pantheon",
+    "publishedDate": "1977",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "WISC:89031169410"
+     }
+    ],
+    "pageCount": 268,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dNmQIAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dNmQIAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNmQIAQAAMAAJ&q\u003dDecorating&dq\u003dDecorating&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNmQIAQAAMAAJ&dq\u003dDecorating&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VuVAkc4j5v4C",
+   "etag": "WeaRl6favNs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VuVAkc4j5v4C",
+   "volumeInfo": {
+    "title": "Decorating",
+    "subtitle": "Technique and Style",
+    "authors": [
+     "Barty Phillips"
+    ],
+    "publisher": "Thunder Bay Pr",
+    "publishedDate": "1999-04",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1571451765"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781571451767"
+     }
+    ],
+    "pageCount": 232,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dVuVAkc4j5v4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dVuVAkc4j5v4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVuVAkc4j5v4C&q\u003dDecorating&dq\u003dDecorating&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVuVAkc4j5v4C&dq\u003dDecorating&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "D6NDwWGOQhgC",
+   "etag": "TYlmQVDFTzY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/D6NDwWGOQhgC",
+   "volumeInfo": {
+    "title": "Decorating",
+    "subtitle": "do-it-yourself step-by-step",
+    "authors": [
+     "John McGowan"
+    ],
+    "publisher": "Southwater Pub",
+    "publishedDate": "2005-11-25",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1844762068"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781844762064"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "House & Home"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dD6NDwWGOQhgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dD6NDwWGOQhgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dD6NDwWGOQhgC&q\u003dDecorating&dq\u003dDecorating&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dD6NDwWGOQhgC&dq\u003dDecorating&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 593
+}

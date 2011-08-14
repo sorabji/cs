@@ -1,0 +1,566 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Z8GA0d-4nUUC",
+   "etag": "UAfVd//T4bw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Z8GA0d-4nUUC",
+   "volumeInfo": {
+    "title": "Reincarnation",
+    "subtitle": "the missing link in Christianity",
+    "authors": [
+     "Elizabeth Clare Prophet",
+     "Erin L. Prophet"
+    ],
+    "publisher": "Summit Univ Pr",
+    "publishedDate": "1997-06-25",
+    "description": "A long time ago Christians believed in reincarnation. This ground-breaking work makes the case that Jesus taught reincarnation.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0922729271"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780922729272"
+     }
+    ],
+    "pageCount": 430,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dZ8GA0d-4nUUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dZ8GA0d-4nUUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZ8GA0d-4nUUC&printsec\u003dfrontcover&dq\u003dReincarnation&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZ8GA0d-4nUUC&dq\u003dReincarnation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 6.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 5.38,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dZ8GA0d-4nUUC&dq\u003dReincarnation&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Reincarnation-sample-epub.acsm?id\u003dZ8GA0d-4nUUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Reincarnation-sample-pdf.acsm?id\u003dZ8GA0d-4nUUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PZsNAAAAYAAJ",
+   "etag": "2UupCuI/Tyw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PZsNAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Reincarnation",
+    "authors": [
+     "Annie Wood Besant"
+    ],
+    "publishedDate": "1892",
+    "description": "\u003cb\u003eREINCARNATION\u003c/b\u003e. Introduction. TF it be difficult for a new truth to gain a \u003cbr\u003e\r\nhearing amid the strife of tongues that marks cur modern civilisation, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:AH59NW"
+     }
+    ],
+    "pageCount": 88,
+    "printType": "BOOK",
+    "categories": [
+     "Reincarnation"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dPZsNAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dPZsNAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPZsNAAAAYAAJ&printsec\u003dfrontcover&dq\u003dReincarnation&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPZsNAAAAYAAJ&dq\u003dReincarnation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Reincarnation.epub?id\u003dPZsNAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Reincarnation.pdf?id\u003dPZsNAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0LpR_r6pE-s11m--xgpaBPadxuoQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Yak9pjYfSQoC",
+   "etag": "IAAhUDhkU/Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Yak9pjYfSQoC",
+   "volumeInfo": {
+    "title": "Reincarnation",
+    "subtitle": "The boy Lama",
+    "authors": [
+     "Vicki Mackenzie"
+    ],
+    "publisher": "Wisdom Pubns",
+    "publishedDate": "1996-04-25",
+    "description": "A chronicle of life, death, and rebirth chronicles the remarkable story of Lama Yeshe, a Tibetan monk and teacher who passed away in 1984 and was reborn in ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0861711084"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780861711086"
+     }
+    ],
+    "pageCount": 177,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dYak9pjYfSQoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dYak9pjYfSQoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYak9pjYfSQoC&printsec\u003dfrontcover&dq\u003dReincarnation&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYak9pjYfSQoC&dq\u003dReincarnation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DNE8PwAACAAJ",
+   "etag": "+JaedSgR9Xs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DNE8PwAACAAJ",
+   "volumeInfo": {
+    "title": "Reincarnation",
+    "authors": [
+     "Suzanne Weyn"
+    ],
+    "publisher": "Scholastic Paperbacks",
+    "publishedDate": "2009-05-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0545013240"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780545013246"
+     }
+    ],
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 217,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dDNE8PwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dDNE8PwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDNE8PwAACAAJ&dq\u003dReincarnation&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDNE8PwAACAAJ&dq\u003dReincarnation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vIDES6VWl1MC",
+   "etag": "BnUukp1D5OA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vIDES6VWl1MC",
+   "volumeInfo": {
+    "title": "Twenty cases suggestive of reincarnation",
+    "authors": [
+     "Ian Stevenson"
+    ],
+    "publisher": "University of Virginia Press",
+    "publishedDate": "1980-10",
+    "description": "In this volume Dr. Stevenson presents detailed reports of two cases taht seem authentic.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0813908728"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780813908724"
+     }
+    ],
+    "pageCount": 396,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dvIDES6VWl1MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dvIDES6VWl1MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvIDES6VWl1MC&printsec\u003dfrontcover&dq\u003dReincarnation&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvIDES6VWl1MC&dq\u003dReincarnation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 23.6,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.16,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dvIDES6VWl1MC&dq\u003dReincarnation&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Twenty_cases_suggestive_of_reincarnation-sample-pdf.acsm?id\u003dvIDES6VWl1MC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "57oVAAAAYAAJ",
+   "etag": "UmdloLIo4R0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/57oVAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Reincarnation",
+    "subtitle": "a study of forgotten truth",
+    "authors": [
+     "Edward Dwight Walker"
+    ],
+    "publishedDate": "1888",
+    "description": "\u003cb\u003e...\u003c/b\u003e \u003cb\u003ereincarnation\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:AH5A3W"
+     }
+    ],
+    "pageCount": 350,
+    "printType": "BOOK",
+    "categories": [
+     "Reincarnation"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d57oVAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d57oVAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d57oVAAAAYAAJ&printsec\u003dfrontcover&dq\u003dReincarnation&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d57oVAAAAYAAJ&dq\u003dReincarnation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Reincarnation.epub?id\u003d57oVAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Reincarnation.pdf?id\u003d57oVAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3ScrTD4DdPRwWr_zeaIhPvGNmH_Q&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "k6gYHu1bRGwC",
+   "etag": "J0+117qhKWA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/k6gYHu1bRGwC",
+   "volumeInfo": {
+    "title": "Reincarnation in Christianity",
+    "subtitle": "a new vision of the role of rebirth in Christian thought",
+    "authors": [
+     "Geddes MacGregor"
+    ],
+    "publisher": "Quest Books",
+    "publishedDate": "1978-02-01",
+    "description": "He researched into the annals of Christian history- cut through centuries of religious emotionalism- gathered his material together and reported his findings in ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0835605019"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780835605014"
+     }
+    ],
+    "pageCount": 185,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dk6gYHu1bRGwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dk6gYHu1bRGwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dk6gYHu1bRGwC&printsec\u003dfrontcover&dq\u003dReincarnation&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dk6gYHu1bRGwC&dq\u003dReincarnation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ExNSvnORJwAC",
+   "etag": "P8g96VzDaM0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ExNSvnORJwAC",
+   "volumeInfo": {
+    "title": "Reincarnation",
+    "subtitle": "Physical, Astral and Spiritual Evolution",
+    "publisher": "Health Research Books",
+    "publishedDate": "1996-09-01",
+    "description": "Contents: Reincarnation; Definition, History, Quotations, Constitution of Man, of the Physical Body, Metempsychosis; Reincarnation of the Astral Principles; ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0787306541"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780787306540"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dExNSvnORJwAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dExNSvnORJwAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dExNSvnORJwAC&printsec\u003dfrontcover&dq\u003dReincarnation&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dExNSvnORJwAC&dq\u003dReincarnation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XOsjU1XcUiYC",
+   "etag": "mNP+q7mpdok",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XOsjU1XcUiYC",
+   "volumeInfo": {
+    "title": "The Reincarnation",
+    "authors": [
+     "Chris Middings"
+    ],
+    "publishedDate": "2008-10-07",
+    "description": "What if their soul is already in someone else?Weaving social science fiction and supernatural intrigue, The Reincarnation explores these questions in an ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "143572447X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781435724471"
+     }
+    ],
+    "pageCount": 177,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dXOsjU1XcUiYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dXOsjU1XcUiYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXOsjU1XcUiYC&printsec\u003dfrontcover&dq\u003dReincarnation&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXOsjU1XcUiYC&dq\u003dReincarnation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Reincarnation-sample-epub.acsm?id\u003dXOsjU1XcUiYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VTRDAAAAIAAJ",
+   "etag": "C80IuVdyVks",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VTRDAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Reincarnation",
+    "subtitle": "a study of the human soul in its relation to re-birth, evolution, post-mortem states, the compound nature of man, hypnotism, etc",
+    "authors": [
+     "Jerome A. Anderson"
+    ],
+    "publishedDate": "1892",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B28984"
+     }
+    ],
+    "pageCount": 250,
+    "printType": "BOOK",
+    "categories": [
+     "Reincarnation"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dVTRDAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dVTRDAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVTRDAAAAIAAJ&printsec\u003dfrontcover&dq\u003dReincarnation&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVTRDAAAAIAAJ&dq\u003dReincarnation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Reincarnation.epub?id\u003dVTRDAAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Reincarnation.pdf?id\u003dVTRDAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3r3WHA_puv4OwRZ8mNKty1gUE-iQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 567
+}

@@ -1,0 +1,540 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "zR8uAAAACAAJ",
+   "etag": "1Pb7RNdRh7U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zR8uAAAACAAJ",
+   "volumeInfo": {
+    "title": "WWII",
+    "subtitle": "the illustrated history of World War II",
+    "publisher": "Time Life Education",
+    "publishedDate": "1999-09",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0737031611"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780737031614"
+     }
+    ],
+    "pageCount": 496,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzR8uAAAACAAJ&dq\u003dWWII&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzR8uAAAACAAJ&dq\u003dWWII&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "S53vAAAAMAAJ",
+   "etag": "1ig+tK0QdtY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/S53vAAAAMAAJ",
+   "volumeInfo": {
+    "title": "WWII",
+    "subtitle": "A Legacy of Letters",
+    "authors": [
+     "Clinton Frederick"
+    ],
+    "publisher": "Zonicom Pr",
+    "publishedDate": "2000-09",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0977849309"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780977849307"
+     }
+    ],
+    "pageCount": 444,
+    "printType": "BOOK",
+    "categories": [
+     "Non-Classifiable"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dS53vAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dS53vAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dS53vAAAAMAAJ&q\u003dWWII&dq\u003dWWII&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dS53vAAAAMAAJ&dq\u003dWWII&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s8QMAAAACAAJ",
+   "etag": "BOoPD/99R+k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s8QMAAAACAAJ",
+   "volumeInfo": {
+    "title": "WWII",
+    "subtitle": "a tribute in art and literature",
+    "authors": [
+     "David Colbert"
+    ],
+    "publisher": "Time Life Education",
+    "publishedDate": "2001-10",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0737031646"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780737031645"
+     }
+    ],
+    "pageCount": 239,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003ds8QMAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003ds8QMAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ds8QMAAAACAAJ&dq\u003dWWII&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ds8QMAAAACAAJ&dq\u003dWWII&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fiCJQihMiSQC",
+   "etag": "PIQ99Bl2VK4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fiCJQihMiSQC",
+   "volumeInfo": {
+    "title": "Brothers in Battle, Best of Friends: Two WWII Paratroopers from the Original Band of Brothers Tell Their Story",
+    "authors": [
+     "William Guarnere",
+     "Edward Heffron",
+     "Robyn Post"
+    ],
+    "publisher": "Berkley Pub Group",
+    "publishedDate": "2008-10-07",
+    "description": "A firsthand account of the wartime experiences of two soldiers portrayed in the HBO series Band of Brothers pays tribute to the lasting bond forged between ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0425224368"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780425224366"
+     }
+    ],
+    "pageCount": 296,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 50,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dfiCJQihMiSQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dfiCJQihMiSQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfiCJQihMiSQC&printsec\u003dfrontcover&dq\u003dWWII&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfiCJQihMiSQC&dq\u003dWWII&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dfiCJQihMiSQC&dq\u003dWWII&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Brothers_in_Battle_Best_of_Friends_Two_W-sample-epub.acsm?id\u003dfiCJQihMiSQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "D1SEQMTAdYsC",
+   "etag": "yY8Ih96FUZw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/D1SEQMTAdYsC",
+   "volumeInfo": {
+    "title": "Brothers in battle, best of friends",
+    "subtitle": "two WWII paratroopers from the original Band of brothers tell their story",
+    "authors": [
+     "William Guarnere",
+     "Edward Heffron",
+     "Robyn Post"
+    ],
+    "publisher": "Berkley Publishing Group",
+    "publishedDate": "2007-10-02",
+    "description": "A firsthand account of the wartime experiences of two soldiers portrayed in the HBO series Band of Brothers pays tribute to the lasting bond forged between ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0425217280"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780425217283"
+     }
+    ],
+    "pageCount": 296,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 50,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dD1SEQMTAdYsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dD1SEQMTAdYsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dD1SEQMTAdYsC&printsec\u003dfrontcover&dq\u003dWWII&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dD1SEQMTAdYsC&dq\u003dWWII&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MK-prhL0o-cC",
+   "etag": "yCzc5oXyKlw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MK-prhL0o-cC",
+   "volumeInfo": {
+    "title": "American Tanks of WWII",
+    "authors": [
+     "Thomas Berndt"
+    ],
+    "publisher": "Zenith Press",
+    "publishedDate": "1994-11-06",
+    "description": "Spectacular color photographs combined with informative captions tell the stories of these popular subjects.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0879389303"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780879389307"
+     }
+    ],
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dMK-prhL0o-cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dMK-prhL0o-cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMK-prhL0o-cC&printsec\u003dfrontcover&dq\u003dWWII&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMK-prhL0o-cC&dq\u003dWWII&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dMK-prhL0o-cC&dq\u003dWWII&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/American_Tanks_of_WWII-sample-pdf.acsm?id\u003dMK-prhL0o-cC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gWLihTX99iQC",
+   "etag": "pK8urldHboQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gWLihTX99iQC",
+   "volumeInfo": {
+    "title": "Wwii",
+    "subtitle": "Through These Eyes",
+    "authors": [
+     "Frank Fancher"
+    ],
+    "publishedDate": "2005-04-29",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1420833103"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781420833102"
+     }
+    ],
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dgWLihTX99iQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dgWLihTX99iQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgWLihTX99iQC&dq\u003dWWII&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgWLihTX99iQC&dq\u003dWWII&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "R-ZmAAAAMAAJ",
+   "etag": "ygAF7DPmR7g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/R-ZmAAAAMAAJ",
+   "volumeInfo": {
+    "title": "WW II",
+    "authors": [
+     "James Jones"
+    ],
+    "publishedDate": "1976",
+    "description": "I wish to pay tribute to the many artists who gave the world a pictorial record \u003cbr\u003e\r\nof \u003cb\u003eWWII\u003c/b\u003e. Some gave their lives in the effort. Because of the restrictions of \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015005938017"
+     }
+    ],
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dR-ZmAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dR-ZmAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dR-ZmAAAAMAAJ&q\u003dWWII&dq\u003dWWII&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dR-ZmAAAAMAAJ&dq\u003dWWII&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "se2cAAAACAAJ",
+   "etag": "5RjoFVhfLQc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/se2cAAAACAAJ",
+   "volumeInfo": {
+    "title": "WWII",
+    "subtitle": "the directory of weapons",
+    "authors": [
+     "Chris Bishop"
+    ],
+    "publisher": "Ramboro",
+    "publishedDate": "1998",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0862881986"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780862881986"
+     }
+    ],
+    "pageCount": 544,
+    "printType": "BOOK",
+    "categories": [
+     "Photography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dse2cAAAACAAJ&dq\u003dWWII&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dse2cAAAACAAJ&dq\u003dWWII&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_TVnPc9Rey4C",
+   "etag": "PZQZMJ3pREk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_TVnPc9Rey4C",
+   "volumeInfo": {
+    "title": "WWII Dioramas",
+    "authors": [
+     "Jerry Scutts"
+    ],
+    "publisher": "Osprey Publishing",
+    "publishedDate": "2000-02-15",
+    "description": "This book explores the many facets of the subject and shows how composition is all.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1902579216"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781902579214"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Crafts & Hobbies"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d_TVnPc9Rey4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d_TVnPc9Rey4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_TVnPc9Rey4C&printsec\u003dfrontcover&dq\u003dWWII&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_TVnPc9Rey4C&dq\u003dWWII&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 600
+}

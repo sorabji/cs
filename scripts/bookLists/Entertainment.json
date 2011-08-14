@@ -1,0 +1,592 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "zXnqjC0odD0C",
+   "etag": "3lCkoHwwUdM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zXnqjC0odD0C",
+   "volumeInfo": {
+    "title": "Entertainment",
+    "authors": [
+     "Louise Weihart"
+    ],
+    "publishedDate": "2006-05",
+    "description": "The \u003cb\u003eentertainment\u003c/b\u003e industry is about hard work, penny-pinching, job- juggling and \u003cbr\u003e\r\na long road to success, which often has many detours. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1921106212"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781921106217"
+     }
+    ],
+    "pageCount": 170,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dzXnqjC0odD0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dzXnqjC0odD0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzXnqjC0odD0C&printsec\u003dfrontcover&dq\u003dEntertainment&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzXnqjC0odD0C&dq\u003dEntertainment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Entertainment-sample-epub.acsm?id\u003dzXnqjC0odD0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FWNPUpuLav4C",
+   "etag": "aSFsUZ1e/gQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FWNPUpuLav4C",
+   "volumeInfo": {
+    "title": "Entertainment-education",
+    "subtitle": "a communication strategy for social change",
+    "authors": [
+     "Arvind Singhal",
+     "Everett M. Rogers"
+    ],
+    "publisher": "Lawrence Erlbaum",
+    "publishedDate": "1999",
+    "description": "This book presents a balanced picture of the entertainment-education strategy, identifying ethical and other problems that accompany efforts to bring about ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0805833501"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780805833508"
+     }
+    ],
+    "pageCount": 265,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dFWNPUpuLav4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dFWNPUpuLav4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFWNPUpuLav4C&printsec\u003dfrontcover&dq\u003dEntertainment&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFWNPUpuLav4C&dq\u003dEntertainment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.69,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dFWNPUpuLav4C&dq\u003dEntertainment&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Entertainment_education-sample-epub.acsm?id\u003dFWNPUpuLav4C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Entertainment_education-sample-pdf.acsm?id\u003dFWNPUpuLav4C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "utfDzOhUMfMC",
+   "etag": "fpdQ9H+uzKA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/utfDzOhUMfMC",
+   "volumeInfo": {
+    "title": "Entertainment",
+    "authors": [
+     "Marcia Amidon Lüsted"
+    ],
+    "publisher": "Essential Library",
+    "publishedDate": "2011-01-01",
+    "description": "This title examines the positions of chemical, environmental, and computer engineer, as well as that of video game developer.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1617147990"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781617147999"
+     }
+    ],
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dutfDzOhUMfMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dutfDzOhUMfMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dutfDzOhUMfMC&printsec\u003dfrontcover&dq\u003dEntertainment&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dutfDzOhUMfMC&dq\u003dEntertainment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "crXittp2n38C",
+   "etag": "/vPnCU1rix8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/crXittp2n38C",
+   "volumeInfo": {
+    "title": "Only entertainment",
+    "authors": [
+     "Richard Dyer"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2002",
+    "description": "The second edition features a new introduction placing the essays in the context of cultural debates.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415254973"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415254977"
+     }
+    ],
+    "pageCount": 187,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dcrXittp2n38C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dcrXittp2n38C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcrXittp2n38C&printsec\u003dfrontcover&dq\u003dEntertainment&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcrXittp2n38C&dq\u003dEntertainment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 33.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 18.33,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dcrXittp2n38C&dq\u003dEntertainment&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Only_entertainment-sample-epub.acsm?id\u003dcrXittp2n38C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Only_entertainment-sample-pdf.acsm?id\u003dcrXittp2n38C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xoSOHz-YViUC",
+   "etag": "YmK7TYWcFPU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xoSOHz-YViUC",
+   "volumeInfo": {
+    "title": "Entertainment theology",
+    "subtitle": "new-edge spirituality in a digital democracy",
+    "authors": [
+     "Barry Taylor"
+    ],
+    "publisher": "Baker Publishing Group",
+    "publishedDate": "2008-03-01",
+    "description": "&quot;Entertainment Theology&quot; exhorts Christians to embrace new vehicles to communicate gospel truth--or face extinction.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0801032377"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780801032370"
+     }
+    ],
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dxoSOHz-YViUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dxoSOHz-YViUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxoSOHz-YViUC&printsec\u003dfrontcover&dq\u003dEntertainment&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxoSOHz-YViUC&dq\u003dEntertainment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 6.15,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dxoSOHz-YViUC&dq\u003dEntertainment&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Entertainment_theology-sample-epub.acsm?id\u003dxoSOHz-YViUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Entertainment_theology-sample-pdf.acsm?id\u003dxoSOHz-YViUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TDQIcnQIDoYC",
+   "etag": "OklTz/IvUpI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TDQIcnQIDoYC",
+   "volumeInfo": {
+    "title": "Entertainment computing",
+    "subtitle": "technologies and applications : IFIP First International Workshop on Entertainment Computing (IWEC 2002), May 14-17, 2002, Makuhari, Japan",
+    "authors": [
+     "Ryohei Nakatsu",
+     "Junichi Hoshino"
+    ],
+    "publisher": "Springer Netherlands",
+    "publishedDate": "2003",
+    "description": "This volume comprises the proceedings of the First International Workshop on Entertainment Computing (IWEC 2002), which was sponsored by the International ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1402073607"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781402073601"
+     }
+    ],
+    "pageCount": 534,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dTDQIcnQIDoYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dTDQIcnQIDoYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTDQIcnQIDoYC&printsec\u003dfrontcover&dq\u003dEntertainment&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTDQIcnQIDoYC&dq\u003dEntertainment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 157.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 125.6,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dTDQIcnQIDoYC&dq\u003dEntertainment&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Entertainment_computing-sample-epub.acsm?id\u003dTDQIcnQIDoYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Entertainment_computing-sample-pdf.acsm?id\u003dTDQIcnQIDoYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0ROXOZCJa1kC",
+   "etag": "QxS64UXxKqo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0ROXOZCJa1kC",
+   "volumeInfo": {
+    "title": "The entertainment marketing revolution",
+    "subtitle": "bringing the moguls, the media, and the magic to the world",
+    "authors": [
+     "Al Lieberman",
+     "Patricia Esgate"
+    ],
+    "publisher": "FT Press",
+    "publishedDate": "2002-05-01",
+    "description": "The Entertainment Marketing Revolution: Bringing the Moguls, the Media, and the Magic to the Worldprofiles that industry, from film to print, music to theme ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0130293504"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780130293503"
+     }
+    ],
+    "pageCount": 345,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d0ROXOZCJa1kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d0ROXOZCJa1kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0ROXOZCJa1kC&printsec\u003dfrontcover&dq\u003dEntertainment&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0ROXOZCJa1kC&dq\u003dEntertainment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UiBDGdvlumwC",
+   "etag": "QXRGG6Ft30s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UiBDGdvlumwC",
+   "volumeInfo": {
+    "title": "The entertainment industry",
+    "subtitle": "an introduction",
+    "authors": [
+     "Stuart Moss"
+    ],
+    "publisher": "CABI Publishing",
+    "publishedDate": "2010-01-18",
+    "description": "Entertainment studies are an important emerging subject in tourism, and this introductory textbook provides a detailed overview of the entertainment industry ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1845935519"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781845935511"
+     }
+    ],
+    "pageCount": 381,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dUiBDGdvlumwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dUiBDGdvlumwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUiBDGdvlumwC&printsec\u003dfrontcover&dq\u003dEntertainment&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUiBDGdvlumwC&dq\u003dEntertainment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_entertainment_industry-sample-epub.acsm?id\u003dUiBDGdvlumwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tNWkoXwPAP4C",
+   "etag": "clICAy0nCcs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tNWkoXwPAP4C",
+   "volumeInfo": {
+    "title": "Entertainment",
+    "subtitle": "A Pictorial History of the Past One Thousand Years",
+    "authors": [
+     "John Hamilton",
+     "Sue L. Hamilton"
+    ],
+    "publisher": "ABDO & Daughters",
+    "publishedDate": "2000-06",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1577653602"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781577653608"
+     }
+    ],
+    "pageCount": 47,
+    "printType": "BOOK",
+    "categories": [
+     "Games"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dtNWkoXwPAP4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dtNWkoXwPAP4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtNWkoXwPAP4C&q\u003dEntertainment&dq\u003dEntertainment&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtNWkoXwPAP4C&dq\u003dEntertainment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yry8PAAACAAJ",
+   "etag": "uE4ziVtmTac",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yry8PAAACAAJ",
+   "volumeInfo": {
+    "title": "Entertainment",
+    "authors": [
+     "Richard John Evans"
+    ],
+    "publisher": "Seren Books/Poetry Wales Pr Ltd",
+    "publishedDate": "2001-06-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1854112872"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781854112873"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Comics & Graphic Novels"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dyry8PAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dyry8PAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyry8PAAACAAJ&dq\u003dEntertainment&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyry8PAAACAAJ&dq\u003dEntertainment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 595
+}

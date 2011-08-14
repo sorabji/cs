@@ -1,0 +1,535 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "1YyPGZ-z28QC",
+   "etag": "f4f/lAwf4Ts",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1YyPGZ-z28QC",
+   "volumeInfo": {
+    "title": "Reflexology",
+    "subtitle": "a practical approach",
+    "authors": [
+     "Vicki Pitman",
+     "Kay MacKenzie"
+    ],
+    "publishedDate": "2002-09",
+    "description": "Comprehensive while remaining student friendly, the second edition of this text provides thorough information required for all reflexology courses.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0748765778"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780748765775"
+     }
+    ],
+    "pageCount": 278,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d1YyPGZ-z28QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d1YyPGZ-z28QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1YyPGZ-z28QC&printsec\u003dfrontcover&dq\u003dReflexology&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1YyPGZ-z28QC&dq\u003dReflexology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pAkIAAAACAAJ",
+   "etag": "EWLrzjxmZlg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pAkIAAAACAAJ",
+   "volumeInfo": {
+    "title": "Reflexology",
+    "subtitle": "health at your fingertips",
+    "authors": [
+     "Barbara Kunz",
+     "Kevin Kunz"
+    ],
+    "publisher": "Dk Pub",
+    "publishedDate": "2003-05-20",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0789493535"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780789493538"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dpAkIAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dpAkIAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpAkIAAAACAAJ&dq\u003dReflexology&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpAkIAAAACAAJ&dq\u003dReflexology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZaC4XF8UdCsC",
+   "etag": "JNheKWG/2Yg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZaC4XF8UdCsC",
+   "volumeInfo": {
+    "title": "The Reflexology Manual",
+    "subtitle": "An Easy-to-Use Guide to Treating the Body Through the Feet and Hands",
+    "authors": [
+     "Pauline Wills"
+    ],
+    "publisher": "Connections Book Publishing",
+    "publishedDate": "2005-06-16",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1859061818"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781859061817"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dZaC4XF8UdCsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dZaC4XF8UdCsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZaC4XF8UdCsC&dq\u003dReflexology&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZaC4XF8UdCsC&dq\u003dReflexology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ihi9tVquNB4C",
+   "etag": "2GPbg9/rFJc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ihi9tVquNB4C",
+   "volumeInfo": {
+    "title": "Reflexology for beginners",
+    "subtitle": "healing through foot massage of pressure points",
+    "authors": [
+     "David F. Vennells"
+    ],
+    "publisher": "Llewellyn Worldwide",
+    "publishedDate": "2001-11",
+    "description": "By concentrating on the basics, Reflexology for Beginners allows anyone to practice and enjoy reflexology as quickly and easily as possible.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0738700983"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780738700984"
+     }
+    ],
+    "pageCount": 238,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dIhi9tVquNB4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dIhi9tVquNB4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIhi9tVquNB4C&printsec\u003dfrontcover&dq\u003dReflexology&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIhi9tVquNB4C&dq\u003dReflexology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_XPiAQAACAAJ",
+   "etag": "Co2uMrEmliM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_XPiAQAACAAJ",
+   "volumeInfo": {
+    "title": "Hand reflexology",
+    "subtitle": "simple routines for health and relaxation",
+    "authors": [
+     "Kevin Kunz",
+     "Barbara Kunz"
+    ],
+    "publishedDate": "2006-07-06",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1405315652"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405315654"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d_XPiAQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d_XPiAQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_XPiAQAACAAJ&dq\u003dReflexology&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_XPiAQAACAAJ&dq\u003dReflexology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-qjBakp1BBUC",
+   "etag": "gxUPlkfqSLM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-qjBakp1BBUC",
+   "volumeInfo": {
+    "title": "Reflexology",
+    "authors": [
+     "Susan Cressy"
+    ],
+    "publisher": "Heinemann Educational Publishers",
+    "publishedDate": "2003-10-21",
+    "description": "This illustrated, full-colour title provides the most comprehensive route through the most popular reflexology qualifications.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0435451049"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780435451042"
+     }
+    ],
+    "pageCount": 227,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d-qjBakp1BBUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d-qjBakp1BBUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-qjBakp1BBUC&printsec\u003dfrontcover&dq\u003dReflexology&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-qjBakp1BBUC&dq\u003dReflexology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mKRtCUZLGQoC",
+   "etag": "yxAXJc2icAs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mKRtCUZLGQoC",
+   "volumeInfo": {
+    "title": "The complete idiot's guide to reflexology",
+    "authors": [
+     "Frankie Avalon Wolfe"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "1999-07-12",
+    "description": "Maps reflex points on the hands and feet and explains techniques for ridding the body of toxins, manipulating the body&#39;s energy meridians, and treating back ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0028631870"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780028631875"
+     }
+    ],
+    "pageCount": 392,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dmKRtCUZLGQoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dmKRtCUZLGQoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmKRtCUZLGQoC&printsec\u003dfrontcover&dq\u003dReflexology&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmKRtCUZLGQoC&dq\u003dReflexology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eKRGtci9-JwC",
+   "etag": "hQrg5ZThTlM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eKRGtci9-JwC",
+   "volumeInfo": {
+    "title": "Clinical reflexology",
+    "subtitle": "a guide for health professionals",
+    "authors": [
+     "Peter A. Mackereth",
+     "Denise Tiran"
+    ],
+    "publisher": "Elsevier Health Sciences",
+    "publishedDate": "2002",
+    "description": "This is a textbook of reflexology for students undertaking a full or short course (either at diploma or degree level) in reflexology.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0443071209"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780443071201"
+     }
+    ],
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003deKRGtci9-JwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003deKRGtci9-JwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deKRGtci9-JwC&printsec\u003dfrontcover&dq\u003dReflexology&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deKRGtci9-JwC&dq\u003dReflexology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dpDah4FVfaYC",
+   "etag": "01DJpLiXkjI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dpDah4FVfaYC",
+   "volumeInfo": {
+    "title": "Hand Reflexology Workbook",
+    "subtitle": "How to Work on Someone's Hands",
+    "authors": [
+     "Kevin Kunz",
+     "Barbara Kunz"
+    ],
+    "publisher": "Rrp Press",
+    "publishedDate": "2001-08",
+    "description": "The exercise is of pressure and movement with the techniques of \u003cb\u003ereflexology\u003c/b\u003e. The \u003cbr\u003e\r\nconcept of touch as a body activity which can be exercised provides food \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0960607048"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780960607044"
+     }
+    ],
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003ddpDah4FVfaYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003ddpDah4FVfaYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddpDah4FVfaYC&printsec\u003dfrontcover&dq\u003dReflexology&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddpDah4FVfaYC&dq\u003dReflexology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "q9ixPQAACAAJ",
+   "etag": "85tws6GyqYw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/q9ixPQAACAAJ",
+   "volumeInfo": {
+    "title": "Reflexology",
+    "subtitle": "52 Handy Healing Techniques",
+    "authors": [
+     "Barbara Kunz",
+     "Kevin Kunz"
+    ],
+    "publishedDate": "2006-11-28",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0756623669"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780756623661"
+     }
+    ],
+    "pageCount": 57,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dq9ixPQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dq9ixPQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dq9ixPQAACAAJ&dq\u003dReflexology&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dq9ixPQAACAAJ&dq\u003dReflexology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 275
+}

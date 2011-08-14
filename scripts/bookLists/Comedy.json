@@ -1,0 +1,548 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ZFmEDTxID1YC",
+   "etag": "sSUDADxEUCA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZFmEDTxID1YC",
+   "volumeInfo": {
+    "title": "Comedy",
+    "authors": [
+     "Andrew Stott"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2005",
+    "description": "This book provides readers with the ideal critical introduction to the irrepressible genre of comedy.&quot;--BOOK JACKET.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415299330"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415299336"
+     }
+    ],
+    "pageCount": 168,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dZFmEDTxID1YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dZFmEDTxID1YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZFmEDTxID1YC&printsec\u003dfrontcover&dq\u003dComedy&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZFmEDTxID1YC&dq\u003dComedy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.77,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dZFmEDTxID1YC&dq\u003dComedy&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Comedy-sample-epub.acsm?id\u003dZFmEDTxID1YC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Comedy-sample-pdf.acsm?id\u003dZFmEDTxID1YC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TtDxMuxT_jYC",
+   "etag": "GZhJtwljQQY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TtDxMuxT_jYC",
+   "volumeInfo": {
+    "title": "Comedy writing secrets",
+    "subtitle": "the best-selling book on how to think funny, write funny, act funny, and get paid for it",
+    "authors": [
+     "Mel Helitzer",
+     "Mark Shatz"
+    ],
+    "publisher": "Writers Digest Books",
+    "publishedDate": "2005-10-01",
+    "description": "Comedy Writing Secrets now includes:*Examples from comedy greats as well as cutting-edge contemporary comedians, including Jon Stewart, Chris Rock, and Tina ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1582973571"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781582973579"
+     }
+    ],
+    "pageCount": 342,
+    "printType": "BOOK",
+    "categories": [
+     "Humor"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 20,
+    "contentVersion": "0.1.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dTtDxMuxT_jYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dTtDxMuxT_jYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTtDxMuxT_jYC&printsec\u003dfrontcover&dq\u003dComedy&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTtDxMuxT_jYC&dq\u003dComedy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dTtDxMuxT_jYC&dq\u003dComedy&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tyHuAAAAMAAJ",
+   "etag": "AuXOlKMPB+g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tyHuAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Comedy",
+    "subtitle": "an introduction to comedy in literature, drama, and cinema",
+    "authors": [
+     "T. G. A. Nelson"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "1990-07",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015018475916"
+     }
+    ],
+    "pageCount": 197,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dtyHuAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dtyHuAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtyHuAAAAMAAJ&q\u003dComedy&dq\u003dComedy&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtyHuAAAAMAAJ&dq\u003dComedy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pAxGAQAAIAAJ",
+   "etag": "XCrnV4JP+Ck",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pAxGAQAAIAAJ",
+   "volumeInfo": {
+    "title": "The comedy",
+    "authors": [
+     "Dante Alighieri"
+    ],
+    "publishedDate": "1836",
+    "description": "[ 3 ] HELL. -. CANTO I. Midway upon the journey of our life, I found myself \u003cbr\u003e\r\nwithin a darksome wood ; For the true way was lost, mid perils, rife. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105048373737"
+     }
+    ],
+    "pageCount": 74,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dpAxGAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dpAxGAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpAxGAQAAIAAJ&printsec\u003dfrontcover&dq\u003dComedy&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpAxGAQAAIAAJ&dq\u003dComedy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/The_comedy.epub?id\u003dpAxGAQAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_comedy.pdf?id\u003dpAxGAQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3ts0CrqdZdXp0BfxfTDKDHCJ2IIg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aGK6M8TyAC4C",
+   "etag": "07HI3d8MyYU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aGK6M8TyAC4C",
+   "volumeInfo": {
+    "title": "The comedy bible",
+    "subtitle": "from stand-up to sitcom : the comedy writer's ultimate how-to-guide",
+    "authors": [
+     "Judy Carter"
+    ],
+    "publisher": "Fireside",
+    "publishedDate": "2001-08-07",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0743201256"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780743201254"
+     }
+    ],
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 11,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003daGK6M8TyAC4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003daGK6M8TyAC4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daGK6M8TyAC4C&q\u003dComedy&dq\u003dComedy&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daGK6M8TyAC4C&dq\u003dComedy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kCaufekHN9QC",
+   "etag": "eCn0x10rmB4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kCaufekHN9QC",
+   "volumeInfo": {
+    "title": "The death of comedy",
+    "authors": [
+     "Erich Segal"
+    ],
+    "publisher": "Harvard Univ Pr",
+    "publishedDate": "2001",
+    "description": "The book is a tour de force, a sweeping panorama of the art and history of comedy, as insightful as it is delightful to read.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "067401247X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780674012479"
+     }
+    ],
+    "pageCount": 589,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dkCaufekHN9QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dkCaufekHN9QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkCaufekHN9QC&printsec\u003dfrontcover&dq\u003dComedy&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkCaufekHN9QC&dq\u003dComedy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_death_of_comedy-sample-pdf.acsm?id\u003dkCaufekHN9QC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lT9kAAAAMAAJ",
+   "etag": "hw/oJN9Gqf8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lT9kAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Comedy",
+    "subtitle": "an essay on comedy",
+    "authors": [
+     "George Meredith",
+     "Wylie Sypher",
+     "Henri Bergson"
+    ],
+    "publisher": "Johns Hopkins Univ Pr",
+    "publishedDate": "1980",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015014233723"
+     }
+    ],
+    "pageCount": 260,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dlT9kAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dlT9kAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlT9kAAAAMAAJ&q\u003dComedy&dq\u003dComedy&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlT9kAAAAMAAJ&dq\u003dComedy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4wiDAAAAIAAJ",
+   "etag": "KdepPAeAcyM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4wiDAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Comedy",
+    "subtitle": "the irrational vision",
+    "authors": [
+     "Morton Gurewitch"
+    ],
+    "publisher": "Cornell Univ Pr",
+    "publishedDate": "1975",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B4505215"
+     }
+    ],
+    "pageCount": 245,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d4wiDAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d4wiDAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4wiDAAAAIAAJ&q\u003dComedy&dq\u003dComedy&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4wiDAAAAIAAJ&dq\u003dComedy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nUqCYbHIhCgC",
+   "etag": "Jepvb4Yb+RA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nUqCYbHIhCgC",
+   "volumeInfo": {
+    "title": "Film comedy",
+    "authors": [
+     "Geoff King"
+    ],
+    "publisher": "Wallflower Press",
+    "publishedDate": "2002-05-15",
+    "description": "What exactly is film comedy and what is the basis for its widespread appeal?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1903364353"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781903364352"
+     }
+    ],
+    "pageCount": 230,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dnUqCYbHIhCgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dnUqCYbHIhCgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnUqCYbHIhCgC&printsec\u003dfrontcover&dq\u003dComedy&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnUqCYbHIhCgC&dq\u003dComedy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KEUn8nce-_4C",
+   "etag": "M2d+30NKMH8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KEUn8nce-_4C",
+   "volumeInfo": {
+    "title": "The divine comedy",
+    "subtitle": "selected cantos",
+    "authors": [
+     "Dante Alighieri",
+     "Stanley Appelbaum"
+    ],
+    "publisher": "Dover Pubns",
+    "publishedDate": "2000-08-16",
+    "description": "Sublime poetic masterpiece recounting the poet&#39;s allegorical journey through the afterlife follows Dante through the infernal regions of Hell, where punishment ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0486411273"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486411279"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dKEUn8nce-_4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dKEUn8nce-_4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKEUn8nce-_4C&printsec\u003dfrontcover&dq\u003dComedy&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKEUn8nce-_4C&dq\u003dComedy&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 595
+}

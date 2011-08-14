@@ -1,0 +1,626 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "45iJ6REvxY8C",
+   "etag": "OZ2Hss3TEas",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/45iJ6REvxY8C",
+   "volumeInfo": {
+    "title": "Teen beauty secrets",
+    "subtitle": "fresh, simple & sassy tips for your perfect look",
+    "authors": [
+     "Diane Irons"
+    ],
+    "publisher": "Sourcebooks Inc",
+    "publishedDate": "2002-07-01",
+    "description": "Presents fashion and grooming tips for teenage girls covering such topics as skin care, makeup, hair care, exercise, nutrition, and wardrobe.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1570719594"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781570719592"
+     }
+    ],
+    "pageCount": 263,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d45iJ6REvxY8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d45iJ6REvxY8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d45iJ6REvxY8C&printsec\u003dfrontcover&dq\u003dTeen&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d45iJ6REvxY8C&dq\u003dTeen&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d45iJ6REvxY8C&dq\u003dTeen&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Teen_beauty_secrets-sample-pdf.acsm?id\u003d45iJ6REvxY8C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "i4xHgPTNNYgC",
+   "etag": "dQMPBV1YA6Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/i4xHgPTNNYgC",
+   "volumeInfo": {
+    "title": "Teen Idol",
+    "authors": [
+     "Meg Cabot"
+    ],
+    "publisher": "HarperTeen",
+    "publishedDate": "2005-07-14",
+    "description": "When teenage heartthrob Luke Stryker shows up at a small-town Indiana high school to do research for a movie role, he persuades junior Jenny Greenley to use her ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0060096187"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780060096182"
+     }
+    ],
+    "pageCount": 291,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 335,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003di4xHgPTNNYgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003di4xHgPTNNYgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003di4xHgPTNNYgC&printsec\u003dfrontcover&dq\u003dTeen&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003di4xHgPTNNYgC&dq\u003dTeen&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003di4xHgPTNNYgC&dq\u003dTeen&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Teen_Idol-sample-epub.acsm?id\u003di4xHgPTNNYgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nkFp_AcYA_YC",
+   "etag": "nTlFSrFdxJo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nkFp_AcYA_YC",
+   "volumeInfo": {
+    "title": "Teen ink",
+    "subtitle": "our voices, our visions",
+    "authors": [
+     "Stephanie H. Meyer",
+     "John Meyer"
+    ],
+    "publisher": "HCI Teens",
+    "publishedDate": "2000-08-04",
+    "description": "Written by and for teenagers, this collection of writing from TeenInk Magazine offers deep insights into teen life. Original. 200,000 first printing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1558748164"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781558748163"
+     }
+    ],
+    "pageCount": 361,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dnkFp_AcYA_YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dnkFp_AcYA_YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnkFp_AcYA_YC&printsec\u003dfrontcover&dq\u003dTeen&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnkFp_AcYA_YC&dq\u003dTeen&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cQBBvUNbKOYC",
+   "etag": "Svd3auwW03E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cQBBvUNbKOYC",
+   "volumeInfo": {
+    "title": "Teen Stages",
+    "subtitle": "The Breakthrough Year-by-Year Approach to Understanding Your Ever-Changing Teen",
+    "authors": [
+     "Elizabeth Mellor",
+     "Ken Mellor"
+    ],
+    "publisher": "Sourcebooks Inc",
+    "publishedDate": "2009-05-01",
+    "description": "A guide for parents describes each year of a teen&#39;s development, exploring the tactics and techniques needed to cope with the differing moods and behavior ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1402215290"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781402215292"
+     }
+    ],
+    "pageCount": 213,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dcQBBvUNbKOYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dcQBBvUNbKOYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcQBBvUNbKOYC&printsec\u003dfrontcover&dq\u003dTeen&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcQBBvUNbKOYC&dq\u003dTeen&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dcQBBvUNbKOYC&dq\u003dTeen&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Teen_Stages-sample-epub.acsm?id\u003dcQBBvUNbKOYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Teen_Stages-sample-pdf.acsm?id\u003dcQBBvUNbKOYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6BbQY3CreA8C",
+   "etag": "6P3lpvU4B3Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6BbQY3CreA8C",
+   "volumeInfo": {
+    "title": "The Bipolar Teen",
+    "subtitle": "What You Can Do to Help Your Child and Your Family",
+    "authors": [
+     "David Jay Miklowitz",
+     "Elizabeth Levergood George"
+    ],
+    "publisher": "The Guilford Press",
+    "publishedDate": "2007-11-16",
+    "description": "Like no other resource available, this powerful book delivers practical ways to manage chaos and relieve stress so everyone in your family-including siblings ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1593853181"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781593853181"
+     }
+    ],
+    "pageCount": 356,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d6BbQY3CreA8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d6BbQY3CreA8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6BbQY3CreA8C&printsec\u003dfrontcover&dq\u003dTeen&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6BbQY3CreA8C&dq\u003dTeen&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d6BbQY3CreA8C&dq\u003dTeen&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Bipolar_Teen-sample-epub.acsm?id\u003d6BbQY3CreA8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AvD5W9kaZPUC",
+   "etag": "+XDIEvHkykg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AvD5W9kaZPUC",
+   "volumeInfo": {
+    "title": "Teen rights (and responsibilities)",
+    "subtitle": "a legal guide for teens and the adults in their lives",
+    "authors": [
+     "Traci Truly"
+    ],
+    "publisher": "SphinxLegal",
+    "publishedDate": "2005-08-01",
+    "description": "Outlines the laws that relate specifically to teenagers, such as those pertaining to school, abuse, and work.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1572485256"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781572485259"
+     }
+    ],
+    "pageCount": 321,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dAvD5W9kaZPUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dAvD5W9kaZPUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAvD5W9kaZPUC&printsec\u003dfrontcover&dq\u003dTeen&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAvD5W9kaZPUC&dq\u003dTeen&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dAvD5W9kaZPUC&dq\u003dTeen&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Teen_rights_and_responsibilities-sample-epub.acsm?id\u003dAvD5W9kaZPUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Teen_rights_and_responsibilities-sample-pdf.acsm?id\u003dAvD5W9kaZPUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LusP2ngb0ecC",
+   "etag": "kyrMjIPPf3Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LusP2ngb0ecC",
+   "volumeInfo": {
+    "title": "Teen psychic",
+    "subtitle": "exploring your intuitive spiritual powers",
+    "authors": [
+     "Julie Tallard Johnson"
+    ],
+    "publisher": "Bindu Books",
+    "publishedDate": "2003-12-30",
+    "description": "TEENS / NEW AGE&quot;This book is steeped in integrity and practical advice on how to safely develop (or further) your psychic abilities and psychic wisdom for the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0892810947"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780892810949"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dLusP2ngb0ecC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dLusP2ngb0ecC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLusP2ngb0ecC&printsec\u003dfrontcover&dq\u003dTeen&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLusP2ngb0ecC&dq\u003dTeen&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Teen_psychic-sample-pdf.acsm?id\u003dLusP2ngb0ecC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xdByJyQ5zfIC",
+   "etag": "62uJRQL+OIQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xdByJyQ5zfIC",
+   "volumeInfo": {
+    "title": "Teen dreams",
+    "subtitle": "reading teen film from Heathers to Veronica Mars",
+    "authors": [
+     "Roz Kaveney"
+    ],
+    "publisher": "I. B. Tauris",
+    "publishedDate": "2006-07-11",
+    "description": "An entertaining study of the teen-driven genre of film and television explores consistent themes, including sex and gender relationships, that reveal the hidden ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1845111842"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781845111847"
+     }
+    ],
+    "pageCount": 191,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dxdByJyQ5zfIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dxdByJyQ5zfIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxdByJyQ5zfIC&printsec\u003dfrontcover&dq\u003dTeen&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxdByJyQ5zfIC&dq\u003dTeen&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5fPYBpBbiMUC",
+   "etag": "Vdo4NytSGNM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5fPYBpBbiMUC",
+   "volumeInfo": {
+    "title": "The Grieving Teen",
+    "subtitle": "A Guide for Teenagers and Their Friends",
+    "authors": [
+     "Helen Fitzgerald"
+    ],
+    "publisher": "Fireside",
+    "publishedDate": "2000-09",
+    "description": "Helen Fitzgerald, a renowned expert in grief counseling, looks at the many different circumstances that make grief a part of a teenager&#39;s life -- from the death ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0743212363"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780743212366"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "0.3.2.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d5fPYBpBbiMUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d5fPYBpBbiMUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5fPYBpBbiMUC&printsec\u003dfrontcover&dq\u003dTeen&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5fPYBpBbiMUC&dq\u003dTeen&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d5fPYBpBbiMUC&dq\u003dTeen&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Grieving_Teen-sample-epub.acsm?id\u003d5fPYBpBbiMUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dVBcOhrp0qYC",
+   "etag": "42Ml9i1frN8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dVBcOhrp0qYC",
+   "volumeInfo": {
+    "title": "The Teen Quiz Book",
+    "authors": [
+     "Annalee Levine",
+     "Jana Johnson",
+     "Arlene Hamilton Stewart"
+    ],
+    "publisher": "Andrews McMeel Pub",
+    "publishedDate": "1998-05-01",
+    "description": "Written in a down-to-earth, knowing tone designed to appeal to its audience, a collection of quizzes for teenage girls ranges from serious to light topics, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0836254155"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780836254150"
+     }
+    ],
+    "pageCount": 264,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003ddVBcOhrp0qYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003ddVBcOhrp0qYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddVBcOhrp0qYC&printsec\u003dfrontcover&dq\u003dTeen&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddVBcOhrp0qYC&dq\u003dTeen&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 596
+}

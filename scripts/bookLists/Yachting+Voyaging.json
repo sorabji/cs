@@ -1,0 +1,504 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "tEk9AAAAYAAJ",
+   "etag": "ricaA/FxFvQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tEk9AAAAYAAJ",
+   "volumeInfo": {
+    "title": "The romance of yachting: voyage the first",
+    "authors": [
+     "Joseph C. Hart"
+    ],
+    "publishedDate": "1848",
+    "description": "PREFACE TO &quot;\u003cb\u003eVOYAGE\u003c/b\u003e THE FIRSTS This Volume of the Romance of \u003cb\u003eYachting\u003c/b\u003e will \u003cbr\u003e\r\nprobably fall into the hands of most persons of intelligence going to sea, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PRNC:32101033276567"
+     }
+    ],
+    "pageCount": 332,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dtEk9AAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dtEk9AAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtEk9AAAAYAAJ&printsec\u003dfrontcover&dq\u003dYachting+Voyaging&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtEk9AAAAYAAJ&dq\u003dYachting+Voyaging&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/The_romance_of_yachting_voyage_the_first.epub?id\u003dtEk9AAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_romance_of_yachting_voyage_the_first.pdf?id\u003dtEk9AAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2uyL4Ks6K-chImz-u9JuEqxpLDOw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ANsXAQAAIAAJ",
+   "etag": "3A4sWD+ROGY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ANsXAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Chambers's journal",
+    "authors": [
+     "William Chambers",
+     "Robert Chambers"
+    ],
+    "publishedDate": "1877",
+    "description": "One is simply and purely a pleasure excursion of a somewhat luxurious nature, \u003cbr\u003e\r\nannounced as a &#39; \u003cb\u003eYachting Voyage\u003c/b\u003e Round the World. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B3057821"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dANsXAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dANsXAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dANsXAQAAIAAJ&pg\u003dPA304&dq\u003dYachting+Voyaging&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dANsXAQAAIAAJ&dq\u003dYachting+Voyaging&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Chambers_s_journal.pdf?id\u003dANsXAQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3d-JAHQjjqY9_GFJvknLqLNPzbIQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pLM7AAAAMAAJ",
+   "etag": "LNb5qFUqK8o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pLM7AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Yachting",
+    "publishedDate": "1971",
+    "description": "In one chapter, Mr. Hiscock analyzes the characteristics of ten outstanding \u003cbr\u003e\r\n\u003cb\u003eyachts\u003c/b\u003e, which makes fascinating reading. Part II, &quot;\u003cb\u003eVoyaging\u003c/b\u003e,&quot; covers the \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015024306816"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dpLM7AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dpLM7AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpLM7AAAAMAAJ&q\u003dYachting+Voyaging&dq\u003dYachting+Voyaging&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpLM7AAAAMAAJ&dq\u003dYachting+Voyaging&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XjYBAAAAQAAJ",
+   "etag": "VQiO7WwYDeE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XjYBAAAAQAAJ",
+   "volumeInfo": {
+    "title": "Notes on a yacht voyage to Hardanger fjord and the adjacent estuaries, by a yachting dabbler [C.W. Rothery].",
+    "authors": [
+     "Charles William Rothery",
+     "Hardanger fjord"
+    ],
+    "publishedDate": "1855",
+    "description": "&lt; со ce UlJ о &gt; •&lt; О &gt;- о Ci- CO ZD CD ce LU CL \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:600025817"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dXjYBAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dXjYBAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXjYBAAAAQAAJ&printsec\u003dfrontcover&dq\u003dYachting+Voyaging&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXjYBAAAAQAAJ&dq\u003dYachting+Voyaging&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Notes_on_a_yacht_voyage_to_Hardanger_fjo.pdf?id\u003dXjYBAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U065qFr3mmW4PdOyifdOG_MzMCGTQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iwoCAAAAYAAJ",
+   "etag": "apsJoJw5zIw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iwoCAAAAYAAJ",
+   "volumeInfo": {
+    "title": "The lancet",
+    "authors": [
+     "UM-MEDSEARCH Gateway"
+    ],
+    "publishedDate": "1886",
+    "description": "Uuder such conditions we do not t that he would equally gain in pleasure and in \u003cbr\u003e\r\nprofit le refreshing leisure of a \u003cb\u003eyachting voyage\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044103079505"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003diwoCAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003diwoCAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003diwoCAAAAYAAJ&pg\u003dPA1081&dq\u003dYachting+Voyaging&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003diwoCAAAAYAAJ&dq\u003dYachting+Voyaging&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_lancet.pdf?id\u003diwoCAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U31NoD_eXMTkpYEDrDDg0WMTPqr_w&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oisRAQAAIAAJ",
+   "etag": "95vaprg/3d0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oisRAQAAIAAJ",
+   "volumeInfo": {
+    "title": "A yacht voyage",
+    "subtitle": "Letters from high latitudes; being some account of a voyage in the schooner yacht \"Foam\", 85 O.M., to Iceland, Jan Mayen, and Spitzbergen, in 1856",
+    "authors": [
+     "Frederick Temple Blackwood Dufferin and Ava (Marquis of)"
+    ],
+    "publishedDate": "1872",
+    "description": "LETTERS FROM HIGH LATITUDES. LETTER I. PROTESILAUS STUMBLES ON THE THRESHOLD. \u003cbr\u003e\r\nGlasgow, Monday, June 2, 1856. OUR start has not been \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B2798482"
+     }
+    ],
+    "pageCount": 359,
+    "printType": "BOOK",
+    "categories": [
+     "Arctic regions"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003doisRAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003doisRAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doisRAQAAIAAJ&printsec\u003dfrontcover&dq\u003dYachting+Voyaging&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doisRAQAAIAAJ&dq\u003dYachting+Voyaging&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/A_yacht_voyage.epub?id\u003doisRAQAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/A_yacht_voyage.pdf?id\u003doisRAQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0YiqsFQhlWDQ1QxW_dQxvMZkkQRg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xlB14wMPlx8C",
+   "etag": "XAsJO6HRLDU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xlB14wMPlx8C",
+   "volumeInfo": {
+    "title": "A Yacht Voyage",
+    "subtitle": "Letters from High Latitudes, Being Some Account of a Voyage in 1856 in the Schooner Yacht Foam to Iceland, Jan Mayen and Spitzbergen",
+    "authors": [
+     "Lord Dufferin"
+    ],
+    "publisher": "Kessinger Pub Co",
+    "publishedDate": "2006-07-31",
+    "description": "LETTERS FROM HIGH LATITUDES. LETTER I. PROTESILAUS STUMBLES ON THE THRESHOLD. \u003cbr\u003e\r\nGlasgow, Monday, June 2, 1856. Our start has not been prosperous. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1428644288"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781428644281"
+     }
+    ],
+    "pageCount": 292,
+    "printType": "BOOK",
+    "categories": [
+     "Non-Classifiable"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dxlB14wMPlx8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dxlB14wMPlx8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxlB14wMPlx8C&printsec\u003dfrontcover&dq\u003dYachting+Voyaging&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxlB14wMPlx8C&dq\u003dYachting+Voyaging&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nSojAQAAMAAJ",
+   "etag": "MNdEhfmd09U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nSojAQAAMAAJ",
+   "volumeInfo": {
+    "title": "The Rudder",
+    "authors": [
+     "Thomas Fleming Day"
+    ],
+    "publishedDate": "1904",
+    "description": "The craft that have changed the course of American \u003cb\u003eyachting\u003c/b\u003e can be counted \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e\r\nand when death took away his need of \u003cb\u003evoyaging\u003c/b\u003e by sea or moneys in the bank, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015022693421"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "contentVersion": "0.1.0.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dnSojAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dnSojAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnSojAQAAMAAJ&pg\u003dPA345&dq\u003dYachting+Voyaging&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnSojAQAAMAAJ&dq\u003dYachting+Voyaging&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Rudder.pdf?id\u003dnSojAQAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0CyRCuSIZcjeY3hUCIQGIwSb2jvw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "884t7EN0oAkC",
+   "etag": "Fk1uCZNCGPI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/884t7EN0oAkC",
+   "volumeInfo": {
+    "title": "Yacht Voyage Around England",
+    "authors": [
+     "W. H. G. Kingston"
+    ],
+    "publisher": "BoD – Books on Demand",
+    "publishedDate": "2009-09",
+    "description": "CHAPTER ONE: THE START We had come home from school much earlier than usual, on \u003cbr\u003e\r\naccount of illness having broken out there; but as none of the boys were \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "394184296X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783941842960"
+     }
+    ],
+    "pageCount": 250,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d884t7EN0oAkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d884t7EN0oAkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d884t7EN0oAkC&printsec\u003dfrontcover&dq\u003dYachting+Voyaging&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d884t7EN0oAkC&dq\u003dYachting+Voyaging&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Yacht_Voyage_Around_England-sample-epub.acsm?id\u003d884t7EN0oAkC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "P9-DG11ncGkC",
+   "etag": "xJ0pGDac5Mk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/P9-DG11ncGkC",
+   "volumeInfo": {
+    "title": "Antarctica",
+    "authors": [
+     "Jeff Rubin"
+    ],
+    "publishedDate": "2008-11-01",
+    "description": "In three decades of Antarctic cruising, there have been about 200 \u003cb\u003eyacht voyages\u003c/b\u003e \u003cbr\u003e\r\nto The Ice. For some reason, this type of travel particularly seems to \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1741045495"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781741045499"
+     }
+    ],
+    "pageCount": 380,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dP9-DG11ncGkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dP9-DG11ncGkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dP9-DG11ncGkC&pg\u003dPA348&dq\u003dYachting+Voyaging&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dP9-DG11ncGkC&dq\u003dYachting+Voyaging&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 559
+}

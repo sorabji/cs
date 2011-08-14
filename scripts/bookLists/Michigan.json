@@ -1,0 +1,576 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "HqGWEAnByeMC",
+   "etag": "hX3H3RC8ePE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HqGWEAnByeMC",
+   "volumeInfo": {
+    "title": "Michigan",
+    "subtitle": "a history of the Wolverine State",
+    "authors": [
+     "Willis Frederick Dunbar",
+     "George S. May"
+    ],
+    "publisher": "Eerdmans Pub Co",
+    "publishedDate": "1995-07",
+    "description": "This book examines Michigan&#39;s colorful history from 1980 to 1994.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0802870554"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780802870551"
+     }
+    ],
+    "pageCount": 769,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 4,
+    "contentVersion": "1.0.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dHqGWEAnByeMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dHqGWEAnByeMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHqGWEAnByeMC&printsec\u003dfrontcover&dq\u003dMichigan&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHqGWEAnByeMC&dq\u003dMichigan&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 30.42,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dHqGWEAnByeMC&dq\u003dMichigan&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Michigan-sample-epub.acsm?id\u003dHqGWEAnByeMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Michigan-sample-pdf.acsm?id\u003dHqGWEAnByeMC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3U08A2kH98gC",
+   "etag": "Oe1Hl/UNLDY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3U08A2kH98gC",
+   "volumeInfo": {
+    "title": "Michigan",
+    "authors": [
+     "Karen Sirvaitis"
+    ],
+    "publisher": "Lerner Pub Group",
+    "publishedDate": "2002-04",
+    "description": "An introduction to the land, history, people, economy, and environment of Michigan.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0822540851"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780822540854"
+     }
+    ],
+    "pageCount": 84,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d3U08A2kH98gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d3U08A2kH98gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3U08A2kH98gC&printsec\u003dfrontcover&dq\u003dMichigan&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3U08A2kH98gC&dq\u003dMichigan&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZxfyIJgw2eMC",
+   "etag": "VUC7WfAINmY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZxfyIJgw2eMC",
+   "volumeInfo": {
+    "title": "Michigan",
+    "subtitle": "a history",
+    "authors": [
+     "Bruce Catton",
+     "American Association for State and Local History"
+    ],
+    "publisher": "W. W. Norton & Company",
+    "publishedDate": "1984-10-01",
+    "description": "Highlights important events and personalities in and enquiry into the almost legendary promise Michigan has offered explorers, settlers, and developers ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0393301753"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780393301755"
+     }
+    ],
+    "pageCount": 204,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dZxfyIJgw2eMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dZxfyIJgw2eMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZxfyIJgw2eMC&printsec\u003dfrontcover&dq\u003dMichigan&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZxfyIJgw2eMC&dq\u003dMichigan&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7zqYaMdoLFUC",
+   "etag": "KJnBBPBDDyY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7zqYaMdoLFUC",
+   "volumeInfo": {
+    "title": "Michigan",
+    "authors": [
+     "Marlene Targ Brill"
+    ],
+    "publisher": "Benchmark Books",
+    "publishedDate": "2006-12-15",
+    "description": "&quot;Provides comprehensive information on the geography, history, wildlife, governmental structure, economy, cultural diversity, peoples, religion, and landmarks ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0761423516"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761423515"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d7zqYaMdoLFUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d7zqYaMdoLFUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7zqYaMdoLFUC&printsec\u003dfrontcover&dq\u003dMichigan&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7zqYaMdoLFUC&dq\u003dMichigan&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DS8dAAAAMAAJ",
+   "etag": "QkwhX2dNjM4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DS8dAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Michigan",
+    "subtitle": "a history of governments",
+    "authors": [
+     "Thomas McIntyre Cooley"
+    ],
+    "publishedDate": "1890",
+    "description": "CHAPTER I. \u003cb\u003eMICHIGAN\u003c/b\u003e IS EXPLORED, AND MISSIONS AND TRADING POSTS ESTABLISHED. IT \u003cbr\u003e\r\nwas between the great lakes that the western currents of French and English \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015027783870"
+     }
+    ],
+    "pageCount": 376,
+    "printType": "BOOK",
+    "categories": [
+     "Michigan"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dDS8dAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dDS8dAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDS8dAAAAMAAJ&printsec\u003dfrontcover&dq\u003dMichigan&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDS8dAAAAMAAJ&dq\u003dMichigan&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Michigan.epub?id\u003dDS8dAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Michigan.pdf?id\u003dDS8dAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U35QRG84lxAE9wuFi4Snn1cBCuSGA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BSx0PMzVyoUC",
+   "etag": "zNEjYW1cFiw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BSx0PMzVyoUC",
+   "volumeInfo": {
+    "title": "Michigan",
+    "subtitle": "The Great Lakes State",
+    "authors": [
+     "Tika Downey"
+    ],
+    "publisher": "PowerKids Press",
+    "publishedDate": "2010-01-15",
+    "description": "Describes the history, ecology, geography, economy, and sights of the Great Lakes State, Michigan.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1435893530"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781435893535"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dBSx0PMzVyoUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dBSx0PMzVyoUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBSx0PMzVyoUC&printsec\u003dfrontcover&dq\u003dMichigan&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBSx0PMzVyoUC&dq\u003dMichigan&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dBSx0PMzVyoUC&dq\u003dMichigan&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Michigan-sample-epub.acsm?id\u003dBSx0PMzVyoUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Michigan-sample-pdf.acsm?id\u003dBSx0PMzVyoUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eXxpnPhcjE8C",
+   "etag": "aZpZ7fnYDCQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eXxpnPhcjE8C",
+   "volumeInfo": {
+    "title": "Michigan",
+    "subtitle": "Past and Present",
+    "authors": [
+     "Janey Levy"
+    ],
+    "publisher": "Rosen Central",
+    "publishedDate": "2010-01-15",
+    "description": "Presents the history, geography, government, economy, and people of Michigan, as well as general facts about the state.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1435835239"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781435835238"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003deXxpnPhcjE8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003deXxpnPhcjE8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deXxpnPhcjE8C&printsec\u003dfrontcover&dq\u003dMichigan&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deXxpnPhcjE8C&dq\u003dMichigan&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003deXxpnPhcjE8C&dq\u003dMichigan&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Michigan-sample-epub.acsm?id\u003deXxpnPhcjE8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Michigan-sample-pdf.acsm?id\u003deXxpnPhcjE8C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CQWWHiFhshAC",
+   "etag": "fnDpN6SjIWM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CQWWHiFhshAC",
+   "volumeInfo": {
+    "title": "Michigan",
+    "authors": [
+     "Muriel L. Dubois",
+     "Jonatha A. Brown"
+    ],
+    "publisher": "Gareth Stevens",
+    "publishedDate": "2005-07-01",
+    "description": "Provides an in-depth and comprehensive portrait of the state of Michigan, including its history, people, economy, and government.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0836846273"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780836846270"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dCQWWHiFhshAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dCQWWHiFhshAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCQWWHiFhshAC&printsec\u003dfrontcover&dq\u003dMichigan&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCQWWHiFhshAC&dq\u003dMichigan&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_MgLbUQkz3kC",
+   "etag": "vqNYIOP0Sr0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_MgLbUQkz3kC",
+   "volumeInfo": {
+    "title": "Michigan",
+    "authors": [
+     "Capstone Press Geography Department"
+    ],
+    "publisher": "Bridgestone Books",
+    "publishedDate": "2002-09-01",
+    "description": "Provides an overview of the state of Michigan, covering its history, geography, economy, people, and points of interest.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0736812466"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780736812467"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d_MgLbUQkz3kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d_MgLbUQkz3kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_MgLbUQkz3kC&printsec\u003dfrontcover&dq\u003dMichigan&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_MgLbUQkz3kC&dq\u003dMichigan&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BmnVvN8rLcgC",
+   "etag": "Ttno9fudZWQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BmnVvN8rLcgC",
+   "volumeInfo": {
+    "title": "Michigan",
+    "authors": [
+     "Johannah Haney"
+    ],
+    "publisher": "Marshall Cavendish",
+    "publishedDate": "2005-12",
+    "description": "&quot;Surveys the history, government, and economy of Michigan, as well as the diverse ways of life of its people&quot;--Provided by publisher.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "076141861X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761418610"
+     }
+    ],
+    "pageCount": 79,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dBmnVvN8rLcgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dBmnVvN8rLcgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBmnVvN8rLcgC&printsec\u003dfrontcover&dq\u003dMichigan&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBmnVvN8rLcgC&dq\u003dMichigan&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 596
+}

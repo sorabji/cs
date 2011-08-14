@@ -1,0 +1,528 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "vqoIa_DRyocC",
+   "etag": "eduDhf3Y6+A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vqoIa_DRyocC",
+   "volumeInfo": {
+    "title": "Guide to Trapping",
+    "authors": [
+     "Jim Spencer"
+    ],
+    "publishedDate": "2007-07-10",
+    "description": "Title is now active",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "081173417X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780811734172"
+     }
+    ],
+    "pageCount": 202,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dvqoIa_DRyocC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dvqoIa_DRyocC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvqoIa_DRyocC&printsec\u003dfrontcover&dq\u003dTrapping&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvqoIa_DRyocC&dq\u003dTrapping&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dvqoIa_DRyocC&dq\u003dTrapping&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Guide_to_Trapping-sample-pdf.acsm?id\u003dvqoIa_DRyocC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MxFIAAAAIAAJ",
+   "etag": "4krz8iX+lgY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MxFIAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Camp life in the woods and the tricks of trapping and trap making",
+    "subtitle": "containing comprehensive hints on camp shelter, etc",
+    "authors": [
+     "William Hamilton Gibson"
+    ],
+    "publishedDate": "1881",
+    "description": "PAGE, 6d. Section of Spring Net Trap 82 61. A Simpler Net Trap 83 62. The \u003cbr\u003e\r\nUpright Net Trap SG 63. Second Methoi &quot; 87 64. The Box Owl Trap 89 6;. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B277041"
+     }
+    ],
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "Camping"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dMxFIAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dMxFIAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMxFIAAAAIAAJ&printsec\u003dfrontcover&dq\u003dTrapping&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMxFIAAAAIAAJ&dq\u003dTrapping&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Camp_life_in_the_woods_and_the_tricks_of.pdf?id\u003dMxFIAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0WsDMqbe6Y-xq3iTry74bzCvwV_A&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7w1BAAAAYAAJ",
+   "etag": "GUc8CqtRdpA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7w1BAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Trapping",
+    "subtitle": "the craft and science of catching fur-bearing animals",
+    "authors": [
+     "Harold McCracken",
+     "Harry Van Cleve"
+    ],
+    "publisher": "A S Barnes & Co",
+    "publishedDate": "1947",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "CORNELL:31924003710575"
+     }
+    ],
+    "pageCount": 196,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d7w1BAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d7w1BAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7w1BAAAAYAAJ&q\u003dTrapping&dq\u003dTrapping&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7w1BAAAAYAAJ&dq\u003dTrapping&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wzAJWYyMCTsC",
+   "etag": "EkC2Hg4X9uk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wzAJWYyMCTsC",
+   "volumeInfo": {
+    "title": "Trapping",
+    "subtitle": "A Practical Guide",
+    "authors": [
+     "James A. Bateman"
+    ],
+    "publisher": "Coch Y Bonddu Books",
+    "publishedDate": "2003-10-06",
+    "description": "I am grateful for information supplied by the Division of Wildlife Services, US \u003cbr\u003e\r\nDepartment of the Interior, concerning legislation for \u003cb\u003etrapping\u003c/b\u003e in the \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0954211782"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780954211783"
+     }
+    ],
+    "pageCount": 168,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dwzAJWYyMCTsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dwzAJWYyMCTsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwzAJWYyMCTsC&printsec\u003dfrontcover&dq\u003dTrapping&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwzAJWYyMCTsC&dq\u003dTrapping&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NBFIAAAAIAAJ",
+   "etag": "1lkRk11GJRY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NBFIAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Mink trapping",
+    "subtitle": "a book of instruction giving many methods of trapping",
+    "authors": [
+     "Arthur Robert Harding"
+    ],
+    "publishedDate": "1905",
+    "description": "76 Caught in Minnesota 82 A Few Good Ones 89 Broke the Fastening 92 \u003cb\u003eTrapping\u003c/b\u003e \u003cbr\u003e\r\nDown Stream 98 Eastern Trapper and Traps 102 Barricade Set 107 Northwest \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B277043"
+     }
+    ],
+    "pageCount": 183,
+    "printType": "BOOK",
+    "categories": [
+     "Mink trapping"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dNBFIAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dNBFIAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNBFIAAAAIAAJ&printsec\u003dfrontcover&dq\u003dTrapping&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNBFIAAAAIAAJ&dq\u003dTrapping&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Mink_trapping.epub?id\u003dNBFIAAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Mink_trapping.pdf?id\u003dNBFIAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3C7duFpiTna6JnEnUJRhjyo3F8CA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "o3USAAAAMAAJ",
+   "etag": "DEBeScDoo9s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o3USAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Trapping",
+    "authors": [
+     "Eva Williams"
+    ],
+    "publishedDate": "1976",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015030042454"
+     }
+    ],
+    "pageCount": 69,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003do3USAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003do3USAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003do3USAAAAMAAJ&q\u003dTrapping&dq\u003dTrapping&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003do3USAAAAMAAJ&dq\u003dTrapping&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "W3BNAAAAYAAJ",
+   "etag": "GBm+pKqOxw8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/W3BNAAAAYAAJ",
+   "volumeInfo": {
+    "title": "My sixty years on the plains, trapping, trading, and Indian fighting",
+    "authors": [
+     "William Thomas Hamilton"
+    ],
+    "publishedDate": "1905",
+    "description": "ILLUSTRATIONS FACING PAGE Portrait op Author . . . Frontispiece &quot;I Broke the \u003cbr\u003e\r\nCow&#39;s Back&quot; .... 30 &quot;His Arrow Lodged in the Fleshy Part of my Horse&#39;s \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PRNC:32101079825780"
+     }
+    ],
+    "pageCount": 244,
+    "printType": "BOOK",
+    "categories": [
+     "Frontier and pioneer life"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dW3BNAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dW3BNAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dW3BNAAAAYAAJ&printsec\u003dfrontcover&dq\u003dTrapping&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dW3BNAAAAYAAJ&dq\u003dTrapping&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/My_sixty_years_on_the_plains_trapping_tr.epub?id\u003dW3BNAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/My_sixty_years_on_the_plains_trapping_tr.pdf?id\u003dW3BNAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1yUw1ORq_6s-QLuCt5HzmVZhFL8A&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gxJIAAAAIAAJ",
+   "etag": "rcPJ8xRgaxw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gxJIAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Science of trapping",
+    "subtitle": "describes the fur bearing animals, their nature, habits and distribution, with practical methods for their capture",
+    "authors": [
+     "Elmer Harry Kreps"
+    ],
+    "publishedDate": "1909",
+    "description": "PAGE Scent Set for Wolf 132 Bank Set for Wolf and Coyote 136 The Grizzly Bear \u003cbr\u003e\r\n140 The Raccoon 147 The Badger 153 The Opossum 159 The Lynx 165 The Wild Cat \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B277046"
+     }
+    ],
+    "pageCount": 245,
+    "printType": "BOOK",
+    "categories": [
+     "Trapping"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dgxJIAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dgxJIAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgxJIAAAAIAAJ&printsec\u003dfrontcover&dq\u003dTrapping&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgxJIAAAAIAAJ&dq\u003dTrapping&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Science_of_trapping.epub?id\u003dgxJIAAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Science_of_trapping.pdf?id\u003dgxJIAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1j5fQ2NsJBeIQX_vM4rPFATleVfg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "d2QAGQAACAAJ",
+   "etag": "fvN/nzHUCA0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/d2QAGQAACAAJ",
+   "volumeInfo": {
+    "title": "Trapping",
+    "subtitle": "for preparers of desktop published documents for printing",
+    "authors": [
+     "Robin McAllister"
+    ],
+    "publisher": "Delmar Pub",
+    "publishedDate": "1997-07",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0827379153"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780827379152"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dd2QAGQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dd2QAGQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dd2QAGQAACAAJ&dq\u003dTrapping&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dd2QAGQAACAAJ&dq\u003dTrapping&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "l3jVPQAACAAJ",
+   "etag": "JJfTEy9q6sU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/l3jVPQAACAAJ",
+   "volumeInfo": {
+    "title": "The Trapping",
+    "authors": [
+     "Anthony Vela"
+    ],
+    "publisher": "Xlibris Corporation",
+    "publishedDate": "2004-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1413423507"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781413423501"
+     }
+    ],
+    "pageCount": 178,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dl3jVPQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dl3jVPQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dl3jVPQAACAAJ&dq\u003dTrapping&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dl3jVPQAACAAJ&dq\u003dTrapping&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 587
+}

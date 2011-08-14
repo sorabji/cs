@@ -1,0 +1,491 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Aq5JAQAAIAAJ",
+   "etag": "NqdDaqRyI0E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Aq5JAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Posters",
+    "subtitle": "a critical study of the development of poster design in continental Europe, England and America",
+    "authors": [
+     "Charles Matlack Price"
+    ],
+    "publishedDate": "1913",
+    "description": "I \u003cb\u003ePOSTERS\u003c/b\u003e 3 CHAPTER I. The Subject in General Although the \u003cb\u003eposter\u003c/b\u003e stands where \u003cbr\u003e\r\nall who run may read, and although we spontaneously admire, or thoughtlessly \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105030828219"
+     }
+    ],
+    "pageCount": 380,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "0.1.0.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dAq5JAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dAq5JAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAq5JAQAAIAAJ&printsec\u003dfrontcover&dq\u003dPosters&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAq5JAQAAIAAJ&dq\u003dPosters&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Posters.pdf?id\u003dAq5JAQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0ExYl9HgPDIwRFDiIhmjv7ArN32g&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5oFQAAAAMAAJ",
+   "etag": "qh6mIaeN3rw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5oFQAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Posters",
+    "authors": [
+     "A. M. Cassandre"
+    ],
+    "publishedDate": "1948",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015006778446"
+     }
+    ],
+    "pageCount": 118,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d5oFQAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d5oFQAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5oFQAAAAMAAJ&q\u003dPosters&dq\u003dPosters&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5oFQAAAAMAAJ&dq\u003dPosters&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qztQAAAAMAAJ",
+   "etag": "+RoLeJV+jQc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qztQAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Posters",
+    "subtitle": "the 20th-century poster : design of the avant-garde",
+    "authors": [
+     "Dawn Ades",
+     "Robert K. Brown",
+     "Mildred S. Friedman",
+     "Walker Art Center"
+    ],
+    "publisher": "Abbeville Pr",
+    "publishedDate": "1990",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015026817794"
+     }
+    ],
+    "pageCount": 227,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dqztQAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dqztQAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dqztQAAAAMAAJ&q\u003dPosters&dq\u003dPosters&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dqztQAAAAMAAJ&dq\u003dPosters&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "h6FJAQAAIAAJ",
+   "etag": "lu/+knTNnpA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/h6FJAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Posters",
+    "authors": [
+     "David Lance Goines"
+    ],
+    "publisher": "Picture Book Studio",
+    "publishedDate": "1985-11",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105012417783"
+     }
+    ],
+    "pageCount": 126,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dh6FJAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dh6FJAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dh6FJAQAAIAAJ&q\u003dPosters&dq\u003dPosters&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dh6FJAQAAIAAJ&dq\u003dPosters&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hormPgAACAAJ",
+   "etag": "zFAieZzY0tk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hormPgAACAAJ",
+   "volumeInfo": {
+    "title": "Posters a Concise History",
+    "authors": [
+     "John Barnicoat"
+    ],
+    "publishedDate": "2008-07-10",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1439514364"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781439514368"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dhormPgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dhormPgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhormPgAACAAJ&dq\u003dPosters&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhormPgAACAAJ&dq\u003dPosters&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MskYAAAAYAAJ",
+   "etag": "zozdZIXXTlg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MskYAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Posters",
+    "authors": [
+     "Bevis Hillier"
+    ],
+    "publishedDate": "1969",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X000376368"
+     }
+    ],
+    "pageCount": 296,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dMskYAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dMskYAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMskYAAAAYAAJ&q\u003dPosters&dq\u003dPosters&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMskYAAAAYAAJ&dq\u003dPosters&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vxc3AQAAIAAJ",
+   "etag": "OzDNm4vZzE8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vxc3AQAAIAAJ",
+   "volumeInfo": {
+    "title": "Posters",
+    "authors": [
+     "Pablo Picasso"
+    ],
+    "publishedDate": "1964",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSD:31822017121948"
+     }
+    ],
+    "pageCount": 35,
+    "printType": "BOOK",
+    "categories": [
+     "Posters, French"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dvxc3AQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dvxc3AQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvxc3AQAAIAAJ&q\u003dPosters&dq\u003dPosters&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvxc3AQAAIAAJ&dq\u003dPosters&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HkM6rOU7ETAC",
+   "etag": "UszpiSAlYc8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HkM6rOU7ETAC",
+   "volumeInfo": {
+    "title": "Railway posters, 1923-1947",
+    "subtitle": "from the collection of the National Railway Museum, York",
+    "authors": [
+     "Beverley Cole",
+     "Richard Durack"
+    ],
+    "publisher": "Laurence King Publishing",
+    "publishedDate": "1992-05-11",
+    "description": "This book contains over 200 of the most striking and innovative designs of the period.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1856690148"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781856690140"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dHkM6rOU7ETAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dHkM6rOU7ETAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHkM6rOU7ETAC&printsec\u003dfrontcover&dq\u003dPosters&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHkM6rOU7ETAC&dq\u003dPosters&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LZ1JAQAAIAAJ",
+   "etag": "ogibjf1pJao",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LZ1JAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Posters",
+    "subtitle": "November 1965-April 1986",
+    "authors": [
+     "Lawrence Weiner",
+     "Nova Scotia College of Art and Design",
+     "Art Metropole"
+    ],
+    "publishedDate": "1986-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105020471566"
+     }
+    ],
+    "pageCount": 177,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dLZ1JAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dLZ1JAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLZ1JAQAAIAAJ&q\u003dPosters&dq\u003dPosters&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLZ1JAQAAIAAJ&dq\u003dPosters&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IgD27IPTgRYC",
+   "etag": "sHFf6nHP/Gs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IgD27IPTgRYC",
+   "volumeInfo": {
+    "title": "Posters",
+    "subtitle": "Identification and Price Guide",
+    "authors": [
+     "Tony Fusco"
+    ],
+    "publishedDate": "1994-05",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0380770105"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780380770106"
+     }
+    ],
+    "pageCount": 548,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dIgD27IPTgRYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dIgD27IPTgRYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIgD27IPTgRYC&q\u003dPosters&dq\u003dPosters&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIgD27IPTgRYC&dq\u003dPosters&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 535
+}

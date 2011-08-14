@@ -1,0 +1,586 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "yIstQNdDbKYC",
+   "etag": "scik3XGVDv4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yIstQNdDbKYC",
+   "volumeInfo": {
+    "title": "Role playing",
+    "authors": [
+     "Wallace Wohlking",
+     "Patricia J. Gill"
+    ],
+    "publisher": "Educational Technology Pubns",
+    "publishedDate": "1980-06",
+    "description": "I. USE &quot;Suit the action to the word, the word to the action. &quot;—Hamlet \u003cbr\u003e\r\nIntroduction We live in a world that has seen an increasing use of education to \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0877781524"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780877781523"
+     }
+    ],
+    "pageCount": 119,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dyIstQNdDbKYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dyIstQNdDbKYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyIstQNdDbKYC&printsec\u003dfrontcover&dq\u003dRole+Playing&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyIstQNdDbKYC&dq\u003dRole+Playing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 15.37,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dyIstQNdDbKYC&dq\u003dRole+Playing&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Role_playing-sample-epub.acsm?id\u003dyIstQNdDbKYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Role_playing-sample-pdf.acsm?id\u003dyIstQNdDbKYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s8YRVbDknyUC",
+   "etag": "czoXGsj65YQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s8YRVbDknyUC",
+   "volumeInfo": {
+    "title": "The fantasy role-playing game",
+    "subtitle": "a new performing art",
+    "authors": [
+     "Daniel Mackay"
+    ],
+    "publisher": "McFarland & Company",
+    "publishedDate": "2001-02",
+    "description": "The game is played orally with no game board, and although the referee usually has a storyline planned for a game, much of the action is impromptu.Performance ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0786408154"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786408153"
+     }
+    ],
+    "pageCount": 201,
+    "printType": "BOOK",
+    "categories": [
+     "Games"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003ds8YRVbDknyUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003ds8YRVbDknyUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ds8YRVbDknyUC&printsec\u003dfrontcover&dq\u003dRole+Playing&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ds8YRVbDknyUC&dq\u003dRole+Playing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.74,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003ds8YRVbDknyUC&dq\u003dRole+Playing&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_fantasy_role_playing_game-sample-epub.acsm?id\u003ds8YRVbDknyUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_fantasy_role_playing_game-sample-pdf.acsm?id\u003ds8YRVbDknyUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yDLCZ4J50OUC",
+   "etag": "K4wk3w91494",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yDLCZ4J50OUC",
+   "volumeInfo": {
+    "title": "Role Playing in Psychotherapy",
+    "authors": [
+     "Raymond J. Corsini"
+    ],
+    "publisher": "Transaction Pub",
+    "publishedDate": "2010-12-31",
+    "description": "This book gives a clear picture of therapeutic role playing, and explains how it is used and for what purposes.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0202363937"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780202363936"
+     }
+    ],
+    "pageCount": 219,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dyDLCZ4J50OUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dyDLCZ4J50OUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyDLCZ4J50OUC&printsec\u003dfrontcover&dq\u003dRole+Playing&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyDLCZ4J50OUC&dq\u003dRole+Playing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 23.16,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.9,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dyDLCZ4J50OUC&dq\u003dRole+Playing&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Role_Playing_in_Psychotherapy-sample-epub.acsm?id\u003dyDLCZ4J50OUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Role_Playing_in_Psychotherapy-sample-pdf.acsm?id\u003dyDLCZ4J50OUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Pn3wR74wDCgC",
+   "etag": "BuoTOS5JUKk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Pn3wR74wDCgC",
+   "volumeInfo": {
+    "title": "The functions of role-playing games",
+    "subtitle": "how participants create community, solve problems and explore identity",
+    "authors": [
+     "Sarah Lynne Bowman"
+    ],
+    "publisher": "McFarland & Company",
+    "publishedDate": "2010-05-30",
+    "description": "This analytical study takes a deeper look at the world of role-playing games, providing a theoretical framework for understanding their more acute psychological ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0786447109"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786447107"
+     }
+    ],
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Games"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dPn3wR74wDCgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dPn3wR74wDCgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPn3wR74wDCgC&printsec\u003dfrontcover&dq\u003dRole+Playing&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPn3wR74wDCgC&dq\u003dRole+Playing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.74,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dPn3wR74wDCgC&dq\u003dRole+Playing&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_functions_of_role_playing_games-sample-epub.acsm?id\u003dPn3wR74wDCgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_functions_of_role_playing_games-sample-pdf.acsm?id\u003dPn3wR74wDCgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oLKSSQAACAAJ",
+   "etag": "QH5XPSf7shU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oLKSSQAACAAJ",
+   "volumeInfo": {
+    "title": "Role-Playing",
+    "subtitle": "Role-Playing Game, Roleplaying, Sexual Roleplay, Acting, Role-Playing Game, Psychodrama, Free Rpg Day, Roleplay Simulation",
+    "authors": [
+     "Books, LLC",
+     "General Books LLC"
+    ],
+    "publisher": "Books LLC",
+    "publishedDate": "2010-05",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1156589460"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781156589465"
+     }
+    ],
+    "pageCount": 60,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003doLKSSQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003doLKSSQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doLKSSQAACAAJ&dq\u003dRole+Playing&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doLKSSQAACAAJ&dq\u003dRole+Playing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NgP6PgAACAAJ",
+   "etag": "CQDLR8zwjF0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NgP6PgAACAAJ",
+   "volumeInfo": {
+    "title": "Role-playing",
+    "subtitle": "an ethnographic exploration",
+    "authors": [
+     "Sarah Lynne Bowman",
+     "University of Texas at Dallas. Graduate Program in Humanities"
+    ],
+    "publishedDate": "2008",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:271515833"
+     }
+    ],
+    "pageCount": 602,
+    "printType": "BOOK",
+    "categories": [
+     "Role playing"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNgP6PgAACAAJ&dq\u003dRole+Playing&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNgP6PgAACAAJ&dq\u003dRole+Playing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZnU5nsAEldcC",
+   "etag": "85wQgqtIVCw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZnU5nsAEldcC",
+   "volumeInfo": {
+    "title": "Role playing, autocasi ed esercitazioni psicosociali",
+    "subtitle": "come insegnare comportamenti interpersonali",
+    "authors": [
+     "Maurizio Castagna"
+    ],
+    "publishedDate": "2004",
+    "description": "1. La formazione sui comportamenti 1. Gli obiettivi didattici Gli obiettivi \u003cbr\u003e\r\ndidattici degli interventi di formazione sono spesso considerati un argomento \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "884642753X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788846427533"
+     }
+    ],
+    "pageCount": 90,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dZnU5nsAEldcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dZnU5nsAEldcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "it",
+    "previewLink": "http://books.google.com/books?id\u003dZnU5nsAEldcC&printsec\u003dfrontcover&dq\u003dRole+Playing&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZnU5nsAEldcC&dq\u003dRole+Playing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mkD1tgAACAAJ",
+   "etag": "06wacACAsEQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mkD1tgAACAAJ",
+   "volumeInfo": {
+    "title": "Role-Playing",
+    "authors": [
+     "Frederic P Miller",
+     "Agnes F Vandome",
+     "John McBrewster"
+    ],
+    "publisher": "Alphascript Publishing",
+    "publishedDate": "2011-02-20",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "6134301485"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9786134301480"
+     }
+    ],
+    "pageCount": 104,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmkD1tgAACAAJ&dq\u003dRole+Playing&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmkD1tgAACAAJ&dq\u003dRole+Playing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SL4REEYHjbMC",
+   "etag": "uWBv+jPV7Lk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SL4REEYHjbMC",
+   "volumeInfo": {
+    "title": "d10 Core Roleplaying System",
+    "authors": [
+     "Brian Kittrell"
+    ],
+    "publisher": "Late Nite Books",
+    "publishedDate": "2010-07-16",
+    "description": "This book is the 150-page core rulebook: it contains all of the core rules, charts and tables, gameplay and character examples, and gameplay examples that you ...",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:NN5CT86WRDD"
+     }
+    ],
+    "pageCount": 150,
+    "printType": "BOOK",
+    "categories": [
+     "Games"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dSL4REEYHjbMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dSL4REEYHjbMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSL4REEYHjbMC&printsec\u003dfrontcover&dq\u003dRole+Playing&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSL4REEYHjbMC&dq\u003dRole+Playing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/d10_Core_Roleplaying_System-sample-epub.acsm?id\u003dSL4REEYHjbMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "819qfx2AjWsC",
+   "etag": "8nTXo4xu3vU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/819qfx2AjWsC",
+   "volumeInfo": {
+    "title": "Massively multiplayer online role-playing games",
+    "subtitle": "the people, the addiction and the playing experience",
+    "authors": [
+     "R. V. Kelly"
+    ],
+    "publisher": "McFarland & Co Inc Pub",
+    "publishedDate": "2004-08",
+    "description": "This book is about the fastest growing form of electronic game in the world-the Massively Multiplayer Online Role Playing Game (MMORPG).",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0786419156"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786419159"
+     }
+    ],
+    "pageCount": 201,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d819qfx2AjWsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d819qfx2AjWsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d819qfx2AjWsC&printsec\u003dfrontcover&dq\u003dRole+Playing&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d819qfx2AjWsC&dq\u003dRole+Playing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.74,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d819qfx2AjWsC&dq\u003dRole+Playing&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Massively_multiplayer_online_role_playin-sample-epub.acsm?id\u003d819qfx2AjWsC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Massively_multiplayer_online_role_playin-sample-pdf.acsm?id\u003d819qfx2AjWsC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 597
+}

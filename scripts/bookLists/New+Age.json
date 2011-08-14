@@ -1,0 +1,545 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "lBC5UHkEFXkC",
+   "etag": "BhpgbMsSR4A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lBC5UHkEFXkC",
+   "volumeInfo": {
+    "title": "The New Age movement",
+    "subtitle": "the celebration of the self and the sacralization of modernity",
+    "authors": [
+     "Paul Heelas"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "1996",
+    "description": "This is the first wide-ranging and accessible introduction to the fascinating subject of the New Age movement.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0631193324"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780631193326"
+     }
+    ],
+    "pageCount": 266,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dlBC5UHkEFXkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dlBC5UHkEFXkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlBC5UHkEFXkC&printsec\u003dfrontcover&dq\u003dNew+Age&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlBC5UHkEFXkC&dq\u003dNew+Age&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xz4EWg1WWmMC",
+   "etag": "cpgcnsBWr4Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xz4EWg1WWmMC",
+   "volumeInfo": {
+    "title": "New age",
+    "subtitle": "a guide : alternative spiritualities from Aquarian conspiracy to Next Age",
+    "authors": [
+     "Daren Kemp"
+    ],
+    "publisher": "Edinburgh Univ Pr",
+    "publishedDate": "2004",
+    "description": "Daren Kemp surveys the whole range of descriptions of New Age, from a wide variety of angles.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0748615326"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780748615322"
+     }
+    ],
+    "pageCount": 211,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dxz4EWg1WWmMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dxz4EWg1WWmMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxz4EWg1WWmMC&printsec\u003dfrontcover&dq\u003dNew+Age&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxz4EWg1WWmMC&dq\u003dNew+Age&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xnrT97nXzgQC",
+   "etag": "PxRzsic0GTQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xnrT97nXzgQC",
+   "volumeInfo": {
+    "title": "New Age religion and Western culture",
+    "subtitle": "esotericism in the mirror of secular thought",
+    "authors": [
+     "Wouter J. Hanegraaff"
+    ],
+    "publisher": "State Univ of New York Pr",
+    "publishedDate": "1998-02",
+    "description": "Sales restricted to North America paperback only due to co-publication agreement with Koninklijke Brill NV. Brill retains the cloth rights in all remaining ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0791438546"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780791438541"
+     }
+    ],
+    "pageCount": 580,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dxnrT97nXzgQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dxnrT97nXzgQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxnrT97nXzgQC&printsec\u003dfrontcover&dq\u003dNew+Age&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxnrT97nXzgQC&dq\u003dNew+Age&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 31.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 17.25,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dxnrT97nXzgQC&dq\u003dNew+Age&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/New_Age_religion_and_Western_culture-sample-epub.acsm?id\u003dxnrT97nXzgQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/New_Age_religion_and_Western_culture-sample-pdf.acsm?id\u003dxnrT97nXzgQC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cYg6H2aa3-4C",
+   "etag": "Rcweb/H7jf4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cYg6H2aa3-4C",
+   "volumeInfo": {
+    "title": "Unmasking the new age",
+    "authors": [
+     "Douglas R. Groothuis"
+    ],
+    "publisher": "Intervarsity Pr",
+    "publishedDate": "1986-06-01",
+    "description": "Douglas Groothuis explains what the New Age movement is, analyzes its major doctrines, and shows how it is influencing politics, science, health care, and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0877845689"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780877845683"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dcYg6H2aa3-4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dcYg6H2aa3-4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcYg6H2aa3-4C&printsec\u003dfrontcover&dq\u003dNew+Age&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcYg6H2aa3-4C&dq\u003dNew+Age&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Bm-7DH2bZ8QC",
+   "etag": "klBrnB5/U48",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Bm-7DH2bZ8QC",
+   "volumeInfo": {
+    "title": "Handbook of New Age",
+    "authors": [
+     "Daren Kemp",
+     "James R. Lewis"
+    ],
+    "publisher": "Brill Academic Pub",
+    "publishedDate": "2007",
+    "description": "The &quot;Handbook of New Age&quot; is a comprehensive survey of alternative spiritualities: their history, their global impact, their cultural influence and how they are ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9004153551"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789004153554"
+     }
+    ],
+    "pageCount": 484,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dBm-7DH2bZ8QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dBm-7DH2bZ8QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBm-7DH2bZ8QC&printsec\u003dfrontcover&dq\u003dNew+Age&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBm-7DH2bZ8QC&dq\u003dNew+Age&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Handbook_of_New_Age-sample-epub.acsm?id\u003dBm-7DH2bZ8QC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5Ds7AQAAIAAJ",
+   "etag": "Nlz9RhRQTUk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5Ds7AQAAIAAJ",
+   "volumeInfo": {
+    "title": "New age",
+    "publishedDate": "1974",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105008454956"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d5Ds7AQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d5Ds7AQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5Ds7AQAAIAAJ&q\u003dNew+Age&dq\u003dNew+Age&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5Ds7AQAAIAAJ&dq\u003dNew+Age&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pNplynCPH94C",
+   "etag": "ISb7CIy7Wys",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pNplynCPH94C",
+   "volumeInfo": {
+    "title": "Children of the New Age",
+    "subtitle": "a history of spiritual practices",
+    "authors": [
+     "Steven Sutcliffe"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2003-02-28",
+    "description": "But this is also a distinctly critical history.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415242991"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415242998"
+     }
+    ],
+    "pageCount": 267,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dpNplynCPH94C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dpNplynCPH94C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpNplynCPH94C&printsec\u003dfrontcover&dq\u003dNew+Age&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpNplynCPH94C&dq\u003dNew+Age&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 35.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 19.77,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dpNplynCPH94C&dq\u003dNew+Age&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Children_of_the_New_Age-sample-epub.acsm?id\u003dpNplynCPH94C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Children_of_the_New_Age-sample-pdf.acsm?id\u003dpNplynCPH94C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "n0xiQgAACAAJ",
+   "etag": "bG/jopgHAuc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/n0xiQgAACAAJ",
+   "volumeInfo": {
+    "title": "The new age",
+    "subtitle": "the history of a movement",
+    "authors": [
+     "Nevill Drury"
+    ],
+    "publisher": "Thames & Hudson",
+    "publishedDate": "2004-11-30",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0500285160"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780500285169"
+     }
+    ],
+    "pageCount": 223,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dn0xiQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dn0xiQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dn0xiQgAACAAJ&dq\u003dNew+Age&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dn0xiQgAACAAJ&dq\u003dNew+Age&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yMHJ5HgWeaUC",
+   "etag": "ttBsYXLYaYo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yMHJ5HgWeaUC",
+   "volumeInfo": {
+    "title": "New Age Movement",
+    "authors": [
+     "Ron Rhodes"
+    ],
+    "publishedDate": "1994-07-15",
+    "description": "After looking at the &quot;fashionable&quot; religion that pervades Western society, from Hollywood to Washington, from the schoolroom to the boardroom, this guide to the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0310704316"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780310704317"
+     }
+    ],
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dyMHJ5HgWeaUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dyMHJ5HgWeaUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyMHJ5HgWeaUC&printsec\u003dfrontcover&dq\u003dNew+Age&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyMHJ5HgWeaUC&dq\u003dNew+Age&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pAkyAQAAIAAJ",
+   "etag": "X2Qxdxb0GaE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pAkyAQAAIAAJ",
+   "volumeInfo": {
+    "title": "New age",
+    "authors": [
+     "Leonard Jacobson"
+    ],
+    "publishedDate": "1999",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105113578400"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dpAkyAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dpAkyAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpAkyAQAAIAAJ&q\u003dNew+Age&dq\u003dNew+Age&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpAkyAQAAIAAJ&dq\u003dNew+Age&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 563
+}

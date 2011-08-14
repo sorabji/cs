@@ -1,0 +1,568 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "RxedM_dMaVMC",
+   "etag": "HvRETjY0sRU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RxedM_dMaVMC",
+   "volumeInfo": {
+    "title": "Sailing",
+    "subtitle": "the basics",
+    "authors": [
+     "Dave Franzel"
+    ],
+    "publisher": "The Lyons Press",
+    "publishedDate": "2003-04-01",
+    "description": "Here is all you&#39;&#39;ll need for the confidence to sail, from acclaimed instructor and decades-long sailor Dave Franzel.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1585748072"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781585748075"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dRxedM_dMaVMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dRxedM_dMaVMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRxedM_dMaVMC&printsec\u003dfrontcover&dq\u003dSailing&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRxedM_dMaVMC&dq\u003dSailing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jcUTAAAAQAAJ",
+   "etag": "f/qjj4sCTzY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jcUTAAAAQAAJ",
+   "volumeInfo": {
+    "title": "Sailing",
+    "authors": [
+     "Edward Frederick Knight"
+    ],
+    "publishedDate": "1889",
+    "description": "\u003cb\u003eSAILING\u003c/b\u003e. CHAPTER I. INTRODUCTORY. The choice of a boat — Description of the \u003cbr\u003e\r\nvarious parts of a cutter. More, probably, could be written on boat-\u003cb\u003esailing\u003c/b\u003e than \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:590568056"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003djcUTAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003djcUTAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djcUTAAAAQAAJ&printsec\u003dfrontcover&dq\u003dSailing&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djcUTAAAAQAAJ&dq\u003dSailing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Sailing.pdf?id\u003djcUTAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1UNLZXLFeNIYuKKSRzDnnzZvw24g&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Rm1lrMapNOAC",
+   "etag": "+rNpyAimm20",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Rm1lrMapNOAC",
+   "volumeInfo": {
+    "title": "Sailing alone around the world",
+    "authors": [
+     "Joshua Slocum"
+    ],
+    "publishedDate": "1900",
+    "description": "\u003cb\u003eSAILING\u003c/b\u003e ALONE AROUND THE WORLD CHAPTER IA blue-nose ancestry with Yankee \u003cbr\u003e\r\nproclivities — Youthful fondness for the sea — Master of the ship Northern Light \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044050969989"
+     }
+    ],
+    "pageCount": 294,
+    "printType": "BOOK",
+    "categories": [
+     "Voyages around the world"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 86,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dRm1lrMapNOAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dRm1lrMapNOAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRm1lrMapNOAC&printsec\u003dfrontcover&dq\u003dSailing&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRm1lrMapNOAC&dq\u003dSailing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Sailing_alone_around_the_world.epub?id\u003dRm1lrMapNOAC&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Sailing_alone_around_the_world.pdf?id\u003dRm1lrMapNOAC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1kHRhDQKIL_4DFaH6DtaL7XSZoVA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "f3K0vXgWMgMC",
+   "etag": "SgtyZv3XSgw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f3K0vXgWMgMC",
+   "volumeInfo": {
+    "title": "Sailing",
+    "subtitle": "A Woman's Guide",
+    "authors": [
+     "Doris Colgate"
+    ],
+    "publisher": "International Marine/Ragged Mountain Press",
+    "publishedDate": "1999-01-01",
+    "description": "&quot;&quot; So says Doris Colgate, author of this unique guide for women. For women who want a calm, thorough introduction to sailing, Colgate offers the key.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0070067201"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780070067202"
+     }
+    ],
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003df3K0vXgWMgMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003df3K0vXgWMgMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003df3K0vXgWMgMC&printsec\u003dfrontcover&dq\u003dSailing&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003df3K0vXgWMgMC&dq\u003dSailing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fArgTGm0zUMC",
+   "etag": "+SijFXZqtig",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fArgTGm0zUMC",
+   "volumeInfo": {
+    "title": "Sailing",
+    "subtitle": "A Lubber's Dictionary",
+    "authors": [
+     "Henry Beard",
+     "Roy McKie"
+    ],
+    "publisher": "Workman Publishing",
+    "publishedDate": "2001-08-04",
+    "description": "The cleverly essential volume defines and illustrates the terms of sailing, from &quot;ahoy&quot; to &quot;zephyr&quot;. Drawings throughout.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0761123873"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761123873"
+     }
+    ],
+    "pageCount": 295,
+    "printType": "BOOK",
+    "categories": [
+     "Comics & Graphic Novels"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dfArgTGm0zUMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dfArgTGm0zUMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfArgTGm0zUMC&printsec\u003dfrontcover&dq\u003dSailing&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfArgTGm0zUMC&dq\u003dSailing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kFjzekyPKe4C",
+   "etag": "07JC1OUY0cw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kFjzekyPKe4C",
+   "volumeInfo": {
+    "title": "The physics of sailing explained",
+    "authors": [
+     "Bryon D. Anderson"
+    ],
+    "publisher": "Sheridan House, Inc.",
+    "publishedDate": "2003",
+    "description": "An authoritative yet accessible handbook which will enhance reaaders&#39; seamanship through a refined understanding of the science behind seafaring.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1574091700"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781574091700"
+     }
+    ],
+    "pageCount": 152,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dkFjzekyPKe4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dkFjzekyPKe4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkFjzekyPKe4C&printsec\u003dfrontcover&dq\u003dSailing&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkFjzekyPKe4C&dq\u003dSailing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TcLZlP7jsPcC",
+   "etag": "HvRfpspNsHg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TcLZlP7jsPcC",
+   "volumeInfo": {
+    "title": "Sailing For Dummies",
+    "authors": [
+     "J. J. Isler",
+     "Peter Isler"
+    ],
+    "publisher": "For Dummies",
+    "publishedDate": "2006-05-19",
+    "description": "Now updated with the latest on boats, gear, and racing, this hands-on guide helps you chart a course to sailing success, from getting familiar with nautical ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0471791431"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780471791430"
+     }
+    ],
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dTcLZlP7jsPcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dTcLZlP7jsPcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTcLZlP7jsPcC&printsec\u003dfrontcover&dq\u003dSailing&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTcLZlP7jsPcC&dq\u003dSailing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dTcLZlP7jsPcC&dq\u003dSailing&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Sailing_For_Dummies-sample-pdf.acsm?id\u003dTcLZlP7jsPcC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "S6tlkXfa0HMC",
+   "etag": "x8pnrxfzJ4I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/S6tlkXfa0HMC",
+   "volumeInfo": {
+    "title": "Sailing",
+    "subtitle": "Inside Passages",
+    "authors": [
+     "David Anton"
+    ],
+    "publisher": "Xlibris Corp",
+    "publishedDate": "2006-08-28",
+    "description": "BOARDING M erlin Morgan was sitting in his Europa Hotel room in Lisbon. He had \u003cbr\u003e\r\neaten his buffet breakfast, quite a rich fare. He was pleased that the small \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1599265397"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781599265391"
+     }
+    ],
+    "pageCount": 76,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dS6tlkXfa0HMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dS6tlkXfa0HMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dS6tlkXfa0HMC&printsec\u003dfrontcover&dq\u003dSailing&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dS6tlkXfa0HMC&dq\u003dSailing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dS6tlkXfa0HMC&dq\u003dSailing&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Sailing-sample-epub.acsm?id\u003dS6tlkXfa0HMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Sailing-sample-pdf.acsm?id\u003dS6tlkXfa0HMC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lI71GXRPELsC",
+   "etag": "UPkyvyrjFv4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lI71GXRPELsC",
+   "volumeInfo": {
+    "title": "Offshore Sailing",
+    "subtitle": "200 Essential Passagemaking Tips",
+    "authors": [
+     "Bill Seifert",
+     "William Seifert",
+     "Daniel Spurr"
+    ],
+    "publisher": "International Marine/Ragged Mountain Press",
+    "publishedDate": "2001-11-05",
+    "description": "&quot;--John Rousmaniere, author, &quot;The Annapolis Book of Seamanship&quot; and &quot;Fastnet: Force 10&quot; Bill Seifert has sailed 100,000 offshore miles and has thirty years of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0071374248"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071374248"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dlI71GXRPELsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dlI71GXRPELsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlI71GXRPELsC&printsec\u003dfrontcover&dq\u003dSailing&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlI71GXRPELsC&dq\u003dSailing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UhgX4HApK18C",
+   "etag": "C36zqE15Hic",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UhgX4HApK18C",
+   "volumeInfo": {
+    "title": "Sailing",
+    "authors": [
+     "Jeremy Evans",
+     "Rod Heikell"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2007",
+    "description": "Whether you are interested in racing a small boat every weekend or cruising in a yacht once a year, Sailing is the perfect primerto tell you everything you need ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0756642175"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780756642174"
+     }
+    ],
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dUhgX4HApK18C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dUhgX4HApK18C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUhgX4HApK18C&printsec\u003dfrontcover&dq\u003dSailing&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUhgX4HApK18C&dq\u003dSailing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 21.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dUhgX4HApK18C&dq\u003dSailing&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 429
+}

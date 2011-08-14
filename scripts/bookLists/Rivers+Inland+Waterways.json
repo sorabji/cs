@@ -1,0 +1,506 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "RHPN7qP1yqIC",
+   "etag": "s7/m7hJ9Rrs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RHPN7qP1yqIC",
+   "volumeInfo": {
+    "title": "Strengthening Inland Waterway Transport",
+    "subtitle": "Pan-European Co-operation for Progress",
+    "authors": [
+     "OECD - Organisation for Economic Co-operation and Development",
+     "European Conference of Ministers of Transport"
+    ],
+    "publisher": "OECD Publishing",
+    "publishedDate": "2006-08-14",
+    "description": "There are, however, a few restraints for further development of \u003cb\u003eriver\u003c/b\u003e-sea \u003cbr\u003e\r\nshipping in Russia. These are the bottlenecks on \u003cb\u003einland waterways\u003c/b\u003e that developed \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9282113558"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789282113554"
+     }
+    ],
+    "pageCount": 136,
+    "printType": "BOOK",
+    "categories": [
+     "Transportation"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dRHPN7qP1yqIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dRHPN7qP1yqIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRHPN7qP1yqIC&pg\u003dPA25&dq\u003dRivers+Inland+Waterways&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRHPN7qP1yqIC&dq\u003dRivers+Inland+Waterways&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Strengthening_Inland_Waterway_Transport-sample-epub.acsm?id\u003dRHPN7qP1yqIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cGMUAAAAYAAJ",
+   "etag": "G8J9mC2bpIE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cGMUAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Preliminary report of the Inland Waterways Commission",
+    "subtitle": "message from the President of the United States, transmitting a preliminary report of the Inland Waterways Commission",
+    "authors": [
+     "United States. Inland Waterways Commission",
+     "Theodore Elijah Burton"
+    ],
+    "publishedDate": "1908",
+    "description": "\u003cb\u003eRIVER\u003c/b\u003e SYSTEM OF THE SOUTHERN APPALACHIANS This group includes a very large \u003cbr\u003e\r\nnumber \u003cb\u003e...\u003c/b\u003e The flow of these \u003cb\u003erivers\u003c/b\u003e is characterized by lugh floods at irregular \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:LI5DW4"
+     }
+    ],
+    "pageCount": 27,
+    "printType": "BOOK",
+    "categories": [
+     "Transportation"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dcGMUAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dcGMUAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcGMUAAAAYAAJ&pg\u003dPA520&dq\u003dRivers+Inland+Waterways&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcGMUAAAAYAAJ&dq\u003dRivers+Inland+Waterways&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Preliminary_report_of_the_Inland_Waterwa.pdf?id\u003dcGMUAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0rhkE8xbz6kW-ISkDHwYYSn1nTsA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-_dO4OQtT5MC",
+   "etag": "pRat2IqiCts",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-_dO4OQtT5MC",
+   "volumeInfo": {
+    "title": "Review of developments in transport in the ESCAP region, 2003",
+    "subtitle": "Asia and the Pacific",
+    "authors": [
+     "United Nations. Economic and Social Commission for Asia and the Pacific"
+    ],
+    "publisher": "United Nations Publications",
+    "publishedDate": "2003-12-01",
+    "description": "In the absence of \u003cb\u003eriver\u003c/b\u003e and other forms of \u003cb\u003einland waterway\u003c/b\u003e transport, many \u003cbr\u003e\r\nremote underprivileged communities would be inaccessible or too costly to \u003cbr\u003e\r\nservice \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9211203805"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789211203806"
+     }
+    ],
+    "pageCount": 183,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d-_dO4OQtT5MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d-_dO4OQtT5MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-_dO4OQtT5MC&pg\u003dPA105&dq\u003dRivers+Inland+Waterways&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-_dO4OQtT5MC&dq\u003dRivers+Inland+Waterways&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1PVGAQAAIAAJ",
+   "etag": "wrFQKrXBA6I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1PVGAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Congressional edition",
+    "authors": [
+     "United States. Congress"
+    ],
+    "publishedDate": "1910",
+    "description": "John Biddle, Corps of Engineers, dated September 24, 1909, on survey of \u003cb\u003einland\u003c/b\u003e \u003cbr\u003e\r\n\u003cb\u003ewaterway\u003c/b\u003e between Humboldt Bay and Eel \u003cb\u003eRiver\u003c/b\u003e, California, made by him in \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B3991355"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d1PVGAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d1PVGAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1PVGAQAAIAAJ&pg\u003dRA1-PA55&dq\u003dRivers+Inland+Waterways&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1PVGAQAAIAAJ&dq\u003dRivers+Inland+Waterways&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Congressional_edition.pdf?id\u003d1PVGAQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2Nb8iQq42SDqH3uRIS6THjXp4jEQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HxG7Xs6ViOwC",
+   "etag": "/tNnYfEttPo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HxG7Xs6ViOwC",
+   "volumeInfo": {
+    "title": "Standardization of ships and inland waterways for river/sea navigation",
+    "authors": [
+     "Permanent International Association of Navigation Congresses Permanent Technical Committee I. Working Group no. 16"
+    ],
+    "publisher": "Pianc",
+    "publishedDate": "1996",
+    "description": "However, in order to be able to take maximum profit from R/S navigation, \u003cbr\u003e\r\nstandardization with respect to both the vessel dimensions and the \u003cb\u003einland\u003c/b\u003e \u003cbr\u003e\r\n\u003cb\u003ewaterway\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "2872230742"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9782872230747"
+     }
+    ],
+    "pageCount": 29,
+    "printType": "BOOK",
+    "categories": [
+     "Transportation"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dHxG7Xs6ViOwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dHxG7Xs6ViOwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHxG7Xs6ViOwC&pg\u003dPA22&dq\u003dRivers+Inland+Waterways&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHxG7Xs6ViOwC&dq\u003dRivers+Inland+Waterways&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "a9INAQAAMAAJ",
+   "etag": "BL0ZR3UIddM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a9INAQAAMAAJ",
+   "volumeInfo": {
+    "title": "United States coast pilot",
+    "subtitle": "Atlantic coast",
+    "authors": [
+     "U.S. Coast and Geodetic Survey",
+     "Arthur John Ela",
+     "Raymond Stanton Patton"
+    ],
+    "publishedDate": "1916",
+    "description": "When there are freshets in the \u003cb\u003erivers\u003c/b\u003e the water in Atchafalaya Bay is quite \u003cbr\u003e\r\nfresh and that \u003cb\u003e...\u003c/b\u003e \u003cb\u003eINLAND WATERWAYS\u003c/b\u003e OF LOUISIANA WEST OF THE MISSISSIPPI EIVER. \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "MINN:31951002186371D"
+     }
+    ],
+    "pageCount": 169,
+    "printType": "BOOK",
+    "categories": [
+     "Transportation"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003da9INAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003da9INAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003da9INAQAAMAAJ&pg\u003dPA120&dq\u003dRivers+Inland+Waterways&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003da9INAQAAMAAJ&dq\u003dRivers+Inland+Waterways&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/United_States_coast_pilot.pdf?id\u003da9INAQAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1hmHSQh74eKwM7XZMlye7e9nq__A&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MocQAAAAYAAJ",
+   "etag": "3tLF3UyM+dM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MocQAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Annals of the American Academy of Political and Social Science",
+    "authors": [
+     "American Academy of Political and Social Science",
+     "National American Woman Suffrage Association Collection (Library of Congress)"
+    ],
+    "publishedDate": "1908",
+    "description": "In this paper only those \u003cb\u003einland waterways\u003c/b\u003e are considered which are navigable by \u003cbr\u003e\r\n\u003cb\u003eriver\u003c/b\u003e boats and not primarily for sea-going steamships. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044106248958"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Political science"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dMocQAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dMocQAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMocQAAAAYAAJ&pg\u003dPA246&dq\u003dRivers+Inland+Waterways&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMocQAAAAYAAJ&dq\u003dRivers+Inland+Waterways&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Annals_of_the_American_Academy_of_Politi.pdf?id\u003dMocQAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3x_wLa6gDkN7N3GmGwIqol3gJx4A&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CtIKAAAAYAAJ",
+   "etag": "GF14a/nG9ys",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CtIKAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Nature",
+    "authors": [
+     "Sir Norman Lockyer"
+    ],
+    "publishedDate": "1906",
+    "description": "BRITISH \u003cb\u003eINLAND\u003c/b\u003e NAVIGATION. Our \u003cb\u003eWaterways\u003c/b\u003e. A History of \u003cb\u003eInland\u003c/b\u003e Navigation \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e\r\ndrainage areas, and principal \u003cb\u003erivers\u003c/b\u003e of the British Isles are referred to in a \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044102918935"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dCtIKAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dCtIKAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCtIKAAAAYAAJ&pg\u003dPA169&dq\u003dRivers+Inland+Waterways&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCtIKAAAAYAAJ&dq\u003dRivers+Inland+Waterways&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Nature.pdf?id\u003dCtIKAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1PJyQ7l-kAH6EsWB2_qWscW1AonQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SItCAAAAIAAJ",
+   "etag": "n9+IfDpU8zc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SItCAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Inland waterways",
+    "subtitle": "their relation to transportation",
+    "authors": [
+     "Emory Richard Johnson"
+    ],
+    "publishedDate": "1893",
+    "description": "\u003cb\u003e...\u003c/b\u003e out the canal from other \u003cb\u003einland waterways\u003c/b\u003e for the purposes of special study. \u003cbr\u003e\r\nIn this chapter improved \u003cb\u003erivers\u003c/b\u003e and lakes are dropped from discussion, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B50180"
+     }
+    ],
+    "pageCount": 164,
+    "printType": "BOOK",
+    "categories": [
+     "Canals"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dSItCAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dSItCAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSItCAAAAIAAJ&pg\u003dPA73&dq\u003dRivers+Inland+Waterways&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSItCAAAAIAAJ&dq\u003dRivers+Inland+Waterways&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Inland_waterways.epub?id\u003dSItCAAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Inland_waterways.pdf?id\u003dSItCAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1tunOthrFXU6pvQ5WxINnD8SqtuA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HEQEAAAAMBAJ",
+   "etag": "qn6kd63d7vQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HEQEAAAAMBAJ",
+   "volumeInfo": {
+    "title": "The Rotarian",
+    "publishedDate": "1946-07",
+    "description": "One further comparison as to the number of vessels carrying \u003cb\u003eriver\u003c/b\u003e freight on \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e\r\nArmy operation continued until 1927, when the \u003cb\u003eInland Waterways\u003c/b\u003e Corporation \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:ZH4DTAEEUKB"
+     }
+    ],
+    "pageCount": 72,
+    "printType": "MAGAZINE",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dHEQEAAAAMBAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dHEQEAAAAMBAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHEQEAAAAMBAJ&pg\u003dPA42&dq\u003dRivers+Inland+Waterways&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHEQEAAAAMBAJ&dq\u003dRivers+Inland+Waterways&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 583
+}

@@ -1,0 +1,639 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "yncry95TFPkC",
+   "etag": "SO23+m+SeMs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yncry95TFPkC",
+   "volumeInfo": {
+    "title": "How to Make Anyone Fall in Love with You",
+    "authors": [
+     "Leil Lowndes"
+    ],
+    "publisher": "Contemporary Books",
+    "publishedDate": "1997-09-01",
+    "description": "Covers places to meet a mate, how to create rapport, the romantic differences between men and women, and tips for building a sustained relationship",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0809229897"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780809229895"
+     }
+    ],
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 32,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dyncry95TFPkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dyncry95TFPkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyncry95TFPkC&printsec\u003dfrontcover&dq\u003dHow-To&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyncry95TFPkC&dq\u003dHow-To&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dyncry95TFPkC&dq\u003dHow-To&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/How_to_Make_Anyone_Fall_in_Love_with_You-sample-epub.acsm?id\u003dyncry95TFPkC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/How_to_Make_Anyone_Fall_in_Love_with_You-sample-pdf.acsm?id\u003dyncry95TFPkC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sE5Nvnga8qYC",
+   "etag": "V6oYllXWWg0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sE5Nvnga8qYC",
+   "volumeInfo": {
+    "title": "How to Cook Everything",
+    "subtitle": "2,000 Simple Recipes for Great Food",
+    "authors": [
+     "Mark Bittman",
+     "Alan Witschonke"
+    ],
+    "publisher": "Wiley",
+    "publishedDate": "2008-10-20",
+    "description": "Ten years after the first edition, this complete revision features more than 50 new recipes, fully updated to reflect contemporary eating habits, and presented ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0764578650"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780764578656"
+     }
+    ],
+    "pageCount": 1056,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 351,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dsE5Nvnga8qYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dsE5Nvnga8qYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dsE5Nvnga8qYC&printsec\u003dfrontcover&dq\u003dHow-To&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dsE5Nvnga8qYC&dq\u003dHow-To&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 22.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dsE5Nvnga8qYC&dq\u003dHow-To&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/How_to_Cook_Everything-sample-pdf.acsm?id\u003dsE5Nvnga8qYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PKeOyeZdVKwC",
+   "etag": "KA7flroXICY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PKeOyeZdVKwC",
+   "volumeInfo": {
+    "title": "How to Read Literature Like a Professor",
+    "subtitle": "a Lively and Entertaining Guide to Reading Between the Lines",
+    "authors": [
+     "Thomas C. Foster"
+    ],
+    "publisher": "Harper Paperbacks",
+    "publishedDate": "2003",
+    "description": "A lively and entertaining introduction to the art of reading literature demonstrates how to make everyday reading more rewarding by helping readers understand ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "006000942X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780060009427"
+     }
+    ],
+    "pageCount": 314,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 368,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dPKeOyeZdVKwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dPKeOyeZdVKwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPKeOyeZdVKwC&printsec\u003dfrontcover&dq\u003dHow-To&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPKeOyeZdVKwC&dq\u003dHow-To&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 10.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 10.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dPKeOyeZdVKwC&dq\u003dHow-To&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/How_to_Read_Literature_Like_a_Professor-sample-epub.acsm?id\u003dPKeOyeZdVKwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1rW-QpIAs8UC",
+   "etag": "A3EM9wFlA14",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1rW-QpIAs8UC",
+   "volumeInfo": {
+    "title": "How to Win Friends and Influence People",
+    "authors": [
+     "Dale Carnegie"
+    ],
+    "publisher": "Gallery",
+    "publishedDate": "1998-10-01",
+    "description": "Provides suggestions for successfully dealing with people both in social and business situations",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0671027034"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780671027032"
+     }
+    ],
+    "pageCount": 260,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 76,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d1rW-QpIAs8UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d1rW-QpIAs8UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1rW-QpIAs8UC&printsec\u003dfrontcover&dq\u003dHow-To&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1rW-QpIAs8UC&dq\u003dHow-To&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d1rW-QpIAs8UC&dq\u003dHow-To&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/How_to_Win_Friends_and_Influence_People-sample-epub.acsm?id\u003d1rW-QpIAs8UC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "v_gLd8Ob1XwC",
+   "etag": "AGkZHLzdx7A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/v_gLd8Ob1XwC",
+   "volumeInfo": {
+    "title": "How to read a book",
+    "authors": [
+     "Mortimer Jerome Adler",
+     "Charles Lincoln Van Doren"
+    ],
+    "publisher": "Touchstone",
+    "publishedDate": "1972",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0671212095"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780671212094"
+     }
+    ],
+    "pageCount": 426,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 200,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dv_gLd8Ob1XwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dv_gLd8Ob1XwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dv_gLd8Ob1XwC&q\u003dHow-To&dq\u003dHow-To&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dv_gLd8Ob1XwC&dq\u003dHow-To&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JmiMpRVuYQgC",
+   "etag": "pcoKmmX6VDA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JmiMpRVuYQgC",
+   "volumeInfo": {
+    "title": "How to Be Popular",
+    "authors": [
+     "Meg Cabot"
+    ],
+    "publisher": "HarperTeen",
+    "publishedDate": "2008-03-11",
+    "description": "Sixteen-year-old Steph Landry finds an old book on how to be popular and decides to change her social status by following its advice, much to the bafflement of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0060880147"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780060880149"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 411,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dJmiMpRVuYQgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dJmiMpRVuYQgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJmiMpRVuYQgC&printsec\u003dfrontcover&dq\u003dHow-To&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJmiMpRVuYQgC&dq\u003dHow-To&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dJmiMpRVuYQgC&dq\u003dHow-To&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/How_to_Be_Popular-sample-epub.acsm?id\u003dJmiMpRVuYQgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5oSU5PepogEC",
+   "etag": "+rafPxuVzKo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5oSU5PepogEC",
+   "volumeInfo": {
+    "title": "How to lie with statistics",
+    "authors": [
+     "Darrell Huff",
+     "Irving Geis"
+    ],
+    "publisher": "W. W. Norton & Company",
+    "publishedDate": "1993",
+    "description": "Darrell Huff runs the gamut of every popularly used type of statistic, probes such things as the sample study, the tabulation method, the interview technique, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0393310728"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780393310726"
+     }
+    ],
+    "pageCount": 142,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 89,
+    "contentVersion": "0.1.0.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d5oSU5PepogEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d5oSU5PepogEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5oSU5PepogEC&printsec\u003dfrontcover&dq\u003dHow-To&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5oSU5PepogEC&dq\u003dHow-To&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 8.48,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d5oSU5PepogEC&dq\u003dHow-To&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/How_to_lie_with_statistics-sample-epub.acsm?id\u003d5oSU5PepogEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IzlbAAAAMAAJ",
+   "etag": "desjT/g6Qbg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IzlbAAAAMAAJ",
+   "volumeInfo": {
+    "title": "How to",
+    "subtitle": "poems",
+    "authors": [
+     "William Reichard"
+    ],
+    "publisher": "Mid List Pr",
+    "publishedDate": "2003-10",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0922811598"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780922811595"
+     }
+    ],
+    "pageCount": 70,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dIzlbAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dIzlbAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIzlbAAAAMAAJ&dq\u003dHow-To&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIzlbAAAAMAAJ&dq\u003dHow-To&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rE85howYIwQC",
+   "etag": "DylVmR5lwrI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rE85howYIwQC",
+   "volumeInfo": {
+    "title": "How to Say It",
+    "subtitle": "Choice Words, Phrases, Sentences, and Paragraphs for Every Situation",
+    "authors": [
+     "Rosalie Maggio"
+    ],
+    "publisher": "Prentice Hall Pr",
+    "publishedDate": "2009-04-07",
+    "description": "Provides lists of words, phrases, sentences, and paragraphs that help letter writers know what to say and how to say it when writing such letters as cover ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0735204373"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780735204379"
+     }
+    ],
+    "pageCount": 556,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003drE85howYIwQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003drE85howYIwQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003drE85howYIwQC&printsec\u003dfrontcover&dq\u003dHow-To&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003drE85howYIwQC&dq\u003dHow-To&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003drE85howYIwQC&dq\u003dHow-To&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/How_to_Say_It-sample-epub.acsm?id\u003drE85howYIwQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KBFcMJ82jXIC",
+   "etag": "Q6c9L+5f4Qw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KBFcMJ82jXIC",
+   "volumeInfo": {
+    "title": "How to read the air",
+    "authors": [
+     "Dinaw Mengestu"
+    ],
+    "publisher": "Riverhead Books (Hardcover)",
+    "publishedDate": "2010-10-14",
+    "description": "The son of Ethopian immigrants decides to retrace the journey his parents took just after they moved to America, but before he was born, in order to make sense ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1594487707"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781594487705"
+     }
+    ],
+    "pageCount": 305,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 147,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dKBFcMJ82jXIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dKBFcMJ82jXIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKBFcMJ82jXIC&printsec\u003dfrontcover&dq\u003dHow-To&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKBFcMJ82jXIC&dq\u003dHow-To&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dKBFcMJ82jXIC&dq\u003dHow-To&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/How_to_read_the_air-sample-epub.acsm?id\u003dKBFcMJ82jXIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 597
+}

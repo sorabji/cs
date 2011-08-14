@@ -1,0 +1,575 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "3ODPO8dVt4wC",
+   "etag": "qco6f2UWsYg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3ODPO8dVt4wC",
+   "volumeInfo": {
+    "title": "Essential Italian grammar",
+    "authors": [
+     "Olga Ragusa"
+    ],
+    "publisher": "Dover Pubns",
+    "publishedDate": "1963-06-01",
+    "description": "This logical, developmental presentation of the major aspects of Italian grammar includes all the necessary tools for speech and comprehension.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "048620779X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486207797"
+     }
+    ],
+    "pageCount": 111,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d3ODPO8dVt4wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d3ODPO8dVt4wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3ODPO8dVt4wC&printsec\u003dfrontcover&dq\u003dItalian&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3ODPO8dVt4wC&dq\u003dItalian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jprIxTqMCwEC",
+   "etag": "+RskvpE66j4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jprIxTqMCwEC",
+   "volumeInfo": {
+    "title": "Italian cuisine",
+    "subtitle": "a cultural history",
+    "authors": [
+     "Alberto Capatti",
+     "Massimo Montanari",
+     "Áine O'Healy"
+    ],
+    "publisher": "Columbia Univ Pr",
+    "publishedDate": "2003-08",
+    "description": "This magnificent new book demonstrates the development of a distinctive, unified culinary tradition throughout the Italian peninsula.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0231122322"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780231122320"
+     }
+    ],
+    "pageCount": 348,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003djprIxTqMCwEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003djprIxTqMCwEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djprIxTqMCwEC&printsec\u003dfrontcover&dq\u003dItalian&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djprIxTqMCwEC&dq\u003dItalian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 30.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 17.04,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003djprIxTqMCwEC&dq\u003dItalian&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Italian_cuisine-sample-pdf.acsm?id\u003djprIxTqMCwEC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vi4JAAAAQAAJ",
+   "etag": "K6FPhpQz3/A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vi4JAAAAQAAJ",
+   "volumeInfo": {
+    "title": "The Italian, or The confessional of the Black Penitents",
+    "subtitle": "A romance",
+    "authors": [
+     "Ann Ward Radcliffe"
+    ],
+    "publishedDate": "1797",
+    "description": "THE \u003cb\u003eITALIAN\u003c/b\u003e, or THE CONFESSIONAL of the BLACK PENITENTS, A ROMANCE. BT ANN \u003cbr\u003e\r\nRADCLIFFE, AUTHOR OF THE MYSTERIES OF UDOLPHO, &amp;C. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:400247997"
+     }
+    ],
+    "printType": "BOOK",
+    "averageRating": 3.5,
+    "ratingsCount": 6,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dvi4JAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dvi4JAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvi4JAAAAQAAJ&printsec\u003dfrontcover&dq\u003dItalian&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvi4JAAAAQAAJ&dq\u003dItalian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/The_Italian_or_The_confessional_of_the_B.epub?id\u003dvi4JAAAAQAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Italian_or_The_confessional_of_the_B.pdf?id\u003dvi4JAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0GtyQSaAeHj8l6uPDr61E4IuFXwA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "15oLAAAACAAJ",
+   "etag": "ZNbtn4QgRQo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/15oLAAAACAAJ",
+   "volumeInfo": {
+    "title": "Italian",
+    "subtitle": "A Self-Teaching Guide",
+    "authors": [
+     "Edoardo A. Lèbano",
+     "Edoardo A. Lebano"
+    ],
+    "publisher": "Wiley",
+    "publishedDate": "1988-01-04",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0471638382"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780471638384"
+     }
+    ],
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d15oLAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d15oLAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d15oLAAAACAAJ&dq\u003dItalian&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d15oLAAAACAAJ&dq\u003dItalian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yl39TvoOFK4C",
+   "etag": "2fJsM/wIias",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yl39TvoOFK4C",
+   "volumeInfo": {
+    "title": "Italian",
+    "authors": [
+     "Lexus"
+    ],
+    "publisher": "Rough Guides Limited",
+    "publishedDate": "2000-01-27",
+    "description": "This Rough Guide Dictionary Phrasebook will have you talking Italian as soon as you arrive.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "185828578X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781858285788"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dyl39TvoOFK4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dyl39TvoOFK4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyl39TvoOFK4C&printsec\u003dfrontcover&dq\u003dItalian&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyl39TvoOFK4C&dq\u003dItalian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Hc82OqKNWc0C",
+   "etag": "mIeSZjqpSHc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Hc82OqKNWc0C",
+   "volumeInfo": {
+    "title": "Everyday Italian",
+    "subtitle": "125 simple and delicious recipes",
+    "authors": [
+     "Giada De Laurentiis"
+    ],
+    "publisher": "Random House of Canada",
+    "publishedDate": "2005-02-22",
+    "description": "Presents techniques of Italian home cookery, including more than one hundred recipes and advice on creating dishes for everyday meals and special occasions.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1400052580"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781400052585"
+     }
+    ],
+    "pageCount": 255,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 125,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dHc82OqKNWc0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dHc82OqKNWc0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHc82OqKNWc0C&printsec\u003dfrontcover&dq\u003dItalian&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHc82OqKNWc0C&dq\u003dItalian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 18.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dHc82OqKNWc0C&dq\u003dItalian&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Everyday_Italian-sample-epub.acsm?id\u003dHc82OqKNWc0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Everyday_Italian-sample-pdf.acsm?id\u003dHc82OqKNWc0C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RoSIJIODG_QC",
+   "etag": "XVy69zCFbGo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RoSIJIODG_QC",
+   "volumeInfo": {
+    "title": "Italian",
+    "authors": [
+     "Sarah Medina"
+    ],
+    "publisher": "Heinemann First Library",
+    "publishedDate": "2011-07-01",
+    "description": "\u003cb\u003eItalian\u003c/b\u003e Around the World \u003cb\u003eItalian\u003c/b\u003e is the main language of most people in Italy \u003cbr\u003e\r\nand San Marino. Some people in Malta, Switzerland, Vatican City, Croatia, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1432951858"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781432951856"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dRoSIJIODG_QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dRoSIJIODG_QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRoSIJIODG_QC&printsec\u003dfrontcover&dq\u003dItalian&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRoSIJIODG_QC&dq\u003dItalian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mQG2KaveLXUC",
+   "etag": "pAmaceckrog",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mQG2KaveLXUC",
+   "volumeInfo": {
+    "title": "Italian",
+    "authors": [
+     "C. H. Grandgent",
+     "Ernest Hatch Wilkins"
+    ],
+    "publisher": "Research & Education Assn",
+    "publishedDate": "2002-06-01",
+    "description": "The Italian Super Review covers pronunciation, verb tenses, sentence structure, grammar, vocabulary, and more!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0878913890"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780878913893"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dmQG2KaveLXUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dmQG2KaveLXUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmQG2KaveLXUC&pg\u003dPA1&dq\u003dItalian&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmQG2KaveLXUC&dq\u003dItalian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vh1GNjhXkxEC",
+   "etag": "k6LiwuezcBc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vh1GNjhXkxEC",
+   "volumeInfo": {
+    "title": "The Italian, or, The confessional of the Black Penitents",
+    "subtitle": "a romance",
+    "authors": [
+     "Ann Ward Radcliffe",
+     "Robert Miles"
+    ],
+    "publisher": "Penguin Classics",
+    "publishedDate": "2000",
+    "description": "This edition includes a detailed introduction which examines the literary background to the novel, the historical context of the Inquisition and the French ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0140437541"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780140437546"
+     }
+    ],
+    "pageCount": 504,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 51,
+    "contentVersion": "1.1.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dvh1GNjhXkxEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dvh1GNjhXkxEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvh1GNjhXkxEC&printsec\u003dfrontcover&dq\u003dItalian&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvh1GNjhXkxEC&dq\u003dItalian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dvh1GNjhXkxEC&dq\u003dItalian&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Italian_or_The_confessional_of_the_B-sample-epub.acsm?id\u003dvh1GNjhXkxEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Italian_or_The_confessional_of_the_B-sample-pdf.acsm?id\u003dvh1GNjhXkxEC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5RkGAAAAQAAJ",
+   "etag": "TlpRnZJL8no",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5RkGAAAAQAAJ",
+   "volumeInfo": {
+    "title": "The Italian",
+    "subtitle": "or the confessional of the black penitents. A romance. By Ann Radcliffe, ... In three volumes. ...",
+    "authors": [
+     "Ann Ward Radcliffe"
+    ],
+    "publishedDate": "1797",
+    "description": "THE \u003cb\u003eITALIAN\u003c/b\u003e. CHAP. I. Mark where yon ruin frowns upon the steep, The giant-\u003cbr\u003e\r\nspectre of departed power ! Within those shadowy walls and silent \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:N11670605"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d5RkGAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d5RkGAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5RkGAAAAQAAJ&pg\u003dPA1&dq\u003dItalian&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5RkGAAAAQAAJ&dq\u003dItalian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/The_Italian.epub?id\u003d5RkGAAAAQAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Italian.pdf?id\u003d5RkGAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0ujpinGtflZOZOYrlGn9kGMsh-rQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 592
+}

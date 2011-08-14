@@ -1,0 +1,568 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "kUxtVIAmL0sC",
+   "etag": "qRgPsbtgZTE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kUxtVIAmL0sC",
+   "volumeInfo": {
+    "title": "One hundred and one best graphic novels",
+    "authors": [
+     "Stephen Weiner"
+    ],
+    "publisher": "Nantier Beall Minoustchine Publishing",
+    "publishedDate": "2006-01-01",
+    "description": "A listing of recommended graphic novels currently available in the United States includes a black-and-white illustration of the cover, a suggested age rating, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1561634433"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781561634439"
+     }
+    ],
+    "pageCount": 60,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "1.0.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dkUxtVIAmL0sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dkUxtVIAmL0sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkUxtVIAmL0sC&printsec\u003dfrontcover&dq\u003dGraphic+Novels&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkUxtVIAmL0sC&dq\u003dGraphic+Novels&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 6.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 5.38,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dkUxtVIAmL0sC&dq\u003dGraphic+Novels&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/One_hundred_and_one_best_graphic_novels-sample-epub.acsm?id\u003dkUxtVIAmL0sC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wQVJxnfmVtgC",
+   "etag": "QzHcD7m3pG0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wQVJxnfmVtgC",
+   "volumeInfo": {
+    "title": "Graphic novels",
+    "subtitle": "a bibliographic guide to book-length comics",
+    "authors": [
+     "D. Aviva Rothschild"
+    ],
+    "publisher": "Libraries Unltd Inc",
+    "publishedDate": "1995-04",
+    "description": "Designed for individuals who need information about graphic novels and for those interested in acquiring them, this book will especially appeal to librarians, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1563080869"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781563080869"
+     }
+    ],
+    "pageCount": 245,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dwQVJxnfmVtgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dwQVJxnfmVtgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwQVJxnfmVtgC&printsec\u003dfrontcover&dq\u003dGraphic+Novels&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwQVJxnfmVtgC&dq\u003dGraphic+Novels&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 29.6,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dwQVJxnfmVtgC&dq\u003dGraphic+Novels&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Graphic_novels-sample-epub.acsm?id\u003dwQVJxnfmVtgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Graphic_novels-sample-pdf.acsm?id\u003dwQVJxnfmVtgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bG9sgBzFPm0C",
+   "etag": "nHJJ8ks7OUk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bG9sgBzFPm0C",
+   "volumeInfo": {
+    "title": "Graphic Novels",
+    "authors": [
+     "John Hamilton"
+    ],
+    "publisher": "ABDO & Daughters",
+    "publishedDate": "2009-01",
+    "description": "Offers advice to aspiring graphic novelists on such elements as characters, script, and pencilling and includes profiles of two popular graphic novelists.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1604535059"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781604535051"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dbG9sgBzFPm0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dbG9sgBzFPm0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbG9sgBzFPm0C&printsec\u003dfrontcover&dq\u003dGraphic+Novels&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbG9sgBzFPm0C&dq\u003dGraphic+Novels&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.66,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dbG9sgBzFPm0C&dq\u003dGraphic+Novels&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Graphic_Novels-sample-epub.acsm?id\u003dbG9sgBzFPm0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Graphic_Novels-sample-pdf.acsm?id\u003dbG9sgBzFPm0C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YmGJQgAACAAJ",
+   "etag": "Nm20MG/wzoM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YmGJQgAACAAJ",
+   "volumeInfo": {
+    "title": "Graphic novels",
+    "subtitle": "everything you need to know",
+    "authors": [
+     "Paul Gravett"
+    ],
+    "publisher": "Harper Design",
+    "publishedDate": "2005",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0060824255"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780060824259"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 9,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dYmGJQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dYmGJQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYmGJQgAACAAJ&dq\u003dGraphic+Novels&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYmGJQgAACAAJ&dq\u003dGraphic+Novels&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PF1WDOiVDHUC",
+   "etag": "J3HtZW3tCSY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PF1WDOiVDHUC",
+   "volumeInfo": {
+    "title": "Year's best graphic novels, comics and manga",
+    "authors": [
+     "Byron Preiss",
+     "Neil Gaiman"
+    ],
+    "publisher": "Griffin",
+    "publishedDate": "2005-11-29",
+    "description": "The first and only collection of leading works by major publishers of graphic novels, comics and manga Called maybe the most interesting fiction in America ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0312343264"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780312343262"
+     }
+    ],
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Comics & Graphic Novels"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dPF1WDOiVDHUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dPF1WDOiVDHUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPF1WDOiVDHUC&printsec\u003dfrontcover&dq\u003dGraphic+Novels&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPF1WDOiVDHUC&dq\u003dGraphic+Novels&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "e59wQgAACAAJ",
+   "etag": "ZEei0XdcX7w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/e59wQgAACAAJ",
+   "volumeInfo": {
+    "title": "Graphic novels",
+    "subtitle": "a genre guide to comic books, manga, and more",
+    "authors": [
+     "Michael Pawuk"
+    ],
+    "publisher": "Libraries Unltd Inc",
+    "publishedDate": "2007",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "159158132X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781591581321"
+     }
+    ],
+    "pageCount": 633,
+    "printType": "BOOK",
+    "categories": [
+     "Comics & Graphic Novels"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003de59wQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003de59wQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003de59wQgAACAAJ&dq\u003dGraphic+Novels&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003de59wQgAACAAJ&dq\u003dGraphic+Novels&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ik9sleNg10kC",
+   "etag": "E0KkhHDj7II",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ik9sleNg10kC",
+   "volumeInfo": {
+    "title": "Character design for graphic novels",
+    "authors": [
+     "Steven Withrow",
+     "Alexander Danner"
+    ],
+    "publisher": "Focal Pr",
+    "publishedDate": "2007-03-30",
+    "description": "This stunning book offers a unique insight into the creative process, interviewing the genre&#39;s leading artists, showcasing their work, and showing how it is ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0240809025"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780240809021"
+     }
+    ],
+    "pageCount": 191,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dIk9sleNg10kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dIk9sleNg10kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIk9sleNg10kC&printsec\u003dfrontcover&dq\u003dGraphic+Novels&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIk9sleNg10kC&dq\u003dGraphic+Novels&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DdQNU0DWJOgC",
+   "etag": "NzEe+v09gdY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DdQNU0DWJOgC",
+   "volumeInfo": {
+    "title": "Teaching Graphic Novels",
+    "subtitle": "Practical Strategies for the Secondary ELA Classroom",
+    "authors": [
+     "Katie Monnin"
+    ],
+    "publisher": "Maupin House Publishing",
+    "publishedDate": "2010-01-25",
+    "description": "From navigating the text features in graphic novels to creating standards-based lessons on reading comprehension, fiction and non-fiction, written response, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1934338400"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781934338407"
+     }
+    ],
+    "pageCount": 236,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dDdQNU0DWJOgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dDdQNU0DWJOgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDdQNU0DWJOgC&printsec\u003dfrontcover&dq\u003dGraphic+Novels&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDdQNU0DWJOgC&dq\u003dGraphic+Novels&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "d3yYSQAACAAJ",
+   "etag": "g3cDH8JLq1w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/d3yYSQAACAAJ",
+   "volumeInfo": {
+    "title": "Graphic Novels",
+    "subtitle": "Watchmen, the Life and Times of Scrooge Mcduck, from Hell, Graphic Novel, Cerebus the Aardvark, Bone, Stonehaven",
+    "authors": [
+     "Books, LLC"
+    ],
+    "publisher": "Books LLC",
+    "publishedDate": "2010-05",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1156773210"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781156773215"
+     }
+    ],
+    "pageCount": 440,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dd3yYSQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dd3yYSQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dd3yYSQAACAAJ&dq\u003dGraphic+Novels&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dd3yYSQAACAAJ&dq\u003dGraphic+Novels&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6TQrPQAACAAJ",
+   "etag": "PTyDPG6s8Pc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6TQrPQAACAAJ",
+   "volumeInfo": {
+    "title": "Graphic Novels",
+    "authors": [
+     "Dietlof Van Warmelo"
+    ],
+    "publishedDate": "2008-09-30",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1846804450"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781846804458"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d6TQrPQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d6TQrPQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6TQrPQAACAAJ&dq\u003dGraphic+Novels&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6TQrPQAACAAJ&dq\u003dGraphic+Novels&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 518
+}

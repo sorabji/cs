@@ -1,0 +1,539 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "m7OKpg-ZbHAC",
+   "etag": "vwSiYb/Q2JU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/m7OKpg-ZbHAC",
+   "volumeInfo": {
+    "title": "Fashion",
+    "authors": [
+     "Christopher Breward"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2003",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0192840304"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780192840301"
+     }
+    ],
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dm7OKpg-ZbHAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dm7OKpg-ZbHAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dm7OKpg-ZbHAC&dq\u003dFashion&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dm7OKpg-ZbHAC&dq\u003dFashion&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ADkfYX2CtjIC",
+   "etag": "v7EGsbH6phE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ADkfYX2CtjIC",
+   "volumeInfo": {
+    "title": "On fashion",
+    "authors": [
+     "Shari Benstock",
+     "Suzanne Ferriss"
+    ],
+    "publisher": "Rutgers Univ Pr",
+    "publishedDate": "1994-02",
+    "description": "This stimulating collection of essays explores fashion&#39;s symbolic and figurative functions in photography, cinema, and video; in consumerism, postmodernism, and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0813520339"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780813520339"
+     }
+    ],
+    "pageCount": 317,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dADkfYX2CtjIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dADkfYX2CtjIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dADkfYX2CtjIC&printsec\u003dfrontcover&dq\u003dFashion&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dADkfYX2CtjIC&dq\u003dFashion&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ARLmnMFZ9rcC",
+   "etag": "mxWgFpWX+U8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ARLmnMFZ9rcC",
+   "volumeInfo": {
+    "title": "Fashion",
+    "subtitle": "the collection of the Kyoto Costume Institute : a history from the 18th to the 20th century",
+    "authors": [
+     "Akiko Fukai",
+     "Tamami Suoh",
+     "Kyōto Fukushoku Bunka Kenkyū Zaidan"
+    ],
+    "publisher": "Taschen America Llc",
+    "publishedDate": "2002-09-01",
+    "description": "Since its inception in 1978, the KCI has held exhibitions around the world as a \u003cbr\u003e\r\nway of organi2ing research on Western \u003cb\u003efashion\u003c/b\u003e. The exhibitions and the \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3822812064"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783822812068"
+     }
+    ],
+    "pageCount": 735,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dARLmnMFZ9rcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dARLmnMFZ9rcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dARLmnMFZ9rcC&pg\u003dPP1&dq\u003dFashion&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dARLmnMFZ9rcC&dq\u003dFashion&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hbc52wlkFXcC",
+   "etag": "W8h2JGP9+AM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hbc52wlkFXcC",
+   "volumeInfo": {
+    "title": "Fashion",
+    "subtitle": "a philosophy",
+    "authors": [
+     "Lars Fr. H. Svendsen"
+    ],
+    "publisher": "Reaktion Books",
+    "publishedDate": "2006",
+    "description": "Fashion is at once a familiar yet mysteriously elite world that we all experience, whether we’re buying a new pair of jeans, reading Vogue, or watching the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1861892918"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781861892911"
+     }
+    ],
+    "pageCount": 188,
+    "printType": "BOOK",
+    "categories": [
+     "Design"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dhbc52wlkFXcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dhbc52wlkFXcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhbc52wlkFXcC&printsec\u003dfrontcover&dq\u003dFashion&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhbc52wlkFXcC&dq\u003dFashion&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jvpwygq9i3UC",
+   "etag": "cH7s3vfhHfE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jvpwygq9i3UC",
+   "volumeInfo": {
+    "title": "The fashion system",
+    "authors": [
+     "Roland Barthes"
+    ],
+    "publisher": "Univ of California Pr",
+    "publishedDate": "1983",
+    "description": "00 In his consideration of the language of the fashion magazine--the structural analysis of descriptions of women&#39;s clothing by writers about fashion--Barthes ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520071778"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520071773"
+     }
+    ],
+    "pageCount": 303,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 8,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003djvpwygq9i3UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003djvpwygq9i3UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djvpwygq9i3UC&printsec\u003dfrontcover&dq\u003dFashion&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djvpwygq9i3UC&dq\u003dFashion&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bFJdZXqMyIMC",
+   "etag": "h9/dXMFYVGc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bFJdZXqMyIMC",
+   "volumeInfo": {
+    "title": "Fashion Design",
+    "subtitle": "The Art of Style",
+    "authors": [
+     "Jen Jones"
+    ],
+    "publisher": "Snap Books",
+    "publishedDate": "2007-04-30",
+    "description": "&quot;Focuses on fashion design from idea to the retail store&quot;--Provided by publisher.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0736878815"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780736878814"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dbFJdZXqMyIMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dbFJdZXqMyIMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbFJdZXqMyIMC&printsec\u003dfrontcover&dq\u003dFashion&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbFJdZXqMyIMC&dq\u003dFashion&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bDDROiTY8qYC",
+   "etag": "M69b8PnmIkg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bDDROiTY8qYC",
+   "volumeInfo": {
+    "title": "In Fashion",
+    "subtitle": "From Runway to Retail, Everything You Need to Know to Break Into the Fashion Industry",
+    "authors": [
+     "Annemarie Iverson"
+    ],
+    "publisher": "Clarkson Potter",
+    "publishedDate": "2010-08-10",
+    "description": "The most comprehensive guide available for a notoriously competitive industry, In Fashion exposes all of its seams, with plenty of details on what it&#39;s like to ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0307463834"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780307463838"
+     }
+    ],
+    "pageCount": 324,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dbDDROiTY8qYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dbDDROiTY8qYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbDDROiTY8qYC&printsec\u003dfrontcover&dq\u003dFashion&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbDDROiTY8qYC&dq\u003dFashion&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_fcOAAAAYAAJ",
+   "etag": "YVxD4b1HYMI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_fcOAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Fashion",
+    "subtitle": "the power that influences the world. The philosophy of ancient and modern dress and fashion",
+    "authors": [
+     "Charles Patrick Fox",
+     "George Patrick Fox"
+    ],
+    "publishedDate": "1871",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HN4YJ3"
+     }
+    ],
+    "pageCount": 277,
+    "printType": "BOOK",
+    "categories": [
+     "Book-plates, American"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d_fcOAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d_fcOAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_fcOAAAAYAAJ&printsec\u003dfrontcover&dq\u003dFashion&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_fcOAAAAYAAJ&dq\u003dFashion&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Fashion.epub?id\u003d_fcOAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Fashion.pdf?id\u003d_fcOAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3RESDP943EVf972EKuwrYGKOr8IA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vRObQdX33vUC",
+   "etag": "GbeHjFBFzE0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vRObQdX33vUC",
+   "volumeInfo": {
+    "title": "Fashion",
+    "authors": [
+     "Jen Jones"
+    ],
+    "publisher": "Snap Books",
+    "publishedDate": "2007-08",
+    "description": "&quot;Provides information on the world of fashion, including tips on style trends and helpful hints for shopping on a budget&quot;--Provided by publisher.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1429601299"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781429601290"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dvRObQdX33vUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dvRObQdX33vUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvRObQdX33vUC&printsec\u003dfrontcover&dq\u003dFashion&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvRObQdX33vUC&dq\u003dFashion&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "o817K419OEUC",
+   "etag": "l+Q1XmDli0M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o817K419OEUC",
+   "volumeInfo": {
+    "title": "Fashion",
+    "subtitle": "a Canadian perspective",
+    "authors": [
+     "Alexandra Palmer"
+    ],
+    "publisher": "Univ of Toronto Pr",
+    "publishedDate": "2004-10-29",
+    "description": "Controversial and unconventional, this collection examines Canadian identity in terms of the fashion worn and designed over the last three centuries, and the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0802085903"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780802085900"
+     }
+    ],
+    "pageCount": 382,
+    "printType": "BOOK",
+    "categories": [
+     "Design"
+    ],
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003do817K419OEUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003do817K419OEUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003do817K419OEUC&printsec\u003dfrontcover&dq\u003dFashion&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003do817K419OEUC&dq\u003dFashion&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 587
+}

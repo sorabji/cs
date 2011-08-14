@@ -1,0 +1,569 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "aREzF-OQ9jsC",
+   "etag": "UrfIH3rnd1M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aREzF-OQ9jsC",
+   "volumeInfo": {
+    "title": "Advertising",
+    "authors": [
+     "Julian Petley"
+    ],
+    "publisher": "Black Rabbit Books",
+    "publishedDate": "2003-08",
+    "description": "Describes an advertising campaign from planning to completion, and profiles various jobs in advertising, such as account executive, creative director, media ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1583402551"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781583402559"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003daREzF-OQ9jsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003daREzF-OQ9jsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daREzF-OQ9jsC&printsec\u003dfrontcover&dq\u003dAdvertising&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daREzF-OQ9jsC&dq\u003dAdvertising&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GV4q12LtbwMC",
+   "etag": "CZCPM79xIGY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GV4q12LtbwMC",
+   "volumeInfo": {
+    "title": "Advertising",
+    "subtitle": "",
+    "authors": [
+     "Frank Jefkins",
+     "Даниел Ядин"
+    ],
+    "publisher": "Пеарсон Эдукатион",
+    "publishedDate": "2000",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0273634356"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780273634355"
+     }
+    ],
+    "pageCount": 394,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dGV4q12LtbwMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dGV4q12LtbwMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGV4q12LtbwMC&dq\u003dAdvertising&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGV4q12LtbwMC&dq\u003dAdvertising&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PogqMIhEfBMC",
+   "etag": "tbkkGwOgp9Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PogqMIhEfBMC",
+   "volumeInfo": {
+    "title": "Advertising",
+    "authors": [
+     "Iain MacRury"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2009-02-11",
+    "description": "Written in an accessible and interesting style, Advertising is the ideal introductory book for students of media, communication and journalism.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415251257"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415251259"
+     }
+    ],
+    "pageCount": 318,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dPogqMIhEfBMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dPogqMIhEfBMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPogqMIhEfBMC&printsec\u003dfrontcover&dq\u003dAdvertising&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPogqMIhEfBMC&dq\u003dAdvertising&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 30.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 17.02,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dPogqMIhEfBMC&dq\u003dAdvertising&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Advertising-sample-epub.acsm?id\u003dPogqMIhEfBMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Advertising-sample-pdf.acsm?id\u003dPogqMIhEfBMC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mbrk4UNxQGgC",
+   "etag": "VstFmElzUqs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mbrk4UNxQGgC",
+   "volumeInfo": {
+    "title": "Advertising and the Mind of the Consumer",
+    "subtitle": "What Works, What Doesn't, and Why",
+    "authors": [
+     "Max Sutherland"
+    ],
+    "publisher": "Allen & Unwin Australia",
+    "publishedDate": "2009-10-01",
+    "description": "Provides insight into the mind of both the consumer and the creators of advertisements by looking at the tricks successful advertisers use and how and why some ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1741755999"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781741755992"
+     }
+    ],
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "0.1.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dmbrk4UNxQGgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dmbrk4UNxQGgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmbrk4UNxQGgC&printsec\u003dfrontcover&dq\u003dAdvertising&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmbrk4UNxQGgC&dq\u003dAdvertising&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Advertising_and_the_Mind_of_the_Consumer-sample-epub.acsm?id\u003dmbrk4UNxQGgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Advertising_and_the_Mind_of_the_Consumer-sample-pdf.acsm?id\u003dmbrk4UNxQGgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gz6y_hpj6FEC",
+   "etag": "fy31eYcYGj0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gz6y_hpj6FEC",
+   "volumeInfo": {
+    "title": "Advertising",
+    "subtitle": "Its Business, Culture and Careers",
+    "authors": [
+     "Andy Tibbs",
+     "Trevor Beattie"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2010-01-27",
+    "description": "Whether you are an aspiring advertising creative, designer, account manager, PR / publicity consultant or marketing manager, Advertising is an engaging source ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415544661"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415544665"
+     }
+    ],
+    "pageCount": 217,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dgz6y_hpj6FEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dgz6y_hpj6FEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgz6y_hpj6FEC&printsec\u003dfrontcover&dq\u003dAdvertising&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgz6y_hpj6FEC&dq\u003dAdvertising&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Advertising-sample-epub.acsm?id\u003dgz6y_hpj6FEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IGnEZ-jgckIC",
+   "etag": "wP128z6lS8E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IGnEZ-jgckIC",
+   "volumeInfo": {
+    "title": "Advertising",
+    "authors": [
+     "Trotman Publishing"
+    ],
+    "publisher": "Trotman & Company, Limited",
+    "publishedDate": "2001-10-01",
+    "description": "What about working in \u003cb\u003eadvertising\u003c/b\u003e? &#39; /V dvertising&#39; is one of a family of \u003cbr\u003e\r\nbusiness activities that are /loften simply called &#39;Marketing&#39;. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0856607061"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780856607066"
+     }
+    ],
+    "pageCount": 36,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dIGnEZ-jgckIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dIGnEZ-jgckIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIGnEZ-jgckIC&printsec\u003dfrontcover&dq\u003dAdvertising&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIGnEZ-jgckIC&dq\u003dAdvertising&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7g1FAAAAYAAJ",
+   "etag": "QM1b7/FgmG0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7g1FAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Advertising",
+    "subtitle": "principles & practice",
+    "authors": [
+     "William Wells",
+     "John Burnett",
+     "Sandra Ernst Moriarty"
+    ],
+    "publishedDate": "2003",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0130477222"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780130477224"
+     }
+    ],
+    "pageCount": 599,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d7g1FAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d7g1FAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7g1FAAAAYAAJ&dq\u003dAdvertising&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7g1FAAAAYAAJ&dq\u003dAdvertising&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fCA9AAAAYAAJ",
+   "etag": "FWxFoE/lHp4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fCA9AAAAYAAJ",
+   "volumeInfo": {
+    "title": "Advertising",
+    "subtitle": "selling the consumer",
+    "authors": [
+     "John Lee Mahin"
+    ],
+    "publishedDate": "1919",
+    "description": "CHAPTER I \u003cb\u003eADVERTISING\u003c/b\u003e CAN APPEAL ONLY TO FREE DOLLARS &#39; ■ &gt;HE dollar that buys \u003cbr\u003e\r\nthe absolute essentials — food, clothing, and shelter — is a mortgaged \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433069451825"
+     }
+    ],
+    "pageCount": 298,
+    "printType": "BOOK",
+    "categories": [
+     "Advertising"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dfCA9AAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dfCA9AAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfCA9AAAAYAAJ&printsec\u003dfrontcover&dq\u003dAdvertising&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfCA9AAAAYAAJ&dq\u003dAdvertising&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Advertising.epub?id\u003dfCA9AAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Advertising.pdf?id\u003dfCA9AAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1lRuIkVP9gIuunxVU-Q9kb4jRuBA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "I8E2AAAAMAAJ",
+   "etag": "JGMxdqkz5/k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/I8E2AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Advertising",
+    "subtitle": "a practical presentation of the principles underlying the planning of successful advertising campaigns ...",
+    "authors": [
+     "Harry Tipper",
+     "George Burton Hotchkiss"
+    ],
+    "publishedDate": "1914",
+    "description": "The general use of the vocal method of \u003cb\u003eadvertising\u003c/b\u003e in the early days suggests \u003cbr\u003e\r\nperhaps the reason for the .absence of written methods. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015051102443"
+     }
+    ],
+    "pageCount": 464,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dI8E2AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dI8E2AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dI8E2AAAAMAAJ&printsec\u003dfrontcover&dq\u003dAdvertising&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dI8E2AAAAMAAJ&dq\u003dAdvertising&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Advertising.pdf?id\u003dI8E2AAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2D1UC0bpx0Y9tcbzotPmvPdSwrpQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BusGG9Ukj-oC",
+   "etag": "kfsWnkbNnEk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BusGG9Ukj-oC",
+   "volumeInfo": {
+    "title": "Advertising",
+    "subtitle": "a very short introduction",
+    "authors": [
+     "Winston Fletcher"
+    ],
+    "publisher": "Oxford Univ Pr",
+    "publishedDate": "2010-08-01",
+    "description": "Winston Fletcher, a leading authority on advertising, looks at the ways in which campaigns work (or fail to work), and the role of advertising in commerce, in ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0199568928"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780199568925"
+     }
+    ],
+    "pageCount": 140,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "0.1.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dBusGG9Ukj-oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dBusGG9Ukj-oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBusGG9Ukj-oC&printsec\u003dfrontcover&dq\u003dAdvertising&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBusGG9Ukj-oC&dq\u003dAdvertising&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 8.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.52,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dBusGG9Ukj-oC&dq\u003dAdvertising&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Advertising-sample-epub.acsm?id\u003dBusGG9Ukj-oC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Advertising-sample-pdf.acsm?id\u003dBusGG9Ukj-oC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 593
+}

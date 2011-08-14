@@ -1,0 +1,511 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "JZ1J0OYiTHgC",
+   "etag": "qtNb0e66B/A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JZ1J0OYiTHgC",
+   "volumeInfo": {
+    "title": "Texas History",
+    "authors": [
+     "Mary Dodson Wade"
+    ],
+    "publisher": "Heinemann State Studies",
+    "publishedDate": "2008-05-15",
+    "description": "Who were the European explorers and settlers of Texas, and why did they come?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1432911589"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781432911584"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dJZ1J0OYiTHgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dJZ1J0OYiTHgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJZ1J0OYiTHgC&printsec\u003dfrontcover&dq\u003dTexas+History&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJZ1J0OYiTHgC&dq\u003dTexas+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mMoIgncKXJIC",
+   "etag": "GfaK+BIoQTI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mMoIgncKXJIC",
+   "volumeInfo": {
+    "title": "Lone Star",
+    "subtitle": "a history of Texas and the Texans",
+    "authors": [
+     "T. R. Fehrenbach"
+    ],
+    "publisher": "Da Capo Pr",
+    "publishedDate": "2000",
+    "description": "From prehistory right up to the present-a classic, comprehensive, and superbly readable guide to the panoramic saga of Texas history.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0306809427"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780306809422"
+     }
+    ],
+    "pageCount": 767,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 12,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dmMoIgncKXJIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dmMoIgncKXJIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmMoIgncKXJIC&printsec\u003dfrontcover&dq\u003dTexas+History&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmMoIgncKXJIC&dq\u003dTexas+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vrj1Hs9iMSIC",
+   "etag": "5kAVR5NVQnE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vrj1Hs9iMSIC",
+   "volumeInfo": {
+    "title": "Texas History",
+    "subtitle": "Surprising Secrets About Our State's Founding Mothers, Fathers & Kids",
+    "authors": [
+     "Carole Marsh"
+    ],
+    "publisher": "Gallopade Intl",
+    "publishedDate": "1996-09",
+    "description": "Readers investigate important events and people in their state&#39;s history as well as their own families&#39; and learn that ordinary citizens pay a important part in ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0793361575"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780793361571"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dvrj1Hs9iMSIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dvrj1Hs9iMSIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvrj1Hs9iMSIC&printsec\u003dfrontcover&dq\u003dTexas+History&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvrj1Hs9iMSIC&dq\u003dTexas+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JuEBAAAAMAAJ",
+   "etag": "5u8LPeBIO0I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JuEBAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Texas history",
+    "subtitle": "an outline",
+    "authors": [
+     "George O'Brien John",
+     "Henderson K. Yoakum"
+    ],
+    "publishedDate": "1935",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015027787350"
+     }
+    ],
+    "pageCount": 236,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dJuEBAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dJuEBAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJuEBAAAAMAAJ&q\u003dTexas+History&dq\u003dTexas+History&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJuEBAAAAMAAJ&dq\u003dTexas+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "f50qBgWgp-kC",
+   "etag": "2/v+xK6PIdM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f50qBgWgp-kC",
+   "volumeInfo": {
+    "title": "Texas, a modern history",
+    "authors": [
+     "David G. McComb"
+    ],
+    "publisher": "Univ of Texas Pr",
+    "publishedDate": "1989-01-01",
+    "description": "Traces the full panorama of Texas history, from its earliest Indian inhabitants to the present day, emphasizing the twentieth-century evolution from a rural to ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0292746652"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780292746657"
+     }
+    ],
+    "pageCount": 197,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003df50qBgWgp-kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003df50qBgWgp-kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003df50qBgWgp-kC&printsec\u003dfrontcover&dq\u003dTexas+History&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003df50qBgWgp-kC&dq\u003dTexas+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ufjiHgAACAAJ",
+   "etag": "TPBqdltSvYw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ufjiHgAACAAJ",
+   "volumeInfo": {
+    "title": "Texas History",
+    "authors": [
+     "Felix D. Almaraz",
+     "Patricia Thompson",
+     "Carmen Reyes-johnson"
+    ],
+    "publisher": "Kendall/Hunt Publishing Company",
+    "publishedDate": "2008-04-30",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0757542530"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780757542534"
+     }
+    ],
+    "pageCount": 362,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dufjiHgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dufjiHgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dufjiHgAACAAJ&dq\u003dTexas+History&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dufjiHgAACAAJ&dq\u003dTexas+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-aULAAAAIAAJ",
+   "etag": "/ifi2QX//N0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-aULAAAAIAAJ",
+   "volumeInfo": {
+    "title": "A history of Texas and Texans",
+    "authors": [
+     "Francis White Johnson"
+    ],
+    "publishedDate": "1914",
+    "description": "\u003cb\u003eTEXAS\u003c/b\u003e AND TEXANS Cameron County In Cameron County lies the City of Brownsville \u003cbr\u003e\r\nand most of that territory loosely described as the &quot;Brownsville country. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015008896188"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d-aULAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d-aULAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-aULAAAAIAAJ&printsec\u003dfrontcover&dq\u003dTexas+History&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-aULAAAAIAAJ&dq\u003dTexas+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/A_history_of_Texas_and_Texans.epub?id\u003d-aULAAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/A_history_of_Texas_and_Texans.pdf?id\u003d-aULAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1s9py4x3VmoiiKwmm9AZfmqiaFXg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wnbLGwAACAAJ",
+   "etag": "h14ABr0BXJ4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wnbLGwAACAAJ",
+   "volumeInfo": {
+    "title": "Texas history",
+    "authors": [
+     "Eugene Campbell Barker"
+    ],
+    "publishedDate": "1929",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:538851001"
+     }
+    ],
+    "pageCount": 643,
+    "printType": "BOOK",
+    "categories": [
+     "Texas"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwnbLGwAACAAJ&dq\u003dTexas+History&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwnbLGwAACAAJ&dq\u003dTexas+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eYR9PwAACAAJ",
+   "etag": "ouaD7mHLTUA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eYR9PwAACAAJ",
+   "volumeInfo": {
+    "title": "The History of Texas",
+    "authors": [
+     "Robert A. Calvert",
+     "Arnoldo de Leon",
+     "Gregg Cantrell"
+    ],
+    "publishedDate": "2007-08-30",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0882952552"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780882952550"
+     }
+    ],
+    "pageCount": 503,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003deYR9PwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003deYR9PwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deYR9PwAACAAJ&dq\u003dTexas+History&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deYR9PwAACAAJ&dq\u003dTexas+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "K5coAAAAYAAJ",
+   "etag": "B0Mn7s4kRLY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/K5coAAAAYAAJ",
+   "volumeInfo": {
+    "title": "A history of Texas",
+    "subtitle": "from the earliest settlements to the year 1876, with an appendix containing the constitution of the state of Texas, adopted September, 1875, for use in schools, and for general readers",
+    "authors": [
+     "Homer S. Thrall",
+     "Texas"
+    ],
+    "publishedDate": "1876",
+    "description": "\u003cb\u003eHistory\u003c/b\u003e of \u003cb\u003eTexas\u003c/b\u003e. RUINS OF THE ALAMO— 1837. PERIOD I. THE ESTABLISHMENT OF \u003cbr\u003e\r\nMISSIONS. From the Landing op La Salle, in 1685, to the Treaty between the \u003cbr\u003e\r\nUnited \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HNE5RR"
+     }
+    ],
+    "pageCount": 228,
+    "printType": "BOOK",
+    "categories": [
+     "Texas"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dK5coAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dK5coAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dK5coAAAAYAAJ&printsec\u003dfrontcover&dq\u003dTexas+History&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dK5coAAAAYAAJ&dq\u003dTexas+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/A_history_of_Texas.pdf?id\u003dK5coAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U07nsRwJaN4oNqOlVoTH_LfYJZXSg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 582
+}

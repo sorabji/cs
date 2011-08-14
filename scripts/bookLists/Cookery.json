@@ -1,0 +1,520 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "BJY58UqSEMUC",
+   "etag": "gryAqzqmlr8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BJY58UqSEMUC",
+   "volumeInfo": {
+    "title": "The art of cookery made plain and easy",
+    "authors": [
+     "Hannah Glasse"
+    ],
+    "publishedDate": "1998-06-01",
+    "description": "The first American edition of this staple of the American household during the Revolutionary War.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1557094624"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781557094629"
+     }
+    ],
+    "pageCount": 325,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dBJY58UqSEMUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dBJY58UqSEMUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBJY58UqSEMUC&printsec\u003dfrontcover&dq\u003dCookery&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBJY58UqSEMUC&dq\u003dCookery&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_6CggcPs3iQC",
+   "etag": "80Q/bGyqTNE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_6CggcPs3iQC",
+   "volumeInfo": {
+    "title": "American Cookery",
+    "authors": [
+     "Amelia Simmons"
+    ],
+    "publishedDate": "1996-10-01",
+    "description": "American Cookery was the first cookbook in America. Reproduced here is the rare second edition printed in 1796.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "155709439X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781557094391"
+     }
+    ],
+    "pageCount": 88,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d_6CggcPs3iQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d_6CggcPs3iQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_6CggcPs3iQC&printsec\u003dfrontcover&dq\u003dCookery&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_6CggcPs3iQC&dq\u003dCookery&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/American_Cookery-sample-epub.acsm?id\u003d_6CggcPs3iQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hz8CAAAAQAAJ",
+   "etag": "HbAjQOp5Egg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hz8CAAAAQAAJ",
+   "volumeInfo": {
+    "title": "Cookery",
+    "subtitle": "being an abridgment of some of the lectures delivered in the cookery school at the International exhibition for 1873 and 1874",
+    "authors": [
+     "John Charles Buckmaster"
+    ],
+    "publishedDate": "1875",
+    "description": "BUCKMASTER&#39;S \u003cb\u003eCOOKERY\u003c/b\u003e. LECTURE I. &quot; Whether ye eat or drink, do all to the glory \u003cbr\u003e\r\nof God.&quot; EARLY ENGLISH FOOD AND COOKING. Man has been described as an animal \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:600079460"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "0.1.0.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dhz8CAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dhz8CAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhz8CAAAAQAAJ&printsec\u003dfrontcover&dq\u003dCookery&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhz8CAAAAQAAJ&dq\u003dCookery&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Cookery.epub?id\u003dhz8CAAAAQAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Cookery.pdf?id\u003dhz8CAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1XEwNIDNZRvXd4yP89FRDw8ldiTg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QodUCl0V9LEC",
+   "etag": "Ir7odoLwEyY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QodUCl0V9LEC",
+   "volumeInfo": {
+    "title": "Jennie June's American cookery book",
+    "subtitle": "containing upwards of twelve hundred choice and carefully tested receipts, embracing all the popular dishes, and the best results of modern science ... Also, a chapter for invalids, for infants, one on Jewish cookery, and a variety of miscellaneous receipts ...",
+    "authors": [
+     "Jane Cunningham Croly",
+     "Elizabeth Robins Pennell Collection (Library of Congress)"
+    ],
+    "publishedDate": "1866",
+    "description": "GENERAL PRINCIPLES OF COOKING. 1. The object of cooking is to make food \u003cbr\u003e\r\nhealthful, and palatable ; the secret is therefore, how to combine elements and \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433056928215"
+     }
+    ],
+    "pageCount": 343,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dQodUCl0V9LEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dQodUCl0V9LEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQodUCl0V9LEC&printsec\u003dfrontcover&dq\u003dCookery&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQodUCl0V9LEC&dq\u003dCookery&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Jennie_June_s_American_cookery_book.epub?id\u003dQodUCl0V9LEC&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Jennie_June_s_American_cookery_book.pdf?id\u003dQodUCl0V9LEC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1lofRE0AfPeyhtkvEM43mP9yPIxg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "swZI_ab4LUcC",
+   "etag": "j5XeYof/Xxc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/swZI_ab4LUcC",
+   "volumeInfo": {
+    "title": "Tofu Cookery",
+    "authors": [
+     "Louise Hagler"
+    ],
+    "publisher": "Book Publishing Company (TN)",
+    "publishedDate": "2008-04-30",
+    "description": "Here are a few of the new recipes: veggie sushi, roasted vegetable salad with tofu, cucumber gazpacho, creamy tofu aioli, mushroom tofu burgers, chile colorado, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1570672202"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781570672200"
+     }
+    ],
+    "pageCount": 187,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 9,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dswZI_ab4LUcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dswZI_ab4LUcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dswZI_ab4LUcC&printsec\u003dfrontcover&dq\u003dCookery&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dswZI_ab4LUcC&dq\u003dCookery&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "E3wlTwEACAAJ",
+   "etag": "AcZYqp5xz2U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/E3wlTwEACAAJ",
+   "volumeInfo": {
+    "title": "Cookery",
+    "subtitle": "The Nutshell Series (1897)",
+    "authors": [
+     "Marguerite Ninet"
+    ],
+    "publisher": "Kessinger Publishing",
+    "publishedDate": "2010-09",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1166499502"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781166499501"
+     }
+    ],
+    "pageCount": 136,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dE3wlTwEACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dE3wlTwEACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dE3wlTwEACAAJ&dq\u003dCookery&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dE3wlTwEACAAJ&dq\u003dCookery&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pT4CAAAAQAAJ",
+   "etag": "PLL+J/LqgpI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pT4CAAAAQAAJ",
+   "volumeInfo": {
+    "title": "Murray's modern cookery book. Modern domestic cookery, by a lady",
+    "authors": [
+     "Modern domestic cookery"
+    ],
+    "publishedDate": "1851",
+    "description": "MODERN DOMESTIC \u003cb\u003eCOOKERY\u003c/b\u003e. CHAPTER I. OBSERVATIONS FOR THE USE OF THE MISTRESS OF \u003cbr\u003e\r\nA FAMILY. Importance of a Knowledge of Household Affairs — Direction of a \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:600086790"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dpT4CAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dpT4CAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpT4CAAAAQAAJ&printsec\u003dfrontcover&dq\u003dCookery&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpT4CAAAAQAAJ&dq\u003dCookery&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Murray_s_modern_cookery_book_Modern_dome.pdf?id\u003dpT4CAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U37RUSZFprdEeOWm_4QMsbFOw8d1Q&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZNF3HAAACAAJ",
+   "etag": "IrsARXpqslw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZNF3HAAACAAJ",
+   "volumeInfo": {
+    "title": "Cookery",
+    "subtitle": "an introduction",
+    "authors": [
+     "Victor Ceserani",
+     "Ronald Kinton"
+    ],
+    "publisher": "Hodder Arnold",
+    "publishedDate": "1987",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0713174919"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780713174915"
+     }
+    ],
+    "pageCount": 170,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZNF3HAAACAAJ&dq\u003dCookery&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZNF3HAAACAAJ&dq\u003dCookery&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "U5hLAAAAIAAJ",
+   "etag": "jen25LJZUaM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/U5hLAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Lessons in cookery",
+    "subtitle": "Hand-book of the National training school for cookery (South Kensington, London). To which is added, The principles of diet in health and disease",
+    "authors": [
+     "National Training School for Cookery (Great Britain)",
+     "R. O. C. (Rose Owen Cole)",
+     "Thomas King Chambers"
+    ],
+    "publishedDate": "1878",
+    "description": "LESSONS IN COOKEKY. CHAPTER I. INTEODUCTOET, ON CLEANING RANGES, STOVES, AND \u003cbr\u003e\r\nKITCHEN UTENSILS. LESSON FIRST. TO CLEAN A KITCHEN EANGE OB STOVE. 1. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B243273"
+     }
+    ],
+    "pageCount": 382,
+    "printType": "BOOK",
+    "categories": [
+     "Cookery"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 2,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dU5hLAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dU5hLAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dU5hLAAAAIAAJ&printsec\u003dfrontcover&dq\u003dCookery&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dU5hLAAAAIAAJ&dq\u003dCookery&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Lessons_in_cookery.epub?id\u003dU5hLAAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Lessons_in_cookery.pdf?id\u003dU5hLAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3CR6oNmtt9B9OtxDD7ZB_vUHiFog&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QzwTAAAAQAAJ",
+   "etag": "c3SFrCQBpQo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QzwTAAAAQAAJ",
+   "volumeInfo": {
+    "title": "Two fifteenth-century cookery-books",
+    "subtitle": "Harleian ms.279 (ab.1430), & Harl. ms.4016 (ab.1450), with extracts from Ashmole ms.1429 Laud ms.553, & Douce ms.55",
+    "authors": [
+     "British Library"
+    ],
+    "publishedDate": "1888",
+    "description": "FIFTEENTH CENTURY \u003cb\u003eCOOKERY\u003c/b\u003e BOOK. I. HAELEIAN MS. 279, ab. 1420 aD 4ncipit Ii \u003cbr\u003e\r\nKalendare de Potages dyners. 1 foe/1. 1 \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:N10334609"
+     }
+    ],
+    "pageCount": 151,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dQzwTAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dQzwTAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQzwTAAAAQAAJ&printsec\u003dfrontcover&dq\u003dCookery&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQzwTAAAAQAAJ&dq\u003dCookery&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Two_fifteenth_century_cookery_books.pdf?id\u003dQzwTAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2-HvXZmH1uyxkP83idOmar71-SeA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 590
+}

@@ -1,0 +1,567 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "JhjPK4FKpCcC",
+   "etag": "fEo0DKghTPM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JhjPK4FKpCcC",
+   "volumeInfo": {
+    "title": "Experience and education",
+    "authors": [
+     "John Dewey"
+    ],
+    "publisher": "Free Press",
+    "publishedDate": "1997-07-01",
+    "description": "Many pages of this volume illustrate Dr. Dewey&#39;s ideas for a philosophy of experience and its relation to education.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0684838281"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780684838281"
+     }
+    ],
+    "pageCount": 91,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 47,
+    "contentVersion": "0.2.2.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dJhjPK4FKpCcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dJhjPK4FKpCcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJhjPK4FKpCcC&printsec\u003dfrontcover&dq\u003dEducation&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJhjPK4FKpCcC&dq\u003dEducation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dJhjPK4FKpCcC&dq\u003dEducation&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Experience_and_education-sample-epub.acsm?id\u003dJhjPK4FKpCcC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UlOeAD3vGHwC",
+   "etag": "f7hFzK7I9Fk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UlOeAD3vGHwC",
+   "volumeInfo": {
+    "title": "Education",
+    "subtitle": "Ends and Means",
+    "authors": [
+     "Plato",
+     "Julius A. Sigler",
+     "Thomas C. Tiller",
+     "Anne Marshall Huston"
+    ],
+    "publisher": "Univ Pr of Amer",
+    "publishedDate": "1996-12-28",
+    "description": "In American society, the ends and means of education have been debated vigorously throughout its history.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0761804528"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761804529"
+     }
+    ],
+    "pageCount": 388,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dUlOeAD3vGHwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dUlOeAD3vGHwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUlOeAD3vGHwC&printsec\u003dfrontcover&dq\u003dEducation&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUlOeAD3vGHwC&dq\u003dEducation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Education-sample-pdf.acsm?id\u003dUlOeAD3vGHwC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UkxjpfiY4nIC",
+   "etag": "XMbukZhcV2w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UkxjpfiY4nIC",
+   "volumeInfo": {
+    "title": "Democracy and education",
+    "subtitle": "an introduction to the philosophy of education",
+    "authors": [
+     "John Dewey"
+    ],
+    "publisher": "Plain Label Books",
+    "publishedDate": "1966",
+    "description": "Chapter One: \u003cb\u003eEducation\u003c/b\u003e as a Necessity of Life 1. Renewal of Life by Transmission\u003cbr\u003e\r\n. The most notable distinction between living and inanimate things is that \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1603036725"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781603036726"
+     }
+    ],
+    "pageCount": 378,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dUkxjpfiY4nIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dUkxjpfiY4nIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUkxjpfiY4nIC&printsec\u003dfrontcover&dq\u003dEducation&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUkxjpfiY4nIC&dq\u003dEducation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Democracy_and_education-sample-epub.acsm?id\u003dUkxjpfiY4nIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Democracy_and_education-sample-pdf.acsm?id\u003dUkxjpfiY4nIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wLk9AAAAIAAJ",
+   "etag": "NFwMnDBZXe0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wLk9AAAAIAAJ",
+   "volumeInfo": {
+    "title": "education",
+    "description": "In France, the Revolution concentrated attention upon the state&#39;s responsibility \u003cbr\u003e\r\nin \u003cb\u003eeducation\u003c/b\u003e. Robespierre asserted: &quot;The nation alone has the right to \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:W91FXYUQ1UY"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dwLk9AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dwLk9AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwLk9AAAAIAAJ&printsec\u003dfrontcover&dq\u003dEducation&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwLk9AAAAIAAJ&dq\u003dEducation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mmTun9zaCTcC",
+   "etag": "THC4yna38mM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mmTun9zaCTcC",
+   "volumeInfo": {
+    "title": "Education",
+    "authors": [
+     "Ferguson"
+    ],
+    "publisher": "Ferguson Publishing Company",
+    "publishedDate": "2009-02",
+    "description": "Presents twenty-one careers related to education, discussing job duties and requirements, work environment and potential employment situations, salary, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0816072981"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816072989"
+     }
+    ],
+    "pageCount": 204,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dmmTun9zaCTcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dmmTun9zaCTcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmmTun9zaCTcC&printsec\u003dfrontcover&dq\u003dEducation&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmmTun9zaCTcC&dq\u003dEducation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Education-sample-epub.acsm?id\u003dmmTun9zaCTcC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MF71gwsajEYC",
+   "etag": "HzUJKKuqCJ0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MF71gwsajEYC",
+   "volumeInfo": {
+    "title": "Encyclopedia of American Education: A to E",
+    "authors": [
+     "Harlow G. Unger"
+    ],
+    "publisher": "Facts on File",
+    "publishedDate": "2007",
+    "description": "Praise for the previous edition: Choice &quot;Outstanding Academic Title&quot; “As the only comprehensive reference on U.S. education, this work is essential for ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0816068879"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816068876"
+     }
+    ],
+    "pageCount": 1370,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dMF71gwsajEYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dMF71gwsajEYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMF71gwsajEYC&printsec\u003dfrontcover&dq\u003dEducation&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMF71gwsajEYC&dq\u003dEducation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fg3O77NgeTYC",
+   "etag": "idXFivHMmLk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fg3O77NgeTYC",
+   "volumeInfo": {
+    "title": "The Obama Education Plan",
+    "subtitle": "An Education Week Guide",
+    "authors": [
+     "Barack Obama"
+    ],
+    "publisher": "Jossey-Bass Inc Pub",
+    "publishedDate": "2009-01-20",
+    "description": "This book provides background on key points in President Obama&#39;s education plan: articles on key educational issues, stories of innovative practice, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0470482095"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470482094"
+     }
+    ],
+    "pageCount": 226,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dfg3O77NgeTYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dfg3O77NgeTYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfg3O77NgeTYC&printsec\u003dfrontcover&dq\u003dEducation&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfg3O77NgeTYC&dq\u003dEducation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dfg3O77NgeTYC&dq\u003dEducation&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Obama_Education_Plan-sample-epub.acsm?id\u003dfg3O77NgeTYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Obama_Education_Plan-sample-pdf.acsm?id\u003dfg3O77NgeTYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "amPuAAAAMAAJ",
+   "etag": "NANRZwjnWtU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/amPuAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Education",
+    "subtitle": "opposing viewpoints",
+    "authors": [
+     "Mary E. Williams"
+    ],
+    "publisher": "Greenhaven Pr",
+    "publishedDate": "2005",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015060395657"
+     }
+    ],
+    "pageCount": 191,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003damPuAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003damPuAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003damPuAAAAMAAJ&q\u003dEducation&dq\u003dEducation&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003damPuAAAAMAAJ&dq\u003dEducation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lptbXQgdHAUC",
+   "etag": "z7YpqAZqTag",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lptbXQgdHAUC",
+   "volumeInfo": {
+    "title": "Foundations of Education",
+    "authors": [
+     "Allan C. Ornstein",
+     "Daniel U. Levine"
+    ],
+    "publisher": "Wadsworth Pub Co",
+    "publishedDate": "2007-10",
+    "description": "This text is written for the student who is preparing for a teaching career and needs to understand the key educational issues and policies affecting American ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0618904123"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780618904129"
+     }
+    ],
+    "pageCount": 516,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dlptbXQgdHAUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dlptbXQgdHAUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlptbXQgdHAUC&printsec\u003dfrontcover&dq\u003dEducation&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlptbXQgdHAUC&dq\u003dEducation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8k3ECv5YE60C",
+   "etag": "4G8Sk7wiITY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8k3ECv5YE60C",
+   "volumeInfo": {
+    "title": "Education and social change",
+    "subtitle": "themes in the history of American schooling",
+    "authors": [
+     "John L. Rury"
+    ],
+    "publisher": "Lawrence Erlbaum",
+    "publishedDate": "2005",
+    "description": "The book considers the impact of social forces, such as industrialization, urbanization, immigration, and cultural conflict on the development of schools and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0805852948"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780805852943"
+     }
+    ],
+    "pageCount": 273,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d8k3ECv5YE60C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d8k3ECv5YE60C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8k3ECv5YE60C&printsec\u003dfrontcover&dq\u003dEducation&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8k3ECv5YE60C&dq\u003dEducation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 30.36,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d8k3ECv5YE60C&dq\u003dEducation&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Education_and_social_change-sample-epub.acsm?id\u003d8k3ECv5YE60C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Education_and_social_change-sample-pdf.acsm?id\u003d8k3ECv5YE60C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 588
+}

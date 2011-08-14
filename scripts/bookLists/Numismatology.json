@@ -1,0 +1,475 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "u6E1twAACAAJ",
+   "etag": "vYlxDA7Zy14",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u6E1twAACAAJ",
+   "volumeInfo": {
+    "title": "Numismatology",
+    "authors": [
+     "T. Forster"
+    ],
+    "publishedDate": "1892",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:40309199"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Numismatics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003du6E1twAACAAJ&dq\u003dNumismatology&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003du6E1twAACAAJ&dq\u003dNumismatology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yajAG0tbZ9cC",
+   "etag": "xM1m/UqUiIQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yajAG0tbZ9cC",
+   "volumeInfo": {
+    "title": "Journal of the Asiatic Society of Bombay",
+    "authors": [
+     "Asiatic Society of Bombay",
+     "Royal Asiatic Society of Great Britain and Ireland. Bombay Branch"
+    ],
+    "publishedDate": "1872",
+    "description": "Our researches in \u003cb\u003enumismatology\u003c/b\u003e have been principally directed to the coins of \u003cbr\u003e\r\nthe Sah, Falabhi, and Gupta dynasties, found in Peninsular Gujarat, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015024028568"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "1.1.0.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dyajAG0tbZ9cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dyajAG0tbZ9cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyajAG0tbZ9cC&pg\u003dPR113&dq\u003dNumismatology&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyajAG0tbZ9cC&dq\u003dNumismatology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Journal_of_the_Asiatic_Society_of_Bombay.pdf?id\u003dyajAG0tbZ9cC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3PbNf8dpdFXp_GrTTeBeImgRUxrA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "U4fdbQnqtxcC",
+   "etag": "bTCmQ8h0JFA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/U4fdbQnqtxcC",
+   "volumeInfo": {
+    "title": "The popular encyclopedia",
+    "subtitle": "being a general dictionary of arts, sciences, literature, biography, history, and political economy, reprinted from the American edition of the 'Conversations lexicon' ... with dissertations on the rise and progress of literature",
+    "authors": [
+     "Sir Daniel Keyte Sandford",
+     "Thomas Thomson",
+     "Allan Cunningham"
+    ],
+    "publishedDate": "1837",
+    "description": "\u003cb\u003eNUMISMATOLOGY\u003c/b\u003e. \u003cb\u003eNUMISMATOLOGY\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:600049936"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Encyclopedias and dictionaries"
+    ],
+    "contentVersion": "full-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dU4fdbQnqtxcC&pg\u003dPA275&dq\u003dNumismatology&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dU4fdbQnqtxcC&dq\u003dNumismatology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_popular_encyclopedia.pdf?id\u003dU4fdbQnqtxcC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1VOKR7TxqwFPwFcK1RcMyIhoGftw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "41LMYgEACAAJ",
+   "etag": "6rcoe8BRH/o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/41LMYgEACAAJ",
+   "volumeInfo": {
+    "title": "A bibliography on Far Eastern numismatology",
+    "authors": [
+     "Arthur Braddan Coole",
+     "Hitoshi Kozono",
+     "Howard F. Bowker"
+    ],
+    "publishedDate": "1967",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:656181835"
+     }
+    ],
+    "pageCount": 581,
+    "printType": "BOOK",
+    "categories": [
+     "Numismatics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d41LMYgEACAAJ&dq\u003dNumismatology&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d41LMYgEACAAJ&dq\u003dNumismatology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KvgIAQAAIAAJ",
+   "etag": "DYXAz/bOozw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KvgIAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Iran almanac and book of facts",
+    "authors": [
+     "Echo Institute"
+    ],
+    "publishedDate": "1976-01-01",
+    "description": "\u003cb\u003eNUMISMATOLOGY\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNumismatology\u003c/b\u003e.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSC:32106019667606"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dKvgIAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dKvgIAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKvgIAQAAIAAJ&q\u003dNumismatology&dq\u003dNumismatology&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKvgIAQAAIAAJ&dq\u003dNumismatology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dhTpAAAAMAAJ",
+   "etag": "fwFtbP2iZMo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dhTpAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The Century Dictionary and Cyclopedia: The Century dictionary ... prepared under the superintendence of William Dwight Whitney ... rev. & enl. under the superintendence of Benjamin E. Smith",
+    "authors": [
+     "William Dwight Whitney",
+     "Benjamin Eli Smith"
+    ],
+    "publishedDate": "1911",
+    "description": "\u003cb\u003enumismatologist\u003c/b\u003e (nu-mis-ma-tol&#39;o-jist), n. [&lt; \u003cb\u003enumismatology\u003c/b\u003e + -ist.] One versed \u003cbr\u003e\r\nin \u003cb\u003enumismatology\u003c/b\u003e; a numismatist. [Rare.] \u003cb\u003enumismatology\u003c/b\u003e (nu-mis-ma-tol&#39;o-ji), \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015036876889"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Atlases"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003ddhTpAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003ddhTpAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddhTpAAAAMAAJ&pg\u003dPA4040&dq\u003dNumismatology&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddhTpAAAAMAAJ&dq\u003dNumismatology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Century_Dictionary_and_Cyclopedia_Th.pdf?id\u003ddhTpAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2AyGrhmePB43PdJdk8lLpDwgTxgg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "y0Q-AAAAYAAJ",
+   "etag": "yoqLHr56Nsc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/y0Q-AAAAYAAJ",
+   "volumeInfo": {
+    "title": "The imperial dictionary of the English language",
+    "subtitle": "a complete encyclopedic lexicon, literary, scientific, and technological",
+    "authors": [
+     "John Ogilvie"
+    ],
+    "publishedDate": "1882",
+    "description": "\u003cb\u003eNUMISMATOLOGIST\u003c/b\u003e 281 NURSE-POND treats of coins and medal* in their relation tt \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e \u003cb\u003eNumismatology\u003c/b\u003e (nu-mifl&#39;iua-tol&quot;o-Ji), n. Same as jiuinimrtrttographif \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HX5GB5"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Encyclopedias and dictionaries"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dy0Q-AAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dy0Q-AAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dy0Q-AAAAYAAJ&pg\u003dPA281&dq\u003dNumismatology&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dy0Q-AAAAYAAJ&dq\u003dNumismatology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_imperial_dictionary_of_the_English_l.pdf?id\u003dy0Q-AAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1DSA8jU4nj_SznxIP2CPKQZbznTg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kQ8bAQAAMAAJ",
+   "etag": "Txizyf56lE0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kQ8bAQAAMAAJ",
+   "volumeInfo": {
+    "title": "The Edinburgh encyclopaedia",
+    "authors": [
+     "Sir David Brewster"
+    ],
+    "publishedDate": "1832",
+    "description": "The ancient \u003cb\u003enumismatology\u003c/b\u003e extends from the earliest times to the fall of the \u003cbr\u003e\r\nwestern empire ; the \u003cb\u003enumismatology\u003c/b\u003e of the middle ages commences with \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NWU:35556000687871"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dkQ8bAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dkQ8bAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkQ8bAQAAMAAJ&pg\u003dPA546&dq\u003dNumismatology&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkQ8bAQAAMAAJ&dq\u003dNumismatology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Edinburgh_encyclopaedia.pdf?id\u003dkQ8bAQAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2x55lCELwctiXhu1i2h5XUFPIzkA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xlJXAAAAYAAJ",
+   "etag": "dP6xoz0x/3E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xlJXAAAAYAAJ",
+   "volumeInfo": {
+    "title": "The Edinburgh encyclopedia",
+    "authors": [
+     "Sir David Brewster"
+    ],
+    "publishedDate": "1832",
+    "description": "The ancient \u003cb\u003enumismatology\u003c/b\u003e extends from the earliest times to the fall of the \u003cbr\u003e\r\nwestern empire ; the \u003cb\u003enumismatology\u003c/b\u003e of the middle ages commences with \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X030220620"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dxlJXAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dxlJXAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxlJXAAAAYAAJ&pg\u003dPA546&dq\u003dNumismatology&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxlJXAAAAYAAJ&dq\u003dNumismatology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Edinburgh_encyclopedia.pdf?id\u003dxlJXAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U39NW3ocFWqJa5Cm2_daeovT9cx6Q&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UYtBAAAAYAAJ",
+   "etag": "/ONq5nRadvc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UYtBAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Englisch-Deutsches und Deutsch-Englisches Wörterbuch",
+    "subtitle": "mit besonderer Rücksicht auf den gegenwärtigen Standpunkt der Literatur und Wissenschaft",
+    "authors": [
+     "Newton Ivory Lucas"
+    ],
+    "publishedDate": "1868",
+    "description": "Wuii^ finiff, /&#39;. , numismatics; \u003cb\u003enumismatology\u003c/b\u003e. Wiinj&#39;timtig, ,/., skilled or \u003cbr\u003e\r\nversed in the knowledge of coins; (in Wunjfunfctger, a \u003cb\u003enumismatologist\u003c/b\u003e. ill \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PRNC:32101073366344"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "German language"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dUYtBAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dUYtBAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUYtBAAAAYAAJ&pg\u003dPA1301&dq\u003dNumismatology&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUYtBAAAAYAAJ&dq\u003dNumismatology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Englisch_Deutsches_und_Deutsch_Englische.pdf?id\u003dUYtBAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2tq1tmAQDzMRV-PIUjs3iAdKAYaA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 582
+}

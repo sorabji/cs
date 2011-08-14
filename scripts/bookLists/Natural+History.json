@@ -1,0 +1,496 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "46rDHg3gWfUC",
+   "etag": "6opa2Fkv9QM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/46rDHg3gWfUC",
+   "volumeInfo": {
+    "title": "Natural history",
+    "authors": [
+     "American Museum of Natural History"
+    ],
+    "publishedDate": "1908",
+    "description": "\u003cb\u003e...\u003c/b\u003e Museum Journal Volume VIII November, 1908 Number 7 Published monthly from \u003cbr\u003e\r\nOctober to May inclusive by The American Museum of \u003cb\u003eNatural History\u003c/b\u003e New York \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105003092892"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d46rDHg3gWfUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d46rDHg3gWfUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d46rDHg3gWfUC&printsec\u003dfrontcover&dq\u003dNatural+History&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d46rDHg3gWfUC&dq\u003dNatural+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Natural_history.pdf?id\u003d46rDHg3gWfUC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2kEUFis4nH5fxkP_DMVSSBI6OZSA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VYhiAAAAMAAJ",
+   "etag": "YlwUDXGHoL0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VYhiAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Natural history",
+    "authors": [
+     "Pliny (the Elder.)",
+     "Harris Rackham"
+    ],
+    "publisher": "Loeb Classical Library",
+    "publishedDate": "1989",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015004124486"
+     }
+    ],
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dVYhiAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dVYhiAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVYhiAAAAMAAJ&q\u003dNatural+History&dq\u003dNatural+History&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVYhiAAAAMAAJ&dq\u003dNatural+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zpNJAAAAYAAJ",
+   "etag": "0a+tqdKN7sY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zpNJAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Natural history",
+    "authors": [
+     "American Museum of Natural History"
+    ],
+    "publishedDate": "1921",
+    "description": "THE AMERICAN MUSEUM OF \u003cb\u003eNATURAL HISTORY\u003c/b\u003e MEMBERSHIP For the enrichment of its \u003cbr\u003e\r\ncollections, for scientific research and exploration, and for publications, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PRNC:32101013827801"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Natural history"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dzpNJAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dzpNJAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzpNJAAAAYAAJ&printsec\u003dfrontcover&dq\u003dNatural+History&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzpNJAAAAYAAJ&dq\u003dNatural+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Natural_history.pdf?id\u003dzpNJAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0T89Yug-hGjty_x2n7L8qJayzN4A&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "71pGAAAAYAAJ",
+   "etag": "0BpLrP9yoPU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/71pGAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Natural history",
+    "subtitle": "a popular introduction to the study of quadrupeds, or of the class Mammalia, on scientific principles. Adapted for youth with a particular notice of those mentioned in the Scriptures",
+    "authors": [
+     "Chiswick Press"
+    ],
+    "publishedDate": "1833",
+    "description": "POPULAR INTRODUCTION TO THE Stuirp of &lt;&amp;uab?tqrt&amp;s, on Scientific principles. \u003cbr\u003e\r\nADAPTED FOR YOUTH. O Lord, how manifold are thy works ! in wisdom hast thou \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "COLUMBIA:CU50532871"
+     }
+    ],
+    "pageCount": 492,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "1.1.0.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d71pGAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d71pGAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d71pGAAAAYAAJ&printsec\u003dfrontcover&dq\u003dNatural+History&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d71pGAAAAYAAJ&dq\u003dNatural+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Natural_history.epub?id\u003d71pGAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Natural_history.pdf?id\u003d71pGAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3WLshjLmAc7G6Av04IN8LPawgiTA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ShsgAQAAIAAJ",
+   "etag": "dTPZ6ZwVyJw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ShsgAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Natural history",
+    "authors": [
+     "Neil Cross"
+    ],
+    "publishedDate": "2007-10-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0743263758"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780743263757"
+     }
+    ],
+    "pageCount": 279,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dShsgAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dShsgAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dShsgAQAAIAAJ&q\u003dNatural+History&dq\u003dNatural+History&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dShsgAQAAIAAJ&dq\u003dNatural+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pFRQAAAAMAAJ",
+   "etag": "PXKm4vIOQKQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pFRQAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Natural history",
+    "subtitle": "or, Second division of \"The English encyclopedia\"",
+    "authors": [
+     "Charles Knight"
+    ],
+    "publishedDate": "1866",
+    "description": "\u003cb\u003eNatural History\u003c/b\u003e OK Strontr ^ibisbir of &quot;C(k d£njglis(j Cgrtopisaia,&#39; CONDUCTED \u003cbr\u003e\r\nBY CHARLES KNIGHT. Volume I. LONDON: BRADBURY, EVANS, &amp; CO., \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "WISC:89089183370"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dpFRQAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dpFRQAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpFRQAAAAMAAJ&pg\u003dPA2&dq\u003dNatural+History&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpFRQAAAAMAAJ&dq\u003dNatural+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Natural_history.pdf?id\u003dpFRQAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2WoFqPdM6IdzAF2RhA2aqseWxi_w&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2DcaAAAAYAAJ",
+   "etag": "YnV6NMPKuEs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2DcaAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Natural history",
+    "subtitle": "a manual of zoölogy for schools, colleges and the general reader",
+    "authors": [
+     "Sanborn Tenney"
+    ],
+    "publishedDate": "1867",
+    "description": "\u003cb\u003eNATURAL HISTORY\u003c/b\u003e. ZOOLOGY. CHAPTER I. STATEMENT OF THE SUBJECT. \u003cb\u003eNatural History\u003c/b\u003e \u003cbr\u003e\r\nis the science which treats of the earth and all natural objects upon its \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044106200025"
+     }
+    ],
+    "pageCount": 540,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d2DcaAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d2DcaAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2DcaAAAAYAAJ&pg\u003dPA1&dq\u003dNatural+History&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2DcaAAAAYAAJ&dq\u003dNatural+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Natural_history.pdf?id\u003d2DcaAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2y4I2wZgqqynO3A5ZfZjsEcPV7ag&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6AVdAAAAMAAJ",
+   "etag": "oth6WDpdKRU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6AVdAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Natural history",
+    "subtitle": "a novel",
+    "authors": [
+     "Juan Perucho"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "publishedDate": "1988-12-10",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015014890944"
+     }
+    ],
+    "pageCount": 186,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d6AVdAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d6AVdAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6AVdAAAAMAAJ&q\u003dNatural+History&dq\u003dNatural+History&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6AVdAAAAMAAJ&dq\u003dNatural+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "C8oNAQAAIAAJ",
+   "etag": "dtXeXfIh5Ys",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/C8oNAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Natural history",
+    "authors": [
+     "British Museum (Natural History)"
+    ],
+    "publishedDate": "1912",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSD:31822007446230"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dC8oNAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dC8oNAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dC8oNAQAAIAAJ&q\u003dNatural+History&dq\u003dNatural+History&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dC8oNAQAAIAAJ&dq\u003dNatural+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9B8AAAAAQAAJ",
+   "etag": "pkZK9cuvTiA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9B8AAAAAQAAJ",
+   "volumeInfo": {
+    "title": "Natural history",
+    "subtitle": "containing a theory of the earth, a general history of man, of the brute creation, and of vegetables, minerals, &c. &c. &c",
+    "authors": [
+     "Georges Louis Leclerc Buffon (comte de)",
+     "J.S. Barr (Firm)"
+    ],
+    "publishedDate": "1810",
+    "description": "BUFFON&#39;S \u003cb\u003eNATURAL HISTORY\u003c/b\u003e; PROOF OF THE THEORY OF THE EARTH. ARTICLE XI, OF SEAS \u003cbr\u003e\r\nAND LAKES, lrF,HE ocean surrounds the earth on all sides, and penetrates \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:600036750"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d9B8AAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d9B8AAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9B8AAAAAQAAJ&pg\u003dPA1&dq\u003dNatural+History&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9B8AAAAAQAAJ&dq\u003dNatural+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Natural_history.epub?id\u003d9B8AAAAAQAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Natural_history.pdf?id\u003d9B8AAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U30IcXFhTiiTytBA5aUzxzVOufWCQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 574
+}

@@ -1,0 +1,541 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "AjumhYoSnYkC",
+   "etag": "UnJM8OVhEZ8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AjumhYoSnYkC",
+   "volumeInfo": {
+    "title": "Animals",
+    "subtitle": "Mammals, Birds, Reptiles, Amphibians, Fish and Other Animals",
+    "authors": [
+     "Shar Levine",
+     "Leslie Johnstone"
+    ],
+    "publisher": "Crabtree Publishing Company",
+    "publishedDate": "2010-02-15",
+    "description": "Looks at the animal kingdom, providing information and examples of species from the major phyla and classes, as well as case histories of newly discovered ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0778753867"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780778753865"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dAjumhYoSnYkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dAjumhYoSnYkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAjumhYoSnYkC&printsec\u003dfrontcover&dq\u003dAnimals&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAjumhYoSnYkC&dq\u003dAnimals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aV619TZVrRkC",
+   "etag": "bI7153dQExQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aV619TZVrRkC",
+   "volumeInfo": {
+    "title": "Animals",
+    "subtitle": "Multicelled Life",
+    "authors": [
+     "Robert Snedden"
+    ],
+    "publisher": "NA-h",
+    "publishedDate": "2007-08-15",
+    "description": "Discusses the ways in which animal cells differ from plant cells, and the different functions that animal cells perform.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1432900366"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781432900366"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003daV619TZVrRkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003daV619TZVrRkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daV619TZVrRkC&printsec\u003dfrontcover&dq\u003dAnimals&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daV619TZVrRkC&dq\u003dAnimals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1WUg8XnuL-wC",
+   "etag": "scldCbII0pQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1WUg8XnuL-wC",
+   "volumeInfo": {
+    "title": "Animals in translation",
+    "subtitle": "using the mysteries of autism to decode animal behavior",
+    "authors": [
+     "Temple Grandin",
+     "Catherine Johnson"
+    ],
+    "publisher": "Mariner Books",
+    "publishedDate": "2006-01-04",
+    "description": "The animal scientist author of Thinking in Pictures draws on her experience as an autistic to identify commonalities between animals and autistics, offering ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0156031442"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780156031448"
+     }
+    ],
+    "pageCount": 358,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 495,
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d1WUg8XnuL-wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d1WUg8XnuL-wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1WUg8XnuL-wC&printsec\u003dfrontcover&dq\u003dAnimals&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1WUg8XnuL-wC&dq\u003dAnimals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Rj0hyDM_JIgC",
+   "etag": "bAvHYne6VEw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Rj0hyDM_JIgC",
+   "volumeInfo": {
+    "title": "Animals in translation",
+    "authors": [
+     "Temple Grandin",
+     "Catherine Johnson"
+    ],
+    "publisher": "Bloomsbury Publishing UK",
+    "publishedDate": "2006-05-31",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0747566690"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780747566694"
+     }
+    ],
+    "pageCount": 356,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 489,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dRj0hyDM_JIgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dRj0hyDM_JIgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRj0hyDM_JIgC&dq\u003dAnimals&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRj0hyDM_JIgC&dq\u003dAnimals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mcAXAAAAIAAJ",
+   "etag": "HhyycHm/OHw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mcAXAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Animals",
+    "subtitle": "a text-book of zoology",
+    "authors": [
+     "David Starr Jordan",
+     "Vernon Lyman Kellogg",
+     "Harold Heath"
+    ],
+    "publishedDate": "1905",
+    "description": "\u003cb\u003eANIMAL\u003c/b\u003e LIFE CHAPTER I THE LIFE OF THE SIMPLEST \u003cb\u003eANIMALS\u003c/b\u003e 1. The simplest animala, \u003cbr\u003e\r\nor Protozoa. — The simplest \u003cb\u003eanimals\u003c/b\u003e are those whose bodies are simplest in \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105049305944"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Zoology"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dmcAXAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dmcAXAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmcAXAAAAIAAJ&printsec\u003dfrontcover&dq\u003dAnimals&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmcAXAAAAIAAJ&dq\u003dAnimals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Animals.pdf?id\u003dmcAXAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0oKyBC8z2Q0Muzo5RfC2GIJh2hUw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QILUvAj2oi4C",
+   "etag": "FRaLJAaPHNY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QILUvAj2oi4C",
+   "volumeInfo": {
+    "title": "Last animals at the zoo",
+    "subtitle": "how mass extinction can be stopped",
+    "authors": [
+     "Colin Tudge"
+    ],
+    "publisher": "Shearwater Books",
+    "publishedDate": "1992-01",
+    "description": "Discusses the current breeding programs and research that has been done in genetics to save animals from extinction, and discusses why this research is ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1559631589"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781559631587"
+     }
+    ],
+    "pageCount": 266,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dQILUvAj2oi4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dQILUvAj2oi4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQILUvAj2oi4C&printsec\u003dfrontcover&dq\u003dAnimals&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQILUvAj2oi4C&dq\u003dAnimals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 35.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 19.25,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dQILUvAj2oi4C&dq\u003dAnimals&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Last_animals_at_the_zoo-sample-epub.acsm?id\u003dQILUvAj2oi4C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GjUuAAAAYAAJ",
+   "etag": "sTp7QtSgiFg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GjUuAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Animals",
+    "subtitle": "a popular natural history of wild beasts",
+    "authors": [
+     "Wallace Rice"
+    ],
+    "publishedDate": "1909",
+    "description": "The two great divisions of beings that have life are \u003cb\u003eanimal\u003c/b\u003e and vegetable. The \u003cbr\u003e\r\n\u003cb\u003eanimal\u003c/b\u003e kingdom is divided broadly into those things which have backbones, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433011492844"
+     }
+    ],
+    "pageCount": 313,
+    "printType": "BOOK",
+    "categories": [
+     "Animal behavior"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dGjUuAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dGjUuAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGjUuAAAAYAAJ&printsec\u003dfrontcover&dq\u003dAnimals&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGjUuAAAAYAAJ&dq\u003dAnimals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Animals.epub?id\u003dGjUuAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Animals.pdf?id\u003dGjUuAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0mgdZ0p4SRTy0dJyQwnrgGW_sgtw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tLbwkR6kjOoC",
+   "etag": "2NO8wEVLNd4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tLbwkR6kjOoC",
+   "volumeInfo": {
+    "title": "Animals",
+    "authors": [
+     "Don LePan"
+    ],
+    "publisher": "ReadHowYouWant.com",
+    "publishedDate": "2010-10-01",
+    "description": ". . LePan may openly grind his axe, but what makes the book powerful is just how keenly that axe cuts through our ethical hypocrisy.&quot;",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1458715280"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781458715289"
+     }
+    ],
+    "pageCount": 298,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dtLbwkR6kjOoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dtLbwkR6kjOoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtLbwkR6kjOoC&printsec\u003dfrontcover&dq\u003dAnimals&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtLbwkR6kjOoC&dq\u003dAnimals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "i7B2gdyG63sC",
+   "etag": "Ralu7gv6yh8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/i7B2gdyG63sC",
+   "volumeInfo": {
+    "title": "Animals",
+    "authors": [
+     "Various"
+    ],
+    "description": "AYEAYE Squirrel-like cat-sized tree- climbing \u003cb\u003eanimal\u003c/b\u003e active in night. 5ABOON \u003cbr\u003e\r\nlarge African monkey with a face like dog&#39;s. BAT A flying mammal that eats \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8174782818"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788174782816"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003di7B2gdyG63sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003di7B2gdyG63sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003di7B2gdyG63sC&printsec\u003dfrontcover&dq\u003dAnimals&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003di7B2gdyG63sC&dq\u003dAnimals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YFkw36rfWmMC",
+   "etag": "pMF2ITBXvco",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YFkw36rfWmMC",
+   "volumeInfo": {
+    "title": "Animals",
+    "subtitle": "A First Art Book",
+    "authors": [
+     "Lucy Micklethwait"
+    ],
+    "publisher": "Frances Lincoln Childrens Books",
+    "publishedDate": "2008-12-11",
+    "description": "Presents eighteen paintings of animals by a variety of artists along with simple words used to describe them.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1845071042"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781845071042"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dYFkw36rfWmMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dYFkw36rfWmMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYFkw36rfWmMC&printsec\u003dfrontcover&dq\u003dAnimals&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYFkw36rfWmMC&dq\u003dAnimals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 564
+}

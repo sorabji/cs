@@ -1,0 +1,410 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "7yZVAAAAYAAJ",
+   "etag": "fKPA6jatKz4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7yZVAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Modern first editions",
+    "subtitle": "points and values ([1st]-3d series)",
+    "authors": [
+     "Gilbert Henry Fabes",
+     "William Alfred Foyle"
+    ],
+    "publishedDate": "1931",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X030535141"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d7yZVAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d7yZVAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7yZVAAAAYAAJ&q\u003dModern+First+Editions&dq\u003dModern+First+Editions&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7yZVAAAAYAAJ&dq\u003dModern+First+Editions&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RuBJtwAACAAJ",
+   "etag": "5bUqT/EOduY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RuBJtwAACAAJ",
+   "volumeInfo": {
+    "title": "Modern first editions",
+    "subtitle": "their value to collectors",
+    "authors": [
+     "Joseph Connolly"
+    ],
+    "publishedDate": "1984",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:12755341"
+     }
+    ],
+    "pageCount": 317,
+    "printType": "BOOK",
+    "categories": [
+     "Authors"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRuBJtwAACAAJ&dq\u003dModern+First+Editions&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRuBJtwAACAAJ&dq\u003dModern+First+Editions&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GjK_jwEACAAJ",
+   "etag": "lq9tyXA7IgE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GjK_jwEACAAJ",
+   "volumeInfo": {
+    "title": "Modern first editions",
+    "authors": [
+     "Phoenix Bookshop, New York"
+    ],
+    "publishedDate": "1981",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:226918030"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGjK_jwEACAAJ&dq\u003dModern+First+Editions&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGjK_jwEACAAJ&dq\u003dModern+First+Editions&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FA7ZPwAACAAJ",
+   "etag": "grJ8ofSnpOQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FA7ZPwAACAAJ",
+   "volumeInfo": {
+    "title": "Modern first editions",
+    "subtitle": "including books from the library of Lady Ottoline Morrell and family",
+    "authors": [
+     "Christie's South Kensington, Ltd"
+    ],
+    "publishedDate": "2006",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:171405618"
+     }
+    ],
+    "pageCount": 120,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFA7ZPwAACAAJ&dq\u003dModern+First+Editions&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFA7ZPwAACAAJ&dq\u003dModern+First+Editions&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1krTGwAACAAJ",
+   "etag": "342N6BxdYCw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1krTGwAACAAJ",
+   "volumeInfo": {
+    "title": "Modern first editions",
+    "authors": [
+     "Cecil Woolf (Firm)"
+    ],
+    "publishedDate": "1954",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:32298909"
+     }
+    ],
+    "pageCount": 8,
+    "printType": "BOOK",
+    "categories": [
+     "First editions"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1krTGwAACAAJ&dq\u003dModern+First+Editions&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1krTGwAACAAJ&dq\u003dModern+First+Editions&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ORmsQwAACAAJ",
+   "etag": "A/cEDWQcsvc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ORmsQwAACAAJ",
+   "volumeInfo": {
+    "title": "Modern first editions",
+    "authors": [
+     "B.H. Blackwell Ltd"
+    ],
+    "publishedDate": "1986",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:228312180"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dORmsQwAACAAJ&dq\u003dModern+First+Editions&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dORmsQwAACAAJ&dq\u003dModern+First+Editions&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "a7abQwAACAAJ",
+   "etag": "EEHRpj0BU58",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a7abQwAACAAJ",
+   "volumeInfo": {
+    "title": "Modern first editions",
+    "authors": [
+     "Ampersand Books, New York"
+    ],
+    "publishedDate": "1987",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:226920378"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003da7abQwAACAAJ&dq\u003dModern+First+Editions&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003da7abQwAACAAJ&dq\u003dModern+First+Editions&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1XM8PwAACAAJ",
+   "etag": "fcAEm0i6r0I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1XM8PwAACAAJ",
+   "volumeInfo": {
+    "title": "Modern first editions",
+    "subtitle": "presentation copies and limited signed editions, art & illustrated books, French illustrated books, Americana, first editions, general literature ...",
+    "authors": [
+     "Swann Galleries"
+    ],
+    "publishedDate": "1971",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:70961938"
+     }
+    ],
+    "pageCount": 34,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1XM8PwAACAAJ&dq\u003dModern+First+Editions&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1XM8PwAACAAJ&dq\u003dModern+First+Editions&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "r-gmcAAACAAJ",
+   "etag": "QlMUqIQ1NjY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/r-gmcAAACAAJ",
+   "volumeInfo": {
+    "title": "Modern first editions",
+    "authors": [
+     "Michael Cole"
+    ],
+    "publishedDate": "1992",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:222534941"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Rare books"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dr-gmcAAACAAJ&dq\u003dModern+First+Editions&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dr-gmcAAACAAJ&dq\u003dModern+First+Editions&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "r0pAQwAACAAJ",
+   "etag": "zCjnVWf/g3g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/r0pAQwAACAAJ",
+   "volumeInfo": {
+    "title": "Modern first editions",
+    "authors": [
+     "First Edition Bookshop, London"
+    ],
+    "publishedDate": "1935",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:226940171"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dr0pAQwAACAAJ&dq\u003dModern+First+Editions&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dr0pAQwAACAAJ&dq\u003dModern+First+Editions&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 566
+}

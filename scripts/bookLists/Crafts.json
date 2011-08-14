@@ -1,0 +1,523 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "vGjHL6WaPuoC",
+   "etag": "dLv6f0YGO8s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vGjHL6WaPuoC",
+   "volumeInfo": {
+    "title": "Crafts",
+    "subtitle": "110 Totally Awesome Crafts for All Ages",
+    "authors": [
+     "Group Publishing"
+    ],
+    "publisher": "Group Pub Inc",
+    "publishedDate": "2006-12",
+    "description": "# Readers who use this collection of crafts will enjoy. . .",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "076443439X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780764434396"
+     }
+    ],
+    "pageCount": 127,
+    "printType": "BOOK",
+    "categories": [
+     "Crafts & Hobbies"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dvGjHL6WaPuoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dvGjHL6WaPuoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvGjHL6WaPuoC&printsec\u003dfrontcover&dq\u003dCrafts&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvGjHL6WaPuoC&dq\u003dCrafts&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tijPe2i3S_8C",
+   "etag": "3CRUufpgpNI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tijPe2i3S_8C",
+   "volumeInfo": {
+    "title": "Crafts and Craft Shows",
+    "subtitle": "How to Make Money",
+    "authors": [
+     "Philip Kadubec"
+    ],
+    "publisher": "Allworth Pr",
+    "publishedDate": "2007-01-09",
+    "description": "Craftspeople and hobbyists will welcome this new edition of a popular book.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1581154704"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781581154702"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dtijPe2i3S_8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dtijPe2i3S_8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtijPe2i3S_8C&printsec\u003dfrontcover&dq\u003dCrafts&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtijPe2i3S_8C&dq\u003dCrafts&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dtijPe2i3S_8C&dq\u003dCrafts&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Crafts_and_Craft_Shows-sample-pdf.acsm?id\u003dtijPe2i3S_8C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "q5J-XCYsHBwC",
+   "etag": "vXl5RhJxNRA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/q5J-XCYsHBwC",
+   "volumeInfo": {
+    "title": "Kitschy Crafts",
+    "subtitle": "A Celebration of Overlooked 20th-Century Crafts",
+    "authors": [
+     "Jo Packham",
+     "Matt Shay"
+    ],
+    "publisher": "Sterling/Chapelle",
+    "publishedDate": "2006-03-28",
+    "description": "Take a fond look back at the kitschy crafts of the 40s, 50s, 60s, 70s, and 80s, from crocheted doilies to shell-art nightlights.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1402717547"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781402717543"
+     }
+    ],
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Crafts & Hobbies"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 9,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dq5J-XCYsHBwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dq5J-XCYsHBwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dq5J-XCYsHBwC&printsec\u003dfrontcover&dq\u003dCrafts&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dq5J-XCYsHBwC&dq\u003dCrafts&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wPFxM93sHt4C",
+   "etag": "pyJThV2/mvA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wPFxM93sHt4C",
+   "volumeInfo": {
+    "title": "Crafts to make in the winter",
+    "authors": [
+     "Katharine Reynolds Ross"
+    ],
+    "publishedDate": "1999",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0761309330"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761309338"
+     }
+    ],
+    "pageCount": 63,
+    "printType": "BOOK",
+    "categories": [
+     "Crafts & Hobbies"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dwPFxM93sHt4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dwPFxM93sHt4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwPFxM93sHt4C&q\u003dCrafts&dq\u003dCrafts&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwPFxM93sHt4C&dq\u003dCrafts&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lyjMnsE_LUsC",
+   "etag": "l0F3ohTqzhc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lyjMnsE_LUsC",
+   "volumeInfo": {
+    "title": "Crafts Galore!",
+    "subtitle": "The Ultimate Guide for Girlfriends",
+    "authors": [
+     "Jody Brolsma"
+    ],
+    "publisher": "Group",
+    "publishedDate": "2007-12",
+    "description": "Crafts Galore acts like glue to bring friends and new neighbors together.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0764436570"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780764436574"
+     }
+    ],
+    "pageCount": 111,
+    "printType": "BOOK",
+    "categories": [
+     "Crafts & Hobbies"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dlyjMnsE_LUsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dlyjMnsE_LUsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlyjMnsE_LUsC&printsec\u003dfrontcover&dq\u003dCrafts&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlyjMnsE_LUsC&dq\u003dCrafts&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HoQKAQAAMAAJ",
+   "etag": "Q1zIdiojlEo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HoQKAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Crafts",
+    "authors": [
+     "Jean Warren"
+    ],
+    "publishedDate": "1983",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PSU:000023127371"
+     }
+    ],
+    "pageCount": 73,
+    "printType": "BOOK",
+    "categories": [
+     "Crafts & Hobbies"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dHoQKAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dHoQKAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHoQKAQAAMAAJ&q\u003dCrafts&dq\u003dCrafts&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHoQKAQAAMAAJ&dq\u003dCrafts&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "H5iSwS6tNi8C",
+   "etag": "uYO927cSvX8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/H5iSwS6tNi8C",
+   "volumeInfo": {
+    "title": "Spell Crafts",
+    "subtitle": "Creating Magical Objects",
+    "authors": [
+     "Scott Cunningham",
+     "David Harrington"
+    ],
+    "publisher": "Llewellyn Worldwide Ltd",
+    "publishedDate": "2002-09-01",
+    "description": "Spell Crafts is a modern guide to creating physical objects for the attainment of specific magical goals.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0875421857"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780875421858"
+     }
+    ],
+    "pageCount": 216,
+    "printType": "BOOK",
+    "categories": [
+     "Crafts & Hobbies"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 8,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dH5iSwS6tNi8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dH5iSwS6tNi8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dH5iSwS6tNi8C&printsec\u003dfrontcover&dq\u003dCrafts&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dH5iSwS6tNi8C&dq\u003dCrafts&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BX7KMhYk_B4C",
+   "etag": "kkyjb+qNMO8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BX7KMhYk_B4C",
+   "volumeInfo": {
+    "title": "Crafts and creative media in therapy",
+    "authors": [
+     "Carol Tubbs",
+     "Margaret Drake"
+    ],
+    "publisher": "Slack Incorporated",
+    "publishedDate": "2006-11-15",
+    "description": "With the focus remaining on the therapeutic aspects of crafts, the concept of “media” has been added to this third edition to include creative endeavors ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1556427565"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781556427565"
+     }
+    ],
+    "pageCount": 280,
+    "printType": "BOOK",
+    "categories": [
+     "Crafts & Hobbies"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dBX7KMhYk_B4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dBX7KMhYk_B4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBX7KMhYk_B4C&printsec\u003dfrontcover&dq\u003dCrafts&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBX7KMhYk_B4C&dq\u003dCrafts&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Kq8QAQAAMAAJ",
+   "etag": "m9TxvrZfKBQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Kq8QAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Crafts",
+    "subtitle": "today as yesterday : in colour",
+    "publisher": "Colour Library International",
+    "publishedDate": "1976",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:49015001036798"
+     }
+    ],
+    "pageCount": 63,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dKq8QAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dKq8QAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKq8QAQAAMAAJ&q\u003dCrafts&dq\u003dCrafts&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKq8QAQAAMAAJ&dq\u003dCrafts&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HCtVAAAAYAAJ",
+   "etag": "JENiZmJyjOs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HCtVAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Crafts",
+    "subtitle": "a basic survey",
+    "authors": [
+     "Virginia Irby Davis"
+    ],
+    "publisher": "William C Brown Pub",
+    "publishedDate": "1989",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X001406301"
+     }
+    ],
+    "pageCount": 313,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dHCtVAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dHCtVAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHCtVAAAAYAAJ&q\u003dCrafts&dq\u003dCrafts&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHCtVAAAAYAAJ&dq\u003dCrafts&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 596
+}

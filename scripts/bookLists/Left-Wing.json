@@ -1,0 +1,538 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "HnPZN1T1Ae4C",
+   "etag": "5oRDJJ5TNhA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HnPZN1T1Ae4C",
+   "volumeInfo": {
+    "title": "Left-wing Nietzscheans",
+    "subtitle": "the politics of German expressionism, 1910-1920",
+    "authors": [
+     "Seth Taylor"
+    ],
+    "publisher": "Walter de Gruyter",
+    "publishedDate": "1990",
+    "description": "Introduction Politics is merely instrumental: culture is the goal. Georg Lukdcs, \u003cbr\u003e\r\n1919 Almost half of a century has passed since the end of the Second World \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0899256953"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780899256955"
+     }
+    ],
+    "pageCount": 254,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dHnPZN1T1Ae4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dHnPZN1T1Ae4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHnPZN1T1Ae4C&printsec\u003dfrontcover&dq\u003dLeft-Wing&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHnPZN1T1Ae4C&dq\u003dLeft-Wing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "W0hYAAAAMAAJ",
+   "etag": "sWQ80CDQqoI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/W0hYAAAAMAAJ",
+   "volumeInfo": {
+    "title": "\"Left wing\" communism",
+    "subtitle": "an infantile disorder",
+    "authors": [
+     "Vladimir Ilʹich Lenin"
+    ],
+    "publishedDate": "1921",
+    "description": "\u003cb\u003eLEFT WING\u003c/b\u003e&quot; COMMUNISM: AN INFANTILE DISORDER By NIKOLAI LENIN CHAPTER I. IN WHAT \u003cbr\u003e\r\nSENSE CAN WE SPEAK OF THE INTER- NATIONAL SIGNIFICANCE OF THE RUSSIAN \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015068646960"
+     }
+    ],
+    "pageCount": 117,
+    "printType": "BOOK",
+    "categories": [
+     "Communism"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dW0hYAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dW0hYAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dW0hYAAAAMAAJ&printsec\u003dfrontcover&dq\u003dLeft-Wing&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dW0hYAAAAMAAJ&dq\u003dLeft-Wing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Left_wing_communism.epub?id\u003dW0hYAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Left_wing_communism.pdf?id\u003dW0hYAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0zAdYSwHWReNaCY6ZfYgeUmQ4BmA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "D_8q97weLGsC",
+   "etag": "WIQlNLFrbkA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/D_8q97weLGsC",
+   "volumeInfo": {
+    "title": "Left-wing",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:0CPQ3S3FKJ2"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dD_8q97weLGsC&dq\u003dLeft-Wing&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dD_8q97weLGsC&dq\u003dLeft-Wing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ikEZHAAACAAJ",
+   "etag": "AmnuDZycUa4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ikEZHAAACAAJ",
+   "volumeInfo": {
+    "title": "The left wing",
+    "subtitle": "its programme and activities",
+    "authors": [
+     "National Left Wing Provisional Committee"
+    ],
+    "publishedDate": "192?",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:25577600"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dikEZHAAACAAJ&dq\u003dLeft-Wing&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dikEZHAAACAAJ&dq\u003dLeft-Wing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oVFrShFBTSEC",
+   "etag": "/YQB4J1AUOc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oVFrShFBTSEC",
+   "volumeInfo": {
+    "title": "A Field Guide to Left-Wing Wackos",
+    "subtitle": "And What to Do about Them",
+    "authors": [
+     "Kfir Alfia",
+     "Alan Lipton"
+    ],
+    "publisher": "Portfolio",
+    "publishedDate": "2007-06-21",
+    "description": "A satirical portrait of left-wing protest activities traces the contributions of ProtestWarriors, an &quot;anti-activist&quot; organization dedicated to countering over ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1595230378"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781595230379"
+     }
+    ],
+    "pageCount": 245,
+    "printType": "BOOK",
+    "categories": [
+     "Humor"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003doVFrShFBTSEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003doVFrShFBTSEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doVFrShFBTSEC&printsec\u003dfrontcover&dq\u003dLeft-Wing&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doVFrShFBTSEC&dq\u003dLeft-Wing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003doVFrShFBTSEC&dq\u003dLeft-Wing&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/A_Field_Guide_to_Left_Wing_Wackos-sample-epub.acsm?id\u003doVFrShFBTSEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EycS7FSTAyUC",
+   "etag": "PmtKgeaA4YM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EycS7FSTAyUC",
+   "volumeInfo": {
+    "title": "American folk music and left-wing politics, 1927-1957",
+    "authors": [
+     "Richard A. Reuss",
+     "JoAnne C. Reuss"
+    ],
+    "publisher": "Scarecrow Pr",
+    "publishedDate": "2000",
+    "description": "Richard and JoAnne Reuss expertly capture the personality of this era and the fascinating chronology of events in American Folk Music and Left-Wing Politics, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "081083684X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780810836846"
+     }
+    ],
+    "pageCount": 297,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dEycS7FSTAyUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dEycS7FSTAyUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEycS7FSTAyUC&printsec\u003dfrontcover&dq\u003dLeft-Wing&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEycS7FSTAyUC&dq\u003dLeft-Wing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 70.4,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 56.32,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dEycS7FSTAyUC&dq\u003dLeft-Wing&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/American_folk_music_and_left_wing_politi-sample-pdf.acsm?id\u003dEycS7FSTAyUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2cKH0gaqSewC",
+   "etag": "0osFXziSvnw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2cKH0gaqSewC",
+   "volumeInfo": {
+    "title": "The Left-Wing Freak Show",
+    "subtitle": "Analyzing Liberalism in Vermont",
+    "authors": [
+     "Anonym"
+    ],
+    "publisher": "GRIN Verlag",
+    "publishedDate": "2010-08",
+    "description": "In a campaign ad aired in early 2004 by the conservative Club for Growth, Democratic presidential candidate Howard Dean, the former governor of Vermont, was ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "364068799X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783640687992"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d2cKH0gaqSewC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d2cKH0gaqSewC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2cKH0gaqSewC&printsec\u003dfrontcover&dq\u003dLeft-Wing&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2cKH0gaqSewC&dq\u003dLeft-Wing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Left_Wing_Freak_Show-sample-epub.acsm?id\u003d2cKH0gaqSewC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "et0xcQhhlCUC",
+   "etag": "ilOvJPJ6V/E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/et0xcQhhlCUC",
+   "volumeInfo": {
+    "title": "Obsolete communism",
+    "subtitle": "the left-wing alternative",
+    "authors": [
+     "Daniel Cohn-Bendit",
+     "Gabriel Cohn-Bendit"
+    ],
+    "publisher": "A K Pr Distribution",
+    "publishedDate": "2000-05",
+    "description": "OBSOLETE COMMUNISM was written in 5 weeks immediately after the French state regained control, and no account of the events of May &#39;68 can match its immediacy ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1902593251"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781902593258"
+     }
+    ],
+    "pageCount": 239,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003det0xcQhhlCUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003det0xcQhhlCUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003det0xcQhhlCUC&printsec\u003dfrontcover&dq\u003dLeft-Wing&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003det0xcQhhlCUC&dq\u003dLeft-Wing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hZ5CPgAACAAJ",
+   "etag": "4HvB/CeSuQg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hZ5CPgAACAAJ",
+   "volumeInfo": {
+    "title": "Left-Wing Communism, an Infantile Disorder",
+    "subtitle": "A Popular Essay in Marxian Strategy and Tactics",
+    "authors": [
+     "Vladimir I. Lenin"
+    ],
+    "publisher": "Univ Pr of the Pacific",
+    "publishedDate": "2001-07-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0898754488"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780898754483"
+     }
+    ],
+    "pageCount": 108,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dhZ5CPgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dhZ5CPgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhZ5CPgAACAAJ&dq\u003dLeft-Wing&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhZ5CPgAACAAJ&dq\u003dLeft-Wing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "t3ILkj13SPIC",
+   "etag": "eaqtN0ncwPU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/t3ILkj13SPIC",
+   "volumeInfo": {
+    "title": "The vast left wing conspiracy",
+    "subtitle": "the untold story of the Democrats' desperate fight to reclaim power",
+    "authors": [
+     "Byron York"
+    ],
+    "publisher": "Three Rivers Pr",
+    "publishedDate": "2006-01-24",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1400082390"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781400082391"
+     }
+    ],
+    "pageCount": 289,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dt3ILkj13SPIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dt3ILkj13SPIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dt3ILkj13SPIC&dq\u003dLeft-Wing&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dt3ILkj13SPIC&dq\u003dLeft-Wing&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 593
+}

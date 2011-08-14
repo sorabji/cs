@@ -1,0 +1,586 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "tJeyshzMFXQC",
+   "etag": "GLbPigSQHFE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tJeyshzMFXQC",
+   "volumeInfo": {
+    "title": "The Stranger's Sin",
+    "authors": [
+     "Darlene Gardner"
+    ],
+    "publisher": "Harlequin Books",
+    "publishedDate": "2009-05-12",
+    "description": "So she quit her job and concentrated on a fiction career that landed her at \u003cbr\u003e\r\n\u003cb\u003eHarlequin\u003c/b\u003e/ Silhouette \u003cb\u003eBooks\u003c/b\u003e, where she wrote for \u003cb\u003eHarlequin\u003c/b\u003e Temptation, \u003cb\u003eHarlequin\u003c/b\u003e \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0373715625"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780373715626"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dtJeyshzMFXQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dtJeyshzMFXQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtJeyshzMFXQC&pg\u003dPA5&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtJeyshzMFXQC&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 4.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 3.79,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dtJeyshzMFXQC&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Stranger_s_Sin-sample-epub.acsm?id\u003dtJeyshzMFXQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tI884G1AyqUC",
+   "etag": "SapbTNxQ9AU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tI884G1AyqUC",
+   "volumeInfo": {
+    "title": "What Your Travel Agent Knows That You Don't",
+    "authors": [
+     "Harlequin Books",
+     "Harlequin Ultimate Guides"
+    ],
+    "publishedDate": "1997",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0373805101"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780373805105"
+     }
+    ],
+    "pageCount": 184,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dtI884G1AyqUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dtI884G1AyqUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtI884G1AyqUC&q\u003dHarlequin+Books&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtI884G1AyqUC&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bLPTzzoJXFQC",
+   "etag": "KhE/GGDsD9Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bLPTzzoJXFQC",
+   "volumeInfo": {
+    "title": "The Harlequin",
+    "authors": [
+     "Laurell K. Hamilton"
+    ],
+    "publisher": "Berkley Publishing Group",
+    "publishedDate": "2007-06-05",
+    "description": "When Vampire Hunter Anita Blake confronts her ultimate challenge in The Harlequin, terrifying, powerful creatures feared even by the centuries-old vampires, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0425217248"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780425217245"
+     }
+    ],
+    "pageCount": 422,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 364,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dbLPTzzoJXFQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dbLPTzzoJXFQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbLPTzzoJXFQC&printsec\u003dfrontcover&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbLPTzzoJXFQC&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JD1U3nCf7_oC",
+   "etag": "OuJtuv4XRQE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JD1U3nCf7_oC",
+   "volumeInfo": {
+    "title": "What Great Chefs Know That You Don't",
+    "authors": [
+     "Harlequin Books"
+    ],
+    "publishedDate": "1997",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0373805136"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780373805136"
+     }
+    ],
+    "pageCount": 184,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dJD1U3nCf7_oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dJD1U3nCf7_oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJD1U3nCf7_oC&q\u003dHarlequin+Books&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJD1U3nCf7_oC&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YLaIQNkTbkIC",
+   "etag": "6PjxMwoDMZ4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YLaIQNkTbkIC",
+   "volumeInfo": {
+    "title": "Feminisms",
+    "subtitle": "an anthology of literary theory and criticism",
+    "authors": [
+     "Robyn R. Warhol",
+     "Diane Price Herndl"
+    ],
+    "publisher": "Rutgers Univ Pr",
+    "publishedDate": "1997",
+    "description": "All books published by \u003cb\u003eHarlequin Books\u003c/b\u003e, Toronto, London, New York, Amsterdam, \u003cbr\u003e\r\nSydney, Hamburg, Paris, Stockholm. Page numbers appear in parentheses in the \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0813523893"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780813523897"
+     }
+    ],
+    "pageCount": 1207,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 6,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dYLaIQNkTbkIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dYLaIQNkTbkIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYLaIQNkTbkIC&pg\u003dPA990&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYLaIQNkTbkIC&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lMebeFIsBp8C",
+   "etag": "fGiEI9Zz0qk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lMebeFIsBp8C",
+   "volumeInfo": {
+    "title": "The Mighty Quinns: Callum",
+    "authors": [
+     "Kate Hoffmann"
+    ],
+    "publisher": "Harlequin Books",
+    "publishedDate": "2009-08-01",
+    "description": "ABOUT THE AUTHOR Kate Hoffmann has been writing for \u003cb\u003eHarlequin Books\u003c/b\u003e for fifteen \u003cbr\u003e\r\nyears and has published nearly sixty books, including Harlequin Temptation \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0373794924"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780373794928"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dlMebeFIsBp8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dlMebeFIsBp8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlMebeFIsBp8C&pg\u003dPA5&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlMebeFIsBp8C&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 4.5,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 3.44,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dlMebeFIsBp8C&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Mighty_Quinns_Callum-sample-epub.acsm?id\u003dlMebeFIsBp8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "l3B-Y4WCeR0C",
+   "etag": "Q0Co1pjTyqQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/l3B-Y4WCeR0C",
+   "volumeInfo": {
+    "title": "The Mighty Quinns: Brody",
+    "authors": [
+     "Kate Hoffmann"
+    ],
+    "publisher": "Harlequin Books",
+    "publishedDate": "2009-06-01",
+    "description": "ABOUT THE AUTHOR Kate Hoffmann has been writing for \u003cb\u003eHarlequin Books\u003c/b\u003e for fifteen \u003cbr\u003e\r\nyears and has published nearly sixty books, including Harlequin Temptation \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0373794800"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780373794805"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dl3B-Y4WCeR0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dl3B-Y4WCeR0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dl3B-Y4WCeR0C&pg\u003dPA5&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dl3B-Y4WCeR0C&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 4.5,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 3.44,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dl3B-Y4WCeR0C&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Mighty_Quinns_Brody-sample-epub.acsm?id\u003dl3B-Y4WCeR0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pu-JKIaafJQC",
+   "etag": "p1WjHA4S8Ps",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pu-JKIaafJQC",
+   "volumeInfo": {
+    "title": "The Mighty Quinns: Teague",
+    "authors": [
+     "Kate Hoffmann"
+    ],
+    "publisher": "Harlequin Books",
+    "publishedDate": "2009-07-01",
+    "description": "ABOUT THE AUTHOR Kate Hoffmann has been writing for \u003cb\u003eHarlequin Books\u003c/b\u003e for fifteen \u003cbr\u003e\r\nyears and has published nearly sixty books, including Harlequin Temptation \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "037379486X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780373794867"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dpu-JKIaafJQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dpu-JKIaafJQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpu-JKIaafJQC&pg\u003dPA5&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpu-JKIaafJQC&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 4.5,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 3.44,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dpu-JKIaafJQC&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Mighty_Quinns_Teague-sample-epub.acsm?id\u003dpu-JKIaafJQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9WhBAQAAIAAJ",
+   "etag": "HLhdCWxkzok",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9WhBAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Jeff Herman's guide to book publishers, editors & literary agents 2007",
+    "subtitle": "who they are! what they want! and how to win them over!",
+    "authors": [
+     "Jeff Herman"
+    ],
+    "publisher": "Exxel Publishing Co",
+    "publishedDate": "2006-10-30",
+    "description": "The Harlequin Enterprises home base in Ontario, Canada, issues the greater \u003cbr\u003e\r\nportion of the \u003cb\u003eHarlequin Books\u003c/b\u003e series, while the New York office issues several \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105063268838"
+     }
+    ],
+    "pageCount": 966,
+    "printType": "BOOK",
+    "categories": [
+     "Humor"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d9WhBAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d9WhBAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9WhBAQAAIAAJ&q\u003dHarlequin+Books&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9WhBAQAAIAAJ&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rMUGyFjDFUAC",
+   "etag": "efZfWP3hwUI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rMUGyFjDFUAC",
+   "volumeInfo": {
+    "title": "Come Toy With Me",
+    "authors": [
+     "Cara Summers"
+    ],
+    "publisher": "Harlequin Books",
+    "publishedDate": "2008-12-01",
+    "description": "Come Toy with Me is her fifteenth \u003cb\u003eHarlequin\u003c/b\u003e Blaze novel, and she&#39;s looking \u003cbr\u003e\r\nforward to writing many more. Her next project for Blaze will be a two-\u003cb\u003ebook\u003c/b\u003e \u003cbr\u003e\r\nWRONG \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "037379441X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780373794416"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003drMUGyFjDFUAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003drMUGyFjDFUAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003drMUGyFjDFUAC&pg\u003dPA5&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003drMUGyFjDFUAC&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 4.5,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 3.44,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003drMUGyFjDFUAC&dq\u003dHarlequin+Books&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Come_Toy_With_Me-sample-epub.acsm?id\u003drMUGyFjDFUAC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 598
+}

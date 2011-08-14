@@ -1,0 +1,543 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "HymSg_Pp7X0C",
+   "etag": "kT4lb+vD2f4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HymSg_Pp7X0C",
+   "volumeInfo": {
+    "title": "World War II",
+    "subtitle": "the Allied counteroffensive, 1942-1945",
+    "authors": [
+     "Douglas Brinkley"
+    ],
+    "publisher": "Times Books",
+    "publishedDate": "2004-01-08",
+    "description": "A collection of fifty key documents on the movements of Axis forces throughout Europe and the Pacific includes the text of the Atlantic Charter, FDR&#39;s cables to ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0805072470"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780805072471"
+     }
+    ],
+    "pageCount": 403,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dHymSg_Pp7X0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dHymSg_Pp7X0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHymSg_Pp7X0C&printsec\u003dfrontcover&dq\u003dWorld+War+II&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHymSg_Pp7X0C&dq\u003dWorld+War+II&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jtzV0RQ72z4C",
+   "etag": "h2YlJSMuQdg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jtzV0RQ72z4C",
+   "volumeInfo": {
+    "title": "World War II",
+    "authors": [
+     "Cyrus Leo Sulzberger"
+    ],
+    "publisher": "Mariner Books",
+    "publishedDate": "1985-06-01",
+    "description": "An illustrated, eyewitness history of World War II, from Hitler&#39;s rise to power to Hiroshima",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0828103313"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780828103312"
+     }
+    ],
+    "pageCount": 372,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003djtzV0RQ72z4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003djtzV0RQ72z4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djtzV0RQ72z4C&printsec\u003dfrontcover&dq\u003dWorld+War+II&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djtzV0RQ72z4C&dq\u003dWorld+War+II&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_HyiSPdy8skC",
+   "etag": "5o8jFQTOxqM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_HyiSPdy8skC",
+   "volumeInfo": {
+    "title": "World War II",
+    "subtitle": "An Interactive History Adventure",
+    "authors": [
+     "Elizabeth Raum"
+    ],
+    "publisher": "You Choose Books",
+    "publishedDate": "2009-01-01",
+    "description": "&quot;Describes the events of World War II and explains the significance of the war today.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1429623446"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781429623445"
+     }
+    ],
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d_HyiSPdy8skC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d_HyiSPdy8skC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_HyiSPdy8skC&printsec\u003dfrontcover&dq\u003dWorld+War+II&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_HyiSPdy8skC&dq\u003dWorld+War+II&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/World_War_II-sample-epub.acsm?id\u003d_HyiSPdy8skC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3VsYPwAACAAJ",
+   "etag": "BDUO7xu7okY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3VsYPwAACAAJ",
+   "volumeInfo": {
+    "title": "World War II",
+    "authors": [
+     "H. P. Willmott",
+     "Robin Cross",
+     "Charles Messenger"
+    ],
+    "publisher": "DK Publishing (Dorling Kindersley)",
+    "publishedDate": "2009-05-18",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0756651425"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780756651428"
+     }
+    ],
+    "pageCount": 335,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d3VsYPwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d3VsYPwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3VsYPwAACAAJ&dq\u003dWorld+War+II&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3VsYPwAACAAJ&dq\u003dWorld+War+II&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bv8Q149oiyUC",
+   "etag": "2e/hseqiOAg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bv8Q149oiyUC",
+   "volumeInfo": {
+    "title": "World War II",
+    "authors": [
+     "Margaret J. Goldstein"
+    ],
+    "publisher": "Lerner Pub Group",
+    "publishedDate": "2004-04-30",
+    "description": "A chronicle of the United States and Allied forces&#39; involvement in World War II Europe, including the political and social motivations for entering the war as ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0822501392"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780822501398"
+     }
+    ],
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dbv8Q149oiyUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dbv8Q149oiyUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbv8Q149oiyUC&printsec\u003dfrontcover&dq\u003dWorld+War+II&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbv8Q149oiyUC&dq\u003dWorld+War+II&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XATQto7K7PUC",
+   "etag": "HJtRb330ZvY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XATQto7K7PUC",
+   "volumeInfo": {
+    "title": "World War II",
+    "authors": [
+     "Carl J. Schneider",
+     "Dorothy Schneider"
+    ],
+    "publisher": "Facts on File",
+    "publishedDate": "2003-07",
+    "description": "Firsthand accounts and brief biographies describe how Americans were affected by the events surrounding World War II.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0816044848"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816044849"
+     }
+    ],
+    "pageCount": 472,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dXATQto7K7PUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dXATQto7K7PUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXATQto7K7PUC&printsec\u003dfrontcover&dq\u003dWorld+War+II&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXATQto7K7PUC&dq\u003dWorld+War+II&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/World_War_II-sample-epub.acsm?id\u003dXATQto7K7PUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "evPdlnT-y48C",
+   "etag": "CjWH2oiX+F0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/evPdlnT-y48C",
+   "volumeInfo": {
+    "title": "World War II",
+    "authors": [
+     "SparkNotes"
+    ],
+    "publisher": "SparkNotes",
+    "publishedDate": "2005-07-31",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1411404289"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781411404281"
+     }
+    ],
+    "pageCount": 80,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003devPdlnT-y48C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003devPdlnT-y48C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003devPdlnT-y48C&q\u003dWorld+War+II&dq\u003dWorld+War+II&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003devPdlnT-y48C&dq\u003dWorld+War+II&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pXs-WcRBUrIC",
+   "etag": "+nNlauVb0kQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pXs-WcRBUrIC",
+   "volumeInfo": {
+    "title": "World War II",
+    "authors": [
+     "Sean Connolly"
+    ],
+    "publisher": "Heinemann/Raintree",
+    "publishedDate": "2003-04",
+    "description": "Uses primary source materials to describe the events of World War II.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "140343641X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781403436412"
+     }
+    ],
+    "pageCount": 56,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dpXs-WcRBUrIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dpXs-WcRBUrIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpXs-WcRBUrIC&printsec\u003dfrontcover&dq\u003dWorld+War+II&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpXs-WcRBUrIC&dq\u003dWorld+War+II&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cbepfkXdIg0C",
+   "etag": "hPY/SwMSyg8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cbepfkXdIg0C",
+   "volumeInfo": {
+    "title": "World War II",
+    "authors": [
+     "Maurice Isserman",
+     "John Stewart Bowman"
+    ],
+    "publisher": "Infobase Publishing",
+    "publishedDate": "2003-04",
+    "description": "Discusses various aspects of World War II, including the effect of war on women and minorities, and Szilard and Einstein&#39;s encouragement of Roosevelt to make an ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0816049386"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816049387"
+     }
+    ],
+    "pageCount": 226,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dcbepfkXdIg0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dcbepfkXdIg0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcbepfkXdIg0C&printsec\u003dfrontcover&dq\u003dWorld+War+II&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcbepfkXdIg0C&dq\u003dWorld+War+II&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/World_War_II-sample-epub.acsm?id\u003dcbepfkXdIg0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sgyvSE6IvkYC",
+   "etag": "fFXq2qZqN0A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sgyvSE6IvkYC",
+   "volumeInfo": {
+    "title": "World War II",
+    "subtitle": "The Pacific",
+    "authors": [
+     "Sean Sheehan"
+    ],
+    "publisher": "Gareth Stevens Pub Secondary Lib",
+    "publishedDate": "2004-07",
+    "description": "Examines the battles of World War II in the Far East, discussing the reasons for going to war against Japan, the decision to use the atomic bomb to end the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0836856708"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780836856705"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "2.2.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dsgyvSE6IvkYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dsgyvSE6IvkYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dsgyvSE6IvkYC&printsec\u003dfrontcover&dq\u003dWorld+War+II&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dsgyvSE6IvkYC&dq\u003dWorld+War+II&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 544
+}

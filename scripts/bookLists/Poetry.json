@@ -1,0 +1,559 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ssxHjRNX9-QC",
+   "etag": "xYv9MmBmQ3s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ssxHjRNX9-QC",
+   "volumeInfo": {
+    "title": "Poetry 180",
+    "subtitle": "a turning back to poetry",
+    "authors": [
+     "Billy Collins"
+    ],
+    "publisher": "Random House Trade",
+    "publishedDate": "2003",
+    "description": "Billy Collins compiles 180 poems, one for each day of the school year, for high school students to read so that they might learn the value of poetry in their ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0812968875"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780812968873"
+     }
+    ],
+    "pageCount": 323,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dssxHjRNX9-QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dssxHjRNX9-QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dssxHjRNX9-QC&printsec\u003dfrontcover&dq\u003dPoetry&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dssxHjRNX9-QC&dq\u003dPoetry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PdQnAQAAIAAJ",
+   "etag": "AklZ9clgSwg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PdQnAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Poetry",
+    "authors": [
+     "Harriet Monroe",
+     "Morton Dauwen Zabel",
+     "George Dillon",
+     "Karl Jay Shapiro",
+     "Henry Rago",
+     "Peter De Vries",
+     "Jessica North MacDonald",
+     "Marion Strobel",
+     "Modern Poetry Association"
+    ],
+    "publishedDate": "1914",
+    "description": "oetry &amp; (Orgastic of Verse OCTOBER, 1913 No. I THE TWO KINGS E RIDE but slowly \u003cbr\u003e\r\nthough so near our home.&quot; King Eochaid* said, and he that bore his shield \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105006969492"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dPdQnAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dPdQnAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPdQnAQAAIAAJ&printsec\u003dfrontcover&dq\u003dPoetry&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPdQnAQAAIAAJ&dq\u003dPoetry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Poetry.epub?id\u003dPdQnAQAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Poetry.pdf?id\u003dPdQnAQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3QCVzH-anvVwFFVWRcZw7FaGvFXA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9FG3JgtSYxIC",
+   "etag": "7aFGAmpAA0o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9FG3JgtSYxIC",
+   "volumeInfo": {
+    "title": "Poetry",
+    "subtitle": "an introduction",
+    "authors": [
+     "John R. Strachan",
+     "Richard G. Terry"
+    ],
+    "publisher": "NYU Press",
+    "publishedDate": "2001-01-01",
+    "description": "The book&#39;s discussion of poetic terminology is allied throughout to illustrative readings that show the usefulness of the terminology in approaching particular ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0814797970"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780814797976"
+     }
+    ],
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d9FG3JgtSYxIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d9FG3JgtSYxIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9FG3JgtSYxIC&printsec\u003dfrontcover&dq\u003dPoetry&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9FG3JgtSYxIC&dq\u003dPoetry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "92wT-BuhoqsC",
+   "etag": "4HZ2YpyTzHY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/92wT-BuhoqsC",
+   "volumeInfo": {
+    "title": "Poetry",
+    "subtitle": "the basics",
+    "authors": [
+     "Jeffrey Wainwright"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2004",
+    "description": "This comprehensive guide demystifies the world of poetry, exploring poetic forms and traditions which can at first seem bewildering.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415287642"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415287647"
+     }
+    ],
+    "pageCount": 223,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d92wT-BuhoqsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d92wT-BuhoqsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d92wT-BuhoqsC&printsec\u003dfrontcover&dq\u003dPoetry&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d92wT-BuhoqsC&dq\u003dPoetry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d92wT-BuhoqsC&dq\u003dPoetry&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Poetry-sample-epub.acsm?id\u003d92wT-BuhoqsC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Poetry-sample-pdf.acsm?id\u003d92wT-BuhoqsC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fuBHMccJx6UC",
+   "etag": "3l7VHGghic4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fuBHMccJx6UC",
+   "volumeInfo": {
+    "title": "A poetry handbook",
+    "authors": [
+     "Mary Oliver"
+    ],
+    "publisher": "Mariner Books",
+    "publishedDate": "1994",
+    "description": "Offers advice on reading and writing poetry, and discusses imitation, sound, the line, poem forms, free verse, diction, imagery, revision, and workshops",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0156724006"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780156724005"
+     }
+    ],
+    "pageCount": 130,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 83,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dfuBHMccJx6UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dfuBHMccJx6UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfuBHMccJx6UC&printsec\u003dfrontcover&dq\u003dPoetry&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfuBHMccJx6UC&dq\u003dPoetry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1C7WAAAACAAJ",
+   "etag": "cc36wG+nTCA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1C7WAAAACAAJ",
+   "volumeInfo": {
+    "title": "Poetry Matters",
+    "subtitle": "Writing a Poem from the Inside Out",
+    "authors": [
+     "Ralph J. Fletcher"
+    ],
+    "publisher": "Turtleback",
+    "publishedDate": "2003-07",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0613649974"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780613649971"
+     }
+    ],
+    "pageCount": 142,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 11,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d1C7WAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d1C7WAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1C7WAAAACAAJ&dq\u003dPoetry&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1C7WAAAACAAJ&dq\u003dPoetry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TQeqArdkd-MC",
+   "etag": "n4F5zShv958",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TQeqArdkd-MC",
+   "volumeInfo": {
+    "title": "The Best American poetry",
+    "authors": [
+     "David Wagoner",
+     "David Lehman"
+    ],
+    "publisher": "Scribner",
+    "publishedDate": "2009-09-22",
+    "description": "An anthology of contemporary poets presents works that reflect the diversity in American poetry",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0743299760"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780743299763"
+     }
+    ],
+    "pageCount": 207,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 133,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dTQeqArdkd-MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dTQeqArdkd-MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTQeqArdkd-MC&printsec\u003dfrontcover&dq\u003dPoetry&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTQeqArdkd-MC&dq\u003dPoetry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dTQeqArdkd-MC&dq\u003dPoetry&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Best_American_poetry-sample-epub.acsm?id\u003dTQeqArdkd-MC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ASIOAAAAMAAJ",
+   "etag": "kS/7MlSsHq4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ASIOAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Poetry",
+    "subtitle": "its appreciation and enjoyment",
+    "authors": [
+     "Louis Untermeyer",
+     "Carter Davidson"
+    ],
+    "publishedDate": "1934",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015030842200"
+     }
+    ],
+    "pageCount": 530,
+    "printType": "BOOK",
+    "categories": [
+     "American poetry"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dASIOAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dASIOAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dASIOAAAAMAAJ&q\u003dPoetry&dq\u003dPoetry&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dASIOAAAAMAAJ&dq\u003dPoetry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nZMvAQAAIAAJ",
+   "etag": "VjoShgWg8ng",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nZMvAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Poetry",
+    "authors": [
+     "Sir Arthur Thomas Quiller-Couch"
+    ],
+    "publishedDate": "1914",
+    "description": "Cjrust in good. verses tften: Ihzxi otilli sfiaCC aspire, &quot;WKcn pyramids, as men\u003cbr\u003e\r\n,/. Are Cost UtfOe funevaCtirc.&#39; AS the tale is told by Plato, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105047802256"
+     }
+    ],
+    "pageCount": 60,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dnZMvAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dnZMvAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnZMvAQAAIAAJ&printsec\u003dfrontcover&dq\u003dPoetry&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnZMvAQAAIAAJ&dq\u003dPoetry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Poetry.epub?id\u003dnZMvAQAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Poetry.pdf?id\u003dnZMvAQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1x1T-HIMINWweS3dovN1ywHU0fDA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bCu0AAAAIAAJ",
+   "etag": "04hJk6lA7WU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bCu0AAAAIAAJ",
+   "volumeInfo": {
+    "title": "Poetry",
+    "subtitle": "a modern guide to its understanding and enjoyment",
+    "authors": [
+     "Elizabeth Drew"
+    ],
+    "publishedDate": "1965",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105002543655"
+     }
+    ],
+    "pageCount": 287,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dbCu0AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dbCu0AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbCu0AAAAIAAJ&q\u003dPoetry&dq\u003dPoetry&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbCu0AAAAIAAJ&dq\u003dPoetry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 495
+}

@@ -1,0 +1,481 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "49tXR1Ok6poC",
+   "etag": "oi22QoKFkpY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/49tXR1Ok6poC",
+   "volumeInfo": {
+    "title": "Introduction to African American studies",
+    "subtitle": "transdisciplinary approaches and implications",
+    "authors": [
+     "Talmadge Anderson",
+     "James Benjamin Stewart"
+    ],
+    "publisher": "Black Classic Press",
+    "publishedDate": "2007-09-01",
+    "description": "There is an ongoing debate as to whether African American Studies is a discipline, or multidisciplinary or interdisciplinary field.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1580730396"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781580730396"
+     }
+    ],
+    "pageCount": 430,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d49tXR1Ok6poC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d49tXR1Ok6poC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d49tXR1Ok6poC&printsec\u003dfrontcover&dq\u003dAfrican+American+Studies&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d49tXR1Ok6poC&dq\u003dAfrican+American+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DN-f3D1JGdUC",
+   "etag": "I/G3gETPT3U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DN-f3D1JGdUC",
+   "volumeInfo": {
+    "title": "A companion to African-American studies",
+    "authors": [
+     "Lewis Ricardo Gordon",
+     "Jane Anna Gordon"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "2006-02-03",
+    "description": "This book is a definitive intervention at a critical time in the history of race relations and in the academic field of race and ethnic studies.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0631235167"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780631235163"
+     }
+    ],
+    "pageCount": 668,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dDN-f3D1JGdUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dDN-f3D1JGdUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDN-f3D1JGdUC&printsec\u003dfrontcover&dq\u003dAfrican+American+Studies&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDN-f3D1JGdUC&dq\u003dAfrican+American+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 159.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 159.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dDN-f3D1JGdUC&dq\u003dAfrican+American+Studies&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/A_companion_to_African_American_studies-sample-pdf.acsm?id\u003dDN-f3D1JGdUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gRuoLQAACAAJ",
+   "etag": "ZGZaVbx/oco",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gRuoLQAACAAJ",
+   "volumeInfo": {
+    "title": "African American Studies",
+    "authors": [
+     "Jeanette R. Davidson"
+    ],
+    "publisher": "Edinburgh Univ Pr",
+    "publishedDate": "2010-08-30",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "074863715X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780748637157"
+     }
+    ],
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dgRuoLQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dgRuoLQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgRuoLQAACAAJ&dq\u003dAfrican+American+Studies&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgRuoLQAACAAJ&dq\u003dAfrican+American+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tWBcbwAACAAJ",
+   "etag": "2jU1p6lWcsw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tWBcbwAACAAJ",
+   "volumeInfo": {
+    "title": "African American Studies",
+    "subtitle": "African-American Literature",
+    "authors": [
+     "Books Llc"
+    ],
+    "publisher": "Books LLC",
+    "publishedDate": "2010-09",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1156762170"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781156762172"
+     }
+    ],
+    "pageCount": 58,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dtWBcbwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dtWBcbwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtWBcbwAACAAJ&dq\u003dAfrican+American+Studies&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtWBcbwAACAAJ&dq\u003dAfrican+American+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5iW4GwAACAAJ",
+   "etag": "YENwBFfhG7k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5iW4GwAACAAJ",
+   "volumeInfo": {
+    "title": "African American studies",
+    "authors": [
+     "Howard County Public School System (Md.)"
+    ],
+    "publishedDate": "1992",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:28489409"
+     }
+    ],
+    "pageCount": 132,
+    "printType": "BOOK",
+    "categories": [
+     "African Americans"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5iW4GwAACAAJ&dq\u003dAfrican+American+Studies&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5iW4GwAACAAJ&dq\u003dAfrican+American+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9MsQPAAACAAJ",
+   "etag": "x4hr6XiOpt0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9MsQPAAACAAJ",
+   "volumeInfo": {
+    "title": "African American studies",
+    "subtitle": "resources in the University of Chicago Library",
+    "authors": [
+     "University of Chicago. Library"
+    ],
+    "publishedDate": "1999",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:55093553"
+     }
+    ],
+    "pageCount": 50,
+    "printType": "BOOK",
+    "categories": [
+     "African Americans"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9MsQPAAACAAJ&dq\u003dAfrican+American+Studies&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9MsQPAAACAAJ&dq\u003dAfrican+American+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LFU6GwAACAAJ",
+   "etag": "Dpu25S6KYhw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LFU6GwAACAAJ",
+   "volumeInfo": {
+    "title": "African-American studies",
+    "subtitle": "grades 4-6",
+    "publishedDate": "1991",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:95115799"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLFU6GwAACAAJ&dq\u003dAfrican+American+Studies&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLFU6GwAACAAJ&dq\u003dAfrican+American+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "phIDfAEACAAJ",
+   "etag": "3/1EQSi4FWc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/phIDfAEACAAJ",
+   "volumeInfo": {
+    "title": "African American studies",
+    "subtitle": "basic reference sources in Barnard Library",
+    "authors": [
+     "Natalie Sonevytsky"
+    ],
+    "publishedDate": "1990",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:79205467"
+     }
+    ],
+    "pageCount": 12,
+    "printType": "BOOK",
+    "categories": [
+     "African Americans"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dphIDfAEACAAJ&dq\u003dAfrican+American+Studies&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dphIDfAEACAAJ&dq\u003dAfrican+American+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9yVEYgEACAAJ",
+   "etag": "JpIyNQFGALo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9yVEYgEACAAJ",
+   "volumeInfo": {
+    "title": "African American studies",
+    "subtitle": "index to a collection of dissertations, January 1984 - May 1990",
+    "authors": [
+     "Vivian Hall Royster"
+    ],
+    "publishedDate": "1990",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:154208471"
+     }
+    ],
+    "pageCount": 155,
+    "printType": "BOOK",
+    "categories": [
+     "African Americans"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9yVEYgEACAAJ&dq\u003dAfrican+American+Studies&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9yVEYgEACAAJ&dq\u003dAfrican+American+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UHrWQgAACAAJ",
+   "etag": "ljI5vSVKaN4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UHrWQgAACAAJ",
+   "volumeInfo": {
+    "title": "The African American studies reader",
+    "authors": [
+     "Nathaniel Norment"
+    ],
+    "publisher": "Carolina Academic Pr",
+    "publishedDate": "2007-03-16",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1594601550"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781594601552"
+     }
+    ],
+    "pageCount": 896,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dUHrWQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dUHrWQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUHrWQgAACAAJ&dq\u003dAfrican+American+Studies&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUHrWQgAACAAJ&dq\u003dAfrican+American+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 587
+}

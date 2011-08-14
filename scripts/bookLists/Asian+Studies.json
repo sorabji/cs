@@ -1,0 +1,482 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "TzRtAAAAMAAJ",
+   "etag": "11CmHd4OLc0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TzRtAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Asian studies",
+    "subtitle": "journal of the Center for Asian Studies",
+    "authors": [
+     "Jāhāṅgīranagara Biśvabidyālaẏa. Center for Asian Studies",
+     "Jāhāṅgīranagara University. Center for Asian Studies",
+     "Jāhāṅgīranagara Biśvabidyālaẏa. Sarakāra o Rājanīti Bibhāga"
+    ],
+    "publishedDate": "1984",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015048629763"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTzRtAAAAMAAJ&q\u003dAsian+Studies&dq\u003dAsian+Studies&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTzRtAAAAMAAJ&dq\u003dAsian+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dEZtAAAAMAAJ",
+   "etag": "1Ceh8gdQkWE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dEZtAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Asian studies",
+    "authors": [
+     "Netaji Institute for Asian Studies"
+    ],
+    "publishedDate": "2006",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015066388169"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003ddEZtAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003ddEZtAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddEZtAAAAMAAJ&q\u003dAsian+Studies&dq\u003dAsian+Studies&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddEZtAAAAMAAJ&dq\u003dAsian+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dpHObwAACAAJ",
+   "etag": "BAKEf7SCIPY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dpHObwAACAAJ",
+   "volumeInfo": {
+    "title": "Asian Studies",
+    "subtitle": "Oriental Studies, Leonid P. Potapov, the Hapa Project, Asian Values, Asian American Studies, Asian Fetish, the Asiatic Society",
+    "authors": [
+     "Books, LLC"
+    ],
+    "publisher": "Books LLC",
+    "publishedDate": "2010-05",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1156821541"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781156821541"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003ddpHObwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003ddpHObwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddpHObwAACAAJ&dq\u003dAsian+Studies&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddpHObwAACAAJ&dq\u003dAsian+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_HgTAgAACAAJ",
+   "etag": "gGFaBC3pgzA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_HgTAgAACAAJ",
+   "volumeInfo": {
+    "title": "Asian studies",
+    "subtitle": "an audit of curriculum resources",
+    "authors": [
+     "Queensland. Dept. of Education",
+     "Asian Studies Council (Australia)"
+    ],
+    "publishedDate": "1991",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0724245820"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780724245826"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Asia"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_HgTAgAACAAJ&dq\u003dAsian+Studies&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_HgTAgAACAAJ&dq\u003dAsian+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XocFRAAACAAJ",
+   "etag": "8CUxHZQQ2xI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XocFRAAACAAJ",
+   "volumeInfo": {
+    "title": "Asian studies",
+    "subtitle": "a proposal",
+    "authors": [
+     "Stanford University. Committee on a Survey of Asian Studies"
+    ],
+    "publishedDate": "1951",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:29488062"
+     }
+    ],
+    "pageCount": 171,
+    "printType": "BOOK",
+    "categories": [
+     "Area studies"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXocFRAAACAAJ&dq\u003dAsian+Studies&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXocFRAAACAAJ&dq\u003dAsian+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "42d-PwAACAAJ",
+   "etag": "A6ytKDrxivU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/42d-PwAACAAJ",
+   "volumeInfo": {
+    "title": "Asian studies",
+    "authors": [
+     "University of California, Berkeley. Asian American Studies"
+    ],
+    "publishedDate": "1972",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:10039120"
+     }
+    ],
+    "pageCount": 31,
+    "printType": "BOOK",
+    "categories": [
+     "Asian Americans"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d42d-PwAACAAJ&dq\u003dAsian+Studies&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d42d-PwAACAAJ&dq\u003dAsian+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "o8DQvtdsL_8C",
+   "etag": "NDzc/xHjoIY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o8DQvtdsL_8C",
+   "volumeInfo": {
+    "title": "Southeast Asian studies",
+    "subtitle": "debates and new directions",
+    "authors": [
+     "Cynthia Chou",
+     "V. J. H. Houben",
+     "International Institute for Asian Studies",
+     "Institute of Southeast Asian Studies"
+    ],
+    "publishedDate": "2006-10-15",
+    "description": "INTRODUCTION Cynthia Chou and Vincent Houben Southeast \u003cb\u003eAsian studies\u003c/b\u003e today is \u003cbr\u003e\r\nbeing reconfigured. Its intellectual landscape has been grafted with many new \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9812303855"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789812303851"
+     }
+    ],
+    "pageCount": 206,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003do8DQvtdsL_8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003do8DQvtdsL_8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003do8DQvtdsL_8C&printsec\u003dfrontcover&dq\u003dAsian+Studies&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003do8DQvtdsL_8C&dq\u003dAsian+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Southeast_Asian_studies-sample-epub.acsm?id\u003do8DQvtdsL_8C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HVrTKsGg6dwC",
+   "etag": "MxPOQPdLSEU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HVrTKsGg6dwC",
+   "volumeInfo": {
+    "title": "Southeast Asian studies in China",
+    "authors": [
+     "Institute of Southeast Asian Studies",
+     "National University of Singapore. East Asian Institute"
+    ],
+    "publisher": "Inst of Southeast Asian Studies",
+    "publishedDate": "2007",
+    "description": "1 A Review of Southeast \u003cb\u003eAsian Studies\u003c/b\u003e in China Saw Swee-Hock INTRODUCTION With \u003cbr\u003e\r\nfast developing relations between China and ASEAN there is a growing need for \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9812304045"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789812304049"
+     }
+    ],
+    "pageCount": 204,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dHVrTKsGg6dwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dHVrTKsGg6dwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHVrTKsGg6dwC&pg\u003dPA1&dq\u003dAsian+Studies&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHVrTKsGg6dwC&dq\u003dAsian+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Southeast_Asian_studies_in_China-sample-epub.acsm?id\u003dHVrTKsGg6dwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TywXDUfU-NkC",
+   "etag": "J991b+W0REc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TywXDUfU-NkC",
+   "volumeInfo": {
+    "title": "Guide to Asian studies in Europe",
+    "authors": [
+     "International Institute for Asian Studies"
+    ],
+    "publisher": "RoutledgeCurzon",
+    "publishedDate": "1998",
+    "description": "This Guide is produced on behalf of the European Science Foundation Asia Committee.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "070071054X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780700710546"
+     }
+    ],
+    "pageCount": 335,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dTywXDUfU-NkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dTywXDUfU-NkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTywXDUfU-NkC&pg\u003dPA3&dq\u003dAsian+Studies&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTywXDUfU-NkC&dq\u003dAsian+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xQILAQAAMAAJ",
+   "etag": "3MvlmJu7Irs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xQILAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Asian studies newsletter",
+    "authors": [
+     "Association for Asian Studies"
+    ],
+    "publishedDate": "2003",
+    "description": "\u003cb\u003eASIAN STUDIES\u003c/b\u003e NEWSLETTER Editorial Staff Design and Production Publications/\u003cbr\u003e\r\nResources Study Programs Jon Wilson AAS &amp; Miscellaneous News Michael Paschal \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "IND:30000107211272"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dxQILAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dxQILAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxQILAQAAMAAJ&q\u003dAsian+Studies&dq\u003dAsian+Studies&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxQILAQAAMAAJ&dq\u003dAsian+Studies&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 582
+}

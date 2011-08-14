@@ -1,0 +1,510 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "wm4wHzfsCtgC",
+   "etag": "ugIh2mU94vs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wm4wHzfsCtgC",
+   "volumeInfo": {
+    "title": "Literary biography",
+    "subtitle": "an introduction",
+    "authors": [
+     "Michael Benton"
+    ],
+    "publisher": "Blackwell Pub",
+    "publishedDate": "2009-10-02",
+    "description": "Literary Biography: An Introduction illustrates and accounts for the literary genre that merges historical facts with the conventions of narrative while ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1405194464"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405194464"
+     }
+    ],
+    "pageCount": 253,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dwm4wHzfsCtgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dwm4wHzfsCtgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwm4wHzfsCtgC&printsec\u003dfrontcover&dq\u003dLiterary+Biography&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwm4wHzfsCtgC&dq\u003dLiterary+Biography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 84.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 84.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dwm4wHzfsCtgC&dq\u003dLiterary+Biography&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Literary_biography-sample-pdf.acsm?id\u003dwm4wHzfsCtgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eHqzfe05qJoC",
+   "etag": "9SZxU5Yo31s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eHqzfe05qJoC",
+   "volumeInfo": {
+    "title": "On literary biography",
+    "authors": [
+     "John Updike"
+    ],
+    "publisher": "Univ of South Carolina Pr",
+    "publishedDate": "1999-09-01",
+    "description": "A leading man of letters subjects a popular contemporary genre to thoughtful scrutiny.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1570033455"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781570033452"
+     }
+    ],
+    "pageCount": 43,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003deHqzfe05qJoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003deHqzfe05qJoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deHqzfe05qJoC&printsec\u003dfrontcover&dq\u003dLiterary+Biography&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deHqzfe05qJoC&dq\u003dLiterary+Biography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ip8NAQAAMAAJ",
+   "etag": "C21ivFoxvWo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ip8NAQAAMAAJ",
+   "volumeInfo": {
+    "title": "The literary biography",
+    "subtitle": "problems and solutions",
+    "authors": [
+     "Dale Salwak"
+    ],
+    "publisher": "University Of Iowa Press",
+    "publishedDate": "1996-10-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:49015002689769"
+     }
+    ],
+    "pageCount": 182,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dip8NAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dip8NAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dip8NAQAAMAAJ&q\u003dLiterary+Biography&dq\u003dLiterary+Biography&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dip8NAQAAMAAJ&dq\u003dLiterary+Biography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KM8ZAAAAYAAJ",
+   "etag": "IPunZhfBDS4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KM8ZAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Literary biography",
+    "authors": [
+     "Leon Edel"
+    ],
+    "publishedDate": "1973",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X000413817"
+     }
+    ],
+    "pageCount": 170,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dKM8ZAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dKM8ZAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKM8ZAAAAYAAJ&q\u003dLiterary+Biography&dq\u003dLiterary+Biography&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKM8ZAAAAYAAJ&dq\u003dLiterary+Biography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dN8ZAAAAYAAJ",
+   "etag": "8pthIg3tweM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dN8ZAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Literary biography",
+    "subtitle": "an inaugural lecture delivered before the University of Oxford on 4 May 1971",
+    "authors": [
+     "Richard Ellmann"
+    ],
+    "publishedDate": "1971",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X000591839"
+     }
+    ],
+    "pageCount": 19,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003ddN8ZAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003ddN8ZAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddN8ZAAAAYAAJ&q\u003dLiterary+Biography&dq\u003dLiterary+Biography&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddN8ZAAAAYAAJ&dq\u003dLiterary+Biography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ujAGHAAACAAJ",
+   "etag": "wdaNWDCA1m0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ujAGHAAACAAJ",
+   "volumeInfo": {
+    "title": "Literary biography",
+    "authors": [
+     "Helen Louise Gardner (Dame.)"
+    ],
+    "publishedDate": "198?",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:25905946"
+     }
+    ],
+    "pageCount": 18,
+    "printType": "BOOK",
+    "categories": [
+     "Authors"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dujAGHAAACAAJ&dq\u003dLiterary+Biography&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dujAGHAAACAAJ&dq\u003dLiterary+Biography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YEvQ1_1YPCQC",
+   "etag": "duU+wIC5iyg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YEvQ1_1YPCQC",
+   "volumeInfo": {
+    "title": "The art of literary biography",
+    "authors": [
+     "John Batchelor"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "1995",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0198182899"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780198182894"
+     }
+    ],
+    "pageCount": 289,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dYEvQ1_1YPCQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dYEvQ1_1YPCQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYEvQ1_1YPCQC&dq\u003dLiterary+Biography&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYEvQ1_1YPCQC&dq\u003dLiterary+Biography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mPkPPAAACAAJ",
+   "etag": "iZTxgdaf0u8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mPkPPAAACAAJ",
+   "volumeInfo": {
+    "title": "On literary biography",
+    "subtitle": "twenty-one statements",
+    "authors": [
+     "George Garrett"
+    ],
+    "publishedDate": "2005",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:69647662"
+     }
+    ],
+    "pageCount": 46,
+    "printType": "BOOK",
+    "categories": [
+     "Dictionary of Literary Biography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmPkPPAAACAAJ&dq\u003dLiterary+Biography&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmPkPPAAACAAJ&dq\u003dLiterary+Biography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FAp1uVaBaQIC",
+   "etag": "uN0OGyCZ2bk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FAp1uVaBaQIC",
+   "volumeInfo": {
+    "title": "Essays in Arabic Literary Biography 1850-1950",
+    "authors": [
+     "Roger Allen"
+    ],
+    "publisher": "Otto Harrassowitz",
+    "publishedDate": "2010-03-17",
+    "description": "In the case of this final volume, the period involved is that between the purported earlier phases in the emergence of a movement of cultural revival in the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3447061413"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783447061414"
+     }
+    ],
+    "pageCount": 395,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dFAp1uVaBaQIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dFAp1uVaBaQIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFAp1uVaBaQIC&printsec\u003dfrontcover&dq\u003dLiterary+Biography&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFAp1uVaBaQIC&dq\u003dLiterary+Biography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s6Bq4c98cXwC",
+   "etag": "LGrc/a+h30Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s6Bq4c98cXwC",
+   "volumeInfo": {
+    "title": "Vernon Lee",
+    "subtitle": "a literary biography",
+    "authors": [
+     "Vineta Colby"
+    ],
+    "publisher": "Univ of Virginia Pr",
+    "publishedDate": "2003",
+    "description": "Vernon Lee, born Violet Paget in 1856 to English parents who lived on the Continent, bridged two worlds and many cultures.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0813921589"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780813921587"
+     }
+    ],
+    "pageCount": 387,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003ds6Bq4c98cXwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003ds6Bq4c98cXwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ds6Bq4c98cXwC&printsec\u003dfrontcover&dq\u003dLiterary+Biography&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ds6Bq4c98cXwC&dq\u003dLiterary+Biography&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 28.44,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003ds6Bq4c98cXwC&dq\u003dLiterary+Biography&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Vernon_Lee-sample-pdf.acsm?id\u003ds6Bq4c98cXwC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 465
+}

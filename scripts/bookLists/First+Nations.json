@@ -1,0 +1,526 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Bm91AAAAMAAJ",
+   "etag": "+UgQCbxA3Js",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Bm91AAAAMAAJ",
+   "volumeInfo": {
+    "title": "First nations",
+    "subtitle": "race, class and gender relations",
+    "authors": [
+     "Vic Satzewich",
+     "Terry Wotherspoon"
+    ],
+    "publisher": "Cprc",
+    "publishedDate": "2000",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0889771448"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780889771444"
+     }
+    ],
+    "pageCount": 311,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dBm91AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dBm91AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBm91AAAAMAAJ&q\u003dFirst+Nations&dq\u003dFirst+Nations&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBm91AAAAMAAJ&dq\u003dFirst+Nations&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5MRNyntZQNwC",
+   "etag": "Bao8dQC8ifc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5MRNyntZQNwC",
+   "volumeInfo": {
+    "title": "First nations? Second thoughts",
+    "authors": [
+     "Thomas Flanagan"
+    ],
+    "publisher": "McGill Queens Univ Pr",
+    "publishedDate": "2000",
+    "description": "Controversial and thought-provoking, Tom Flanagan&#39;s First Nations?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0773520708"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780773520707"
+     }
+    ],
+    "pageCount": 245,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d5MRNyntZQNwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d5MRNyntZQNwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5MRNyntZQNwC&printsec\u003dfrontcover&dq\u003dFirst+Nations&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5MRNyntZQNwC&dq\u003dFirst+Nations&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/First_nations_Second_thoughts-sample-epub.acsm?id\u003d5MRNyntZQNwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "z68LAAAAYAAJ",
+   "etag": "PT9HTs6S11Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/z68LAAAAYAAJ",
+   "volumeInfo": {
+    "title": "First nations",
+    "authors": [
+     "University of California, Davis. Native American Organized Research Program",
+     "University of California, Davis. Native American Studies",
+     "University of California, Davis. Indigenous Research Center of the Americas"
+    ],
+    "publishedDate": "1994-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173004735830"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dz68LAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dz68LAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dz68LAAAAYAAJ&q\u003dFirst+Nations&dq\u003dFirst+Nations&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dz68LAAAAYAAJ&dq\u003dFirst+Nations&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "11ii63EytIYC",
+   "etag": "DBqEGgFN954",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/11ii63EytIYC",
+   "volumeInfo": {
+    "title": "The First Nations of British Columbia",
+    "subtitle": "an anthropological survey",
+    "authors": [
+     "Robert James Muckle"
+    ],
+    "publisher": "Univ of British Columbia Pr",
+    "publishedDate": "2007",
+    "description": "The First Nations of British Columbia,Second Edition, is aconcise and accessible overview of First Nations peoples, cultures, andissues in the province.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0774813490"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780774813495"
+     }
+    ],
+    "pageCount": 154,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d11ii63EytIYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d11ii63EytIYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d11ii63EytIYC&printsec\u003dfrontcover&dq\u003dFirst+Nations&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d11ii63EytIYC&dq\u003dFirst+Nations&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_First_Nations_of_British_Columbia-sample-epub.acsm?id\u003d11ii63EytIYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_First_Nations_of_British_Columbia-sample-pdf.acsm?id\u003d11ii63EytIYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dri7rAWiVYsC",
+   "etag": "0hwB/SIEsCk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dri7rAWiVYsC",
+   "volumeInfo": {
+    "title": "Protection of First Nations Cultural Heritage",
+    "subtitle": "Laws, Policy, and Reform",
+    "authors": [
+     "Catherine Bell",
+     "Robert K. Paterson"
+    ],
+    "publisher": "Univ of British Columbia Pr",
+    "publishedDate": "2009-08-30",
+    "description": "A companion to First Nations Cultural Heritage and Law, this collection discusses key features of US and international law influencing Canada.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0774814640"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780774814645"
+     }
+    ],
+    "pageCount": 441,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "0.1.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003ddri7rAWiVYsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003ddri7rAWiVYsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddri7rAWiVYsC&printsec\u003dfrontcover&dq\u003dFirst+Nations&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddri7rAWiVYsC&dq\u003dFirst+Nations&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Protection_of_First_Nations_Cultural_Her-sample-epub.acsm?id\u003ddri7rAWiVYsC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "M5KhH8l1ldMC",
+   "etag": "pfnOX+2Npc8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/M5KhH8l1ldMC",
+   "volumeInfo": {
+    "title": "Canada's first nations",
+    "subtitle": "a history of founding peoples from earliest times",
+    "authors": [
+     "Olive Patricia Dickason"
+    ],
+    "publisher": "Univ of Oklahoma Pr",
+    "publishedDate": "1992",
+    "description": "This is a comprehensive history of Canada&#39;s original inhabitants-- Indians, Inuit, and later, Metis.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0806124393"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780806124391"
+     }
+    ],
+    "pageCount": 590,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dM5KhH8l1ldMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dM5KhH8l1ldMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dM5KhH8l1ldMC&printsec\u003dfrontcover&dq\u003dFirst+Nations&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dM5KhH8l1ldMC&dq\u003dFirst+Nations&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Y2wpSgAACAAJ",
+   "etag": "h2ScOJx6LFE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Y2wpSgAACAAJ",
+   "volumeInfo": {
+    "title": "First Nations",
+    "subtitle": "Squaw, Nakota, List of First Nations Peoples, Aboriginal Based Organized Crime, Jordan's Principle",
+    "authors": [
+     "Books, LLC"
+    ],
+    "publisher": "Books LLC",
+    "publishedDate": "2010-06",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "115765665X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781157656654"
+     }
+    ],
+    "pageCount": 84,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dY2wpSgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dY2wpSgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dY2wpSgAACAAJ&dq\u003dFirst+Nations&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dY2wpSgAACAAJ&dq\u003dFirst+Nations&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "K8BnQgAACAAJ",
+   "etag": "IIjKxtq0ckE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/K8BnQgAACAAJ",
+   "volumeInfo": {
+    "title": "The first nations",
+    "subtitle": "a Canadian experience of the gospel-culture encounter",
+    "authors": [
+     "Stan McKay",
+     "Janet Silman"
+    ],
+    "publisher": "World Council of Churches",
+    "publishedDate": "1995",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "2825411760"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9782825411766"
+     }
+    ],
+    "pageCount": 53,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dK8BnQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dK8BnQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dK8BnQgAACAAJ&dq\u003dFirst+Nations&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dK8BnQgAACAAJ&dq\u003dFirst+Nations&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HfXJZwEACAAJ",
+   "etag": "lRcMzUby/h8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HfXJZwEACAAJ",
+   "volumeInfo": {
+    "title": "First Nations",
+    "subtitle": "the circle unbroken",
+    "authors": [
+     "Geraldine Bod",
+     "National Film Board of Canada",
+     "Face to Face Media",
+     "Face to Face Media (Firm)",
+     "Gary Marcuse",
+     "Deanna Nyce",
+     "Lorna Williams"
+    ],
+    "publishedDate": "1993",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "077220490X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780772204905"
+     }
+    ],
+    "pageCount": 56,
+    "printType": "BOOK",
+    "categories": [
+     "Indians of North America"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHfXJZwEACAAJ&dq\u003dFirst+Nations&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHfXJZwEACAAJ&dq\u003dFirst+Nations&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XhP_ZwEACAAJ",
+   "etag": "oTyHS2isZVs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XhP_ZwEACAAJ",
+   "volumeInfo": {
+    "title": "The first nations",
+    "subtitle": "Indian government and the Canadian confederation",
+    "authors": [
+     "Federation of Saskatchewan Indians"
+    ],
+    "publishedDate": "1980",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:2005432145"
+     }
+    ],
+    "pageCount": 92,
+    "printType": "BOOK",
+    "categories": [
+     "Constitutional law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXhP_ZwEACAAJ&dq\u003dFirst+Nations&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXhP_ZwEACAAJ&dq\u003dFirst+Nations&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 591
+}

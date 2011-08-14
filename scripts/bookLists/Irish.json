@@ -1,0 +1,532 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "XV7PFkY9_3oC",
+   "etag": "+0pqa3wyMP4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XV7PFkY9_3oC",
+   "volumeInfo": {
+    "title": "How to Be Irish",
+    "subtitle": "(Even If You Already Are)",
+    "authors": [
+     "Sean Kelly",
+     "Rosemary Rogers"
+    ],
+    "publisher": "Villard",
+    "publishedDate": "1999-02-16",
+    "description": "A hilarious illustrated guidebook for all Irish or would-be Irish describes everything from &quot;How to Have an Irish Name&quot; and &quot;How to Talk, Look, and Act Irish&quot; ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0375752366"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780375752360"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Humor"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dXV7PFkY9_3oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dXV7PFkY9_3oC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXV7PFkY9_3oC&printsec\u003dfrontcover&dq\u003dIrish&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXV7PFkY9_3oC&dq\u003dIrish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dXV7PFkY9_3oC&dq\u003dIrish&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/How_to_Be_Irish-sample-epub.acsm?id\u003dXV7PFkY9_3oC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/How_to_Be_Irish-sample-pdf.acsm?id\u003dXV7PFkY9_3oC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "n9x9zr8CyegC",
+   "etag": "nGv/PHBRsTY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/n9x9zr8CyegC",
+   "volumeInfo": {
+    "title": "The Irish",
+    "authors": [
+     "Seán O'Faoláin"
+    ],
+    "publishedDate": "1980",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0140051112"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780140051117"
+     }
+    ],
+    "pageCount": 174,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dn9x9zr8CyegC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dn9x9zr8CyegC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dn9x9zr8CyegC&q\u003dIrish&dq\u003dIrish&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dn9x9zr8CyegC&dq\u003dIrish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cyI3sdfbLAEC",
+   "etag": "Y4IKiIhVe9w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cyI3sdfbLAEC",
+   "volumeInfo": {
+    "title": "The Irish",
+    "subtitle": "emigration, marriage, and fertility",
+    "authors": [
+     "Robert E. Kennedy"
+    ],
+    "publisher": "Univ of California Press",
+    "publishedDate": "1975",
+    "description": "Because of these anomalous patterns, many social scientists agree with the claim \u003cbr\u003e\r\nof some persons of \u003cb\u003eIrish\u003c/b\u003e birth or ancestry that the word &quot;\u003cb\u003eIrish\u003c/b\u003e&quot; is a \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520028961"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520028968"
+     }
+    ],
+    "pageCount": 236,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dcyI3sdfbLAEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dcyI3sdfbLAEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcyI3sdfbLAEC&printsec\u003dfrontcover&dq\u003dIrish&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcyI3sdfbLAEC&dq\u003dIrish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ak4iAQAAIAAJ",
+   "etag": "6u/5LXj4Gu8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ak4iAQAAIAAJ",
+   "volumeInfo": {
+    "title": "The Irish",
+    "authors": [
+     "Donald S. Connery"
+    ],
+    "publishedDate": "1970",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105033716239"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dAk4iAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dAk4iAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAk4iAQAAIAAJ&q\u003dIrish&dq\u003dIrish&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAk4iAQAAIAAJ&dq\u003dIrish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TgpCAAAAIAAJ",
+   "etag": "o6DFv1mo5bM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TgpCAAAAIAAJ",
+   "volumeInfo": {
+    "title": "The Irish",
+    "subtitle": "portrait of a people",
+    "authors": [
+     "Richard O'Connor"
+    ],
+    "publishedDate": "1971",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105033713863"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dTgpCAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dTgpCAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTgpCAAAAIAAJ&q\u003dIrish&dq\u003dIrish&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTgpCAAAAIAAJ&dq\u003dIrish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TEZAAQAAIAAJ",
+   "etag": "Cgu6VAoEAnA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TEZAAQAAIAAJ",
+   "volumeInfo": {
+    "title": "The Irish",
+    "subtitle": "a treasury of art and literature",
+    "authors": [
+     "Leslie Conron Carola"
+    ],
+    "publisher": "Hugh Lauter Levin Assc",
+    "publishedDate": "1993-04",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105004078486"
+     }
+    ],
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Crafts & Hobbies"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dTEZAAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dTEZAAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTEZAAQAAIAAJ&q\u003dIrish&dq\u003dIrish&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTEZAAQAAIAAJ&dq\u003dIrish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GzMwAAAAYAAJ",
+   "etag": "UJ1VZsIXQ+k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GzMwAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Irish pedigrees",
+    "subtitle": "or, The origin and stem of the Irish nation",
+    "authors": [
+     "John O'Hart"
+    ],
+    "publishedDate": "1876",
+    "description": "INTRODUCTION. I.— THE CREATION. Adam was the first man ; of whom all mankind is \u003cbr\u003e\r\npropagated (Genesis, i.). According to the more general opinions of divines, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433081848834"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Ireland"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dGzMwAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dGzMwAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGzMwAAAAYAAJ&printsec\u003dfrontcover&dq\u003dIrish&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGzMwAAAAYAAJ&dq\u003dIrish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Irish_pedigrees.pdf?id\u003dGzMwAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1j8pZjD-V9AjriyJrTKrACWkzjtw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DIgBAAAAQAAJ",
+   "etag": "j5IJILf8Hf8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DIgBAAAAQAAJ",
+   "volumeInfo": {
+    "title": "The Irish in America",
+    "authors": [
+     "John Francis Maguire",
+     "William Joseph Hardee"
+    ],
+    "publisher": "Longmans, Green",
+    "publishedDate": "1868",
+    "description": "THE \u003cb\u003eIRISH\u003c/b\u003e IN AMERICA. CHAPTER I. Difference of the Position of the \u003cb\u003eIrish\u003c/b\u003e in the \u003cbr\u003e\r\nOld Country, and the New — Difference in the Countries — Power and Dignity \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:600018858"
+     }
+    ],
+    "pageCount": 653,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dDIgBAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dDIgBAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDIgBAAAAQAAJ&printsec\u003dfrontcover&dq\u003dIrish&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDIgBAAAAQAAJ&dq\u003dIrish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/The_Irish_in_America.epub?id\u003dDIgBAAAAQAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Irish_in_America.pdf?id\u003dDIgBAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3oDgqjTSWXcRIIqqS8qUx-nP3w5A&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3yjfgz8Kcr0C",
+   "etag": "TP/dcY/QHQU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3yjfgz8Kcr0C",
+   "volumeInfo": {
+    "title": "Irish Blessings",
+    "authors": [
+     "Ashley Shannon"
+    ],
+    "publisher": "Courage Books",
+    "publishedDate": "1999-02-21",
+    "description": "A treasury of warmth and exquisite charm, IRISH BLESSINGS provides beautiful full-color photographs of the Irish countryside and more than 60 traditional ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0762404787"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780762404780"
+     }
+    ],
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d3yjfgz8Kcr0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d3yjfgz8Kcr0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3yjfgz8Kcr0C&printsec\u003dfrontcover&dq\u003dIrish&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3yjfgz8Kcr0C&dq\u003dIrish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d3yjfgz8Kcr0C&dq\u003dIrish&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Irish_Blessings-sample-pdf.acsm?id\u003d3yjfgz8Kcr0C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WZ5nAAAAMAAJ",
+   "etag": "t6riS+KqU3o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WZ5nAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The Irish",
+    "subtitle": "sinners, saints, gamblers, gentry, priests, Maoists, rebels, Tories, Orangemen, dippers, heroes, villains, and other proud natives of the fabled isle",
+    "authors": [
+     "Thomas J. O'Hanlon"
+    ],
+    "publisher": "HarperCollins Publishers",
+    "publishedDate": "1975-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015009142582"
+     }
+    ],
+    "pageCount": 316,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dWZ5nAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dWZ5nAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWZ5nAAAAMAAJ&q\u003dIrish&dq\u003dIrish&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWZ5nAAAAMAAJ&dq\u003dIrish&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 587
+}

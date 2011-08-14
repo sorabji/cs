@@ -1,0 +1,591 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "SHDMtpR8KiEC",
+   "etag": "4IS64rY3E9w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SHDMtpR8KiEC",
+   "volumeInfo": {
+    "title": "Everything Parent's Guide to Children with Juvenile Diabetes",
+    "subtitle": "Reassuring Advice for Managing Symptoms and Raising a Healthy, Happy Child",
+    "authors": [
+     "Moira McCarthy"
+    ],
+    "publisher": "Adams Media Corporation",
+    "publishedDate": "2007-04-02",
+    "description": "As a parent of a child diagnosed with diabetes, you are faced with overwhelming, and sometimes frightening, questions like: Will my child be able to eat sweets ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1598692461"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781598692464"
+     }
+    ],
+    "pageCount": 287,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dSHDMtpR8KiEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dSHDMtpR8KiEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSHDMtpR8KiEC&printsec\u003dfrontcover&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSHDMtpR8KiEC&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dSHDMtpR8KiEC&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "v2K9ZbnWXI0C",
+   "etag": "KXPnHUW2uOE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/v2K9ZbnWXI0C",
+   "volumeInfo": {
+    "title": "Child Welfare and Juvenile Justice",
+    "subtitle": "Federal Agencies Could Play a Stronger Role in Helping States Reduce the Number of Children Placed Solely to Obtain Mental Health Services",
+    "authors": [
+     "Cornelia M. Ashby",
+     "Kathleen D. White",
+     "Diana Petrowski"
+    ],
+    "publisher": "DIANE Publishing",
+    "publishedDate": "2003-08",
+    "description": "Recent news articles in over 30 states describe the difficulty many parents have in accessing mental health services for their children, &amp; some parents choose ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0756735165"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780756735166"
+     }
+    ],
+    "pageCount": 60,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dv2K9ZbnWXI0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dv2K9ZbnWXI0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dv2K9ZbnWXI0C&printsec\u003dfrontcover&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dv2K9ZbnWXI0C&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XyzNgkglITEC",
+   "etag": "0qtvsx0sTj4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XyzNgkglITEC",
+   "volumeInfo": {
+    "title": "No place for children",
+    "subtitle": "voices from juvenile detention",
+    "authors": [
+     "Steve Liss"
+    ],
+    "publisher": "Univ of Texas Pr",
+    "publishedDate": "2005-06-01",
+    "description": "&quot;Here are our fellow human beings-- young Americans who have already, alas, lived hard and mean lives, yet who aspire to know more about themselves and others, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0292701969"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780292701960"
+     }
+    ],
+    "pageCount": 131,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dXyzNgkglITEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dXyzNgkglITEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXyzNgkglITEC&printsec\u003dfrontcover&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXyzNgkglITEC&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OTkz7uuJhXYC",
+   "etag": "gAnJDFDxctY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OTkz7uuJhXYC",
+   "volumeInfo": {
+    "title": "Juvenile justice",
+    "subtitle": "redeeming our children",
+    "authors": [
+     "Barry Krisberg"
+    ],
+    "publisher": "Sage Publications, Inc",
+    "publishedDate": "2005",
+    "description": "This text gives a historical context to the ongoing quest for the juvenile justice ideal and examines how the current system of laws, policies, and practices ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0761925015"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780761925019"
+     }
+    ],
+    "pageCount": 236,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dOTkz7uuJhXYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dOTkz7uuJhXYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOTkz7uuJhXYC&printsec\u003dfrontcover&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOTkz7uuJhXYC&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Juvenile_justice-sample-epub.acsm?id\u003dOTkz7uuJhXYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "L0HyAwAACAAJ",
+   "etag": "sIffioPO1uc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/L0HyAwAACAAJ",
+   "volumeInfo": {
+    "title": "Children and Juvenile Justice",
+    "authors": [
+     "Ellen Marrus",
+     "Irene Merker Rosenberg"
+    ],
+    "publisher": "Carolina Academic Pr",
+    "publishedDate": "2007-08-07",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1594600627"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781594600623"
+     }
+    ],
+    "pageCount": 570,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dL0HyAwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dL0HyAwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dL0HyAwAACAAJ&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dL0HyAwAACAAJ&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "f4edcxiHGI0C",
+   "etag": "LEuKQ9JD7O8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f4edcxiHGI0C",
+   "volumeInfo": {
+    "title": "Child welfare and juvenile justice several factors influence the placement of children solely to obtain mental health services",
+    "description": "As these reports documented, some parents choose to place their \u003cb\u003echildren\u003c/b\u003e in the \u003cbr\u003e\r\n\u003cb\u003echild\u003c/b\u003e welfare or \u003cb\u003ejuvenile\u003c/b\u003e justice systems in order to obtain the mental \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1428939334"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781428939332"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003df4edcxiHGI0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003df4edcxiHGI0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003df4edcxiHGI0C&pg\u003dPP3&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003df4edcxiHGI0C&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003df4edcxiHGI0C&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ILYNdPTCzwkC",
+   "etag": "903jKTUK5UU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ILYNdPTCzwkC",
+   "volumeInfo": {
+    "title": "Juvenile Delinquency",
+    "subtitle": "Theory, Practice, and Law",
+    "authors": [
+     "Larry J. Siegel",
+     "Brandon C. Welsh"
+    ],
+    "publisher": "Wadsworth Pub Co",
+    "publishedDate": "2011-06-24",
+    "description": "\u003cb\u003ejuvenile\u003c/b\u003e defense attorney Represents \u003cb\u003echildren\u003c/b\u003e in \u003cb\u003ejuvenile\u003c/b\u003e court and plays an \u003cbr\u003e\r\nactive role at all stages of the proceedings. guardian ad litem A \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1111346895"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781111346898"
+     }
+    ],
+    "pageCount": 672,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dILYNdPTCzwkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dILYNdPTCzwkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dILYNdPTCzwkC&pg\u003dPT574&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dILYNdPTCzwkC&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-fjb7_3Qjy4C",
+   "etag": "5bgGtB6BKB0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-fjb7_3Qjy4C",
+   "volumeInfo": {
+    "title": "A Kind and Just Parent",
+    "subtitle": "The Children of Juvenile Court",
+    "authors": [
+     "William Ayers"
+    ],
+    "publisher": "Beacon Pr",
+    "publishedDate": "1998-01-06",
+    "description": "A teacher in a detention center school describes his experiences with Chicago&#39;s juvenile court system and the difficulties of the children who pass through it",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0807044032"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780807044032"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d-fjb7_3Qjy4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d-fjb7_3Qjy4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-fjb7_3Qjy4C&printsec\u003dfrontcover&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-fjb7_3Qjy4C&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d-fjb7_3Qjy4C&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/A_Kind_and_Just_Parent-sample-epub.acsm?id\u003d-fjb7_3Qjy4C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UUuFjIHAX5EC",
+   "etag": "xO6kh2pIDug",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UUuFjIHAX5EC",
+   "volumeInfo": {
+    "title": "Securing our children's future",
+    "subtitle": "new approaches to juvenile justice and youth violence",
+    "authors": [
+     "Gary S. Katzmann"
+    ],
+    "publisher": "Brookings Inst Pr",
+    "publishedDate": "2002",
+    "description": "The challenge of reducing youth violence has prompted a flurry of commentary, legislative activity, and scholarly studiesmuch of it skewed by lurid ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0815706057"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780815706052"
+     }
+    ],
+    "pageCount": 444,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dUUuFjIHAX5EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dUUuFjIHAX5EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUUuFjIHAX5EC&printsec\u003dfrontcover&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUUuFjIHAX5EC&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.72,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dUUuFjIHAX5EC&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Securing_our_children_s_future-sample-pdf.acsm?id\u003dUUuFjIHAX5EC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "c67gCwFnxwIC",
+   "etag": "B3N8Z6Mh4eY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/c67gCwFnxwIC",
+   "volumeInfo": {
+    "title": "Mothers of all children",
+    "subtitle": "women reformers and the rise of juvenile courts in progressive era America",
+    "authors": [
+     "Elizabeth Jane Clapp"
+    ],
+    "publisher": "Pennsylvania State Univ Pr",
+    "publishedDate": "1998",
+    "description": "Mothers of All Children examines this movement, focusing especially on the role of women reformers and the importance of gender consciousness in influencing the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0271017783"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780271017785"
+     }
+    ],
+    "pageCount": 214,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "1.0.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dc67gCwFnxwIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dc67gCwFnxwIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dc67gCwFnxwIC&printsec\u003dfrontcover&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dc67gCwFnxwIC&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dc67gCwFnxwIC&dq\u003dChildren+++Juvenile&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Mothers_of_all_children-sample-epub.acsm?id\u003dc67gCwFnxwIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Mothers_of_all_children-sample-pdf.acsm?id\u003dc67gCwFnxwIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 593
+}

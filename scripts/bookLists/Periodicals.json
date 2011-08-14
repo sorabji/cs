@@ -1,0 +1,487 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "NInQAAAAMAAJ",
+   "etag": "IrLY0YVujII",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NInQAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Periodicals",
+    "authors": [
+     "International Magazine Company"
+    ],
+    "publishedDate": "1917",
+    "description": "1 ANNOUNCEMENT \u003cb\u003ePERIODICALS\u003c/b\u003e will be published quarterly at $1.00 a year, payable \u003cbr\u003e\r\nin advance; single copies 50 cents. It will not be s«nt regularly to any \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015078680702"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dNInQAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dNInQAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNInQAAAAMAAJ&printsec\u003dfrontcover&dq\u003dPeriodicals&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNInQAAAAMAAJ&dq\u003dPeriodicals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Periodicals.pdf?id\u003dNInQAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2xsVBLua5JPDnQdAlWI6UjTVqzVA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bbQaAAAAMAAJ",
+   "etag": "WBQOOG02sWM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bbQaAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Periodicals",
+    "subtitle": "a manual of practice for librarians",
+    "authors": [
+     "Donald Edward Davinson"
+    ],
+    "publishedDate": "1964",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015036880014"
+     }
+    ],
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dbbQaAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dbbQaAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbbQaAAAAMAAJ&q\u003dPeriodicals&dq\u003dPeriodicals&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbbQaAAAAMAAJ&dq\u003dPeriodicals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AgTjAAAAMAAJ",
+   "etag": "5N38BlaMeWQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AgTjAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Periodicals",
+    "authors": [
+     "Library of Congress. Copyright Office"
+    ],
+    "publishedDate": "1951",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PSU:000059864240"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dAgTjAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dAgTjAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAgTjAAAAMAAJ&q\u003dPeriodicals&dq\u003dPeriodicals&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAgTjAAAAMAAJ&dq\u003dPeriodicals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hKwrAQAAIAAJ",
+   "etag": "9NnU0mUMboA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hKwrAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Periodicals",
+    "subtitle": "a manual of practice for librarians",
+    "authors": [
+     "Dan Davin"
+    ],
+    "publishedDate": "1964",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B3277073"
+     }
+    ],
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dhKwrAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dhKwrAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhKwrAQAAIAAJ&q\u003dPeriodicals&dq\u003dPeriodicals&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhKwrAQAAIAAJ&dq\u003dPeriodicals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1gRgAAAAMAAJ",
+   "etag": "KEAP49Ju7tg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1gRgAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Periodicals",
+    "subtitle": "selected list issued August, 1981",
+    "authors": [
+     "Olive Ennever",
+     "Beryl N. Fletcher",
+     "United Nations Fund for Population Activities"
+    ],
+    "publishedDate": "1981",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173023174050"
+     }
+    ],
+    "pageCount": 12,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d1gRgAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d1gRgAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1gRgAAAAMAAJ&q\u003dPeriodicals&dq\u003dPeriodicals&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1gRgAAAAMAAJ&dq\u003dPeriodicals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Qo-WHAAACAAJ",
+   "etag": "vLIvAI6wKBE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Qo-WHAAACAAJ",
+   "volumeInfo": {
+    "title": "Periodicals",
+    "subtitle": "a catalogue of periodicals large sets transactions of learned societies also standardworks choice and valuable books",
+    "publishedDate": "1900",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:65455541"
+     }
+    ],
+    "pageCount": 68,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQo-WHAAACAAJ&dq\u003dPeriodicals&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQo-WHAAACAAJ&dq\u003dPeriodicals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Rs16GwAACAAJ",
+   "etag": "Ta/PeCpySUM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Rs16GwAACAAJ",
+   "volumeInfo": {
+    "title": "Periodicals",
+    "subtitle": "an abstract from the official periodicals catalogue",
+    "authors": [
+     "University of Essex. Library"
+    ],
+    "publishedDate": "1970",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:9362829"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Colchester (England)"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRs16GwAACAAJ&dq\u003dPeriodicals&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRs16GwAACAAJ&dq\u003dPeriodicals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0zptPdUVofcC",
+   "etag": "6YO+MgHoP7Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0zptPdUVofcC",
+   "volumeInfo": {
+    "title": "Chess Periodicals",
+    "subtitle": "An Annotated International Bibliography, 1836-2008",
+    "authors": [
+     "Gino Di Felice"
+    ],
+    "publisher": "McFarland & Company",
+    "publishedDate": "2010-10-30",
+    "description": "&quot;This comprehensive reference work presents detailed bibliographical information about worldwide chess periodicals past to present.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0786446439"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786446438"
+     }
+    ],
+    "pageCount": 357,
+    "printType": "BOOK",
+    "categories": [
+     "Games"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d0zptPdUVofcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d0zptPdUVofcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0zptPdUVofcC&printsec\u003dfrontcover&dq\u003dPeriodicals&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0zptPdUVofcC&dq\u003dPeriodicals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "o3s2ZyxbmHMC",
+   "etag": "U5WC54QOzGM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o3s2ZyxbmHMC",
+   "volumeInfo": {
+    "title": "Romantic periodicals and print culture",
+    "authors": [
+     "Kim Wheatley"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2003",
+    "description": "Building on a revival of scholarly interest in the cultural effects of early 19th-century periodicals, the essays in this collection treat periodical writing as ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0714684376"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780714684376"
+     }
+    ],
+    "pageCount": 173,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003do3s2ZyxbmHMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003do3s2ZyxbmHMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003do3s2ZyxbmHMC&printsec\u003dfrontcover&dq\u003dPeriodicals&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003do3s2ZyxbmHMC&dq\u003dPeriodicals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 64.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 51.96,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003do3s2ZyxbmHMC&dq\u003dPeriodicals&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Romantic_periodicals_and_print_culture-sample-epub.acsm?id\u003do3s2ZyxbmHMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Romantic_periodicals_and_print_culture-sample-pdf.acsm?id\u003do3s2ZyxbmHMC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-HwPyE3h_5UC",
+   "etag": "jLKQt26DtSo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-HwPyE3h_5UC",
+   "volumeInfo": {
+    "title": "British Victorian women's periodicals",
+    "subtitle": "beauty, civilization, and poetry",
+    "authors": [
+     "Kathryn Ledbetter"
+    ],
+    "publisher": "Palgrave MacMillan",
+    "publishedDate": "2009-03-31",
+    "description": "This book questions traditional evaluations of nineteenth-century sentimental poetry, and argues for a consideration of women’s poetry within its own cultural ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "023060126X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780230601260"
+     }
+    ],
+    "pageCount": 236,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d-HwPyE3h_5UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d-HwPyE3h_5UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-HwPyE3h_5UC&printsec\u003dfrontcover&dq\u003dPeriodicals&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-HwPyE3h_5UC&dq\u003dPeriodicals&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 568
+}

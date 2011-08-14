@@ -1,0 +1,565 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "eML3-EFrtNgC",
+   "etag": "AQGGpYBXOFA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eML3-EFrtNgC",
+   "volumeInfo": {
+    "title": "The essential guide to children's books and their creators",
+    "authors": [
+     "Anita Silvey"
+    ],
+    "publisher": "Houghton Mifflin Harcourt",
+    "publishedDate": "2002-08-29",
+    "description": "Features autobiographical vignettes by popular children&#39;s authors and offers more than eight hundred short articles covering every aspect of children&#39;s books, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "061819083X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780618190836"
+     }
+    ],
+    "pageCount": 542,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003deML3-EFrtNgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003deML3-EFrtNgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deML3-EFrtNgC&printsec\u003dfrontcover&dq\u003dChildrens+Books:&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deML3-EFrtNgC&dq\u003dChildrens+Books:&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003deML3-EFrtNgC&dq\u003dChildrens+Books:&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_essential_guide_to_children_s_books-sample-pdf.acsm?id\u003deML3-EFrtNgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PqQgO0PwLBUC",
+   "etag": "7etMwQyK208",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PqQgO0PwLBUC",
+   "volumeInfo": {
+    "title": "You Can Write Children's Books",
+    "authors": [
+     "Tracey E. Dils"
+    ],
+    "publisher": "Writers Digest Books",
+    "publishedDate": "2009-10-08",
+    "description": "It takes writers through the process of writing a \u003cb\u003echildren&#39;s book\u003c/b\u003e, researching \u003cbr\u003e\r\npublishers, and submitting a professionally styled manuscript. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1582975736"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781582975733"
+     }
+    ],
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dPqQgO0PwLBUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dPqQgO0PwLBUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPqQgO0PwLBUC&printsec\u003dfrontcover&dq\u003dChildrens+Books:&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPqQgO0PwLBUC&dq\u003dChildrens+Books:&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "graiX5o4tMYC",
+   "etag": "4MbDVAAWmkI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/graiX5o4tMYC",
+   "volumeInfo": {
+    "title": "Children's books and their creators",
+    "authors": [
+     "Anita Silvey"
+    ],
+    "publisher": "Houghton Mifflin Harcourt",
+    "publishedDate": "1995",
+    "description": "The volume is enhanced by more than 175 illustrations in both black-and-white and color, featuring the work of Maurice Sendak, Edward Gorey, Robert McCloskey, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0395653800"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780395653807"
+     }
+    ],
+    "pageCount": 800,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dgraiX5o4tMYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dgraiX5o4tMYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgraiX5o4tMYC&printsec\u003dfrontcover&dq\u003dChildrens+Books:&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgraiX5o4tMYC&dq\u003dChildrens+Books:&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VrnwYzg33MQC",
+   "etag": "gtYOFA6tWZk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VrnwYzg33MQC",
+   "volumeInfo": {
+    "title": "How to Write & Illustrate Children's Books and Get Them Published!",
+    "authors": [
+     "Treld Pelkey Bicknell",
+     "Felicity Trotman"
+    ],
+    "publisher": "Writers Digest Books",
+    "publishedDate": "2000-06-19",
+    "description": "Explores the art of storytelling and the basics of writing for children, including classic fiction, contemporary themes, picture books, book production, fads, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1582970130"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781582970134"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Design"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dVrnwYzg33MQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dVrnwYzg33MQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVrnwYzg33MQC&printsec\u003dfrontcover&dq\u003dChildrens+Books:&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVrnwYzg33MQC&dq\u003dChildrens+Books:&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7kJ3Qpoi7H0C",
+   "etag": "dLkT8oilIgM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7kJ3Qpoi7H0C",
+   "volumeInfo": {
+    "title": "Book Sense best children's books",
+    "subtitle": "240 favorites for all ages recommended by independent booksellers",
+    "authors": [
+     "Mark Nichols",
+     "Cornelia Funke",
+     "Book Sense (Program)",
+     "Book Sense"
+    ],
+    "publisher": "Newmarket Pr",
+    "publishedDate": "2005-09-30",
+    "description": "This features a foreword by a favorite contemporary children&#39;s author and line drawings by noted children&#39;s book illustrators throughout.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1557046794"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781557046796"
+     }
+    ],
+    "pageCount": 174,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d7kJ3Qpoi7H0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d7kJ3Qpoi7H0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7kJ3Qpoi7H0C&printsec\u003dfrontcover&dq\u003dChildrens+Books:&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7kJ3Qpoi7H0C&dq\u003dChildrens+Books:&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ny6dKB4TkSoC",
+   "etag": "vyA6cI8pdA0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ny6dKB4TkSoC",
+   "volumeInfo": {
+    "title": "The best in children's books",
+    "subtitle": "the University of Chicago guide to children's literature, 1979-1984",
+    "authors": [
+     "Zena Sutherland",
+     "University of Chicago. Center for Children's Books"
+    ],
+    "publisher": "University Of Chicago Press",
+    "publishedDate": "1986-08-01",
+    "description": "Provides an annotated list of fourteen hundred of the best children&#39;s books published between 1979 and 1984 When the Center for Children&#39;s Books was established ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0226780600"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780226780603"
+     }
+    ],
+    "pageCount": 511,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dny6dKB4TkSoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dny6dKB4TkSoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dny6dKB4TkSoC&printsec\u003dfrontcover&dq\u003dChildrens+Books:&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dny6dKB4TkSoC&dq\u003dChildrens+Books:&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_9892XHBt3sC",
+   "etag": "BHfSbB8g5JE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_9892XHBt3sC",
+   "volumeInfo": {
+    "title": "Writing children's books for dummies",
+    "authors": [
+     "Lisa Rojany-Buccieri",
+     "Peter Economy"
+    ],
+    "publisher": "For Dummies",
+    "publishedDate": "2005-04-15",
+    "description": "From setting down that first word on paper to doing a successful publicity tour, Writing Children&#39;s Books For Dummies gives you the confidence and the insiders&#39; ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0764537288"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780764537288"
+     }
+    ],
+    "pageCount": 355,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d_9892XHBt3sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d_9892XHBt3sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_9892XHBt3sC&printsec\u003dfrontcover&dq\u003dChildrens+Books:&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_9892XHBt3sC&dq\u003dChildrens+Books:&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d_9892XHBt3sC&dq\u003dChildrens+Books:&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Writing_children_s_books_for_dummies-sample-epub.acsm?id\u003d_9892XHBt3sC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Writing_children_s_books_for_dummies-sample-pdf.acsm?id\u003d_9892XHBt3sC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xHoARQAACAAJ",
+   "etag": "EKH6mOAeXuM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xHoARQAACAAJ",
+   "volumeInfo": {
+    "title": "Childrens books",
+    "authors": [
+     "Swann Galleries"
+    ],
+    "publishedDate": "1978",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:171449585"
+     }
+    ],
+    "pageCount": 58,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxHoARQAACAAJ&dq\u003dChildrens+Books:&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxHoARQAACAAJ&dq\u003dChildrens+Books:&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eFIZYpxKuFEC",
+   "etag": "P63uJJKMbQM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eFIZYpxKuFEC",
+   "volumeInfo": {
+    "title": "Children's books about religion",
+    "authors": [
+     "Patricia Pearl Dole"
+    ],
+    "publisher": "Libraries Unltd Inc",
+    "publishedDate": "1999-02",
+    "description": "Useful as a ready reference and collection development guide, this book is an ideal reference and collection development tool for school, public, and church ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1563085151"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781563085154"
+     }
+    ],
+    "pageCount": 230,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003deFIZYpxKuFEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003deFIZYpxKuFEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deFIZYpxKuFEC&printsec\u003dfrontcover&dq\u003dChildrens+Books:&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deFIZYpxKuFEC&dq\u003dChildrens+Books:&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 40.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003deFIZYpxKuFEC&dq\u003dChildrens+Books:&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Children_s_books_about_religion-sample-epub.acsm?id\u003deFIZYpxKuFEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Children_s_books_about_religion-sample-pdf.acsm?id\u003deFIZYpxKuFEC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4nIwAAAAMAAJ",
+   "etag": "UNcmbyE4fd0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4nIwAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Children's books and reading",
+    "authors": [
+     "Montrose Jonas Moses"
+    ],
+    "publishedDate": "1907",
+    "description": "\u003cb\u003eCHILDREN&#39;S BOOKS\u003c/b\u003e AND READING I. THE PROBLEM Any good book, any book that is \u003cbr\u003e\r\nwiser than yourself, will teach you some things. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015034558091"
+     }
+    ],
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Bibliography"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d4nIwAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d4nIwAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4nIwAAAAMAAJ&printsec\u003dfrontcover&dq\u003dChildrens+Books:&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4nIwAAAAMAAJ&dq\u003dChildrens+Books:&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Children_s_books_and_reading.epub?id\u003d4nIwAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Children_s_books_and_reading.pdf?id\u003d4nIwAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0W41XqJbV-AiMaXX92iLgl80xQ9g&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 595
+}

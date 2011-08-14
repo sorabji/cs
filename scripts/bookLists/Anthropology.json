@@ -1,0 +1,555 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ougpAAAAYAAJ",
+   "etag": "T2oB7UaVkRc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ougpAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Anthropology",
+    "subtitle": "an introduction to the study of man and civilization",
+    "authors": [
+     "Sir Edward Burnett Tylor"
+    ],
+    "publishedDate": "1894",
+    "description": "\u003cb\u003eANTHROPOLOGY\u003c/b\u003e. CHAPTER I. MAN, ANCIENT AND MODERN. Antiquity of Man, I — Time \u003cbr\u003e\r\nrequired for Development of Races, I — of Languages, 7 — of Civilization, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HNKK3X"
+     }
+    ],
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Anthropology"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dougpAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dougpAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dougpAAAAYAAJ&pg\u003dPA1&dq\u003dAnthropology&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dougpAAAAYAAJ&dq\u003dAnthropology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Anthropology.epub?id\u003dougpAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Anthropology.pdf?id\u003dougpAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3Jm-41xHgUBjFjoOf_EAUdT2EI9g&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "b-YgndE9GMIC",
+   "etag": "dJ/qLWiSbT8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/b-YgndE9GMIC",
+   "volumeInfo": {
+    "title": "Anthropology",
+    "subtitle": "a student's guide to theory and method",
+    "authors": [
+     "Stanley Barrett"
+    ],
+    "publisher": "Univ of Toronto Pr",
+    "publishedDate": "2009-10",
+    "description": "In this updated second edition, Barrett&#39;s discussion of the origins and evolution of anthropology remains, augmented by sections addressing recent changes and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0802096123"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780802096128"
+     }
+    ],
+    "pageCount": 301,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "0.1.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003db-YgndE9GMIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003db-YgndE9GMIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003db-YgndE9GMIC&printsec\u003dfrontcover&dq\u003dAnthropology&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003db-YgndE9GMIC&dq\u003dAnthropology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Anthropology-sample-epub.acsm?id\u003db-YgndE9GMIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9NqbNR6gWPQC",
+   "etag": "Q4EGUjS9yqU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9NqbNR6gWPQC",
+   "volumeInfo": {
+    "title": "Anthropology",
+    "subtitle": "theoretical practice in culture and society",
+    "authors": [
+     "Michael Herzfeld"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "2001",
+    "description": "Not a textbook in the ordinary sense, this work offers a vision of how anthropology - a discipline that operates through intimate knowledge of local societies - ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0631206590"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780631206590"
+     }
+    ],
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d9NqbNR6gWPQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d9NqbNR6gWPQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9NqbNR6gWPQC&printsec\u003dfrontcover&dq\u003dAnthropology&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9NqbNR6gWPQC&dq\u003dAnthropology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Fm2RY5ZKmDIC",
+   "etag": "ErYhi5G3BjI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Fm2RY5ZKmDIC",
+   "volumeInfo": {
+    "title": "Anthropology",
+    "subtitle": "The Human Challenge",
+    "authors": [
+     "William A. Haviland",
+     "Harald E. L. Prins",
+     "Dana Walrath",
+     "Bunny McBride"
+    ],
+    "publisher": "Wadsworth Pub Co",
+    "publishedDate": "2010-03-05",
+    "description": "This book offers a comprehensive and balanced presentation on views of human culture, evolution, and prehistory.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0495810843"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780495810841"
+     }
+    ],
+    "pageCount": 784,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dFm2RY5ZKmDIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dFm2RY5ZKmDIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFm2RY5ZKmDIC&printsec\u003dfrontcover&dq\u003dAnthropology&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFm2RY5ZKmDIC&dq\u003dAnthropology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4EDOIHHmv0MC",
+   "etag": "WFGDG9CR0rw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4EDOIHHmv0MC",
+   "volumeInfo": {
+    "title": "Anthropology",
+    "subtitle": "the basics",
+    "authors": [
+     "Peter Metcalf"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2005",
+    "description": "This volume provides students with an overview of the fundamental principles of anthropology, and an accessible guide for anyone just wanting to learn more ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415331196"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415331197"
+     }
+    ],
+    "pageCount": 215,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d4EDOIHHmv0MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d4EDOIHHmv0MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4EDOIHHmv0MC&printsec\u003dfrontcover&dq\u003dAnthropology&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4EDOIHHmv0MC&dq\u003dAnthropology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d4EDOIHHmv0MC&dq\u003dAnthropology&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Anthropology-sample-epub.acsm?id\u003d4EDOIHHmv0MC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Anthropology-sample-pdf.acsm?id\u003d4EDOIHHmv0MC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zQOOlvTx8poC",
+   "etag": "h4ArscbHJ6s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zQOOlvTx8poC",
+   "volumeInfo": {
+    "title": "Social Anthropology",
+    "authors": [
+     "E. E. Evans-Pritchard"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2004-04-30",
+    "description": "Social Anthropology explains and illustrates the methods of modern anthropology, tracing its development from pre-nineteenth-century philosophical speculations ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415330300"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415330305"
+     }
+    ],
+    "pageCount": 134,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dzQOOlvTx8poC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dzQOOlvTx8poC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzQOOlvTx8poC&printsec\u003dfrontcover&dq\u003dAnthropology&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzQOOlvTx8poC&dq\u003dAnthropology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "q1ulPwAACAAJ",
+   "etag": "mogvyrf659k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/q1ulPwAACAAJ",
+   "volumeInfo": {
+    "title": "Anthropology",
+    "subtitle": "The Exploration of Human Diversity",
+    "authors": [
+     "Conrad Phillip Kottak"
+    ],
+    "publisher": "McGraw-Hill Humanities/Social Sciences/Languages",
+    "publishedDate": "2008-10-07",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0073405361"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780073405360"
+     }
+    ],
+    "pageCount": 704,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dq1ulPwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dq1ulPwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dq1ulPwAACAAJ&dq\u003dAnthropology&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dq1ulPwAACAAJ&dq\u003dAnthropology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XapvZaM9gNUC",
+   "etag": "i3H2Z5D9IOU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XapvZaM9gNUC",
+   "volumeInfo": {
+    "title": "Anthropology",
+    "authors": [
+     "Dan Rhodes"
+    ],
+    "publishedDate": "2010-05-10",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1847675506"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781847675507"
+     }
+    ],
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 13,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dXapvZaM9gNUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dXapvZaM9gNUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXapvZaM9gNUC&dq\u003dAnthropology&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXapvZaM9gNUC&dq\u003dAnthropology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "REwhQgAACAAJ",
+   "etag": "orpuquNpWDI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/REwhQgAACAAJ",
+   "volumeInfo": {
+    "title": "Anthropology",
+    "authors": [
+     "Carol R. Ember",
+     "Melvin R. Ember",
+     "Peter N. Peregrine"
+    ],
+    "publisher": "Prentice Hall",
+    "publishedDate": "2010-02-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0205738826"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780205738823"
+     }
+    ],
+    "pageCount": 656,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dREwhQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dREwhQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dREwhQgAACAAJ&dq\u003dAnthropology&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dREwhQgAACAAJ&dq\u003dAnthropology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IpIWAAAAYAAJ",
+   "etag": "9oGNSV+NYsY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IpIWAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Anthropology",
+    "subtitle": "or, The science of man: in its bearing on war and slavery, and on arguments from the Bible, marriage, God, death, retribution, atonement and government, in support of these, and other social wrongs. In a series of letters to a friend in England",
+    "authors": [
+     "Henry Clarke Wright"
+    ],
+    "publishedDate": "1850",
+    "description": "LET. IX, DkiTh — What it ii and la net— Life the law, death a violation of It- \u003cbr\u003e\r\nGod never inflicts death on men —Men die of disease ami by the elements — Who \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044018744219"
+     }
+    ],
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dIpIWAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dIpIWAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIpIWAAAAYAAJ&printsec\u003dfrontcover&dq\u003dAnthropology&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIpIWAAAAYAAJ&dq\u003dAnthropology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Anthropology.epub?id\u003dIpIWAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Anthropology.pdf?id\u003dIpIWAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1jO2nGOSg63svD09sL4vESqVH1Ug&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 573
+}

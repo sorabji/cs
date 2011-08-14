@@ -1,0 +1,551 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "K_hMAAAAMAAJ",
+   "etag": "DF4NM9CIyg4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/K_hMAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Poets of America",
+    "authors": [
+     "Edmund Clarence Stedman"
+    ],
+    "publishedDate": "1885",
+    "description": "I. IT is my design to trace the current of poesy, deepening and widening in \u003cbr\u003e\r\ncommon with our streams of riches, knowledge, and power ; to show an influence \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015005684991"
+     }
+    ],
+    "pageCount": 516,
+    "printType": "BOOK",
+    "categories": [
+     "American poetry"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dK_hMAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dK_hMAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dK_hMAAAAMAAJ&printsec\u003dfrontcover&dq\u003dPoets&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dK_hMAAAAMAAJ&dq\u003dPoets&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Poets_of_America.pdf?id\u003dK_hMAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0cC3qmY6IQBYGrhuNAeTDeNS01aQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_hIOAAAAMAAJ",
+   "etag": "ES4Wo4LXZV8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_hIOAAAAMAAJ",
+   "volumeInfo": {
+    "title": "On poets",
+    "authors": [
+     "Lafcadio Hearn",
+     "Teisaburo Ochiai"
+    ],
+    "publishedDate": "1938",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015007012969"
+     }
+    ],
+    "pageCount": 841,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d_hIOAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d_hIOAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_hIOAAAAMAAJ&q\u003dPoets&dq\u003dPoets&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_hIOAAAAMAAJ&dq\u003dPoets&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nG5lAAAAMAAJ",
+   "etag": "S1oYmjDULDE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nG5lAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Poets",
+    "authors": [
+     "James Vinson",
+     "D. L. Kirkpatrick"
+    ],
+    "publishedDate": "1979",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015046839646"
+     }
+    ],
+    "pageCount": 1141,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dnG5lAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dnG5lAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnG5lAAAAMAAJ&q\u003dPoets&dq\u003dPoets&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnG5lAAAAMAAJ&dq\u003dPoets&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oXgIAQAAIAAJ",
+   "etag": "2pNRfyCVELw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oXgIAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Poets",
+    "authors": [
+     "Anthony Astbury",
+     "Geoffrey Godbert"
+    ],
+    "publishedDate": "1979-09",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105040281524"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003doXgIAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003doXgIAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doXgIAQAAIAAJ&q\u003dPoets&dq\u003dPoets&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doXgIAQAAIAAJ&dq\u003dPoets&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ioAEAAAACAAJ",
+   "etag": "nyxIC3VL1Zc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ioAEAAAACAAJ",
+   "volumeInfo": {
+    "title": "Poets",
+    "subtitle": "American and British",
+    "authors": [
+     "Ian Scott-Kilvert"
+    ],
+    "publisher": "Gale Cengage",
+    "publishedDate": "1998-09-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0684806061"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780684806068"
+     }
+    ],
+    "pageCount": 1688,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dioAEAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dioAEAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dioAEAAAACAAJ&dq\u003dPoets&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dioAEAAAACAAJ&dq\u003dPoets&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "e2dLVe3p_loC",
+   "etag": "AGI6gsNvE60",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/e2dLVe3p_loC",
+   "volumeInfo": {
+    "title": "Poets on Teaching",
+    "subtitle": "A Sourcebook",
+    "authors": [
+     "Joshua Marie Wilkinson"
+    ],
+    "publisher": "University Of Iowa Press",
+    "publishedDate": "2010-08-28",
+    "description": "Not narrowly concerned with how toreadpoetry or how towritepoetry, by virtue of their central concern withteachingpoetry, the essays in this fresh and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1587299046"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781587299049"
+     }
+    ],
+    "pageCount": 350,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003de2dLVe3p_loC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003de2dLVe3p_loC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003de2dLVe3p_loC&printsec\u003dfrontcover&dq\u003dPoets&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003de2dLVe3p_loC&dq\u003dPoets&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Poets_on_Teaching-sample-epub.acsm?id\u003de2dLVe3p_loC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4L0mXgmoC80C",
+   "etag": "heCmLcNpPsw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4L0mXgmoC80C",
+   "volumeInfo": {
+    "title": "The romantic poets",
+    "subtitle": "a guide to criticism",
+    "authors": [
+     "Uttara Natarajan"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "2007-11-07",
+    "description": "This welcome addition to the Blackwell Guides to Criticism series provides students with an invaluable survey of the critical reception of the Romantic poets.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0631229310"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780631229315"
+     }
+    ],
+    "pageCount": 359,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d4L0mXgmoC80C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d4L0mXgmoC80C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4L0mXgmoC80C&printsec\u003dfrontcover&dq\u003dPoets&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4L0mXgmoC80C&dq\u003dPoets&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 84.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 84.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d4L0mXgmoC80C&dq\u003dPoets&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_romantic_poets-sample-pdf.acsm?id\u003d4L0mXgmoC80C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Z06eTrftv_gC",
+   "etag": "DMfxIv7VtsE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Z06eTrftv_gC",
+   "volumeInfo": {
+    "title": "Talking With Poets",
+    "authors": [
+     "ROBERT PINSKY",
+     "Harry Thomas",
+     "SEAMUS HEANEY"
+    ],
+    "publisher": "Handsel Books",
+    "publishedDate": "2002-04-17",
+    "description": "The five interviews in this book were conducted by students in “The Art of Poetry,” a course that Harry Thomas taught for several years.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "159051095X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781590510957"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dZ06eTrftv_gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dZ06eTrftv_gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZ06eTrftv_gC&printsec\u003dfrontcover&dq\u003dPoets&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZ06eTrftv_gC&dq\u003dPoets&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.2,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 8.96,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dZ06eTrftv_gC&dq\u003dPoets&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Talking_With_Poets-sample-epub.acsm?id\u003dZ06eTrftv_gC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Talking_With_Poets-sample-pdf.acsm?id\u003dZ06eTrftv_gC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hOUI8n8bedcC",
+   "etag": "fBDOPTIrIhw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hOUI8n8bedcC",
+   "volumeInfo": {
+    "title": "Poets Thinking",
+    "subtitle": "Pope, Whitman, Dickinson, Yeats",
+    "authors": [
+     "Helen Vendler"
+    ],
+    "publisher": "Harvard Univ Pr",
+    "publishedDate": "2006-04-15",
+    "description": "The four poets taken up in this volume--Alexander Pope, Walt Whitman, Emily Dickinson, and William Butler Yeats--come from three centuries and three nations, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "067402110X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780674021105"
+     }
+    ],
+    "pageCount": 142,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dhOUI8n8bedcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dhOUI8n8bedcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhOUI8n8bedcC&printsec\u003dfrontcover&dq\u003dPoets&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhOUI8n8bedcC&dq\u003dPoets&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Poets_Thinking-sample-epub.acsm?id\u003dhOUI8n8bedcC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Poets_Thinking-sample-pdf.acsm?id\u003dhOUI8n8bedcC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "v95v2WuRFocC",
+   "etag": "IV9+08bA4+Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/v95v2WuRFocC",
+   "volumeInfo": {
+    "title": "On Poetry and Poets",
+    "authors": [
+     "T. S. Eliot"
+    ],
+    "publisher": "Farrar, Straus and Giroux",
+    "publishedDate": "2009-07",
+    "description": "In this volume Eliot is concerned solely with individual poets (Virgil, Sir John Davies, Milton, Johnson, Byron, Goethe, Kipling, Yeats) and with the art of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0374531978"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780374531973"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dv95v2WuRFocC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dv95v2WuRFocC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dv95v2WuRFocC&printsec\u003dfrontcover&dq\u003dPoets&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dv95v2WuRFocC&dq\u003dPoets&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 591
+}

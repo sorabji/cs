@@ -1,0 +1,602 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "S3QuwFYfEccC",
+   "etag": "8J5xa+xwcos",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/S3QuwFYfEccC",
+   "volumeInfo": {
+    "title": "How to be French",
+    "subtitle": "nationality in the making since 1789",
+    "authors": [
+     "Patrick Weil"
+    ],
+    "publisher": "Duke University Press Books",
+    "publishedDate": "2008-01",
+    "description": "&quot;How to Be French&quot; profoundly revises previous knowledge on the topic, and its comparative framework makes it essential reading not only to scholars of France ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0822343312"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780822343318"
+     }
+    ],
+    "pageCount": 438,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dS3QuwFYfEccC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dS3QuwFYfEccC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dS3QuwFYfEccC&printsec\u003dfrontcover&dq\u003dFrench&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dS3QuwFYfEccC&dq\u003dFrench&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.72,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dS3QuwFYfEccC&dq\u003dFrench&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/How_to_be_French-sample-epub.acsm?id\u003dS3QuwFYfEccC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/How_to_be_French-sample-pdf.acsm?id\u003dS3QuwFYfEccC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7lXZWXJAZUsC",
+   "etag": "NYYf/cnrJRo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7lXZWXJAZUsC",
+   "volumeInfo": {
+    "title": "French made simple",
+    "authors": [
+     "Eugene Jackson",
+     "Antonio Rubio",
+     "Julien J. Lafontant",
+     "Pamela Haze"
+    ],
+    "publisher": "Broadway",
+    "publishedDate": "2006-05-16",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0767918592"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780767918596"
+     }
+    ],
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d7lXZWXJAZUsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d7lXZWXJAZUsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7lXZWXJAZUsC&dq\u003dFrench&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7lXZWXJAZUsC&dq\u003dFrench&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5YWWXVTgb8UC",
+   "etag": "hy2E8dzGP0Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5YWWXVTgb8UC",
+   "volumeInfo": {
+    "title": "French",
+    "subtitle": "Beyond Merde, the Curses, Slang, and Street Lingo You Need to Know When You Speak Francais",
+    "authors": [
+     "Alexis Munier",
+     "Emmanuel Tichelli"
+    ],
+    "publisher": "Adams Media",
+    "publishedDate": "2008-06-01",
+    "description": "Describes the history of French slang, and lists slang words and phrases with their proper usage and literal translations.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1598696653"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781598696653"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d5YWWXVTgb8UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d5YWWXVTgb8UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5YWWXVTgb8UC&printsec\u003dfrontcover&dq\u003dFrench&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5YWWXVTgb8UC&dq\u003dFrench&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 6.12,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d5YWWXVTgb8UC&dq\u003dFrench&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "u_Gg-GaWBwkC",
+   "etag": "sl32Rqc5OQU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u_Gg-GaWBwkC",
+   "volumeInfo": {
+    "title": "French",
+    "authors": [
+     "Diane Rossen Worthington"
+    ],
+    "publisher": "Free Press",
+    "publishedDate": "2004-04-27",
+    "description": "Decadent desserts such as crème brûlée and cherry clafoutis. These are the simple recipes that capture the essence of French cuisine.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0743249941"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780743249942"
+     }
+    ],
+    "pageCount": 120,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003du_Gg-GaWBwkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003du_Gg-GaWBwkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003du_Gg-GaWBwkC&printsec\u003dfrontcover&dq\u003dFrench&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003du_Gg-GaWBwkC&dq\u003dFrench&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ufuz_sCJadMC",
+   "etag": "gj76rhkk5kE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ufuz_sCJadMC",
+   "volumeInfo": {
+    "title": "Words in a French Life",
+    "subtitle": "Lessons in Love and Language from the South of France",
+    "authors": [
+     "Kristin Espinasse"
+    ],
+    "publisher": "Touchstone",
+    "publishedDate": "2006-04-25",
+    "description": "To relate the stories of her sometimes bumpy, often comic, and always poignant assimilation, she created a blog in the tradition of books such as &quot;A Year in ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1416531971"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781416531975"
+     }
+    ],
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 29,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dUfuz_sCJadMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dUfuz_sCJadMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUfuz_sCJadMC&printsec\u003dfrontcover&dq\u003dFrench&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUfuz_sCJadMC&dq\u003dFrench&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dUfuz_sCJadMC&dq\u003dFrench&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Words_in_a_French_Life-sample-epub.acsm?id\u003dUfuz_sCJadMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hZABkAyaIlcC",
+   "etag": "5uIz7kOaolw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hZABkAyaIlcC",
+   "volumeInfo": {
+    "title": "The French way",
+    "subtitle": "the keys to the behavior, attitudes, and customs of the French",
+    "authors": [
+     "Ross Steele"
+    ],
+    "publisher": "McGraw-Hill Companies",
+    "publishedDate": "2006-03-24",
+    "description": "Organized alphabetically for ease of use, it is an indispensable reference to the way French celebrate holidays, interact with one another, eat, dress, and so ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0071428070"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071428071"
+     }
+    ],
+    "pageCount": 147,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dhZABkAyaIlcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dhZABkAyaIlcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhZABkAyaIlcC&printsec\u003dfrontcover&dq\u003dFrench&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhZABkAyaIlcC&dq\u003dFrench&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "04UcgLvZ7oUC",
+   "etag": "Ge1ID+WTHyQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/04UcgLvZ7oUC",
+   "volumeInfo": {
+    "title": "French",
+    "authors": [
+     "Jill Duffy"
+    ],
+    "publisher": "Letts & Londsale",
+    "publishedDate": "2004-07-01",
+    "description": "AQA \u003cb\u003eFrench\u003c/b\u003e MODULE Module 4 (M4) Contemporary lssues Module 5 (MS) Cultural and \u003cbr\u003e\r\nsocial landscape in focus Module 6 (M6) Yesterday, today and tomorrow \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1843154412"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781843154419"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d04UcgLvZ7oUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d04UcgLvZ7oUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d04UcgLvZ7oUC&printsec\u003dfrontcover&dq\u003dFrench&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d04UcgLvZ7oUC&dq\u003dFrench&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rpdpHmuoMDAC",
+   "etag": "6oa00k2UBx0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rpdpHmuoMDAC",
+   "volumeInfo": {
+    "title": "French For Dummies",
+    "authors": [
+     "Dodi-Katrin Schmidt",
+     "Michelle M. Williams",
+     "Dominique Wenzel"
+    ],
+    "publisher": "For Dummies",
+    "publishedDate": "2011-06-01",
+    "description": "Written in partnership with the language experts at Berlitz, this book can give you what you need for basic communication in French.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1118053508"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781118053508"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "contentVersion": "0.3.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003drpdpHmuoMDAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003drpdpHmuoMDAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003drpdpHmuoMDAC&printsec\u003dfrontcover&dq\u003dFrench&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003drpdpHmuoMDAC&dq\u003dFrench&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003drpdpHmuoMDAC&dq\u003dFrench&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/French_For_Dummies-sample-epub.acsm?id\u003drpdpHmuoMDAC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/French_For_Dummies-sample-pdf.acsm?id\u003drpdpHmuoMDAC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5PbUYzYe-xMC",
+   "etag": "OxQPCdi3FjA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5PbUYzYe-xMC",
+   "volumeInfo": {
+    "title": "French Provincial Cooking",
+    "authors": [
+     "Elizabeth David"
+    ],
+    "publisher": "Penguin Classics",
+    "publishedDate": "1999-02",
+    "description": "First published in 1962, Elizabeth David&#39;s culinary odyssey through provincial France forever changed the way we think about food.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0141181532"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780141181530"
+     }
+    ],
+    "pageCount": 524,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 15,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d5PbUYzYe-xMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d5PbUYzYe-xMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5PbUYzYe-xMC&printsec\u003dfrontcover&dq\u003dFrench&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5PbUYzYe-xMC&dq\u003dFrench&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d5PbUYzYe-xMC&dq\u003dFrench&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/French_Provincial_Cooking-sample-pdf.acsm?id\u003d5PbUYzYe-xMC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qQnWB2mcALsC",
+   "etag": "WBkXodj38mE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qQnWB2mcALsC",
+   "volumeInfo": {
+    "title": "French",
+    "subtitle": "A Review of the Basics",
+    "authors": [
+     "David M. Stillman",
+     "Ronni L. Gordon"
+    ],
+    "publisher": "Harcourt School",
+    "publishedDate": "1989-12",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0030282349"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780030282348"
+     }
+    ],
+    "pageCount": 418,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dqQnWB2mcALsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dqQnWB2mcALsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dqQnWB2mcALsC&q\u003dFrench&dq\u003dFrench&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dqQnWB2mcALsC&dq\u003dFrench&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 596
+}

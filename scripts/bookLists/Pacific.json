@@ -1,0 +1,513 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "quCSlXslEGMC",
+   "etag": "W2SlsmrEuG4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/quCSlXslEGMC",
+   "volumeInfo": {
+    "title": "The Pacific",
+    "authors": [
+     "Hugh Ambrose"
+    ],
+    "publisher": "Text Publishing",
+    "publishedDate": "2010-03-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1921656107"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781921656101"
+     }
+    ],
+    "pageCount": 512,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 62,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dquCSlXslEGMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dquCSlXslEGMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dquCSlXslEGMC&dq\u003dPacific&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dquCSlXslEGMC&dq\u003dPacific&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lnf4Wnp_JZcC",
+   "etag": "suFhQjYiY8g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lnf4Wnp_JZcC",
+   "volumeInfo": {
+    "title": "The Pacific War",
+    "authors": [
+     "John Costello"
+    ],
+    "publisher": "Harper Perennial",
+    "publishedDate": "1982",
+    "description": "An incisive history of World War II in the Pacific traces the campaigns and strategies from before the attack on Pearl Harbor to the surrender of Japan and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0688016200"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780688016203"
+     }
+    ],
+    "pageCount": 742,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dlnf4Wnp_JZcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dlnf4Wnp_JZcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlnf4Wnp_JZcC&printsec\u003dfrontcover&dq\u003dPacific&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlnf4Wnp_JZcC&dq\u003dPacific&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fHTOAAAAMAAJ",
+   "etag": "/c92oUNgcHc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fHTOAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The Pacific",
+    "subtitle": "its past and future and the policy of the great powers from the eighteenth century",
+    "authors": [
+     "Guy Hardy Scholefield"
+    ],
+    "publishedDate": "1919",
+    "description": "The gateway by which the European navigators came into the \u003cb\u003ePacific\u003c/b\u003e was for the \u003cbr\u003e\r\nmost part the stormy one of Cape Horn. A few of them in the seventeenth \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "WISC:89095838579"
+     }
+    ],
+    "pageCount": 346,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dfHTOAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dfHTOAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfHTOAAAAMAAJ&printsec\u003dfrontcover&dq\u003dPacific&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfHTOAAAAMAAJ&dq\u003dPacific&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/The_Pacific.epub?id\u003dfHTOAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Pacific.pdf?id\u003dfHTOAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0rO7wUkf3kN7UT0YjkojSgTbZ8QQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OK0cAQAAIAAJ",
+   "etag": "mySUv3kJiSM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OK0cAQAAIAAJ",
+   "volumeInfo": {
+    "title": "The Pacific",
+    "authors": [
+     "Congregational Churches in California. Northern California Congregational Conference"
+    ],
+    "publishedDate": "1911",
+    "description": "VOL. LXI SAN FRANCISCO AND BERKELEY, CAL., JULY 5, 1911 No. 27 LET SOMETHING \u003cbr\u003e\r\nGOOD BE SAID. When over the fair fame of friend or foe The shadow of disgrace \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSC:32106020201395"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dOK0cAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dOK0cAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOK0cAQAAIAAJ&printsec\u003dfrontcover&dq\u003dPacific&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOK0cAQAAIAAJ&dq\u003dPacific&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Pacific.pdf?id\u003dOK0cAQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U14deUZkmy5nVUj0oaY9Enpeb5gYA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jW1CAAAAIAAJ",
+   "etag": "cK8VAKrLHZc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jW1CAAAAIAAJ",
+   "volumeInfo": {
+    "title": "The Pacific",
+    "subtitle": "a forecast",
+    "authors": [
+     "Percy Thomas Etherton",
+     "Hubert Hessell Tiltman"
+    ],
+    "publisher": "Ayer Co Pub",
+    "publishedDate": "1970-09",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B52277"
+     }
+    ],
+    "pageCount": 261,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003djW1CAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003djW1CAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djW1CAAAAIAAJ&q\u003dPacific&dq\u003dPacific&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djW1CAAAAIAAJ&dq\u003dPacific&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WfUGjPyRl5kC",
+   "etag": "LgRt/dhRF5I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WfUGjPyRl5kC",
+   "volumeInfo": {
+    "title": "The Pacific",
+    "subtitle": "California, Hawaii",
+    "authors": [
+     "John F. Grabowksi",
+     "Thomas G. Aylesworth",
+     "Virginia L. Aylesworth"
+    ],
+    "publisher": "Chelsea House Pub",
+    "publishedDate": "1992-03",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0791010503"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780791010501"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dWfUGjPyRl5kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dWfUGjPyRl5kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWfUGjPyRl5kC&q\u003dPacific&dq\u003dPacific&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWfUGjPyRl5kC&dq\u003dPacific&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oXBP_jhxDtEC",
+   "etag": "zLTg/BAYfEY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oXBP_jhxDtEC",
+   "volumeInfo": {
+    "title": "The Pacific",
+    "authors": [
+     "Pat Hargreaves"
+    ],
+    "publisher": "Silver Burdett Pr",
+    "publishedDate": "1981-08",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0382065816"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780382065811"
+     }
+    ],
+    "pageCount": 67,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003doXBP_jhxDtEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003doXBP_jhxDtEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doXBP_jhxDtEC&q\u003dPacific&dq\u003dPacific&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doXBP_jhxDtEC&dq\u003dPacific&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IfugqkV_udYC",
+   "etag": "t7z2BPcx8Ss",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IfugqkV_udYC",
+   "volumeInfo": {
+    "title": "South Pacific",
+    "authors": [
+     "Rowan McKinnon"
+    ],
+    "publishedDate": "2009-08-01",
+    "description": "In This Guide: Honest assessment of resorts. Read this book before you book!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1741047862"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781741047868"
+     }
+    ],
+    "pageCount": 704,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dIfugqkV_udYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dIfugqkV_udYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIfugqkV_udYC&printsec\u003dfrontcover&dq\u003dPacific&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIfugqkV_udYC&dq\u003dPacific&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "M8kiAAAAMAAJ",
+   "etag": "t6mQgjisG64",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/M8kiAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The Pacific",
+    "authors": [
+     "Simon Winchester"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "1991",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015019430217"
+     }
+    ],
+    "pageCount": 501,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dM8kiAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dM8kiAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dM8kiAAAAMAAJ&q\u003dPacific&dq\u003dPacific&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dM8kiAAAAMAAJ&dq\u003dPacific&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TgGjt-vjTbIC",
+   "etag": "CY4JQGLei/I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TgGjt-vjTbIC",
+   "volumeInfo": {
+    "title": "Terrific Pacific cookbook",
+    "authors": [
+     "Anya Von Bremzen",
+     "John Welchman"
+    ],
+    "publisher": "Workman Publishing",
+    "publishedDate": "1995",
+    "description": "What makes this book so important and practical is its delicious, non-intimidating practical recipes for popular Southeast Asian dishes. (Julie Sahni, author of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1563051729"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781563051722"
+     }
+    ],
+    "pageCount": 420,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dTgGjt-vjTbIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dTgGjt-vjTbIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTgGjt-vjTbIC&printsec\u003dfrontcover&dq\u003dPacific&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTgGjt-vjTbIC&dq\u003dPacific&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 499
+}

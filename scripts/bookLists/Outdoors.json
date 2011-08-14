@@ -1,0 +1,529 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "OVtH9ct7Le4C",
+   "etag": "2hBA/bsy3MY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OVtH9ct7Le4C",
+   "volumeInfo": {
+    "title": "Outdoors",
+    "subtitle": "a personal selection from 20 years of columns from the New York times",
+    "authors": [
+     "Nelson Bryant"
+    ],
+    "publisher": "Fireside",
+    "publishedDate": "1990-06-15",
+    "description": "Introduction More than seventeen years ago, John Glide, a literary agent, \u003cbr\u003e\r\npersuaded me and American Heritage Press that a selection of my &quot;Wood, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0671693727"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780671693725"
+     }
+    ],
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dOVtH9ct7Le4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dOVtH9ct7Le4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOVtH9ct7Le4C&printsec\u003dfrontcover&dq\u003dOutdoors&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOVtH9ct7Le4C&dq\u003dOutdoors&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iTX3BYBnOTcC",
+   "etag": "u3ckWb/kRKE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iTX3BYBnOTcC",
+   "volumeInfo": {
+    "title": "The Complete Outdoors Encyclopedia",
+    "authors": [
+     "Vin T. Sparano"
+    ],
+    "publisher": "St. Martin's Griffin",
+    "publishedDate": "2000-10-03",
+    "description": "Gathers information about rifles, game animals, birds, fish, outdoor gear, survival skills, boats, archery, hunting dogs, and first aid.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0312267223"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780312267223"
+     }
+    ],
+    "pageCount": 848,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003diTX3BYBnOTcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003diTX3BYBnOTcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003diTX3BYBnOTcC&printsec\u003dfrontcover&dq\u003dOutdoors&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003diTX3BYBnOTcC&dq\u003dOutdoors&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1LqtNkti7k4C",
+   "etag": "+aSGRlfkgLs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1LqtNkti7k4C",
+   "volumeInfo": {
+    "title": "Outdoors",
+    "subtitle": "a book of the woods, fields and marshlands",
+    "authors": [
+     "Ernest McGaffey"
+    ],
+    "publishedDate": "1907",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015031084562"
+     }
+    ],
+    "pageCount": 271,
+    "printType": "BOOK",
+    "categories": [
+     "Natural history"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d1LqtNkti7k4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d1LqtNkti7k4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1LqtNkti7k4C&printsec\u003dfrontcover&dq\u003dOutdoors&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1LqtNkti7k4C&dq\u003dOutdoors&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Outdoors.epub?id\u003d1LqtNkti7k4C&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Outdoors.pdf?id\u003d1LqtNkti7k4C&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2KY-QC0SAj3m2yCFE-wz9EsFrffg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NPE4AQAAIAAJ",
+   "etag": "r/UPgGgbvkQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NPE4AQAAIAAJ",
+   "volumeInfo": {
+    "title": "Outdoors",
+    "subtitle": "The Garden Design Book for the Twenty-First Century",
+    "authors": [
+     "Diarmuid Gavin",
+     "Terence Conran"
+    ],
+    "publisher": "The Monacelli Press",
+    "publishedDate": "2007-11-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSD:31822035524800"
+     }
+    ],
+    "pageCount": 271,
+    "printType": "BOOK",
+    "categories": [
+     "Gardening"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dNPE4AQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dNPE4AQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNPE4AQAAIAAJ&q\u003dOutdoors&dq\u003dOutdoors&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNPE4AQAAIAAJ&dq\u003dOutdoors&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "deRKF5kv5wwC",
+   "etag": "S8v/S5aZ6dc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/deRKF5kv5wwC",
+   "volumeInfo": {
+    "title": "Camping & Wilderness Survival",
+    "subtitle": "The Ultimate Outdoors Book",
+    "authors": [
+     "Paul Tawrell"
+    ],
+    "publisher": "Exxa Llc",
+    "publishedDate": "2006-03",
+    "description": "My goals in writing this guide have been to help you and your family acquire and sharpen your skills to safely enjoy the wilderness.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0974082023"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780974082028"
+     }
+    ],
+    "pageCount": 1080,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 15,
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003ddeRKF5kv5wwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003ddeRKF5kv5wwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddeRKF5kv5wwC&printsec\u003dfrontcover&dq\u003dOutdoors&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddeRKF5kv5wwC&dq\u003dOutdoors&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gLQc31zxmPcC",
+   "etag": "v/MbMEoMUbk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gLQc31zxmPcC",
+   "volumeInfo": {
+    "title": "Outdoors",
+    "authors": [
+     "Pete Sanders"
+    ],
+    "publisher": "Gloucester Pr",
+    "publishedDate": "1989-07",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0531171825"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780531171820"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dgLQc31zxmPcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dgLQc31zxmPcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgLQc31zxmPcC&q\u003dOutdoors&dq\u003dOutdoors&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgLQc31zxmPcC&dq\u003dOutdoors&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CuxkPgAACAAJ",
+   "etag": "xLL1MuNOM4c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CuxkPgAACAAJ",
+   "volumeInfo": {
+    "title": "Outdoors",
+    "authors": [
+     "Sue Barraclough"
+    ],
+    "publisher": "Franklin Watts",
+    "publishedDate": "2010-03-29",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0749693398"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780749693398"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dCuxkPgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dCuxkPgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCuxkPgAACAAJ&dq\u003dOutdoors&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCuxkPgAACAAJ&dq\u003dOutdoors&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yweRSQAACAAJ",
+   "etag": "Q2VNTRHCl2s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yweRSQAACAAJ",
+   "volumeInfo": {
+    "title": "Outdoors",
+    "subtitle": "A Book of Healthful Pleasure",
+    "authors": [
+     "Boston Pope Mfg. Co."
+    ],
+    "publishedDate": "2010-04",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1148939075"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781148939070"
+     }
+    ],
+    "pageCount": 90,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dyweRSQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dyweRSQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyweRSQAACAAJ&dq\u003dOutdoors&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyweRSQAACAAJ&dq\u003dOutdoors&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "k-wQAgAACAAJ",
+   "etag": "S9AK8Wnc/sE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/k-wQAgAACAAJ",
+   "volumeInfo": {
+    "title": "Outdoors",
+    "authors": [
+     "Bailey Ferry"
+    ],
+    "publishedDate": "2006-12",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0954661818"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780954661816"
+     }
+    ],
+    "pageCount": 315,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dk-wQAgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dk-wQAgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dk-wQAgAACAAJ&dq\u003dOutdoors&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dk-wQAgAACAAJ&dq\u003dOutdoors&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cbSYIZywnpQC",
+   "etag": "9UhU1N/c6mc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cbSYIZywnpQC",
+   "volumeInfo": {
+    "title": "Playing and learning outdoors",
+    "subtitle": "making provision for high-quality experiences in the outdoor environment",
+    "authors": [
+     "Jan White"
+    ],
+    "publisher": "Taylor & Francis",
+    "publishedDate": "2008-01-31",
+    "description": "There is now a growing appreciation of the importance and value of learning through play outdoors.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415412102"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415412100"
+     }
+    ],
+    "pageCount": 137,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dcbSYIZywnpQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dcbSYIZywnpQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dcbSYIZywnpQC&printsec\u003dfrontcover&dq\u003dOutdoors&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dcbSYIZywnpQC&dq\u003dOutdoors&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 15.37,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dcbSYIZywnpQC&dq\u003dOutdoors&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Playing_and_learning_outdoors-sample-epub.acsm?id\u003dcbSYIZywnpQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Playing_and_learning_outdoors-sample-pdf.acsm?id\u003dcbSYIZywnpQC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 591
+}

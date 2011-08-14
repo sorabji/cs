@@ -1,0 +1,574 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Dgkf1Y1AHD4C",
+   "etag": "kjXncUncWsg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Dgkf1Y1AHD4C",
+   "volumeInfo": {
+    "title": "Christian Theology",
+    "subtitle": "An Introduction",
+    "authors": [
+     "Alister E. McGrath"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "2011-01-14",
+    "description": "This 5th edition has been completely revised, and now features new and extended material, numerous additional illustrations, and companion resources, ensuring ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1444397702"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781444397703"
+     }
+    ],
+    "pageCount": 536,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 14,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dDgkf1Y1AHD4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dDgkf1Y1AHD4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDgkf1Y1AHD4C&printsec\u003dfrontcover&dq\u003dChristian&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDgkf1Y1AHD4C&dq\u003dChristian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Christian_Theology-sample-epub.acsm?id\u003dDgkf1Y1AHD4C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "E5LWAAAAMAAJ",
+   "etag": "itPxVamfX9U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/E5LWAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The Normal Christian Life",
+    "authors": [
+     "Watchman Nee"
+    ],
+    "publisher": "Barbour Pub Inc",
+    "publishedDate": "2000-07-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PSU:000056751000"
+     }
+    ],
+    "pageCount": 215,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 57,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dE5LWAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dE5LWAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dE5LWAAAAMAAJ&q\u003dChristian&dq\u003dChristian&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dE5LWAAAAMAAJ&dq\u003dChristian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4LkLRI8ZodwC",
+   "etag": "dAFXhuyrav4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4LkLRI8ZodwC",
+   "volumeInfo": {
+    "title": "Christian the lion",
+    "subtitle": "based on the amazing and heartwarming true story",
+    "authors": [
+     "Anthony Bourke",
+     "John Rendall",
+     "Ruth Knowles"
+    ],
+    "publisher": "Delacorte Books for Young Readers",
+    "publishedDate": "2009-03-10",
+    "description": "Recounts the story of a lion cub purchased by two friends from a London department store.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0385738560"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780385738569"
+     }
+    ],
+    "pageCount": 120,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d4LkLRI8ZodwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d4LkLRI8ZodwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4LkLRI8ZodwC&printsec\u003dfrontcover&dq\u003dChristian&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4LkLRI8ZodwC&dq\u003dChristian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d4LkLRI8ZodwC&dq\u003dChristian&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Christian_the_lion-sample-epub.acsm?id\u003d4LkLRI8ZodwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Christian_the_lion-sample-pdf.acsm?id\u003d4LkLRI8ZodwC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QwnnAAAAMAAJ",
+   "etag": "W6ZHdozwKuw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QwnnAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The Christian",
+    "authors": [
+     "Christian Board of Publication"
+    ],
+    "publishedDate": "1964",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "WISC:89067493056"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dQwnnAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dQwnnAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQwnnAAAAMAAJ&q\u003dChristian&dq\u003dChristian&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQwnnAAAAMAAJ&dq\u003dChristian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Bte168D9ShMC",
+   "etag": "PWeFC+BwOUM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Bte168D9ShMC",
+   "volumeInfo": {
+    "title": "Foundations of Christian Thought",
+    "subtitle": "Faith, Learning, and the Christian Worldview",
+    "authors": [
+     "Mark P. Cosgrove"
+    ],
+    "publisher": "Kregel Academic & Professional",
+    "publishedDate": "2006-07-31",
+    "description": "Written by a veteran Christian educator, this readable book describes the relationship between the Christian faith and the world of learning by looking at the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0825424348"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780825424342"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dBte168D9ShMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dBte168D9ShMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBte168D9ShMC&printsec\u003dfrontcover&dq\u003dChristian&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBte168D9ShMC&dq\u003dChristian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "S2_eiONVgBMC",
+   "etag": "htD2dUupY0o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/S2_eiONVgBMC",
+   "volumeInfo": {
+    "title": "The Christian theology reader",
+    "authors": [
+     "Alister E. McGrath"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "2006-09-22",
+    "description": "The most comprehensive book of its kind, the new edition of the Christian Theology Reader collects more than 360 readings that illuminate the key doctrines, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "140515358X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405153584"
+     }
+    ],
+    "pageCount": 744,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dS2_eiONVgBMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dS2_eiONVgBMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dS2_eiONVgBMC&printsec\u003dfrontcover&dq\u003dChristian&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dS2_eiONVgBMC&dq\u003dChristian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UivDgM0WywoC",
+   "etag": "rkX1KvvE818",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UivDgM0WywoC",
+   "volumeInfo": {
+    "title": "Early Christian Doctrines",
+    "authors": [
+     "John Norman Davidson Kelly"
+    ],
+    "publisher": "Continuum Intl Pub Group",
+    "publishedDate": "2000-11-20",
+    "description": "Canon Kelly describes the development of the principal Christian doctrines from the close of the first century to the middle of the fifth, and from the end of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0826452523"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780826452528"
+     }
+    ],
+    "pageCount": 528,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 12,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dUivDgM0WywoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dUivDgM0WywoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUivDgM0WywoC&printsec\u003dfrontcover&dq\u003dChristian&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUivDgM0WywoC&dq\u003dChristian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qIpnwK5S7FgC",
+   "etag": "p1ZW6pNcMNw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qIpnwK5S7FgC",
+   "volumeInfo": {
+    "title": "Almost Christian",
+    "subtitle": "what the faith of our teenagers is telling the American church",
+    "authors": [
+     "Kenda Creasy Dean"
+    ],
+    "publisher": "Oxford Univ Pr",
+    "publishedDate": "2010-07-15",
+    "description": "Discusses the religious beliefs of American teenagers in the early twenty-first century and provides suggestions for Christian leaders and churches to reconnect ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0195314840"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780195314847"
+     }
+    ],
+    "pageCount": 254,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 18,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dqIpnwK5S7FgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dqIpnwK5S7FgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dqIpnwK5S7FgC&printsec\u003dfrontcover&dq\u003dChristian&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dqIpnwK5S7FgC&dq\u003dChristian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.48,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dqIpnwK5S7FgC&dq\u003dChristian&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Almost_Christian-sample-epub.acsm?id\u003dqIpnwK5S7FgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Almost_Christian-sample-pdf.acsm?id\u003dqIpnwK5S7FgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8JiQhmLykAYC",
+   "etag": "jKLUpb54AYU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8JiQhmLykAYC",
+   "volumeInfo": {
+    "title": "The Christian faith",
+    "authors": [
+     "Friedrich Schleiermacher",
+     "Hugh Ross Mackintosh",
+     "James Stuart Stewart"
+    ],
+    "publisher": "T & T Clark International",
+    "publishedDate": "1999-03-01",
+    "description": "The classic work of Christian theology, which seeks to present the Christian faith in its entirety.Schleiermacher was equally at home in the theological systems ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0567087093"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780567087096"
+     }
+    ],
+    "pageCount": 760,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d8JiQhmLykAYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d8JiQhmLykAYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8JiQhmLykAYC&printsec\u003dfrontcover&dq\u003dChristian&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8JiQhmLykAYC&dq\u003dChristian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ujcjJ0lfCIUC",
+   "etag": "L0lssC5aYh8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ujcjJ0lfCIUC",
+   "volumeInfo": {
+    "title": "Being Christian",
+    "subtitle": "Exploring Where You, God, and Life Connect",
+    "authors": [
+     "Stephen Arterburn",
+     "John Shore"
+    ],
+    "publisher": "Bethany House",
+    "publishedDate": "2009-05-01",
+    "description": "Being Christian. What does that mean? And how do you do it?However you answer those questions even if the answer is &quot;I don&#39;t have a clue! you need this book.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0764206400"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780764206405"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 8,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dujcjJ0lfCIUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dujcjJ0lfCIUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dujcjJ0lfCIUC&printsec\u003dfrontcover&dq\u003dChristian&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dujcjJ0lfCIUC&dq\u003dChristian&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dujcjJ0lfCIUC&dq\u003dChristian&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Being_Christian-sample-epub.acsm?id\u003dujcjJ0lfCIUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 591
+}

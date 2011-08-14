@@ -1,0 +1,514 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Tl6u-ebydEYC",
+   "etag": "2gnWxn/lB1I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Tl6u-ebydEYC",
+   "volumeInfo": {
+    "title": "Graphology Explained",
+    "subtitle": "A Workbook",
+    "authors": [
+     "Barry Branston"
+    ],
+    "publisher": "Red Wheel/Weiser",
+    "publishedDate": "1991-10-01",
+    "description": "Through hundreds of organized samples of diverse handwriting styles, this workbook shows you how to analyze what they indicate, taking into account the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "087728735X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780877287353"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dTl6u-ebydEYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dTl6u-ebydEYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTl6u-ebydEYC&printsec\u003dfrontcover&dq\u003dGraphology&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTl6u-ebydEYC&dq\u003dGraphology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fxPRFZExRGUC",
+   "etag": "PSIwW4k8ngo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fxPRFZExRGUC",
+   "volumeInfo": {
+    "title": "The Truth About Graphology",
+    "authors": [
+     "Ruth Gardner"
+    ],
+    "publisher": "Llewellyn Publications",
+    "publishedDate": "1991-12-01",
+    "description": "The Truth About Graphology explains how to translate these tell-tale signs for accurate information about anyone&#39;s personality.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0875422527"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780875422527"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dfxPRFZExRGUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dfxPRFZExRGUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfxPRFZExRGUC&printsec\u003dfrontcover&dq\u003dGraphology&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfxPRFZExRGUC&dq\u003dGraphology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_60RAAAAYAAJ",
+   "etag": "o8fIB8fDxSo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_60RAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Practical graphology",
+    "subtitle": "or, The science of reading character through handwriting; a text book",
+    "authors": [
+     "Mrs. Louise Guest Rice"
+    ],
+    "publishedDate": "1910",
+    "description": "MAKING THE PROFESSION OF \u003cb\u003eGRAPHOLOGY\u003c/b\u003e PAY The last but by no means the least \u003cbr\u003e\r\nimportant question in the following of \u003cb\u003eGraphology\u003c/b\u003e as a profession is that of \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044024490286"
+     }
+    ],
+    "pageCount": 245,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d_60RAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d_60RAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_60RAAAAYAAJ&pg\u003dPA177&dq\u003dGraphology&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_60RAAAAYAAJ&dq\u003dGraphology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Practical_graphology.pdf?id\u003d_60RAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2CCtRVHDvCyUqpSpW269jnOhh3GA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "i0cIq79EHxsC",
+   "etag": "YWEadvZpiL4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/i0cIq79EHxsC",
+   "volumeInfo": {
+    "title": "Graphology",
+    "authors": [
+     "Peter West"
+    ],
+    "publisher": "Element Books Ltd",
+    "publishedDate": "1999-07-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1862044880"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781862044883"
+     }
+    ],
+    "pageCount": 56,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003di0cIq79EHxsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003di0cIq79EHxsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003di0cIq79EHxsC&q\u003dGraphology&dq\u003dGraphology&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003di0cIq79EHxsC&dq\u003dGraphology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WgYynni9GukC",
+   "etag": "prLzlze8oAY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WgYynni9GukC",
+   "volumeInfo": {
+    "title": "Graphology",
+    "subtitle": "David V. Barrett",
+    "authors": [
+     "David V. Barrett"
+    ],
+    "publisher": "Dk Pub",
+    "publishedDate": "1995-09-09",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0789403080"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780789403087"
+     }
+    ],
+    "pageCount": 61,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dWgYynni9GukC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dWgYynni9GukC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWgYynni9GukC&q\u003dGraphology&dq\u003dGraphology&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWgYynni9GukC&dq\u003dGraphology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vboRAAAAYAAJ",
+   "etag": "8ME/eMT2djc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vboRAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Graphology and the psychology of handwriting",
+    "authors": [
+     "June Etta Downey"
+    ],
+    "publishedDate": "1919",
+    "description": "\u003cb\u003eGraphology\u003c/b\u003e as an alleged science of psy- chodiagnosis utilizes a particular form \u003cbr\u003e\r\nof expression, namely, handwriting. \u003cb\u003eGraphology\u003c/b\u003e as so defined should, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044105228969"
+     }
+    ],
+    "pageCount": 142,
+    "printType": "BOOK",
+    "categories": [
+     "Graphology"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dvboRAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dvboRAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvboRAAAAYAAJ&printsec\u003dfrontcover&dq\u003dGraphology&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvboRAAAAYAAJ&dq\u003dGraphology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Graphology_and_the_psychology_of_handwri.epub?id\u003dvboRAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Graphology_and_the_psychology_of_handwri.pdf?id\u003dvboRAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0R3RT-6u9BQrOU3LCA2ZOt0SMfpg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zI-8HwAACAAJ",
+   "etag": "lmmg7udhas8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zI-8HwAACAAJ",
+   "volumeInfo": {
+    "title": "Graphology",
+    "subtitle": "A Guide to Health",
+    "authors": [
+     "Monica O'Hara-Keeton"
+    ],
+    "publisher": "Robert Hale Ltd",
+    "publishedDate": "2008-09-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "070908515X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780709085157"
+     }
+    ],
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dzI-8HwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dzI-8HwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzI-8HwAACAAJ&dq\u003dGraphology&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzI-8HwAACAAJ&dq\u003dGraphology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GR4TAQAAMAAJ",
+   "etag": "gFmY8XAYs+g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GR4TAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Graphology",
+    "authors": [
+     "Michael Watts"
+    ],
+    "publisher": "Simon & Schuster",
+    "publishedDate": "1991",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0671780417"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780671780418"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Humor"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dGR4TAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dGR4TAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGR4TAQAAMAAJ&q\u003dGraphology&dq\u003dGraphology&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGR4TAQAAMAAJ&dq\u003dGraphology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YiMlQAAACAAJ",
+   "etag": "shylY54YDPo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YiMlQAAACAAJ",
+   "volumeInfo": {
+    "title": "Graphology",
+    "subtitle": "a handbook",
+    "authors": [
+     "Henry Asbury Rand"
+    ],
+    "publishedDate": "1961",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:61000980"
+     }
+    ],
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Graphology"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYiMlQAAACAAJ&dq\u003dGraphology&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYiMlQAAACAAJ&dq\u003dGraphology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "I9sfSHtQ-mkC",
+   "etag": "vXGRvEcRRYc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/I9sfSHtQ-mkC",
+   "volumeInfo": {
+    "title": "Towards Scientific Graphology",
+    "authors": [
+     "M. Gielen",
+     "Dafna Yalon",
+     "Rudi Danor"
+    ],
+    "publisher": "Freund Publishing House Ltd.",
+    "publishedDate": "1992",
+    "description": "The book is especially advantageous to English speaking \u003cb\u003egraphologists\u003c/b\u003e since only \u003cbr\u003e\r\nscarce literature on this system is available in English and none covers \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9652940461"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789652940469"
+     }
+    ],
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dI9sfSHtQ-mkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dI9sfSHtQ-mkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dI9sfSHtQ-mkC&printsec\u003dfrontcover&dq\u003dGraphology&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dI9sfSHtQ-mkC&dq\u003dGraphology&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 543
+}

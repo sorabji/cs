@@ -1,0 +1,566 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "iMA1WhtiRBkC",
+   "etag": "cDK2/TiQWgo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iMA1WhtiRBkC",
+   "volumeInfo": {
+    "title": "The elements of journalism",
+    "subtitle": "what newspeople should know and the public should expect",
+    "authors": [
+     "Bill Kovach",
+     "Tom Rosenstiel"
+    ],
+    "publisher": "Three Rivers Pr",
+    "publishedDate": "2007",
+    "description": "Updated to incorporate the latest information on current media trends, online media, blogging, and other recent events, a thought-provoking study outlines the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0307346706"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780307346704"
+     }
+    ],
+    "pageCount": 268,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 23,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003diMA1WhtiRBkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003diMA1WhtiRBkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003diMA1WhtiRBkC&printsec\u003dfrontcover&dq\u003dJournalism&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003diMA1WhtiRBkC&dq\u003dJournalism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OP4GgIp0VIAC",
+   "etag": "QGhZxicq/MA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OP4GgIp0VIAC",
+   "volumeInfo": {
+    "title": "Journalism",
+    "subtitle": "principles & practice",
+    "authors": [
+     "Tony Harcup"
+    ],
+    "publisher": "Sage Publications Ltd",
+    "publishedDate": "2009-04-01",
+    "description": "&#39;Journalism&#39; offers a wide-ranging introduction to journalism, which combines the experience and advice of practising journalists with insights gained by the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1847872506"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781847872500"
+     }
+    ],
+    "pageCount": 244,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dOP4GgIp0VIAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dOP4GgIp0VIAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOP4GgIp0VIAC&printsec\u003dfrontcover&dq\u003dJournalism&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOP4GgIp0VIAC&dq\u003dJournalism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zJMNHctDmSYC",
+   "etag": "Nlq8plllj3o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zJMNHctDmSYC",
+   "volumeInfo": {
+    "title": "Journalism",
+    "subtitle": "critical issues",
+    "authors": [
+     "Stuart Allan"
+    ],
+    "publisher": "Open Univ Pr",
+    "publishedDate": "2005",
+    "description": "This edited collection introduces news media studies to theundergraduate reader.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0335214754"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780335214754"
+     }
+    ],
+    "pageCount": 390,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dzJMNHctDmSYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dzJMNHctDmSYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dzJMNHctDmSYC&printsec\u003dfrontcover&dq\u003dJournalism&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dzJMNHctDmSYC&dq\u003dJournalism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Journalism-sample-epub.acsm?id\u003dzJMNHctDmSYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IE0eFUUbO-QC",
+   "etag": "CnEdTS4rPdg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IE0eFUUbO-QC",
+   "volumeInfo": {
+    "title": "Journalism",
+    "subtitle": "truth or dare?",
+    "authors": [
+     "Ian Hargreaves"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2003",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0192802747"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780192802743"
+     }
+    ],
+    "pageCount": 294,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dIE0eFUUbO-QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dIE0eFUUbO-QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIE0eFUUbO-QC&dq\u003dJournalism&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIE0eFUUbO-QC&dq\u003dJournalism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Lrvk3z64JOIC",
+   "etag": "+31igvxAW4Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Lrvk3z64JOIC",
+   "volumeInfo": {
+    "title": "Journalism",
+    "authors": [
+     "Ross Solly"
+    ],
+    "publisher": "Career FAQs",
+    "publishedDate": "2007-10",
+    "description": "Everything you need to know including : getting a cadetship ; preparing your resume and cover letter ; job interview tips and more.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1921106239"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781921106231"
+     }
+    ],
+    "pageCount": 198,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dLrvk3z64JOIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dLrvk3z64JOIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLrvk3z64JOIC&printsec\u003dfrontcover&dq\u003dJournalism&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLrvk3z64JOIC&dq\u003dJournalism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JogLxVrWcoQC",
+   "etag": "8qlAi8iEzrE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JogLxVrWcoQC",
+   "volumeInfo": {
+    "title": "Journalism",
+    "subtitle": "a guide to the reference literature",
+    "authors": [
+     "Jo A. Cates"
+    ],
+    "publisher": "Libraries Unltd Inc",
+    "publishedDate": "2004",
+    "description": "The format is similar to the second edition. What makes this edition significantly different is the separation of Commercial Databases and Internet Resources.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1591580617"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781591580614"
+     }
+    ],
+    "pageCount": 291,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dJogLxVrWcoQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dJogLxVrWcoQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJogLxVrWcoQC&printsec\u003dfrontcover&dq\u003dJournalism&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJogLxVrWcoQC&dq\u003dJournalism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 72.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 57.6,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dJogLxVrWcoQC&dq\u003dJournalism&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Journalism-sample-epub.acsm?id\u003dJogLxVrWcoQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Journalism-sample-pdf.acsm?id\u003dJogLxVrWcoQC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7514KO9SJEMC",
+   "etag": "nInnOpsNqWY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7514KO9SJEMC",
+   "volumeInfo": {
+    "title": "Journalism",
+    "authors": [
+     "Trotman Publishing"
+    ],
+    "publisher": "Trotman & Company, Limited",
+    "publishedDate": "2001-03-01",
+    "description": "What about working in \u003cb\u003ejournalism\u003c/b\u003e? Adventure, excitement, drama, fame, travel - \u003cbr\u003e\r\nare these some of the words that spring to mind when you think of \u003cb\u003ejournalism\u003c/b\u003e? \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0856606596"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780856606595"
+     }
+    ],
+    "pageCount": 44,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d7514KO9SJEMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d7514KO9SJEMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7514KO9SJEMC&printsec\u003dfrontcover&dq\u003dJournalism&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7514KO9SJEMC&dq\u003dJournalism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KsZLAAAAYAAJ",
+   "etag": "5AICmOGgvzk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KsZLAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Journalism",
+    "subtitle": "explains the workings of a modern newspaper office, and gives full directions for those who desire to enter the field of journalism",
+    "authors": [
+     "Charles Henry Olin"
+    ],
+    "publishedDate": "1910",
+    "description": "\u003cb\u003eJournalism\u003c/b\u003e CHAPTER I QUALIFICATIONS Literature is an art ; \u003cb\u003ejournalism\u003c/b\u003e a \u003cbr\u003e\r\nprofession. Literary talent is inherent; \u003cb\u003ejournalistic\u003c/b\u003e ability largely a matter \u003cbr\u003e\r\nof \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PRNC:32101076045614"
+     }
+    ],
+    "pageCount": 193,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dKsZLAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dKsZLAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKsZLAAAAYAAJ&printsec\u003dfrontcover&dq\u003dJournalism&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKsZLAAAAYAAJ&dq\u003dJournalism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Journalism.epub?id\u003dKsZLAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Journalism.pdf?id\u003dKsZLAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2sDCtx2KmDPc2UDRn8wumHJOSZRA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YIMSlH1JSUYC",
+   "etag": "LPERPCOPBsw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YIMSlH1JSUYC",
+   "volumeInfo": {
+    "title": "Journalism",
+    "authors": [
+     "Ferguson",
+     "J.G. Ferguson Publishing Company"
+    ],
+    "publisher": "Ferguson Publishing Company",
+    "publishedDate": "2005-10",
+    "description": "Describes a variety careers in journalism, discussing the nature of the work, educational or training requirements, getting started, advancement possibilities, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0816058431"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816058433"
+     }
+    ],
+    "pageCount": 202,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dYIMSlH1JSUYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dYIMSlH1JSUYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYIMSlH1JSUYC&printsec\u003dfrontcover&dq\u003dJournalism&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYIMSlH1JSUYC&dq\u003dJournalism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Journalism-sample-epub.acsm?id\u003dYIMSlH1JSUYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UTNSLTQINYEC",
+   "etag": "2CpriN1A0jM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UTNSLTQINYEC",
+   "volumeInfo": {
+    "title": "Journalism",
+    "subtitle": "state of the art",
+    "authors": [
+     "William James Willis"
+    ],
+    "publisher": "Praeger Pub Text",
+    "publishedDate": "1990",
+    "description": "This book summarizes some 200 media studies many from the most prestigious journal in the trade, Journalism Quarterly.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0275932443"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780275932442"
+     }
+    ],
+    "pageCount": 209,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dUTNSLTQINYEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dUTNSLTQINYEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUTNSLTQINYEC&printsec\u003dfrontcover&dq\u003dJournalism&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUTNSLTQINYEC&dq\u003dJournalism&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 15.37,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dUTNSLTQINYEC&dq\u003dJournalism&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Journalism-sample-epub.acsm?id\u003dUTNSLTQINYEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Journalism-sample-pdf.acsm?id\u003dUTNSLTQINYEC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 591
+}

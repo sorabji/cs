@@ -1,0 +1,491 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "sqZBAAAAcAAJ",
+   "etag": "twMB+4yU7FQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sqZBAAAAcAAJ",
+   "volumeInfo": {
+    "title": "Medieval history",
+    "publishedDate": "1858",
+    "description": "\u003cb\u003eMEDIEVAL HISTORY\u003c/b\u003e. INTRODUCTION. DISSOLUTION OF THE ROMAN EMPIRE, AND FOUNDATION \u003cbr\u003e\r\nOF MEDIEVAL SOCIETY. 1. Apteii the death of the Emperor Theodosius, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GENT:900000166385"
+     }
+    ],
+    "pageCount": 356,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dsqZBAAAAcAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dsqZBAAAAcAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dsqZBAAAAcAAJ&printsec\u003dfrontcover&dq\u003dMedieval+History&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dsqZBAAAAcAAJ&dq\u003dMedieval+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Medieval_history.epub?id\u003dsqZBAAAAcAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Medieval_history.pdf?id\u003dsqZBAAAAcAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2n_rNnNsKlVMw-08slOCzJiO_eMA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7n4NTM7KgYkC",
+   "etag": "T/d/gkBPzRw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7n4NTM7KgYkC",
+   "volumeInfo": {
+    "title": "Medieval history",
+    "authors": [
+     "Penelope Delafield Johnson"
+    ],
+    "publisher": "Markus Wiener Pub",
+    "publishedDate": "1988-04",
+    "description": "WELDEN ERNEST, University of Hawaii, Manoa &quot;\u003cb\u003eHistory\u003c/b\u003e of \u003cb\u003eMedieval\u003c/b\u003e Germany to 1546&quot; \u003cbr\u003e\r\n129 Scandinavia 16. RUTH MAZO KARRAS, University of Pennsylvania &quot;The \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0910129924"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780910129923"
+     }
+    ],
+    "pageCount": 323,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d7n4NTM7KgYkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d7n4NTM7KgYkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7n4NTM7KgYkC&printsec\u003dfrontcover&dq\u003dMedieval+History&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7n4NTM7KgYkC&dq\u003dMedieval+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Xx1rL67JPOAC",
+   "etag": "tLLouErNte0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Xx1rL67JPOAC",
+   "volumeInfo": {
+    "title": "What is medieval history?",
+    "authors": [
+     "John Arnold"
+    ],
+    "publisher": "Polity Pr",
+    "publishedDate": "2008-03-04",
+    "description": "Throughout the book, readers are shown not only what medieval history is, but the cultural and political contexts in which medieval history has been written.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0745639321"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780745639321"
+     }
+    ],
+    "pageCount": 155,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dXx1rL67JPOAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dXx1rL67JPOAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXx1rL67JPOAC&printsec\u003dfrontcover&dq\u003dMedieval+History&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXx1rL67JPOAC&dq\u003dMedieval+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yAzpDanguOkC",
+   "etag": "xsdUfs233xo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yAzpDanguOkC",
+   "volumeInfo": {
+    "title": "Medieval History",
+    "authors": [
+     "David Mather Masson"
+    ],
+    "publisher": "Bibliolife",
+    "publishedDate": "2008-10-15",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0559301456"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780559301452"
+     }
+    ],
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dyAzpDanguOkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dyAzpDanguOkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyAzpDanguOkC&dq\u003dMedieval+History&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyAzpDanguOkC&dq\u003dMedieval+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "y7xmAAAAMAAJ",
+   "etag": "mcMNrr4ueNw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/y7xmAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Medieval history",
+    "subtitle": "the life and death of a civilization",
+    "authors": [
+     "Norman F. Cantor"
+    ],
+    "publishedDate": "1969",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015005276103"
+     }
+    ],
+    "pageCount": 584,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dy7xmAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dy7xmAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dy7xmAAAAMAAJ&q\u003dMedieval+History&dq\u003dMedieval+History&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dy7xmAAAAMAAJ&dq\u003dMedieval+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wsvRAAAAMAAJ",
+   "etag": "5s3z5w//9pg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wsvRAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The Cambridge medieval history",
+    "publishedDate": "1911",
+    "description": "The first question that has to be considered in laying down the plan of a \u003cbr\u003e\r\n\u003cb\u003eMedieval History\u003c/b\u003e is, Where to begin ? Where shall we draw the line that \u003cbr\u003e\r\nseparates \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "IND:30000064242856"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dwsvRAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dwsvRAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwsvRAAAAMAAJ&printsec\u003dfrontcover&dq\u003dMedieval+History&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwsvRAAAAMAAJ&dq\u003dMedieval+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Cambridge_medieval_history.pdf?id\u003dwsvRAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3gMK4ZFRWuSkmll1qT-O0nZe9g7Q&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JcmwuoTsKO0C",
+   "etag": "vjp2RsDzISg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JcmwuoTsKO0C",
+   "volumeInfo": {
+    "title": "The New Cambridge Medieval History: c. 500-c. 700",
+    "authors": [
+     "Paul Fouracre"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "2006-01-09",
+    "description": "Authoritative history of Europe and the Middle East during their transition from Roman to medieval society.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521362911"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521362917"
+     }
+    ],
+    "pageCount": 979,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dJcmwuoTsKO0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dJcmwuoTsKO0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJcmwuoTsKO0C&printsec\u003dfrontcover&dq\u003dMedieval+History&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJcmwuoTsKO0C&dq\u003dMedieval+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "i7FmAAAAMAAJ",
+   "etag": "tA5/w2NQOiA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/i7FmAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Medieval history",
+    "publishedDate": "1992",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015073585955"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003di7FmAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003di7FmAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003di7FmAAAAMAAJ&q\u003dMedieval+History&dq\u003dMedieval+History&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003di7FmAAAAMAAJ&dq\u003dMedieval+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_cZBAAAAIAAJ",
+   "etag": "GfLutX3KOik",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_cZBAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Medieval history",
+    "subtitle": "a source book",
+    "authors": [
+     "Donald A. White"
+    ],
+    "publishedDate": "1965",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105041349734"
+     }
+    ],
+    "pageCount": 575,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d_cZBAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d_cZBAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_cZBAAAAIAAJ&q\u003dMedieval+History&dq\u003dMedieval+History&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_cZBAAAAIAAJ&dq\u003dMedieval+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BVUMAAAAYAAJ",
+   "etag": "Fv7WRADikjY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BVUMAAAAYAAJ",
+   "volumeInfo": {
+    "title": "The Cambridge medieval history",
+    "authors": [
+     "John Bagnell Bury"
+    ],
+    "publishedDate": "1911",
+    "description": "254-312] Constantine Caesar 3 daughter of Maximian as far back as 293, when she \u003cbr\u003e\r\nwas a mere child ; and daughters of emperors were not common enough to be \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044098615479"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Middle Ages"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dBVUMAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dBVUMAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBVUMAAAAYAAJ&printsec\u003dfrontcover&dq\u003dMedieval+History&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBVUMAAAAYAAJ&dq\u003dMedieval+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_Cambridge_medieval_history.pdf?id\u003dBVUMAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3jxOJDqFnKkIHphnScPrr944Jdhg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 443
+}

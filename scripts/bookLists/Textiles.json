@@ -1,0 +1,535 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "vsO9QQAACAAJ",
+   "etag": "cULhKAddi9Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vsO9QQAACAAJ",
+   "volumeInfo": {
+    "title": "Textiles",
+    "authors": [
+     "Sara J. Kadolph"
+    ],
+    "publisher": "Pearson College Div",
+    "publishedDate": "2010-02-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0135007593"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780135007594"
+     }
+    ],
+    "pageCount": 581,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dvsO9QQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dvsO9QQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvsO9QQAACAAJ&dq\u003dTextiles&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvsO9QQAACAAJ&dq\u003dTextiles&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B_b-b2I7MEoC",
+   "etag": "U8TOWCcsrT4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B_b-b2I7MEoC",
+   "volumeInfo": {
+    "title": "What Are Textiles?",
+    "authors": [
+     "Ruth Thomson"
+    ],
+    "publisher": "Creative Co",
+    "publishedDate": "2005-08",
+    "description": "Discusses what textiles are and what they are made of, including making yarn, weaving, embroidery, tie-dye, batik, block printing, patchwork, and applique.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1932889906"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781932889901"
+     }
+    ],
+    "pageCount": 30,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dB_b-b2I7MEoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dB_b-b2I7MEoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dB_b-b2I7MEoC&printsec\u003dfrontcover&dq\u003dTextiles&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dB_b-b2I7MEoC&dq\u003dTextiles&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HIKf_4DcoyIC",
+   "etag": "C1BooqStgLQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HIKf_4DcoyIC",
+   "volumeInfo": {
+    "title": "Textiles",
+    "subtitle": "a handbook for designers",
+    "authors": [
+     "Marypaul Yates"
+    ],
+    "publisher": "W. W. Norton & Company",
+    "publishedDate": "1996-01-11",
+    "description": "Practical information usually gained only through years of workexperience and word of mouth is presented in this handbook for textiledesigners, students, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0393730034"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780393730036"
+     }
+    ],
+    "pageCount": 179,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dHIKf_4DcoyIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dHIKf_4DcoyIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHIKf_4DcoyIC&printsec\u003dfrontcover&dq\u003dTextiles&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHIKf_4DcoyIC&dq\u003dTextiles&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MH81AAAAMAAJ",
+   "etag": "ACSKcHgs2x8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MH81AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Textiles",
+    "authors": [
+     "Paul Henry Nystrom",
+     "University of Wisconsin. University Extension Division"
+    ],
+    "publisher": "Appleton",
+    "publishedDate": "1916",
+    "description": "\u003cb\u003eTEXTILES\u003c/b\u003e CHAPTER I THE \u003cb\u003eTEXTILE\u003c/b\u003e FIBERS The demand for clothing. — Food, clothing, \u003cbr\u003e\r\nfuel, and shelter are four primary needs of the human being. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015063978665"
+     }
+    ],
+    "pageCount": 335,
+    "printType": "BOOK",
+    "categories": [
+     "Textile fabrics"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dMH81AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dMH81AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMH81AAAAMAAJ&printsec\u003dfrontcover&dq\u003dTextiles&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMH81AAAAMAAJ&dq\u003dTextiles&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Textiles.epub?id\u003dMH81AAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Textiles.pdf?id\u003dMH81AAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1nyPaqZUlM61NDYMgjlxf61bjEcg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jX81AAAAMAAJ",
+   "etag": "su7yy3qtgiQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jX81AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Textiles",
+    "subtitle": "a handbook for the student and the consumer",
+    "authors": [
+     "Mary Schenck Woolman",
+     "Ellen Beers McGowan"
+    ],
+    "publishedDate": "1920",
+    "description": "\u003cb\u003eTEXTILES\u003c/b\u003e: A HANDBOOK FOR THE STUDENT AND THE CONSUMER CHAPTER I BEGINNING OF THE \u003cbr\u003e\r\n\u003cb\u003eTEXTILE\u003c/b\u003e INDUSTRY The building up of the \u003cb\u003etextile\u003c/b\u003e industries has been one of \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015063978673"
+     }
+    ],
+    "pageCount": 428,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003djX81AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003djX81AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djX81AAAAMAAJ&printsec\u003dfrontcover&dq\u003dTextiles&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djX81AAAAMAAJ&dq\u003dTextiles&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Textiles.pdf?id\u003djX81AAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0kEXFef5JZROwo4B5p5oMdgQaaGQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "F9FYlRfSMj0C",
+   "etag": "8dk5gSidF84",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/F9FYlRfSMj0C",
+   "volumeInfo": {
+    "title": "Textiles",
+    "subtitle": "Collection of the Museum of International Folk Art",
+    "authors": [
+     "Bobbie Sumberg",
+     "Addison Doty"
+    ],
+    "publisher": "Gibbs Smith Publishers",
+    "publishedDate": "2010-01-01",
+    "description": "For more than fifty years, the Museum of International Folk Art in Santa Fe, New Mexico, has been documenting, collecting, preserving, and interpreting the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1423606507"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781423606505"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dF9FYlRfSMj0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dF9FYlRfSMj0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dF9FYlRfSMj0C&printsec\u003dfrontcover&dq\u003dTextiles&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dF9FYlRfSMj0C&dq\u003dTextiles&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dF9FYlRfSMj0C&dq\u003dTextiles&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LKoJ4CTLGH4C",
+   "etag": "pPUKTsqUcuE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LKoJ4CTLGH4C",
+   "volumeInfo": {
+    "title": "Textiles",
+    "authors": [
+     "Karen Hosack"
+    ],
+    "publisher": "Raintree Pub",
+    "publishedDate": "2008-06-15",
+    "description": "Can things be knitted out of metal and wire? Can a sculpture be made out of textiles? Textiles can hang on the wall, in your closet, or on your floor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1410931641"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781410931641"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dLKoJ4CTLGH4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dLKoJ4CTLGH4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLKoJ4CTLGH4C&printsec\u003dfrontcover&dq\u003dTextiles&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLKoJ4CTLGH4C&dq\u003dTextiles&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NXuJYahpHSIC",
+   "etag": "YTyTjpLj6hA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NXuJYahpHSIC",
+   "volumeInfo": {
+    "title": "Textiles",
+    "authors": [
+     "Barbara Dasilva",
+     "Applewood Books"
+    ],
+    "publisher": "Applewood's Pictorial America",
+    "publishedDate": "2009",
+    "description": "Over 50 full-color images cover a span of over 100 years of textiles, from the 1800s through the 1900s.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1608890139"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781608890132"
+     }
+    ],
+    "pageCount": 56,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dNXuJYahpHSIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dNXuJYahpHSIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNXuJYahpHSIC&printsec\u003dfrontcover&dq\u003dTextiles&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNXuJYahpHSIC&dq\u003dTextiles&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "efGy3-kiEp0C",
+   "etag": "QOVPGTvGkvk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/efGy3-kiEp0C",
+   "volumeInfo": {
+    "title": "Textiles",
+    "authors": [
+     "Murdoch Books",
+     "Sarah Fielke"
+    ],
+    "publisher": "Murdoch Books",
+    "publishedDate": "2008-07-21",
+    "description": "This bumper book contains 70 beautiful projects for making a great variety of items, including clothing, homewares and accessories.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1741960983"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781741960983"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Design"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003defGy3-kiEp0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003defGy3-kiEp0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003defGy3-kiEp0C&printsec\u003dfrontcover&dq\u003dTextiles&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003defGy3-kiEp0C&dq\u003dTextiles&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LUYvaOJJjt0C",
+   "etag": "CoJBQs3KV/8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LUYvaOJJjt0C",
+   "volumeInfo": {
+    "title": "Textiles",
+    "authors": [
+     "Cheryl Jakab"
+    ],
+    "publisher": "Black Rabbit Books",
+    "publishedDate": "2006-11",
+    "description": "Explains the different ways that textiles can be used, and presents pictures of valued artifacts made from textiles.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1583407774"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781583407776"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dLUYvaOJJjt0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dLUYvaOJJjt0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLUYvaOJJjt0C&printsec\u003dfrontcover&dq\u003dTextiles&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLUYvaOJJjt0C&dq\u003dTextiles&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 569
+}

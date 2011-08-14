@@ -1,0 +1,559 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "PAi04qzmfucC",
+   "etag": "gZoRqM9NA8c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PAi04qzmfucC",
+   "volumeInfo": {
+    "title": "Maritime economics",
+    "authors": [
+     "Martin Stopford"
+    ],
+    "publisher": "Taylor & Francis",
+    "publishedDate": "2009",
+    "description": "Stopford provides an introduction to the organization and workings of the global shipping industry, outlining the economic theory behind this large and complex ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415275571"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415275576"
+     }
+    ],
+    "pageCount": 815,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dPAi04qzmfucC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dPAi04qzmfucC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPAi04qzmfucC&printsec\u003dfrontcover&dq\u003dMaritime&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPAi04qzmfucC&dq\u003dMaritime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 85.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 68.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dPAi04qzmfucC&dq\u003dMaritime&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Maritime_economics-sample-pdf.acsm?id\u003dPAi04qzmfucC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "np6xAAAAIAAJ",
+   "etag": "sNiEDgQQsSE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/np6xAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Maritime",
+    "subtitle": "voice of the AFL-CIO Maritimes Trades Department",
+    "authors": [
+     "AFL-CIO. Maritime Trades Dept"
+    ],
+    "publishedDate": "1971",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105013878389"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Transportation"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dnp6xAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dnp6xAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnp6xAAAAIAAJ&q\u003dMaritime&dq\u003dMaritime&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnp6xAAAAIAAJ&dq\u003dMaritime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "u7g2AAAAIAAJ",
+   "etag": "+c6Yc4P11eM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u7g2AAAAIAAJ",
+   "volumeInfo": {
+    "title": "Maritime",
+    "subtitle": "a historical sketch and a workers' program",
+    "authors": [
+     "Frederick J. Lang",
+     "Socialist Workers Party"
+    ],
+    "publishedDate": "1943",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105120541870"
+     }
+    ],
+    "pageCount": 171,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003du7g2AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003du7g2AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003du7g2AAAAIAAJ&q\u003dMaritime&dq\u003dMaritime&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003du7g2AAAAIAAJ&dq\u003dMaritime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4EOcBE6VIikC",
+   "etag": "xqDldRJ57sw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4EOcBE6VIikC",
+   "volumeInfo": {
+    "title": "International Maritime Boundaries",
+    "authors": [
+     "Jonathan I. Charney",
+     "American Society of International Law"
+    ],
+    "publisher": "Martinus Nijhoff",
+    "publishedDate": "2002",
+    "description": "This is the ultimate guide to international maritime boundaries.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "904111954X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789041119544"
+     }
+    ],
+    "pageCount": 608,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d4EOcBE6VIikC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d4EOcBE6VIikC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4EOcBE6VIikC&printsec\u003dfrontcover&dq\u003dMaritime&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4EOcBE6VIikC&dq\u003dMaritime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hwklKYRn2rcC",
+   "etag": "Rm8Ku6dng8M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hwklKYRn2rcC",
+   "volumeInfo": {
+    "title": "Maritime transport",
+    "subtitle": "the Greek paradigm",
+    "authors": [
+     "Athanasios A. Pallis"
+    ],
+    "publisher": "JAI Press",
+    "publishedDate": "2007-08-29",
+    "description": "This volume provides an analysis of the ways that the Greek paradigm of maritime transport developed and continues to evolve and adjust.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0762314494"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780762314492"
+     }
+    ],
+    "pageCount": 474,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dhwklKYRn2rcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dhwklKYRn2rcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dhwklKYRn2rcC&printsec\u003dfrontcover&dq\u003dMaritime&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dhwklKYRn2rcC&dq\u003dMaritime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Maritime_transport-sample-epub.acsm?id\u003dhwklKYRn2rcC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VGSonCIVN5YC",
+   "etag": "ciOBa5wqJ9A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VGSonCIVN5YC",
+   "volumeInfo": {
+    "title": "Maritime terrorism",
+    "subtitle": "risk and liability",
+    "authors": [
+     "Michael D. Greenberg",
+     "Peter Chalk",
+     "Henry H. Willis"
+    ],
+    "publisher": "RAND Corporation",
+    "publishedDate": "2006",
+    "description": "This book explores risks and U.S. civil liability rules as they may apply in the context of these types of attacks. Book jacket.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0833040308"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780833040305"
+     }
+    ],
+    "pageCount": 167,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dVGSonCIVN5YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dVGSonCIVN5YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dVGSonCIVN5YC&printsec\u003dfrontcover&dq\u003dMaritime&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dVGSonCIVN5YC&dq\u003dMaritime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.96,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dVGSonCIVN5YC&dq\u003dMaritime&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Maritime_terrorism-sample-epub.acsm?id\u003dVGSonCIVN5YC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Maritime_terrorism-sample-pdf.acsm?id\u003dVGSonCIVN5YC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0GupmH83oVEC",
+   "etag": "H26SzYDAE2o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0GupmH83oVEC",
+   "volumeInfo": {
+    "title": "Maritime",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:YZ3GA6PGD7T"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0GupmH83oVEC&dq\u003dMaritime&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0GupmH83oVEC&dq\u003dMaritime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "E2lNZQ6f5Z8C",
+   "etag": "c2sJqvOaUtg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/E2lNZQ6f5Z8C",
+   "volumeInfo": {
+    "title": "Maritime Archaeology",
+    "subtitle": "Australian Approaches",
+    "authors": [
+     "Mark Staniforth",
+     "Michael Nash"
+    ],
+    "publisher": "Springer Verlag",
+    "publishedDate": "2008-03-11",
+    "description": "This book will be of interest to students and practitioners of maritime and historical archaeology and cultural heritage managers throughout the world as ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0387769854"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780387769851"
+     }
+    ],
+    "pageCount": 222,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dE2lNZQ6f5Z8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dE2lNZQ6f5Z8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dE2lNZQ6f5Z8C&printsec\u003dfrontcover&dq\u003dMaritime&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dE2lNZQ6f5Z8C&dq\u003dMaritime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.69,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dE2lNZQ6f5Z8C&dq\u003dMaritime&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Maritime_Archaeology-sample-pdf.acsm?id\u003dE2lNZQ6f5Z8C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "m-PGIGJPy8IC",
+   "etag": "F2ZszLUepTk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/m-PGIGJPy8IC",
+   "volumeInfo": {
+    "title": "Best Maritime Short Stories",
+    "authors": [
+     "George Peabody"
+    ],
+    "publisher": "Formac Publishing Company",
+    "publishedDate": "1988-01-01",
+    "description": "&quot;Best Maritime Short Stories is a collection of the work of long-established and lesser-known writers, including stories by Charles Bruce, Ernest Buckler, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0887800688"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780887800689"
+     }
+    ],
+    "pageCount": 232,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dm-PGIGJPy8IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dm-PGIGJPy8IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dm-PGIGJPy8IC&printsec\u003dfrontcover&dq\u003dMaritime&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dm-PGIGJPy8IC&dq\u003dMaritime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8oBQeVVrkusC",
+   "etag": "a75Bu5cmHLs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8oBQeVVrkusC",
+   "volumeInfo": {
+    "title": "International maritime transport",
+    "subtitle": "perspectives",
+    "authors": [
+     "J. McConville",
+     "Alfonso Morvillo",
+     "Heather Leggate"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2005",
+    "description": "This new book presents an interdisciplinary approach from a wide range of internationally based experts.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415349907"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415349901"
+     }
+    ],
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d8oBQeVVrkusC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d8oBQeVVrkusC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8oBQeVVrkusC&printsec\u003dfrontcover&dq\u003dMaritime&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8oBQeVVrkusC&dq\u003dMaritime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 198.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 158.4,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d8oBQeVVrkusC&dq\u003dMaritime&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/International_maritime_transport-sample-epub.acsm?id\u003d8oBQeVVrkusC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/International_maritime_transport-sample-pdf.acsm?id\u003d8oBQeVVrkusC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 562
+}

@@ -1,0 +1,577 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "9k9AAAAAIAAJ",
+   "etag": "duGOYV6A8ok",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9k9AAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Hypnosis",
+    "subtitle": "a social psychological analysis of influence communication",
+    "authors": [
+     "Theodore R. Sarbin",
+     "William C. Coe"
+    ],
+    "publishedDate": "1972",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105001639785"
+     }
+    ],
+    "pageCount": 279,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d9k9AAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d9k9AAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d9k9AAAAAIAAJ&q\u003dHypnosis&dq\u003dHypnosis&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9k9AAAAAIAAJ&dq\u003dHypnosis&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "J-I4VBYk2sQC",
+   "etag": "8wpUET7L1Bg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/J-I4VBYk2sQC",
+   "volumeInfo": {
+    "title": "Complete idiot's guide to hypnosis",
+    "authors": [
+     "Roberta Temes"
+    ],
+    "publisher": "Alpha Books",
+    "publishedDate": "2004-09-06",
+    "description": "Explains what hypnosis is and how it works, provides tips on finding a hypnotherapist, and shows how to use hypnosis to improve quality of life.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1592572715"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781592572717"
+     }
+    ],
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dJ-I4VBYk2sQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dJ-I4VBYk2sQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJ-I4VBYk2sQC&printsec\u003dfrontcover&dq\u003dHypnosis&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJ-I4VBYk2sQC&dq\u003dHypnosis&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dJ-I4VBYk2sQC&dq\u003dHypnosis&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Complete_idiot_s_guide_to_hypnosis-sample-epub.acsm?id\u003dJ-I4VBYk2sQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fgBrdEoTu3AC",
+   "etag": "3tQ8V2Mou5U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fgBrdEoTu3AC",
+   "volumeInfo": {
+    "title": "Hypnosis",
+    "subtitle": "Developments in Research and New Perspectives",
+    "authors": [
+     "Erika Fromm",
+     "Ronald E. Shor"
+    ],
+    "publisher": "Transaction Pub",
+    "publishedDate": "2009-07-31",
+    "description": "In this edition, also a classic, the editorsinclude three new essays in modern hypnosis studies.They also provide a new conceptual frameworkcognitive,ego ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0202362620"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780202362625"
+     }
+    ],
+    "pageCount": 793,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dfgBrdEoTu3AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dfgBrdEoTu3AC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfgBrdEoTu3AC&printsec\u003dfrontcover&dq\u003dHypnosis&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfgBrdEoTu3AC&dq\u003dHypnosis&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Hypnosis-sample-epub.acsm?id\u003dfgBrdEoTu3AC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Hypnosis-sample-pdf.acsm?id\u003dfgBrdEoTu3AC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0-ZvvEa8JacC",
+   "etag": "R5u5+0Ql2ss",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0-ZvvEa8JacC",
+   "volumeInfo": {
+    "title": "Hypnosis",
+    "subtitle": "a brief history",
+    "authors": [
+     "Judith Pintar",
+     "Steven J. Lynn"
+    ],
+    "publisher": "Blackwell Pub",
+    "publishedDate": "2008-10-24",
+    "description": "&quot;Hypnosis: A Brief History&quot; examines the social and cultural contexts of the theories, development, and practice of hypnosis, weaving together three narratives: ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1405134518"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405134514"
+     }
+    ],
+    "pageCount": 221,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d0-ZvvEa8JacC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d0-ZvvEa8JacC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0-ZvvEa8JacC&printsec\u003dfrontcover&dq\u003dHypnosis&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0-ZvvEa8JacC&dq\u003dHypnosis&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 69.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 69.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d0-ZvvEa8JacC&dq\u003dHypnosis&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Hypnosis-sample-pdf.acsm?id\u003d0-ZvvEa8JacC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-L_dNAN5KosC",
+   "etag": "EkSUlwu+AkM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-L_dNAN5KosC",
+   "volumeInfo": {
+    "title": "Hypnosis",
+    "subtitle": "Understanding How It Can Work for You",
+    "authors": [
+     "Sean F. Kelly",
+     "Reid J. Kelly"
+    ],
+    "publisher": "Wellness Inst",
+    "publishedDate": "2000-01-01",
+    "description": "1 Myth and Reality Popular Myths And Misperceptions And Their Sources \u003cb\u003eHypnosis\u003c/b\u003e - \u003cbr\u003e\r\nthe word summons a number of stereotyped images and associations: a gold \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0961720263"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780961720261"
+     }
+    ],
+    "pageCount": 260,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d-L_dNAN5KosC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d-L_dNAN5KosC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-L_dNAN5KosC&printsec\u003dfrontcover&dq\u003dHypnosis&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-L_dNAN5KosC&dq\u003dHypnosis&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 1.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 1.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d-L_dNAN5KosC&dq\u003dHypnosis&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-20eAQAAIAAJ",
+   "etag": "L1NkdKg6JwM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-20eAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Hypnosis",
+    "subtitle": "the cognitive-behavioral perspective",
+    "authors": [
+     "Nicholas P. Spanos",
+     "John F. Chaves"
+    ],
+    "publishedDate": "1989",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105041096228"
+     }
+    ],
+    "pageCount": 511,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d-20eAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d-20eAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-20eAQAAIAAJ&q\u003dHypnosis&dq\u003dHypnosis&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-20eAQAAIAAJ&dq\u003dHypnosis&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rDWCeLIlsdAC",
+   "etag": "rICnCQFbUoM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rDWCeLIlsdAC",
+   "volumeInfo": {
+    "title": "Hypnosis",
+    "subtitle": "a Jungian perspective",
+    "authors": [
+     "James Albert Hall"
+    ],
+    "publisher": "The Guilford Press",
+    "publishedDate": "1989",
+    "description": "This innovative work integrates modern hypnotherapy with Jung&#39;s analytic psychology, successfully linking the skilled practice of hypnosis with the Jungian ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0898623820"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780898623826"
+     }
+    ],
+    "pageCount": 179,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003drDWCeLIlsdAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003drDWCeLIlsdAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003drDWCeLIlsdAC&printsec\u003dfrontcover&dq\u003dHypnosis&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003drDWCeLIlsdAC&dq\u003dHypnosis&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tIrHk-NZ8lMC",
+   "etag": "rrUYXgqhqV8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tIrHk-NZ8lMC",
+   "volumeInfo": {
+    "title": "Hypnosis",
+    "authors": [
+     "Lucas Hyde"
+    ],
+    "publishedDate": "2005-12-13",
+    "description": "Hardback Contemporary general fiction 80,000 words Hypnosis is a novel about hypnotism without parallel.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1411662644"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781411662643"
+     }
+    ],
+    "pageCount": 248,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dtIrHk-NZ8lMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dtIrHk-NZ8lMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtIrHk-NZ8lMC&printsec\u003dfrontcover&dq\u003dHypnosis&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtIrHk-NZ8lMC&dq\u003dHypnosis&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Hypnosis-sample-epub.acsm?id\u003dtIrHk-NZ8lMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fTwclFCF0cUC",
+   "etag": "Kei6MmBug5U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fTwclFCF0cUC",
+   "volumeInfo": {
+    "title": "Hypnosis",
+    "subtitle": "Using the Full Potential of Your Mind",
+    "authors": [
+     "Dr Gisella Zukausky"
+    ],
+    "publisher": "Xlibris Corp",
+    "publishedDate": "2009-01",
+    "description": "It is all self-\u003cb\u003ehypnosis\u003c/b\u003e. The individual listens to what the hypnotist says and \u003cbr\u003e\r\nthen allows the relaxation to take place physically and mentally. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "143638303X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781436383035"
+     }
+    ],
+    "pageCount": 136,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dfTwclFCF0cUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dfTwclFCF0cUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dfTwclFCF0cUC&printsec\u003dfrontcover&dq\u003dHypnosis&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dfTwclFCF0cUC&dq\u003dHypnosis&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dfTwclFCF0cUC&dq\u003dHypnosis&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Hypnosis-sample-epub.acsm?id\u003dfTwclFCF0cUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Hypnosis-sample-pdf.acsm?id\u003dfTwclFCF0cUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uYKaMWAfcewC",
+   "etag": "/FAfy6TxLsw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uYKaMWAfcewC",
+   "volumeInfo": {
+    "title": "Trancework",
+    "subtitle": "an introduction to the practice of clinical hypnosis",
+    "authors": [
+     "Michael D. Yapko"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2003-07-18",
+    "description": "Trancework, the most comprehensive guide to learning the fundamental skills of clinical hypnosis, is now available in an updated and improved third edition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "041593589X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415935890"
+     }
+    ],
+    "pageCount": 578,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003duYKaMWAfcewC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003duYKaMWAfcewC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003duYKaMWAfcewC&printsec\u003dfrontcover&dq\u003dHypnosis&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003duYKaMWAfcewC&dq\u003dHypnosis&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 592
+}

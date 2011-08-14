@@ -1,0 +1,612 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "vCLzjSFs4Z0C",
+   "etag": "0C3n5m4w3EI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vCLzjSFs4Z0C",
+   "volumeInfo": {
+    "title": "Parenting",
+    "subtitle": "what really counts?",
+    "authors": [
+     "Susan Golombok"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2000-08-10",
+    "description": "Parenting: What Really Counts?Examines the scientific evidence on what really matters for children&#39;s healthy psychological development.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "041522716X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415227162"
+     }
+    ],
+    "pageCount": 124,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dvCLzjSFs4Z0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dvCLzjSFs4Z0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvCLzjSFs4Z0C&printsec\u003dfrontcover&dq\u003dParenting&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvCLzjSFs4Z0C&dq\u003dParenting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WiVFGBrhbNMC",
+   "etag": "ybG4S2Buy0A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WiVFGBrhbNMC",
+   "volumeInfo": {
+    "title": "Unconditional Parenting",
+    "subtitle": "Moving from Rewards and Punishments to Love and Reason",
+    "authors": [
+     "Alfie Kohn"
+    ],
+    "publisher": "Atria",
+    "publishedDate": "2006-03-28",
+    "description": "The author of Punished by Rewards and The School Our Children Deserve builds on his parenting theories of working with children rather than trying to control ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0743487486"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780743487481"
+     }
+    ],
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 255,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dWiVFGBrhbNMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dWiVFGBrhbNMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWiVFGBrhbNMC&printsec\u003dfrontcover&dq\u003dParenting&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWiVFGBrhbNMC&dq\u003dParenting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FveYRGkOLyEC",
+   "etag": "KwgRd0Ntlrg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FveYRGkOLyEC",
+   "volumeInfo": {
+    "title": "Parenting",
+    "subtitle": "From Surviving to Thriving : Building Healthy Families in a Changing World",
+    "authors": [
+     "Charles R. Swindoll"
+    ],
+    "publisher": "Thomas Nelson Inc",
+    "publishedDate": "2008-05-06",
+    "description": "In Parenting: From Surviving to Thriving, beloved pastor and teacher Dr. Charles Swindoll explores God&#39;s divine plan for successful families.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1400280036"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781400280032"
+     }
+    ],
+    "pageCount": 273,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dFveYRGkOLyEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dFveYRGkOLyEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFveYRGkOLyEC&printsec\u003dfrontcover&dq\u003dParenting&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFveYRGkOLyEC&dq\u003dParenting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dFveYRGkOLyEC&dq\u003dParenting&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Parenting-sample-epub.acsm?id\u003dFveYRGkOLyEC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Parenting-sample-pdf.acsm?id\u003dFveYRGkOLyEC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pdchAzvBvN4C",
+   "etag": "GzeUYkA++UY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pdchAzvBvN4C",
+   "volumeInfo": {
+    "title": "Screamfree parenting",
+    "subtitle": "raising your kids by keeping your cool",
+    "authors": [
+     "Hal Edward Runkel"
+    ],
+    "publisher": "Oakmont Publishing Llc",
+    "publishedDate": "2005-03-22",
+    "description": "John Lee, best-selling author of the Flying Boy and Growing Yourself Back Up. &quot;If I had a magic wand, I would give this book to every parent, young, old, and in ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0975998110"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780975998113"
+     }
+    ],
+    "pageCount": 227,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dpdchAzvBvN4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dpdchAzvBvN4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpdchAzvBvN4C&printsec\u003dfrontcover&dq\u003dParenting&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpdchAzvBvN4C&dq\u003dParenting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Screamfree_parenting-sample-epub.acsm?id\u003dpdchAzvBvN4C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aPy2MURvaZIC",
+   "etag": "22WOq/RwStE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aPy2MURvaZIC",
+   "volumeInfo": {
+    "title": "Parenting",
+    "subtitle": "A Dynamic Perspective",
+    "authors": [
+     "George W. Holden"
+    ],
+    "publisher": "Sage Publications, Inc",
+    "publishedDate": "2009-01-01",
+    "description": "Unlike other books on the market, this text conveys parenting in all of its complexities.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1412951429"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781412951425"
+     }
+    ],
+    "pageCount": 427,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003daPy2MURvaZIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003daPy2MURvaZIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003daPy2MURvaZIC&printsec\u003dfrontcover&dq\u003dParenting&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003daPy2MURvaZIC&dq\u003dParenting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Parenting-sample-epub.acsm?id\u003daPy2MURvaZIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Lv7o88oh1oIC",
+   "etag": "QbLp29hUfk8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Lv7o88oh1oIC",
+   "volumeInfo": {
+    "title": "Parenting",
+    "subtitle": "an ecological perspective",
+    "authors": [
+     "Tom Luster",
+     "Lynn Okagaki"
+    ],
+    "publisher": "Lawrence Erlbaum",
+    "publishedDate": "2005",
+    "description": "The text summarizes the latest research on factors that influence parenting, with each chapter providing a look at one important influence and the linkages ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0805848061"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780805848069"
+     }
+    ],
+    "pageCount": 442,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dLv7o88oh1oIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dLv7o88oh1oIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLv7o88oh1oIC&printsec\u003dfrontcover&dq\u003dParenting&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLv7o88oh1oIC&dq\u003dParenting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.5,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 30.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dLv7o88oh1oIC&dq\u003dParenting&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Parenting-sample-epub.acsm?id\u003dLv7o88oh1oIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Parenting-sample-pdf.acsm?id\u003dLv7o88oh1oIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8J0bD8zu50IC",
+   "etag": "gf1Xgb+CWBw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8J0bD8zu50IC",
+   "volumeInfo": {
+    "title": "Parenting",
+    "subtitle": "The Long Journey",
+    "authors": [
+     "Joe Rich"
+    ],
+    "publisher": "Wiley",
+    "publishedDate": "2006-12-08",
+    "description": "The book offers guidance on approach in general which applies to a wide variety of parenting issues. The book includes plenty of real life examples and stories.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0470839236"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470839232"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d8J0bD8zu50IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d8J0bD8zu50IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d8J0bD8zu50IC&printsec\u003dfrontcover&dq\u003dParenting&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d8J0bD8zu50IC&dq\u003dParenting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d8J0bD8zu50IC&dq\u003dParenting&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Parenting-sample-epub.acsm?id\u003d8J0bD8zu50IC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Parenting-sample-pdf.acsm?id\u003d8J0bD8zu50IC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "48jXsa2DuO0C",
+   "etag": "FvFEATYs+j4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/48jXsa2DuO0C",
+   "volumeInfo": {
+    "title": "Raising Great Kids",
+    "subtitle": "A Comprehensive Guide to Parenting with Grace and Truth",
+    "authors": [
+     "Henry Cloud",
+     "John Townsend"
+    ],
+    "publishedDate": "2009-09-01",
+    "description": "Drawing on the expert insights of counselors and award-winning authors Henry Cloud and John Townsend and on the parenting wisdom of MOPS (Mothers of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0310860067"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780310860068"
+     }
+    ],
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 8,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d48jXsa2DuO0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d48jXsa2DuO0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d48jXsa2DuO0C&printsec\u003dfrontcover&dq\u003dParenting&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d48jXsa2DuO0C&dq\u003dParenting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d48jXsa2DuO0C&dq\u003dParenting&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Raising_Great_Kids-sample-epub.acsm?id\u003d48jXsa2DuO0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5YJC73DNhhcC",
+   "etag": "i07c28uWOKU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5YJC73DNhhcC",
+   "volumeInfo": {
+    "title": "Parenting",
+    "subtitle": "don't try this at home",
+    "authors": [
+     "Phil Callaway"
+    ],
+    "publisher": "Harvest House Pub",
+    "publishedDate": "2006-01-01",
+    "description": "In this sparkling collection of parentinga??affirming stories,author and awarda??winning columnist Phil Callaway captures the amusing and bemusingexperiences ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0736917160"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780736917162"
+     }
+    ],
+    "pageCount": 248,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d5YJC73DNhhcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d5YJC73DNhhcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5YJC73DNhhcC&printsec\u003dfrontcover&dq\u003dParenting&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5YJC73DNhhcC&dq\u003dParenting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WLzysA5wtpwC",
+   "etag": "GZwNAytdorY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WLzysA5wtpwC",
+   "volumeInfo": {
+    "title": "Parenting",
+    "authors": [
+     "Bill Hybels",
+     "Bill Hybels, Kevin and Sherry Harney",
+     "Kevin and Sherry Harney"
+    ],
+    "publishedDate": "2009-12-08",
+    "description": "How do you hand the tough challenges of parenting? Parenting. Nothing gives us more joy---or greater challenges. &#39;How do I balance my work and family time?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0310863414"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780310863410"
+     }
+    ],
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "0.1.0.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dWLzysA5wtpwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dWLzysA5wtpwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWLzysA5wtpwC&printsec\u003dfrontcover&dq\u003dParenting&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWLzysA5wtpwC&dq\u003dParenting&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 5.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 5.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dWLzysA5wtpwC&dq\u003dParenting&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Parenting-sample-epub.acsm?id\u003dWLzysA5wtpwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 588
+}

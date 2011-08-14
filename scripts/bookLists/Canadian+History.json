@@ -1,0 +1,520 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "0pFYBSaxB_wC",
+   "etag": "HtNuc/0XPXg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0pFYBSaxB_wC",
+   "volumeInfo": {
+    "title": "Canadian History: Canada Since 1867 Essentials",
+    "authors": [
+     "Terence Allan Crowley",
+     "Rae Murphy"
+    ],
+    "publisher": "Research & Education Assn",
+    "publishedDate": "1993",
+    "description": "REA’s Essentials provide quick and easy access to critical information in a variety of different fields, ranging from the most basic to the most advanced.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0878919171"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780878919178"
+     }
+    ],
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d0pFYBSaxB_wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d0pFYBSaxB_wC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0pFYBSaxB_wC&printsec\u003dfrontcover&dq\u003dCanadian+History&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0pFYBSaxB_wC&dq\u003dCanadian+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FamJrJEvymIC",
+   "etag": "+EqrsAwXVek",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FamJrJEvymIC",
+   "volumeInfo": {
+    "title": "Canadian History: Beginnings to Confederation",
+    "authors": [
+     "Martin Brook Taylor",
+     "Doug Owram"
+    ],
+    "publisher": "Univ of Toronto Pr",
+    "publishedDate": "1994-05-17",
+    "description": "RALPH T. PASTORE Beginnings to 1600 The purpose of this chapter is to provide a \u003cbr\u003e\r\nbrief bibliographic guide to the Native peoples of \u003cb\u003eCanada\u003c/b\u003e on the brink of \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "080206826X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780802068262"
+     }
+    ],
+    "pageCount": 506,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dFamJrJEvymIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dFamJrJEvymIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFamJrJEvymIC&printsec\u003dfrontcover&dq\u003dCanadian+History&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFamJrJEvymIC&dq\u003dCanadian+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "o10SAAAAYAAJ",
+   "etag": "mtJsPfs+orQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o10SAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Canadian history",
+    "subtitle": "the siege and blockade of Quebec, by Generals Montgomery and Arnold, in 1775-6",
+    "authors": [
+     "William James Anderson (of Quebec.)"
+    ],
+    "publishedDate": "1812",
+    "description": "\u003cb\u003eCANADIAN HISTORY\u003c/b\u003e: THE jSlEGE AND j3LOCKADE OF ^UEBEC, BY GENERALS MONTGOMERY AND \u003cbr\u003e\r\nARNOLD. IX 17754 ^ |]&lt;&gt;|)rr fV,u* M011 &#39;&#39;1E ^rtntl! nn^ Jjistorinil . \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044015479850"
+     }
+    ],
+    "pageCount": 23,
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003do10SAAAAYAAJ&printsec\u003dfrontcover&dq\u003dCanadian+History&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003do10SAAAAYAAJ&dq\u003dCanadian+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Canadian_history.epub?id\u003do10SAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Canadian_history.pdf?id\u003do10SAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2gYJ-nhPAyyhtzzPPIAL5RycZ2PA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "j0Z_NAAACAAJ",
+   "etag": "1poO/6nhsBc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/j0Z_NAAACAAJ",
+   "volumeInfo": {
+    "title": "Canadian History",
+    "subtitle": "A Sense of Time",
+    "authors": [
+     "Garfield Gini-Newman",
+     "Laura Gini-Newman",
+     "Michael Bowman",
+     "Usha James",
+     "Mike Bowman",
+     "Connie Bray"
+    ],
+    "publishedDate": "2006-04-28",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0070976686"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780070976689"
+     }
+    ],
+    "pageCount": 408,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dj0Z_NAAACAAJ&dq\u003dCanadian+History&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dj0Z_NAAACAAJ&dq\u003dCanadian+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QkMVAAAAYAAJ",
+   "etag": "adA2BRg4F0s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QkMVAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Canadian history",
+    "subtitle": "a syllabus and guide to reading",
+    "authors": [
+     "Reginald George Trotter"
+    ],
+    "publishedDate": "1934",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X000535004"
+     }
+    ],
+    "pageCount": 193,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dQkMVAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dQkMVAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQkMVAAAAYAAJ&q\u003dCanadian+History&dq\u003dCanadian+History&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQkMVAAAAYAAJ&dq\u003dCanadian+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QlZ17vmuUc8C",
+   "etag": "kJ+qixuuB8A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QlZ17vmuUc8C",
+   "volumeInfo": {
+    "title": "Canadian History",
+    "subtitle": "The Siege and Blockade of Quebec, by Generals Montgomery and Arnold, In 1775-6",
+    "authors": [
+     "Anderson William J. (William James)"
+    ],
+    "publisher": "BiblioLife",
+    "publishedDate": "2009-08",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1113341246"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781113341242"
+     }
+    ],
+    "pageCount": 28,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dQlZ17vmuUc8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dQlZ17vmuUc8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQlZ17vmuUc8C&dq\u003dCanadian+History&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQlZ17vmuUc8C&dq\u003dCanadian+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MYeGSwAACAAJ",
+   "etag": "prIZe8YxoWE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MYeGSwAACAAJ",
+   "volumeInfo": {
+    "title": "Canadian History",
+    "subtitle": "The Siege and Blockade of Quebec (1872)",
+    "authors": [
+     "William James Anderson"
+    ],
+    "publishedDate": "2010-05-23",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1162064358"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781162064352"
+     }
+    ],
+    "pageCount": 26,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dMYeGSwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dMYeGSwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMYeGSwAACAAJ&dq\u003dCanadian+History&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMYeGSwAACAAJ&dq\u003dCanadian+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-HQeJz8NOaMC",
+   "etag": "33hEeUrA5lY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-HQeJz8NOaMC",
+   "volumeInfo": {
+    "title": "The essentials of Canadian history",
+    "subtitle": "pre-colonization to 1867--the beginning of a nation",
+    "authors": [
+     "Terence Allan Crowley",
+     "Terry A. Crowley",
+     "Rae Murphy"
+    ],
+    "publisher": "Research & Education Association",
+    "publishedDate": "1994-01",
+    "description": "REA’s Essentials provide quick and easy access to critical information in a variety of different fields, ranging from the most basic to the most advanced.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0878919163"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780878919161"
+     }
+    ],
+    "pageCount": 104,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d-HQeJz8NOaMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d-HQeJz8NOaMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-HQeJz8NOaMC&printsec\u003dfrontcover&dq\u003dCanadian+History&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-HQeJz8NOaMC&dq\u003dCanadian+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RGnUhCZAW9MC",
+   "etag": "3r6DD2fKB7w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RGnUhCZAW9MC",
+   "volumeInfo": {
+    "title": "Workers and Canadian history",
+    "authors": [
+     "Gregory S. Kealey"
+    ],
+    "publisher": "McGill Queens Univ Pr",
+    "publishedDate": "1995",
+    "description": "Available for the first time in a single volume, the essays provide an extensive study of various trends and themes in Canadian labour and working-class history ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0773513558"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780773513556"
+     }
+    ],
+    "pageCount": 458,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dRGnUhCZAW9MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dRGnUhCZAW9MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRGnUhCZAW9MC&printsec\u003dfrontcover&dq\u003dCanadian+History&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRGnUhCZAW9MC&dq\u003dCanadian+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Workers_and_Canadian_history-sample-pdf.acsm?id\u003dRGnUhCZAW9MC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tBwqn5E1ZsIC",
+   "etag": "J/zQrtVaNkA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tBwqn5E1ZsIC",
+   "volumeInfo": {
+    "title": "A summary of Canadian history",
+    "subtitle": "from the time of Cartier's discovery to the present day. With questions adapted to each paragraph",
+    "authors": [
+     "John Alexander Boyd"
+    ],
+    "publishedDate": "1869",
+    "description": "SUMMARY OF \u003cb\u003eCANADIAN\u003c/b\u003e HISTOET. • Part I.— \u003cb\u003eCANADA\u003c/b\u003e UNDER THE FRENCH. CHAPTER I. FBOM \u003cbr\u003e\r\nTHE DISCOVERT OF \u003cb\u003eCANADA\u003c/b\u003e TO THE FOUNDING OF QUEBEC— EARLY VOYAGES. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433067356257"
+     }
+    ],
+    "pageCount": 151,
+    "printType": "BOOK",
+    "categories": [
+     "Canada"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dtBwqn5E1ZsIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dtBwqn5E1ZsIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtBwqn5E1ZsIC&printsec\u003dfrontcover&dq\u003dCanadian+History&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtBwqn5E1ZsIC&dq\u003dCanadian+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/A_summary_of_Canadian_history.epub?id\u003dtBwqn5E1ZsIC&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/A_summary_of_Canadian_history.pdf?id\u003dtBwqn5E1ZsIC&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U19uG9jPxPgHlYF-BcT0nGBq9cG2A&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 575
+}

@@ -1,0 +1,593 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "bmSmcDo3kPoC",
+   "etag": "DNWUH4LxWrc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bmSmcDo3kPoC",
+   "volumeInfo": {
+    "title": "Wiki government",
+    "subtitle": "how technology can make government better, democracy stronger, and citizens more powerful",
+    "authors": [
+     "Beth Simone Noveck"
+    ],
+    "publisher": "Brookings Inst Pr",
+    "publishedDate": "2009",
+    "description": "&quot;In explaining how to enhance political institutions with the power of networks, examines the Peer-to-Patent project.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0815702752"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780815702757"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "1.0.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dbmSmcDo3kPoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dbmSmcDo3kPoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbmSmcDo3kPoC&printsec\u003dfrontcover&dq\u003dGovernment&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbmSmcDo3kPoC&dq\u003dGovernment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 28.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 15.63,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dbmSmcDo3kPoC&dq\u003dGovernment&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Wiki_government-sample-epub.acsm?id\u003dbmSmcDo3kPoC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Wiki_government-sample-pdf.acsm?id\u003dbmSmcDo3kPoC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pBliMUvp4YYC",
+   "etag": "qDbVUkRkUjU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pBliMUvp4YYC",
+   "volumeInfo": {
+    "title": "How the U.S. Government Works",
+    "authors": [
+     "Syl Sobel",
+     "Sly Sobel",
+     "Pam Tanzey"
+    ],
+    "publisher": "Barron's Educational Series",
+    "publishedDate": "1999-09-01",
+    "description": "Explains the three branches of the federal government--legislative, executive, and judicial--and how they work.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0764111116"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780764111112"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dpBliMUvp4YYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dpBliMUvp4YYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpBliMUvp4YYC&printsec\u003dfrontcover&dq\u003dGovernment&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpBliMUvp4YYC&dq\u003dGovernment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "N1j1QdPMockC",
+   "etag": "6RuVjavKnkA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/N1j1QdPMockC",
+   "volumeInfo": {
+    "title": "Death by government",
+    "authors": [
+     "R. Rummel"
+    ],
+    "publisher": "Transaction Pub",
+    "publishedDate": "1997-01-01",
+    "description": "This is R. J. Rummel&#39;s fourth book in a series devoted to genocide and government mass murder, or what he calls &quot;democide.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1560009276"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781560009276"
+     }
+    ],
+    "pageCount": 496,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 6,
+    "contentVersion": "1.0.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dN1j1QdPMockC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dN1j1QdPMockC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dN1j1QdPMockC&printsec\u003dfrontcover&dq\u003dGovernment&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dN1j1QdPMockC&dq\u003dGovernment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 23.96,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.38,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dN1j1QdPMockC&dq\u003dGovernment&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Death_by_government-sample-epub.acsm?id\u003dN1j1QdPMockC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Death_by_government-sample-pdf.acsm?id\u003dN1j1QdPMockC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6xqcrKBjELIC",
+   "etag": "UQPYBoOgJes",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6xqcrKBjELIC",
+   "volumeInfo": {
+    "title": "Government failure",
+    "subtitle": "a primer in public choice",
+    "authors": [
+     "Gordon Tullock",
+     "Arthur Seldon",
+     "Gordon L. Brady"
+    ],
+    "publisher": "Cato Inst",
+    "publishedDate": "2002",
+    "description": "This book provides a much-needed introduction to public choice thought and public policy by three acknowledged leaders in the field.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1930865201"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781930865204"
+     }
+    ],
+    "pageCount": 193,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "1.0.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d6xqcrKBjELIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d6xqcrKBjELIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6xqcrKBjELIC&printsec\u003dfrontcover&dq\u003dGovernment&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6xqcrKBjELIC&dq\u003dGovernment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.21,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 8.97,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d6xqcrKBjELIC&dq\u003dGovernment&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mvAEtOU9uAwC",
+   "etag": "7oTgwxTBEAE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mvAEtOU9uAwC",
+   "volumeInfo": {
+    "title": "Government",
+    "authors": [
+     "Garrett Baxter"
+    ],
+    "publishedDate": "1926",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015022408507"
+     }
+    ],
+    "pageCount": 104,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dmvAEtOU9uAwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dmvAEtOU9uAwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmvAEtOU9uAwC&q\u003dGovernment&dq\u003dGovernment&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmvAEtOU9uAwC&dq\u003dGovernment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gh9AAAAAYAAJ",
+   "etag": "M0+4SqNPF18",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gh9AAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Constitutional government in the United States",
+    "authors": [
+     "Woodrow Wilson"
+    ],
+    "publishedDate": "1908",
+    "description": "MY object in the following lectures is to examine the \u003cb\u003egovernment\u003c/b\u003e of the United \u003cbr\u003e\r\nStates as a constitutional system as simply and directly as possible, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PRNC:32101073360891"
+     }
+    ],
+    "pageCount": 236,
+    "printType": "BOOK",
+    "categories": [
+     "Constitutional history"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dgh9AAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dgh9AAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgh9AAAAAYAAJ&printsec\u003dfrontcover&dq\u003dGovernment&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgh9AAAAAYAAJ&dq\u003dGovernment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Constitutional_government_in_the_United.epub?id\u003dgh9AAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Constitutional_government_in_the_United.pdf?id\u003dgh9AAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3uBUDtOm-FLhyMlNWYM4KbPdsnfg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AIVw0KRN0WgC",
+   "etag": "wNmNeZJtWus",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AIVw0KRN0WgC",
+   "volumeInfo": {
+    "title": "The Case for Big Government",
+    "authors": [
+     "Jeff Madrick",
+     "Ruth O'Brien"
+    ],
+    "publisher": "Princeton Univ Pr",
+    "publishedDate": "2010-02-28",
+    "description": "Read this book and then go tell market fundamentalists why they&#39;re so fundamentally wrong.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0691146209"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780691146201"
+     }
+    ],
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dAIVw0KRN0WgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dAIVw0KRN0WgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAIVw0KRN0WgC&printsec\u003dfrontcover&dq\u003dGovernment&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAIVw0KRN0WgC&dq\u003dGovernment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dAIVw0KRN0WgC&dq\u003dGovernment&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Case_for_Big_Government-sample-epub.acsm?id\u003dAIVw0KRN0WgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Case_for_Big_Government-sample-pdf.acsm?id\u003dAIVw0KRN0WgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JQJ5LF3h4ikC",
+   "etag": "6FOOigSubdg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JQJ5LF3h4ikC",
+   "volumeInfo": {
+    "title": "Open government",
+    "authors": [
+     "Daniel Lathrop",
+     "Laurel Ruma"
+    ],
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2010-02-28",
+    "description": "Transparency and open government are two primary issues of this administration and we see technology playing an integral part in it, especially with the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0596804350"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596804350"
+     }
+    ],
+    "pageCount": 402,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dJQJ5LF3h4ikC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dJQJ5LF3h4ikC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJQJ5LF3h4ikC&printsec\u003dfrontcover&dq\u003dGovernment&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJQJ5LF3h4ikC&dq\u003dGovernment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 35.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 19.79,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dJQJ5LF3h4ikC&dq\u003dGovernment&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XkXftgAACAAJ",
+   "etag": "9elGk7ZMZYg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XkXftgAACAAJ",
+   "volumeInfo": {
+    "title": "Government",
+    "authors": [
+     "J. F. Rutherford"
+    ],
+    "publisher": "Kessinger Publishing",
+    "publishedDate": "2010-09",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "116307389X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781163073896"
+     }
+    ],
+    "pageCount": 366,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dXkXftgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dXkXftgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXkXftgAACAAJ&dq\u003dGovernment&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXkXftgAACAAJ&dq\u003dGovernment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "X7EDETlVj-sC",
+   "etag": "GfkeOHIUTG0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/X7EDETlVj-sC",
+   "volumeInfo": {
+    "title": "Making government work",
+    "authors": [
+     "Ernest F. Hollings",
+     "Kirk Victor"
+    ],
+    "publisher": "Univ of South Carolina Pr",
+    "publishedDate": "2008",
+    "description": "&quot; As remedy he pulls antidotes from anecdotes about his personal experiences in making government work in spite of itself for the past half century.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1570037604"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781570037603"
+     }
+    ],
+    "pageCount": 360,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dX7EDETlVj-sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dX7EDETlVj-sC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dX7EDETlVj-sC&printsec\u003dfrontcover&dq\u003dGovernment&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dX7EDETlVj-sC&dq\u003dGovernment&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 593
+}

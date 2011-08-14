@@ -1,0 +1,537 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "o4Y6AAAAMAAJ",
+   "etag": "DQGe7aIVBrk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o4Y6AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Poems",
+    "authors": [
+     "Emily Dickinson"
+    ],
+    "publishedDate": "1890",
+    "description": "\u003cb\u003ePOEMS\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015067091630"
+     }
+    ],
+    "pageCount": 152,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003do4Y6AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003do4Y6AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003do4Y6AAAAMAAJ&printsec\u003dfrontcover&dq\u003dPoems&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003do4Y6AAAAMAAJ&dq\u003dPoems&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Poems.epub?id\u003do4Y6AAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Poems.pdf?id\u003do4Y6AAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3zRnqdoYAeuEvAiC6-kwTTsr6Jqw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Hs0pAAAAYAAJ",
+   "etag": "PASckjZGQ6Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Hs0pAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Poems",
+    "authors": [
+     "Alan Seeger"
+    ],
+    "publishedDate": "1916",
+    "description": "INTRODUCTION THIS book contains the undesigned, but all the more spontaneous and \u003cbr\u003e\r\nauthentic, biography of a very rare spirit. It contains the record of a \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HNL345"
+     }
+    ],
+    "pageCount": 174,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dHs0pAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dHs0pAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHs0pAAAAYAAJ&printsec\u003dfrontcover&dq\u003dPoems&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHs0pAAAAYAAJ&dq\u003dPoems&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Poems.epub?id\u003dHs0pAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Poems.pdf?id\u003dHs0pAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3ZmVfq4oEXCyw7o4-mJMJRlod-Dw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HSBLAAAAMAAJ",
+   "etag": "9XHJCT8RBOA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HSBLAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Poems",
+    "authors": [
+     "Emily Dickinson"
+    ],
+    "publishedDate": "1891",
+    "description": "jy^K nosegays are for captives; Dim, long-expectant eyes, Fingers denied the \u003cbr\u003e\r\nplucking, Patient till paradise. To such, if they should whisper Of morning and \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015005015824"
+     }
+    ],
+    "pageCount": 230,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dHSBLAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dHSBLAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHSBLAAAAMAAJ&printsec\u003dfrontcover&dq\u003dPoems&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHSBLAAAAMAAJ&dq\u003dPoems&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Poems.epub?id\u003dHSBLAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Poems.pdf?id\u003dHSBLAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0AcANM782dpPAa69gCvqoK4d6xgA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4N8MAAAAYAAJ",
+   "etag": "gbEKHktvFls",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4N8MAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Poems",
+    "authors": [
+     "Will Foster"
+    ],
+    "publishedDate": "1903",
+    "description": "TO A CHILD. I know not, child, how far thou art, Nor where thy home is in the \u003cbr\u003e\r\nsky, Only I feel about my heart Thine arms continually. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HNP5RT"
+     }
+    ],
+    "pageCount": 83,
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d4N8MAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d4N8MAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4N8MAAAAYAAJ&printsec\u003dfrontcover&dq\u003dPoems&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4N8MAAAAYAAJ&dq\u003dPoems&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Poems.epub?id\u003d4N8MAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Poems.pdf?id\u003d4N8MAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U30J3ZzgRQFmfoxPTC8vxhzFxnjEA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "n72wAAAAIAAJ",
+   "etag": "dvQk2ub860w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/n72wAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Poems",
+    "authors": [
+     "Maya Angelou"
+    ],
+    "publisher": "Bantam Books",
+    "publishedDate": "1986",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0553255762"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780553255768"
+     }
+    ],
+    "pageCount": 209,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 37,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dn72wAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dn72wAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dn72wAAAAIAAJ&q\u003dPoems&dq\u003dPoems&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dn72wAAAAIAAJ&dq\u003dPoems&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nMlaAAAAMAAJ",
+   "etag": "cVwKkUJ1mYU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nMlaAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Poems",
+    "authors": [
+     "Langston Hughes",
+     "David Ernest Roessel"
+    ],
+    "publisher": "Everyman's Library",
+    "publishedDate": "1999",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0375405518"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780375405518"
+     }
+    ],
+    "pageCount": 252,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dnMlaAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dnMlaAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnMlaAAAAMAAJ&q\u003dPoems&dq\u003dPoems&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnMlaAAAAMAAJ&dq\u003dPoems&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kD2Ql_BV67QC",
+   "etag": "jK+EWBco8mQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kD2Ql_BV67QC",
+   "volumeInfo": {
+    "title": "The poems",
+    "authors": [
+     "William Butler Yeats"
+    ],
+    "publisher": "Scribner Book Company",
+    "publishedDate": "1997",
+    "description": "The standard edition of Yeats&#39; complete poems includes indexes by title and first line, as well as the author&#39;s notes on the poems",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0684839350"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780684839356"
+     }
+    ],
+    "pageCount": 752,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 9,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dkD2Ql_BV67QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dkD2Ql_BV67QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkD2Ql_BV67QC&printsec\u003dfrontcover&dq\u003dPoems&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkD2Ql_BV67QC&dq\u003dPoems&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "164TAAAAYAAJ",
+   "etag": "+Ji+2ewJFmE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/164TAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Poems",
+    "authors": [
+     "Ralph Waldo Emerson",
+     "Edward Waldo Emerson"
+    ],
+    "publishedDate": "1854",
+    "description": "\u003cb\u003ePOEMS\u003c/b\u003e GOOD-BYE GOOD-BYE, proud world ! I &#39;m going home : Thou art not my friend, \u003cbr\u003e\r\nand I &#39;m not thine. Long through thy weary crowds I roam ; A river-ark on \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044011039492"
+     }
+    ],
+    "pageCount": 531,
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d164TAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d164TAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d164TAAAAYAAJ&printsec\u003dfrontcover&dq\u003dPoems&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d164TAAAAYAAJ&dq\u003dPoems&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Poems.epub?id\u003d164TAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Poems.pdf?id\u003d164TAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1j9Y3AsXXP0edWwUuFGc0vi41i9Q&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "O5q8SIkbl04C",
+   "etag": "ibgTBoc8e94",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/O5q8SIkbl04C",
+   "volumeInfo": {
+    "title": "Poems",
+    "authors": [
+     "C. S. Lewis"
+    ],
+    "publisher": "Mariner Books",
+    "publishedDate": "2002-10-07",
+    "description": "A collection of Lewis’s shorter poetry on a wide range of subjects-God and the pagan deities, unicorns and spaceships, nature, love, age, and reason: “Idea ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0156027690"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780156027694"
+     }
+    ],
+    "pageCount": 168,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dO5q8SIkbl04C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dO5q8SIkbl04C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dO5q8SIkbl04C&printsec\u003dfrontcover&dq\u003dPoems&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dO5q8SIkbl04C&dq\u003dPoems&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dO5q8SIkbl04C&dq\u003dPoems&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Poems-sample-epub.acsm?id\u003dO5q8SIkbl04C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Poems-sample-pdf.acsm?id\u003dO5q8SIkbl04C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UHYVAAAAYAAJ",
+   "etag": "Mzzdzl7i7sA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UHYVAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Poems",
+    "authors": [
+     "George Crabbe"
+    ],
+    "publishedDate": "1905",
+    "description": "JUVENILIA. (1772 — 1780.) SOLITUDE. [September, 1772.] FREE from envy, strife \u003cbr\u003e\r\nand sorrow, Jealous doubts, and heart-felt fears ; Free from thoughts of what \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044090337155"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dUHYVAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dUHYVAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUHYVAAAAYAAJ&printsec\u003dfrontcover&dq\u003dPoems&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUHYVAAAAYAAJ&dq\u003dPoems&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Poems.epub?id\u003dUHYVAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Poems.pdf?id\u003dUHYVAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0XEoQZ0L9Ut2jiADOv3xevQRWrgg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 590
+}

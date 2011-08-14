@@ -1,0 +1,525 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "uuhGAAAAYAAJ",
+   "etag": "lk6FTVqL1AM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uuhGAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Plays",
+    "subtitle": "Fourth series: A bit o' love, The foundations, The skin game",
+    "authors": [
+     "Plays"
+    ],
+    "publishedDate": "1920",
+    "description": "ACT I It is Ascension Day in a village of the West. In the low panelled haU-\u003cbr\u003e\r\nsittingroom of the Burlacombes&#39; farmhouse on the village green, Michael Strang- \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X030581230"
+     }
+    ],
+    "pageCount": 115,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003duuhGAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003duuhGAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003duuhGAAAAYAAJ&printsec\u003dfrontcover&dq\u003dPlays&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003duuhGAAAAYAAJ&dq\u003dPlays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Plays.pdf?id\u003duuhGAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0zVAp3RvlNkyvQKzGh_V8mFGkSDg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ThdaAAAAMAAJ",
+   "etag": "Gg9WsQpO+34",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ThdaAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Plays",
+    "authors": [
+     "Clyde Fitch"
+    ],
+    "publishedDate": "1915",
+    "description": "\u003cb\u003e...\u003c/b\u003e that we are attempting, in this foreword to a Memorial Edition of some of \u003cbr\u003e\r\nhis \u003cb\u003eplays\u003c/b\u003e, to re-create the flavor of his personality which was dear to us. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015029480640"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dThdaAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dThdaAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dThdaAAAAMAAJ&printsec\u003dfrontcover&dq\u003dPlays&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dThdaAAAAMAAJ&dq\u003dPlays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Plays.epub?id\u003dThdaAAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Plays.pdf?id\u003dThdaAAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2MseSETWKMH19eEZ84XskFOpVhbw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B9WCCuqZ5dMC",
+   "etag": "8o94hy/DY84",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B9WCCuqZ5dMC",
+   "volumeInfo": {
+    "title": "Plays",
+    "authors": [
+     "Henry Arthur Jones",
+     "Russell Jackson"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "1982",
+    "description": "Illustrated by contemporary production prints, a volume of three plays by the late-Victorian playwright includes an introduction, biographical table and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521299365"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521299367"
+     }
+    ],
+    "pageCount": 228,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dB9WCCuqZ5dMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dB9WCCuqZ5dMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dB9WCCuqZ5dMC&printsec\u003dfrontcover&dq\u003dPlays&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dB9WCCuqZ5dMC&dq\u003dPlays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "r64MAAAAYAAJ",
+   "etag": "c0I5b/NG9r4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/r64MAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Plays",
+    "authors": [
+     "Susan Glaspell",
+     "George Cram Cook"
+    ],
+    "publishedDate": "1920",
+    "description": "First Performed by the Provincetown Players at the Wharf Theatre, Provincetown, \u003cbr\u003e\r\nMass., August 8, i9i6 i ORIGINAL CAST George Henderson, County Attorney \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:RSLTX4"
+     }
+    ],
+    "pageCount": 313,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dr64MAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dr64MAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dr64MAAAAYAAJ&printsec\u003dfrontcover&dq\u003dPlays&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dr64MAAAAYAAJ&dq\u003dPlays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Plays.epub?id\u003dr64MAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Plays.pdf?id\u003dr64MAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2XMarjo8mJKEXvYlBrSvfM_LNwFw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3sI3AAAAYAAJ",
+   "etag": "O0hu8idJ0GE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3sI3AAAAYAAJ",
+   "volumeInfo": {
+    "title": "Plays",
+    "subtitle": "Third series: The fugitive, The pigeon, The mob",
+    "authors": [
+     "John Galsworthy"
+    ],
+    "publishedDate": "1915",
+    "description": "ACT I The Scene is the pretty drawing-room of a flat. There are two doors, one \u003cbr\u003e\r\nopen into the hall, the other shut and curtained. Through a large bay window, \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PRNC:32101068598406"
+     }
+    ],
+    "pageCount": 93,
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d3sI3AAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d3sI3AAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3sI3AAAAYAAJ&printsec\u003dfrontcover&dq\u003dPlays&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3sI3AAAAYAAJ&dq\u003dPlays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Plays.epub?id\u003d3sI3AAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Plays.pdf?id\u003d3sI3AAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3sB0ddmhSXmC4UpJkcqZkCUDgFWg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EpGTpkq7D6kC",
+   "etag": "fvfAGWwopag",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EpGTpkq7D6kC",
+   "volumeInfo": {
+    "title": "Plays",
+    "authors": [
+     "Gerhart Hauptmann",
+     "Reinhold Grimm",
+     "Caroline Molina y Vedia"
+    ],
+    "publisher": "Continuum Intl Pub Group",
+    "publishedDate": "1994",
+    "description": "This Nobel Prize-winning author is here represented by three of his best-loved plays.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0826407269"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780826407269"
+     }
+    ],
+    "pageCount": 227,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dEpGTpkq7D6kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dEpGTpkq7D6kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEpGTpkq7D6kC&printsec\u003dfrontcover&dq\u003dPlays&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEpGTpkq7D6kC&dq\u003dPlays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uaHGNeyeTwQC",
+   "etag": "6/PX79egj04",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uaHGNeyeTwQC",
+   "volumeInfo": {
+    "title": "Plays",
+    "subtitle": "one",
+    "authors": [
+     "Caryl Churchill"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1985-05-29",
+    "description": "The plays in this volume represent the best of Churchill&#39;s writing up to and including her emergence onto the international theatre scene withCloud Nine.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415901960"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415901963"
+     }
+    ],
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003duaHGNeyeTwQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003duaHGNeyeTwQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003duaHGNeyeTwQC&printsec\u003dfrontcover&dq\u003dPlays&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003duaHGNeyeTwQC&dq\u003dPlays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5uZGAAAAYAAJ",
+   "etag": "4KHZ2SD+hys",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5uZGAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Plays",
+    "subtitle": "The silver box; Joy; Strife",
+    "authors": [
+     "John Galsworthy"
+    ],
+    "publishedDate": "1909",
+    "description": "PERSONS OF THE \u003cb\u003ePLAY\u003c/b\u003e John Barthwick, MP, a wealthy Liberal Mrs. Barthwick, his \u003cbr\u003e\r\nwife Jack Barthwick, their son Roper, their solicitor Mrs. Jones, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X004914989"
+     }
+    ],
+    "pageCount": 263,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d5uZGAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d5uZGAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5uZGAAAAYAAJ&printsec\u003dfrontcover&dq\u003dPlays&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5uZGAAAAYAAJ&dq\u003dPlays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Plays.pdf?id\u003d5uZGAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U24FwfcE7wlMKcZlANSV7QX9o3fZg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "L4HZDQE580UC",
+   "etag": "hIMJoIsV7Lk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/L4HZDQE580UC",
+   "volumeInfo": {
+    "title": "Plays",
+    "authors": [
+     "Anton Pavlovich Chekhov",
+     "Peter Carson"
+    ],
+    "publisher": "Penguin Classics",
+    "publishedDate": "2002-09-03",
+    "description": "This volume includes new translations, full explanatory notes, a chronology, suggestions for further reading, and a glossary, as well as an introduction by ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0140447334"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780140447330"
+     }
+    ],
+    "pageCount": 358,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 5,
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dL4HZDQE580UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dL4HZDQE580UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dL4HZDQE580UC&printsec\u003dfrontcover&dq\u003dPlays&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dL4HZDQE580UC&dq\u003dPlays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "o7g8AAAAIAAJ",
+   "etag": "zsOH557dhwI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o7g8AAAAIAAJ",
+   "volumeInfo": {
+    "title": "Plays",
+    "authors": [
+     "Henry James Byron",
+     "Jim Davis"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "1984",
+    "description": "This volume introduces the works of an important but neglected dramatist, one of the most prolific and popular of the mid-Victorian period.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521284953"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521284950"
+     }
+    ],
+    "pageCount": 222,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003do7g8AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003do7g8AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003do7g8AAAAIAAJ&printsec\u003dfrontcover&dq\u003dPlays&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003do7g8AAAAIAAJ&dq\u003dPlays&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 555
+}

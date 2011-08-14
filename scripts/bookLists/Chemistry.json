@@ -1,0 +1,536 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "LLWkH82PNbYC",
+   "etag": "HTLd4G7ZAy4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LLWkH82PNbYC",
+   "volumeInfo": {
+    "title": "Chemistry",
+    "authors": [
+     "Steven S. Zumdahl",
+     "Susan A. Zumdahl"
+    ],
+    "publisher": "Brooks/Cole Pub Co",
+    "publishedDate": "2008-12-03",
+    "description": "For the Eighth Edition, authors Steven and Susan Zumdahl have extended this approach by emphasizing problem-solving strategies within the Examples and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0547125321"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780547125329"
+     }
+    ],
+    "pageCount": 1064,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dLLWkH82PNbYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dLLWkH82PNbYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLLWkH82PNbYC&printsec\u003dfrontcover&dq\u003dChemistry&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLLWkH82PNbYC&dq\u003dChemistry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "54_SQzI7ooEC",
+   "etag": "vPqkH27Lndg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/54_SQzI7ooEC",
+   "volumeInfo": {
+    "title": "Chemistry",
+    "authors": [
+     "Dr. Chan"
+    ],
+    "description": "Which of the following is the origin of the word &#39;\u003cb\u003echemistry\u003c/b\u003e&#39;? AA word from the \u003cbr\u003e\r\nMiddle East &#39;khemeia&#39; BA Malay word &#39;kimia&#39; CA word that means gold DA word \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9830024431"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789830024431"
+     }
+    ],
+    "printType": "BOOK",
+    "averageRating": 4.5,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d54_SQzI7ooEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d54_SQzI7ooEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d54_SQzI7ooEC&printsec\u003dfrontcover&dq\u003dChemistry&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d54_SQzI7ooEC&dq\u003dChemistry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "teubNK-b2bsC",
+   "etag": "gxaoy5EV+I4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/teubNK-b2bsC",
+   "volumeInfo": {
+    "title": "Chemistry",
+    "subtitle": "Principles and Reactions",
+    "authors": [
+     "William L. Masterton",
+     "Cecile N. Hurley"
+    ],
+    "publisher": "Brooks/Cole Pub Co",
+    "publishedDate": "2008-01-24",
+    "description": "This edition takes you directly to the crux of concepts with simplicity and allows you to efficiently cover all topics found in the typical general chemistry ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0495126713"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780495126713"
+     }
+    ],
+    "pageCount": 699,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dteubNK-b2bsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dteubNK-b2bsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dteubNK-b2bsC&printsec\u003dfrontcover&dq\u003dChemistry&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dteubNK-b2bsC&dq\u003dChemistry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wRje7d1ImlEC",
+   "etag": "vkD/GKSuAdU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wRje7d1ImlEC",
+   "volumeInfo": {
+    "title": "Chemistry",
+    "description": "SCIENCE PRIMERS. CHEMISTJZY. FIRE— AIR— WATER— EARTH. 1. Her© are four things \u003cbr\u003e\r\nwhich we aU know well ; let us try to learn what Science teaches us about them \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1440083606"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781440083600"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dwRje7d1ImlEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dwRje7d1ImlEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dwRje7d1ImlEC&printsec\u003dfrontcover&dq\u003dChemistry&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dwRje7d1ImlEC&dq\u003dChemistry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OD8vAQAAIAAJ",
+   "etag": "H11OErzn/uc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OD8vAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Chemistry",
+    "subtitle": "the central science",
+    "authors": [
+     "Theodore L. Brown",
+     "Harold Eugene LeMay",
+     "Bruce Edward Bursten",
+     "Linda Sue Brunauer"
+    ],
+    "publishedDate": "2000",
+    "description": "Introduction: Matter and Measurement 1.1 The Study of \u003cb\u003eChemistry\u003c/b\u003e 1.2 \u003cbr\u003e\r\nClassification of Matter 1.3 Properties of Matter 1.4 Units of \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105025777066"
+     }
+    ],
+    "pageCount": 1023,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dOD8vAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dOD8vAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOD8vAQAAIAAJ&q\u003dChemistry&dq\u003dChemistry&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOD8vAQAAIAAJ&dq\u003dChemistry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OUIaM1V3ThsC",
+   "etag": "lgnY9dwFxRo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OUIaM1V3ThsC",
+   "volumeInfo": {
+    "title": "Chemistry",
+    "subtitle": "Principles and Practice",
+    "authors": [
+     "Daniel L. Reger",
+     "Scott R. Goode",
+     "David W. Ball"
+    ],
+    "publisher": "Brooks/Cole Pub Co",
+    "publishedDate": "2009-01-02",
+    "description": "A book that truly embodies its name, CHEMISTRY: PRINCIPLES AND PRACTICE connects the chemistry users learn in the classroom (principles) with real-world uses of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0534420125"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780534420123"
+     }
+    ],
+    "pageCount": 1120,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dOUIaM1V3ThsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dOUIaM1V3ThsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOUIaM1V3ThsC&printsec\u003dfrontcover&dq\u003dChemistry&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOUIaM1V3ThsC&dq\u003dChemistry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IdhYqXy37KIC",
+   "etag": "pEZOlfHTzBE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IdhYqXy37KIC",
+   "volumeInfo": {
+    "title": "Chemistry",
+    "subtitle": "Media Enhanced Edition",
+    "authors": [
+     "Steven S. Zumdahl",
+     "Susan A. Zumdahl"
+    ],
+    "publisher": "Houghton Mifflin College Div",
+    "publishedDate": "2007-12",
+    "description": "The Zumdahls&#39; hallmark problem-solving approach and focus on conceptual development come to life in this new edition with interactive problems that promote ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "054705405X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780547054056"
+     }
+    ],
+    "pageCount": 1056,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dIdhYqXy37KIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dIdhYqXy37KIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIdhYqXy37KIC&printsec\u003dfrontcover&dq\u003dChemistry&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIdhYqXy37KIC&dq\u003dChemistry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qxlLAAAAYAAJ",
+   "etag": "MyXm0Mqz7ro",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qxlLAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Chemistry",
+    "subtitle": "the science of matter and its changes",
+    "authors": [
+     "Hippolyte Washington Gruener"
+    ],
+    "publishedDate": "1922",
+    "description": "LIST OF ILLUSTRATIONS Antoine Lavoisier Frontispiece FACING PAGE Joseph \u003cbr\u003e\r\nPriestley 32 Madame Curie Lecturing to European Scientists 33 Mine Rescue Crew \u003cbr\u003e\r\nwith \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PRNC:32101043119815"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dqxlLAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dqxlLAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dqxlLAAAAYAAJ&printsec\u003dfrontcover&dq\u003dChemistry&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dqxlLAAAAYAAJ&dq\u003dChemistry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Chemistry.epub?id\u003dqxlLAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Chemistry.pdf?id\u003dqxlLAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0C-LEEt-XmmnapmZKTNvcRMsv6jQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "g5dYyJMBhCoC",
+   "etag": "G+/vRhYdVtk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/g5dYyJMBhCoC",
+   "volumeInfo": {
+    "title": "Advanced Organic Chemistry: Structure and mechanisms",
+    "authors": [
+     "Francis A. Carey",
+     "Richard J. Sundberg"
+    ],
+    "publisher": "Springer Verlag",
+    "publishedDate": "2007",
+    "description": "While the text assumes completion of an introductory course in organic chemistry, it reviews the fundamental concepts for each topic that is discussed.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0387683461"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780387683461"
+     }
+    ],
+    "pageCount": 1199,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dg5dYyJMBhCoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dg5dYyJMBhCoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dg5dYyJMBhCoC&printsec\u003dfrontcover&dq\u003dChemistry&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dg5dYyJMBhCoC&dq\u003dChemistry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 59.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 47.36,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dg5dYyJMBhCoC&dq\u003dChemistry&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Advanced_Organic_Chemistry_Structure_and-sample-pdf.acsm?id\u003dg5dYyJMBhCoC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s4NPzJ3H90IC",
+   "etag": "KmeSyRiSjOg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s4NPzJ3H90IC",
+   "volumeInfo": {
+    "title": "Chemistry and chemical reactivity",
+    "authors": [
+     "John C. Kotz",
+     "Paul Treichel",
+     "John Raymond Townsend"
+    ],
+    "publisher": "Brooks/Cole Pub Co",
+    "publishedDate": "2009",
+    "description": "The book has a long-standing reputation for logical organization; macro to micro orientation; a superior art program; and state-of-the art media, which is ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0495387037"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780495387039"
+     }
+    ],
+    "pageCount": 1263,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003ds4NPzJ3H90IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003ds4NPzJ3H90IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ds4NPzJ3H90IC&printsec\u003dfrontcover&dq\u003dChemistry&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ds4NPzJ3H90IC&dq\u003dChemistry&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 590
+}

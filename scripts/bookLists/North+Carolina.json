@@ -1,0 +1,563 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "eTUOUJeoGD8C",
+   "etag": "sjHtJRQ9S34",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eTUOUJeoGD8C",
+   "volumeInfo": {
+    "title": "North Carolina",
+    "authors": [
+     "Ann Heinrichs"
+    ],
+    "publishedDate": "2003-01",
+    "description": "Describes the history, geography, government, economics, and people of North Carolina.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0756503248"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780756503246"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003deTUOUJeoGD8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003deTUOUJeoGD8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003deTUOUJeoGD8C&printsec\u003dfrontcover&dq\u003dNorth+Carolina&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003deTUOUJeoGD8C&dq\u003dNorth+Carolina&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ISVGsLMY3T8C",
+   "etag": "H9BWS+F2zGI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ISVGsLMY3T8C",
+   "volumeInfo": {
+    "title": "North Carolina",
+    "authors": [
+     "Andrea Schulz"
+    ],
+    "publisher": "Lerner Pub Group",
+    "publishedDate": "2001-07",
+    "description": "Introduces the state&#39;s geography, history, environmental issues, interesting sights, and how the people work and live.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "082254072X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780822540724"
+     }
+    ],
+    "pageCount": 84,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dISVGsLMY3T8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dISVGsLMY3T8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dISVGsLMY3T8C&pg\u003dPP1&dq\u003dNorth+Carolina&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dISVGsLMY3T8C&dq\u003dNorth+Carolina&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZdWIkWd2eXUC",
+   "etag": "zOCR8zXwV1k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZdWIkWd2eXUC",
+   "volumeInfo": {
+    "title": "North Carolina",
+    "authors": [
+     "George Humphries",
+     "Clyde Edgerton"
+    ],
+    "publisher": "Graphic Arts Center Publishing Company",
+    "publishedDate": "2003-10-01",
+    "description": "From the magnificent and enigmatic Great Smoky Mountains to the green, rolling hills of Piedmont, to the stately pine-covered dunes and fragile islands of the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1558687440"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781558687448"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dZdWIkWd2eXUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dZdWIkWd2eXUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZdWIkWd2eXUC&printsec\u003dfrontcover&dq\u003dNorth+Carolina&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZdWIkWd2eXUC&dq\u003dNorth+Carolina&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7DoTAAAAYAAJ",
+   "etag": "vtPRVVKZY64",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7DoTAAAAYAAJ",
+   "volumeInfo": {
+    "title": "North Carolina",
+    "subtitle": "the history of a Southern State",
+    "authors": [
+     "Hugh Talmage Lefler",
+     "Albert Ray Newsome"
+    ],
+    "publishedDate": "1973-12",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X000305705"
+     }
+    ],
+    "pageCount": 807,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d7DoTAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d7DoTAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7DoTAAAAYAAJ&q\u003dNorth+Carolina&dq\u003dNorth+Carolina&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7DoTAAAAYAAJ&dq\u003dNorth+Carolina&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RjQaje6tulkC",
+   "etag": "CusBN9uPYWQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RjQaje6tulkC",
+   "volumeInfo": {
+    "title": "North Carolina",
+    "subtitle": "The History of North Carolina Colony, 1655-1776",
+    "authors": [
+     "Roberta Wiener",
+     "James R. Arnold"
+    ],
+    "publisher": "Heinemann/Raintree",
+    "publishedDate": "2004-01-01",
+    "description": "Examines the early colonization of North Carolina, discussing the struggles the colonists went through, their government, and daily lives.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1410903095"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781410903099"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dRjQaje6tulkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dRjQaje6tulkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRjQaje6tulkC&printsec\u003dfrontcover&dq\u003dNorth+Carolina&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRjQaje6tulkC&dq\u003dNorth+Carolina&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "F6lKYZRrAc0C",
+   "etag": "GrhLoOmwNZ0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/F6lKYZRrAc0C",
+   "volumeInfo": {
+    "title": "North Carolina",
+    "subtitle": "2005 NCAA Men's Basketball Champions",
+    "authors": [
+     "Sports Publishing"
+    ],
+    "publisher": "Sports Pub",
+    "publishedDate": "2005-04-05",
+    "description": "This new book from The News &amp; Observer takes you game by game through the Tar Heels&#39; incredible season and Coach Roy Williams&#39; first NCAA Championship.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1596700572"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781596700574"
+     }
+    ],
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dF6lKYZRrAc0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dF6lKYZRrAc0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dF6lKYZRrAc0C&printsec\u003dfrontcover&dq\u003dNorth+Carolina&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dF6lKYZRrAc0C&dq\u003dNorth+Carolina&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dQDwh9Ep6jAC",
+   "etag": "Hu0ugGXw7Ys",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dQDwh9Ep6jAC",
+   "volumeInfo": {
+    "title": "North Carolina",
+    "subtitle": "a guide to the old north State",
+    "authors": [
+     "Federal Writers' Project (N.C.)"
+    ],
+    "publisher": "US History Publishers",
+    "publishedDate": "1939",
+    "description": "His report is important as reflecting, in a \u003cb\u003eNorth Carolina\u003c/b\u003e recendy more proud \u003cbr\u003e\r\nthan humble, a continuing conviction that one man is as good as another and \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1603540326"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781603540322"
+     }
+    ],
+    "pageCount": 601,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003ddQDwh9Ep6jAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003ddQDwh9Ep6jAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddQDwh9Ep6jAC&pg\u003dPP1&dq\u003dNorth+Carolina&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddQDwh9Ep6jAC&dq\u003dNorth+Carolina&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.16,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003ddQDwh9Ep6jAC&dq\u003dNorth+Carolina&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/North_Carolina-sample-epub.acsm?id\u003ddQDwh9Ep6jAC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/North_Carolina-sample-pdf.acsm?id\u003ddQDwh9Ep6jAC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QF2yXcndUm0C",
+   "etag": "lxdofbV+Et8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QF2yXcndUm0C",
+   "volumeInfo": {
+    "title": "North Carolina",
+    "subtitle": "The Tar Heel State",
+    "authors": [
+     "Jason Glaser"
+    ],
+    "publisher": "PowerKids Press",
+    "publishedDate": "2010-01-15",
+    "description": "Describes the history, ecology, geography, economy, and sights of the Tar Heel State, North Carolina.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1435893948"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781435893948"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dQF2yXcndUm0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dQF2yXcndUm0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQF2yXcndUm0C&printsec\u003dfrontcover&dq\u003dNorth+Carolina&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQF2yXcndUm0C&dq\u003dNorth+Carolina&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dQF2yXcndUm0C&dq\u003dNorth+Carolina&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/North_Carolina-sample-epub.acsm?id\u003dQF2yXcndUm0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/North_Carolina-sample-pdf.acsm?id\u003dQF2yXcndUm0C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CBA4awVdKfkC",
+   "etag": "o3glLowJb6A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CBA4awVdKfkC",
+   "volumeInfo": {
+    "title": "North Carolina",
+    "subtitle": "Past and Present",
+    "authors": [
+     "Kristi Lew"
+    ],
+    "publisher": "Rosen Central",
+    "publishedDate": "2010-08-15",
+    "description": "Presents the history, geography, government, economy, and people of North Carolina, as well as general facts about the state.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "143589491X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781435894914"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dCBA4awVdKfkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dCBA4awVdKfkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCBA4awVdKfkC&printsec\u003dfrontcover&dq\u003dNorth+Carolina&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCBA4awVdKfkC&dq\u003dNorth+Carolina&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dCBA4awVdKfkC&dq\u003dNorth+Carolina&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/North_Carolina-sample-epub.acsm?id\u003dCBA4awVdKfkC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/North_Carolina-sample-pdf.acsm?id\u003dCBA4awVdKfkC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BBuwkaaYMWQC",
+   "etag": "owhNq+R+9LE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BBuwkaaYMWQC",
+   "volumeInfo": {
+    "title": "North Carolina",
+    "authors": [
+     "Diane Mayr"
+    ],
+    "publisher": "Gareth Stevens Pub Learning library",
+    "publishedDate": "2005-07",
+    "description": "Provides young readers with an in-depth and comprehensive portrait of the state of North Carolina, including its history, people, land, economy, and government.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0836846311"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780836846317"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dBBuwkaaYMWQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dBBuwkaaYMWQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBBuwkaaYMWQC&printsec\u003dfrontcover&dq\u003dNorth+Carolina&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBBuwkaaYMWQC&dq\u003dNorth+Carolina&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 529
+}

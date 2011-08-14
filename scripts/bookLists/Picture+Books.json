@@ -1,0 +1,549 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Txem9T3vR1EC",
+   "etag": "GN7MaQji7hw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Txem9T3vR1EC",
+   "volumeInfo": {
+    "title": "Teaching Math With Favorite Picture Books",
+    "subtitle": "Hands-On Activities and Reproducibles to Teach Math Using More Than 25 Picture Books",
+    "authors": [
+     "Judy Hechtman",
+     "Deborah Ellermeyer",
+     "Sandra Ford Grove",
+     "Sandy Ford Grove"
+    ],
+    "publisher": "Scholastic Teaching Resources",
+    "publishedDate": "1999-01-01",
+    "description": "Draw Me a Star BY ERIC CARLE Philomel, 1992 C c INTRODUCING THE \u003cb\u003eBOOK\u003c/b\u003e Erie \u003cbr\u003e\r\nCarle&#39;s \u003cb\u003ebook\u003c/b\u003e begins as an artist draws a star, which inspires the creation of an \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0590762508"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780590762502"
+     }
+    ],
+    "pageCount": 80,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dTxem9T3vR1EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dTxem9T3vR1EC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTxem9T3vR1EC&printsec\u003dfrontcover&dq\u003dPicture+Books&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTxem9T3vR1EC&dq\u003dPicture+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vI4NebWOu7YC",
+   "etag": "dt9PQxCGMok",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vI4NebWOu7YC",
+   "volumeInfo": {
+    "title": "Picture books plus",
+    "subtitle": "100 extension activities in art, drama, music, math, and science",
+    "authors": [
+     "Sue McCleaf Nespeca",
+     "Joan B. Reeve"
+    ],
+    "publisher": "ALA Editions",
+    "publishedDate": "2003",
+    "description": "In this comprehensive guide, a children&#39;s librarian and a teacher, with more than 50 years of combined experience, team up to identify the best picture books ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0838908403"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780838908402"
+     }
+    ],
+    "pageCount": 133,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dvI4NebWOu7YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dvI4NebWOu7YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvI4NebWOu7YC&printsec\u003dfrontcover&dq\u003dPicture+Books&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvI4NebWOu7YC&dq\u003dPicture+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 40.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.2,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dvI4NebWOu7YC&dq\u003dPicture+Books&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EwWb829rP0IC",
+   "etag": "IwHYEist+1A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EwWb829rP0IC",
+   "volumeInfo": {
+    "title": "Inside Picture Books",
+    "authors": [
+     "Ellen Handler Spitz"
+    ],
+    "publisher": "Yale Univ Pr",
+    "publishedDate": "2000",
+    "description": "Exploring the profound impact of the experience of reading to children, Spitz discusses well-known children&#39;s books and reveals how they transmit psychological ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0300084765"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780300084764"
+     }
+    ],
+    "pageCount": 230,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dEwWb829rP0IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dEwWb829rP0IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEwWb829rP0IC&printsec\u003dfrontcover&dq\u003dPicture+Books&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEwWb829rP0IC&dq\u003dPicture+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Inside_Picture_Books-sample-epub.acsm?id\u003dEwWb829rP0IC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ibOcAAAAMAAJ",
+   "etag": "yg0SU/ELkjo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ibOcAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Picture books",
+    "subtitle": "integrated teaching of reading, writing, listening, speaking, viewing, and thinking",
+    "authors": [
+     "Joyce Armstrong Carroll"
+    ],
+    "publisher": "Teacher Ideas Pr",
+    "publishedDate": "1991-05",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0872879658"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780872879652"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dibOcAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dibOcAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dibOcAAAAMAAJ&q\u003dPicture+Books&dq\u003dPicture+Books&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dibOcAAAAMAAJ&dq\u003dPicture+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HAyxfSlgkTQC",
+   "etag": "wM3iB90nlQc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HAyxfSlgkTQC",
+   "volumeInfo": {
+    "title": "Picture books for children",
+    "authors": [
+     "Patricia J. Cianciolo"
+    ],
+    "publisher": "Amer Library Assn",
+    "publishedDate": "1997-04",
+    "description": "Provides an introduction to picture books and the criteria for their evaluation, grouped by such themes as family, the world, and imagination",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0838907016"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780838907016"
+     }
+    ],
+    "pageCount": 213,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dHAyxfSlgkTQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dHAyxfSlgkTQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHAyxfSlgkTQC&printsec\u003dfrontcover&dq\u003dPicture+Books&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHAyxfSlgkTQC&dq\u003dPicture+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 32.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 17.6,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dHAyxfSlgkTQC&dq\u003dPicture+Books&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "q-G3wZKL7sAC",
+   "etag": "JdF5dQJnvUI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/q-G3wZKL7sAC",
+   "volumeInfo": {
+    "title": "Teaching Writing With Picture Books as Models",
+    "subtitle": "Lessons and Strategies For Using the Power of Picture Books to Teach the Elements Of Great Writing in The Upper Grades",
+    "authors": [
+     "Rosanne Kurstedt",
+     "Maria Koutras"
+    ],
+    "publisher": "Teaching Strategies",
+    "publishedDate": "2000-08-01",
+    "description": "Picture books are perfect, mini-models of effective writing!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0439135168"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780439135160"
+     }
+    ],
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dq-G3wZKL7sAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dq-G3wZKL7sAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dq-G3wZKL7sAC&printsec\u003dfrontcover&dq\u003dPicture+Books&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dq-G3wZKL7sAC&dq\u003dPicture+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EbCfCLUOZD0C",
+   "etag": "hsNap72MDFM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EbCfCLUOZD0C",
+   "volumeInfo": {
+    "title": "How picturebooks work",
+    "authors": [
+     "Maria Nikolajeva",
+     "Carole Scott"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2001",
+    "description": "&quot;How Picturebooks Work&quot; is an innovative and engaging look at the interplay between text and image in picturebooks.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0815334869"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780815334866"
+     }
+    ],
+    "pageCount": 293,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dEbCfCLUOZD0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dEbCfCLUOZD0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEbCfCLUOZD0C&printsec\u003dfrontcover&dq\u003dPicture+Books&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEbCfCLUOZD0C&dq\u003dPicture+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HN_06dueY3gC",
+   "etag": "bkiStwrTyr8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HN_06dueY3gC",
+   "volumeInfo": {
+    "title": "Picture books",
+    "authors": [
+     "Victoria and Albert Museum"
+    ],
+    "publishedDate": "1931",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015062911303"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dHN_06dueY3gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dHN_06dueY3gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHN_06dueY3gC&q\u003dPicture+Books&dq\u003dPicture+Books&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHN_06dueY3gC&dq\u003dPicture+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2uikXyscpzQC",
+   "etag": "3W36/5KhM2g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2uikXyscpzQC",
+   "volumeInfo": {
+    "title": "Picture books sans frontières",
+    "authors": [
+     "Penni Cotton"
+    ],
+    "publisher": "Trentham Books",
+    "publishedDate": "2000-10",
+    "description": "This is the first book to help teachers to widen children&#39;s horizons by bringing picture books from the European member states to British pupils - and to all ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1858561833"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781858561837"
+     }
+    ],
+    "pageCount": 145,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d2uikXyscpzQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d2uikXyscpzQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2uikXyscpzQC&printsec\u003dfrontcover&dq\u003dPicture+Books&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2uikXyscpzQC&dq\u003dPicture+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MChKGB6wtWcC",
+   "etag": "i3xaoohYe84",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MChKGB6wtWcC",
+   "volumeInfo": {
+    "title": "Reading contemporary picturebooks",
+    "subtitle": "picturing text",
+    "authors": [
+     "David Lewis"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2001",
+    "description": "This exciting new book takes a sample of contemporary picturebooks and closely examines the features that make them distinctive and then suggests a way of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415208866"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415208864"
+     }
+    ],
+    "pageCount": 184,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dMChKGB6wtWcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dMChKGB6wtWcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMChKGB6wtWcC&printsec\u003dfrontcover&dq\u003dPicture+Books&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMChKGB6wtWcC&dq\u003dPicture+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Reading_contemporary_picturebooks-sample-epub.acsm?id\u003dMChKGB6wtWcC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 591
+}

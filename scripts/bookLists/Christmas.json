@@ -1,0 +1,557 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "dDUCAAAAQAAJ",
+   "etag": "fpkjg25hTJI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dDUCAAAAQAAJ",
+   "volumeInfo": {
+    "title": "Old Christmas",
+    "subtitle": "from the sketch book of Washington Irving",
+    "authors": [
+     "Washington Irving"
+    ],
+    "publishedDate": "1876",
+    "description": "HERE is nothing in England that exercises a more delightful spell over my \u003cbr\u003e\r\nimagination than the lingerings of the holiday customs and rural games of former \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:600076255"
+     }
+    ],
+    "pageCount": 165,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 6,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003ddDUCAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003ddDUCAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddDUCAAAAQAAJ&printsec\u003dfrontcover&dq\u003dChristmas&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddDUCAAAAQAAJ&dq\u003dChristmas&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Old_Christmas.pdf?id\u003ddDUCAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U13ylz3imkX4KaIK-pgmBfXcibk8Q&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "l4aNflr03_IC",
+   "etag": "RFPZv2XANIU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/l4aNflr03_IC",
+   "volumeInfo": {
+    "title": "This Christmas",
+    "authors": [
+     "Jane Green",
+     "Jennifer Coburn",
+     "Liz Ireland"
+    ],
+    "publisher": "Zebra Books",
+    "publishedDate": "2005-11-01",
+    "description": "A trio of holiday romances features Jane Green&#39;s Vacation, in which surburban housewife Sarah, dissatisfied with her marriage, gets a break from her husband ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0821778064"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780821778067"
+     }
+    ],
+    "pageCount": 474,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 30,
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dl4aNflr03_IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dl4aNflr03_IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dl4aNflr03_IC&printsec\u003dfrontcover&dq\u003dChristmas&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dl4aNflr03_IC&dq\u003dChristmas&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7i1-3iZE6SQC",
+   "etag": "tFPKTXuQn6A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7i1-3iZE6SQC",
+   "volumeInfo": {
+    "title": "Christmas Around the World",
+    "authors": [
+     "Emily Kelley",
+     "Joni Oeltjenbruns"
+    ],
+    "publisher": "Lerner Pub Group",
+    "publishedDate": "2003-01-08",
+    "description": "Introduces the holiday and describes how Christians celebrate in Mexico, Ethiopia, China, Germany, Lebanon, Sweden, Australia, and Russia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1575055805"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781575055800"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d7i1-3iZE6SQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d7i1-3iZE6SQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7i1-3iZE6SQC&printsec\u003dfrontcover&dq\u003dChristmas&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7i1-3iZE6SQC&dq\u003dChristmas&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Christmas_Around_the_World-sample-epub.acsm?id\u003d7i1-3iZE6SQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2sJPTJAupVQC",
+   "etag": "TVzSuetUm0Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2sJPTJAupVQC",
+   "volumeInfo": {
+    "title": "Christmas",
+    "authors": [
+     "James Lantos"
+    ],
+    "publisher": "Applewood's Pictorial America",
+    "publishedDate": "2009",
+    "description": "Part of Applewood&#39;s Pictorial America series, the book features images drawn from historical sources and includes prints, paintings, illustrations, and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1608890058"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781608890057"
+     }
+    ],
+    "pageCount": 56,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d2sJPTJAupVQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d2sJPTJAupVQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2sJPTJAupVQC&printsec\u003dfrontcover&dq\u003dChristmas&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2sJPTJAupVQC&dq\u003dChristmas&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "f8ANAAAAQAAJ",
+   "etag": "t9Qvi5W2IQA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f8ANAAAAQAAJ",
+   "volumeInfo": {
+    "title": "A Christmas carol in prose, being a ghost story of Christmas",
+    "authors": [
+     "Charles Dickens"
+    ],
+    "publishedDate": "1858",
+    "description": "A CHEISTMAS CAROL. STAVE ONE. MARLEY&#39;S ghost. &quot;VTARLEY was dead, to begin with. \u003cbr\u003e\r\nThere is no doubt whatever about that. The register of his burial was signed \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:503683436"
+     }
+    ],
+    "pageCount": 100,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 32,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003df8ANAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003df8ANAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003df8ANAAAAQAAJ&printsec\u003dfrontcover&dq\u003dChristmas&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003df8ANAAAAQAAJ&dq\u003dChristmas&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/A_Christmas_carol_in_prose_being_a_ghost.epub?id\u003df8ANAAAAQAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/A_Christmas_carol_in_prose_being_a_ghost.pdf?id\u003df8ANAAAAQAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1B43qmUsZWhbKYtzrUgx0OaEVB0A&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Q-QVAAAAYAAJ",
+   "etag": "hoxI31+NDqc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Q-QVAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Christmas",
+    "subtitle": "its origin, celebration and significance as related in prose and verse",
+    "authors": [
+     "Robert Haven Schauffler"
+    ],
+    "publishedDate": "1912",
+    "description": "\u003cb\u003eCHRISTMAS\u003c/b\u003e IS THERE A SANTA CLAUS? The following, reprinted from the editorial \u003cbr\u003e\r\npage of the New York Sun, was written by the late Mr. Frank P. Church: We take \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PRNC:32101063608028"
+     }
+    ],
+    "pageCount": 325,
+    "printType": "BOOK",
+    "categories": [
+     "Christmas"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dQ-QVAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dQ-QVAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQ-QVAAAAYAAJ&printsec\u003dfrontcover&dq\u003dChristmas&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQ-QVAAAAYAAJ&dq\u003dChristmas&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Christmas.epub?id\u003dQ-QVAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Christmas.pdf?id\u003dQ-QVAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3R9hTVzGZxHNxd0pUq6o05FEiuwA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "l-cxVlR-txkC",
+   "etag": "vFDy4ln4u2o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/l-cxVlR-txkC",
+   "volumeInfo": {
+    "title": "Christmas",
+    "subtitle": "Why We Celebrate It the Way We Do",
+    "authors": [
+     "Martin Hintz",
+     "Kate Hintz"
+    ],
+    "publisher": "Bridgestone Books",
+    "publishedDate": "1996-01-01",
+    "description": "Discusses the popular holiday and how it is celebrated in various parts of the world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1560653272"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781560653271"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dl-cxVlR-txkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dl-cxVlR-txkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dl-cxVlR-txkC&printsec\u003dfrontcover&dq\u003dChristmas&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dl-cxVlR-txkC&dq\u003dChristmas&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vsle2YwxCjMC",
+   "etag": "IlWqL7MbyKo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vsle2YwxCjMC",
+   "volumeInfo": {
+    "title": "Christmas is ...",
+    "authors": [
+     "Gail Gibbons"
+    ],
+    "publishedDate": "2001-10-04",
+    "description": "Demonstrates the many things that Christmas is to different people, including Saint Nicholas, Santa Claus, Christmas trees, presents, prayers, and the birth of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0823415821"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780823415823"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dvsle2YwxCjMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dvsle2YwxCjMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvsle2YwxCjMC&printsec\u003dfrontcover&dq\u003dChristmas&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvsle2YwxCjMC&dq\u003dChristmas&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "V-I0AAAAMAAJ",
+   "etag": "IDmhsqBY43w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/V-I0AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Christmas",
+    "subtitle": "a story",
+    "authors": [
+     "Zona Gale"
+    ],
+    "publishedDate": "1912",
+    "description": "\u003cb\u003eCHRISTMAS\u003c/b\u003e i It was in October that Mary Chavah burned over the grass of her lawn\u003cbr\u003e\r\n, and the flame ran free across the place where in Spring her wild flower \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015013152718"
+     }
+    ],
+    "pageCount": 243,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dV-I0AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dV-I0AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dV-I0AAAAMAAJ&printsec\u003dfrontcover&dq\u003dChristmas&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dV-I0AAAAMAAJ&dq\u003dChristmas&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Christmas.epub?id\u003dV-I0AAAAMAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Christmas.pdf?id\u003dV-I0AAAAMAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1duw9Ltqls0-_0t8ZXJsXZWutgWg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DqmlzjMYMRAC",
+   "etag": "y7OFnZz8aIQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DqmlzjMYMRAC",
+   "volumeInfo": {
+    "title": "Christmas",
+    "subtitle": "A Candid History",
+    "authors": [
+     "Bruce David Forbes"
+    ],
+    "publisher": "Univ of California Pr",
+    "publishedDate": "2008-11-13",
+    "description": "This book should be read and given at Christmas for many years to come.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520258029"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520258020"
+     }
+    ],
+    "pageCount": 179,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 10,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dDqmlzjMYMRAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dDqmlzjMYMRAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDqmlzjMYMRAC&printsec\u003dfrontcover&dq\u003dChristmas&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDqmlzjMYMRAC&dq\u003dChristmas&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dDqmlzjMYMRAC&dq\u003dChristmas&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Christmas-sample-epub.acsm?id\u003dDqmlzjMYMRAC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Christmas-sample-pdf.acsm?id\u003dDqmlzjMYMRAC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 589
+}

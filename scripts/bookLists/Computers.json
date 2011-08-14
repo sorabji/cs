@@ -1,0 +1,569 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "IJXYoPiwvOMC",
+   "etag": "hU+6CLSvey4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IJXYoPiwvOMC",
+   "volumeInfo": {
+    "title": "Computers",
+    "subtitle": "The Life Story of a Technology",
+    "authors": [
+     "Eric G. Swedin",
+     "David L. Ferro"
+    ],
+    "publisher": "Johns Hopkins Univ Pr",
+    "publishedDate": "2007",
+    "description": "Originally published: Westport, Conn.: Greenwood, 2005.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0801887747"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780801887741"
+     }
+    ],
+    "pageCount": 166,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dIJXYoPiwvOMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dIJXYoPiwvOMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIJXYoPiwvOMC&pg\u003dPP1&dq\u003dComputers&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIJXYoPiwvOMC&dq\u003dComputers&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Computers-sample-epub.acsm?id\u003dIJXYoPiwvOMC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1NbyQ_ZSbf0C",
+   "etag": "nIKuYrF8j7o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1NbyQ_ZSbf0C",
+   "volumeInfo": {
+    "title": "Computers",
+    "subtitle": "Faster, Smaller, and Smarter",
+    "authors": [
+     "Anne Rooney"
+    ],
+    "publisher": "Heinemann/Raintree",
+    "publishedDate": "2006-01-30",
+    "description": "Describes how computers are used in today&#39;s society and how some of these computers and software work.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "140347432X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781403474322"
+     }
+    ],
+    "pageCount": 56,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d1NbyQ_ZSbf0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d1NbyQ_ZSbf0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1NbyQ_ZSbf0C&printsec\u003dfrontcover&dq\u003dComputers&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1NbyQ_ZSbf0C&dq\u003dComputers&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6lGAtFWpNQkC",
+   "etag": "UEP20IHAJds",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6lGAtFWpNQkC",
+   "volumeInfo": {
+    "title": "Computers",
+    "authors": [
+     "Kristin Petrie"
+    ],
+    "publisher": "Checkerboard Library",
+    "publishedDate": "2008-07",
+    "description": "Explores the origins, history, development, and impact of computers.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1604530863"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781604530865"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d6lGAtFWpNQkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d6lGAtFWpNQkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6lGAtFWpNQkC&printsec\u003dfrontcover&dq\u003dComputers&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6lGAtFWpNQkC&dq\u003dComputers&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.52,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d6lGAtFWpNQkC&dq\u003dComputers&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Computers-sample-pdf.acsm?id\u003d6lGAtFWpNQkC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Bg2bZZK-mKcC",
+   "etag": "Dzxet0ni0IU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Bg2bZZK-mKcC",
+   "volumeInfo": {
+    "title": "Computers",
+    "subtitle": "information technology in perspective",
+    "authors": [
+     "Larry E. Long",
+     "Nancy Long"
+    ],
+    "publisher": "Pearson Education",
+    "publishedDate": "2001-05-18",
+    "description": "This book also has numerous in-text resources to make sure you understand the chapter information that is most important to you in your life and on the exam!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0130929808"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780130929808"
+     }
+    ],
+    "pageCount": 544,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dBg2bZZK-mKcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dBg2bZZK-mKcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBg2bZZK-mKcC&printsec\u003dfrontcover&dq\u003dComputers&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBg2bZZK-mKcC&dq\u003dComputers&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RC4-XPvLc0MC",
+   "etag": "/Mb2f/JNac8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RC4-XPvLc0MC",
+   "volumeInfo": {
+    "title": "Computers",
+    "authors": [
+     "Ferguson"
+    ],
+    "publisher": "Ferguson Publishing Company",
+    "publishedDate": "2008-09",
+    "description": "Discusses the responsibilities and qualifications for a job in the computer industry, including games designer, hardware engineer, help desk professional, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "081607285X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816072859"
+     }
+    ],
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dRC4-XPvLc0MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dRC4-XPvLc0MC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRC4-XPvLc0MC&printsec\u003dfrontcover&dq\u003dComputers&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRC4-XPvLc0MC&dq\u003dComputers&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Computers-sample-epub.acsm?id\u003dRC4-XPvLc0MC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZE2jqZ_eqbgC",
+   "etag": "xMJOoKja1UM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZE2jqZ_eqbgC",
+   "volumeInfo": {
+    "title": "Computers",
+    "authors": [
+     "Infobase Publishing"
+    ],
+    "publisher": "Ferguson Publishing Company",
+    "publishedDate": "2008-04",
+    "description": "Each book in this series profiles twenty careers and offers a comprehensive look at everything from how to start preparing while still in school to what the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0816072779"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816072774"
+     }
+    ],
+    "pageCount": 92,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dZE2jqZ_eqbgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dZE2jqZ_eqbgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZE2jqZ_eqbgC&printsec\u003dfrontcover&dq\u003dComputers&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZE2jqZ_eqbgC&dq\u003dComputers&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.17,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dZE2jqZ_eqbgC&dq\u003dComputers&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Computers-sample-epub.acsm?id\u003dZE2jqZ_eqbgC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Computers-sample-pdf.acsm?id\u003dZE2jqZ_eqbgC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "J0UsX9P_2Q8C",
+   "etag": "iz00S7XQ28M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/J0UsX9P_2Q8C",
+   "volumeInfo": {
+    "title": "Computers",
+    "authors": [
+     "Marjorie Eberts",
+     "Margaret Gisler"
+    ],
+    "publisher": "Vgm Career Horizons",
+    "publishedDate": "1995-01-11",
+    "description": "Discusses career opportunities for computer enthusiasts, including hardware engineering, operations, computer servicing, systems analysis, and programming",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0844243663"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780844243665"
+     }
+    ],
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dJ0UsX9P_2Q8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dJ0UsX9P_2Q8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dJ0UsX9P_2Q8C&printsec\u003dfrontcover&dq\u003dComputers&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dJ0UsX9P_2Q8C&dq\u003dComputers&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "h8ZYYgtQjsYC",
+   "etag": "3twF00VKCvE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/h8ZYYgtQjsYC",
+   "volumeInfo": {
+    "title": "Computers",
+    "authors": [
+     "Anne Fitzpatrick"
+    ],
+    "publisher": "Black Rabbit Books",
+    "publishedDate": "2003",
+    "description": "An introduction to the ideas and technical developments that produced today&#39;s computers. Includes a &quot;hands on&quot; activity.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1583403183"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781583403181"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dh8ZYYgtQjsYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dh8ZYYgtQjsYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dh8ZYYgtQjsYC&printsec\u003dfrontcover&dq\u003dComputers&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dh8ZYYgtQjsYC&dq\u003dComputers&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "M9cOthM1BlQC",
+   "etag": "mXicn9S7HeA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/M9cOthM1BlQC",
+   "volumeInfo": {
+    "title": "How Computers Work: Processor and Main Memory Second Edition",
+    "authors": [
+     "Roger Young"
+    ],
+    "publisher": "How Computers Work",
+    "publishedDate": "2009-04-17",
+    "description": "Computers are the most complex machines that have ever been created. This book will tell you how they work, and no technical knowledge is required.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1442113987"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781442113985"
+     }
+    ],
+    "pageCount": 152,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dM9cOthM1BlQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dM9cOthM1BlQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dM9cOthM1BlQC&printsec\u003dfrontcover&dq\u003dComputers&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dM9cOthM1BlQC&dq\u003dComputers&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/How_Computers_Work_Processor_and_Main_Me-sample-epub.acsm?id\u003dM9cOthM1BlQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6TwbGGSz6NYC",
+   "etag": "pdiRA+78WCk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6TwbGGSz6NYC",
+   "volumeInfo": {
+    "title": "Understanding computers and cognition",
+    "subtitle": "a new foundation for design",
+    "authors": [
+     "Terry Winograd",
+     "Fernando Flores"
+    ],
+    "publisher": "Addison-Wesley Professional",
+    "publishedDate": "1987",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0201112973"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780201112979"
+     }
+    ],
+    "pageCount": 207,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d6TwbGGSz6NYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d6TwbGGSz6NYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6TwbGGSz6NYC&q\u003dComputers&dq\u003dComputers&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6TwbGGSz6NYC&dq\u003dComputers&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 596
+}

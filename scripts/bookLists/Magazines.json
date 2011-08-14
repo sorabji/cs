@@ -1,0 +1,488 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "X_HyAAAAMAAJ",
+   "etag": "ubEBQnrNa60",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/X_HyAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Magazines",
+    "subtitle": "a complete guide to the industry",
+    "authors": [
+     "David E. Sumner",
+     "Shirrel Rhoades"
+    ],
+    "publisher": "Peter Lang Pub Inc",
+    "publishedDate": "2006-06-24",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "IND:30000109875868"
+     }
+    ],
+    "pageCount": 211,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dX_HyAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dX_HyAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dX_HyAAAAMAAJ&q\u003dMagazines&dq\u003dMagazines&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dX_HyAAAAMAAJ&dq\u003dMagazines&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WSNqtzknCswC",
+   "etag": "PwfoCkStxQQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WSNqtzknCswC",
+   "volumeInfo": {
+    "title": "Sex magazines in the library collection",
+    "subtitle": "a scholarly study of sex in serials and periodicals",
+    "authors": [
+     "Serial librarian (New York)"
+    ],
+    "publishedDate": "1981",
+    "description": "INTRODUCTION SEX \u003cb\u003eMAGAZINES\u003c/b\u003e IN THE LIBRARY COLLECTION When Sally Rand died a year \u003cbr\u003e\r\nor so ago, the Vancouver Sun published the following tribute to her: She \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "091772416X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780917724169"
+     }
+    ],
+    "pageCount": 142,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dWSNqtzknCswC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dWSNqtzknCswC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWSNqtzknCswC&printsec\u003dfrontcover&dq\u003dMagazines&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWSNqtzknCswC&dq\u003dMagazines&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "69IDAAAAMBAJ",
+   "etag": "ZFDIORtYfTA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/69IDAAAAMBAJ",
+   "volumeInfo": {
+    "title": "Popular Mechanics",
+    "publishedDate": "2005-08",
+    "description": "Whether it’s practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs in science -- PM ...",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:E8BLGHZ4J48"
+     }
+    ],
+    "pageCount": 120,
+    "printType": "MAGAZINE",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d69IDAAAAMBAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d69IDAAAAMBAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d69IDAAAAMBAJ&printsec\u003dfrontcover&dq\u003dMagazines&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d69IDAAAAMBAJ&dq\u003dMagazines&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "P9MDAAAAMBAJ",
+   "etag": "DkoFIuAnHqk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/P9MDAAAAMBAJ",
+   "volumeInfo": {
+    "title": "Ebony",
+    "publishedDate": "2008-07",
+    "description": "EBONY is the flagship magazine of Johnson Publishing.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:9WTE8U882LG"
+     }
+    ],
+    "pageCount": 198,
+    "printType": "MAGAZINE",
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dP9MDAAAAMBAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dP9MDAAAAMBAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dP9MDAAAAMBAJ&printsec\u003dfrontcover&dq\u003dMagazines&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dP9MDAAAAMBAJ&dq\u003dMagazines&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GUfHPAAACAAJ",
+   "etag": "UvNRmdNgsGE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GUfHPAAACAAJ",
+   "volumeInfo": {
+    "title": "Magazines",
+    "authors": [
+     "Michael Pelusey",
+     "Jane Pelusey"
+    ],
+    "publisher": "Chelsea House Pub",
+    "publishedDate": "2005-09",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0791088049"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780791088043"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dGUfHPAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dGUfHPAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGUfHPAAACAAJ&dq\u003dMagazines&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGUfHPAAACAAJ&dq\u003dMagazines&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_-A2y-vsNMIC",
+   "etag": "9L5wZdA8Mjw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_-A2y-vsNMIC",
+   "volumeInfo": {
+    "title": "Popular Health & Medical Writing for Magazines",
+    "subtitle": "How to Turn Current Research & Trends Into Salable Feature Articles",
+    "authors": [
+     "Anne Hart"
+    ],
+    "publisher": "Asja Pr",
+    "publishedDate": "2005-04",
+    "description": "Here are the skills you&#39;ll need to transform your interest in popular science into writing health and medical feature and filler articles or columns for a wide ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0595351786"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780595351787"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d_-A2y-vsNMIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d_-A2y-vsNMIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_-A2y-vsNMIC&printsec\u003dfrontcover&dq\u003dMagazines&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_-A2y-vsNMIC&dq\u003dMagazines&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xscDAAAAMBAJ",
+   "etag": "XJK08MQHEsA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xscDAAAAMBAJ",
+   "volumeInfo": {
+    "title": "Men's Health",
+    "publishedDate": "2006-01",
+    "description": "Men&#39;s Health magazine contains daily tips and articles on fitness, nutrition, relationships, sex, career and lifestyle.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:GEEB3UBSXEQ"
+     }
+    ],
+    "pageCount": 140,
+    "printType": "MAGAZINE",
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dxscDAAAAMBAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dxscDAAAAMBAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxscDAAAAMBAJ&printsec\u003dfrontcover&dq\u003dMagazines&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxscDAAAAMBAJ&dq\u003dMagazines&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "S2XbGwAACAAJ",
+   "etag": "y42WGCyRHkM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/S2XbGwAACAAJ",
+   "volumeInfo": {
+    "title": "Magazines",
+    "subtitle": "building, branding, selling : testimonials to effectiveness, 45 magazine advertising success stories",
+    "publishedDate": "1996",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:38835092"
+     }
+    ],
+    "pageCount": 115,
+    "printType": "BOOK",
+    "categories": [
+     "Advertising, Magazine"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dS2XbGwAACAAJ&dq\u003dMagazines&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dS2XbGwAACAAJ&dq\u003dMagazines&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qhJDRAAACAAJ",
+   "etag": "I+lJ63gFRYE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qhJDRAAACAAJ",
+   "volumeInfo": {
+    "title": "Magazines",
+    "authors": [
+     "Louise Park"
+    ],
+    "publishedDate": "2010-02-16",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1442512210"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781442512214"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dqhJDRAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dqhJDRAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dqhJDRAAACAAJ&dq\u003dMagazines&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dqhJDRAAACAAJ&dq\u003dMagazines&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0eboYPTdTVwC",
+   "etag": "LdCVszXi9sk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0eboYPTdTVwC",
+   "volumeInfo": {
+    "title": "Turning pages",
+    "subtitle": "reading and writing women's magazines in interwar Japan",
+    "authors": [
+     "Sarah Frederick"
+    ],
+    "publisher": "University of Hawaii Press",
+    "publishedDate": "2006-01",
+    "description": "This book will be of interest to students of Japanese literature, women&#39;s studies, and modern history.&quot;--BOOK JACKET.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0824829972"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780824829971"
+     }
+    ],
+    "pageCount": 251,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d0eboYPTdTVwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d0eboYPTdTVwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0eboYPTdTVwC&printsec\u003dfrontcover&dq\u003dMagazines&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0eboYPTdTVwC&dq\u003dMagazines&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 56.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 42.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d0eboYPTdTVwC&dq\u003dMagazines&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Turning_pages-sample-epub.acsm?id\u003d0eboYPTdTVwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Turning_pages-sample-pdf.acsm?id\u003d0eboYPTdTVwC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 507
+}

@@ -1,0 +1,542 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "1PLSkeGYldkC",
+   "etag": "caSqZYjS19c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1PLSkeGYldkC",
+   "volumeInfo": {
+    "title": "Medieval People",
+    "authors": [
+     "Eileen Edna Power"
+    ],
+    "publishedDate": "2007-03-01",
+    "description": "Six studies showing aspects of social life in the Middle Ages and various classes of historical material.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1406812196"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781406812190"
+     }
+    ],
+    "pageCount": 156,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d1PLSkeGYldkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d1PLSkeGYldkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1PLSkeGYldkC&printsec\u003dfrontcover&dq\u003dMedieval&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1PLSkeGYldkC&dq\u003dMedieval&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Medieval_People-sample-epub.acsm?id\u003d1PLSkeGYldkC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3tPRhZZufVUC",
+   "etag": "9MI0m0LQtTg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3tPRhZZufVUC",
+   "volumeInfo": {
+    "title": "Medieval clothing and costumes",
+    "subtitle": "displaying wealth and class in medieval times",
+    "authors": [
+     "Margaret Scott"
+    ],
+    "publisher": "The Rosen Publishing Group",
+    "publishedDate": "2004",
+    "description": "Examines the role of clothing in medieval society and discusses trends in clothing styles and the characteristic dress of different classes of people.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "082393991X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780823939916"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d3tPRhZZufVUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d3tPRhZZufVUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3tPRhZZufVUC&printsec\u003dfrontcover&dq\u003dMedieval&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3tPRhZZufVUC&dq\u003dMedieval&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QtvtHlkWLUAC",
+   "etag": "G//Qed/FoD0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QtvtHlkWLUAC",
+   "volumeInfo": {
+    "title": "Medieval art",
+    "authors": [
+     "Marilyn Stokstad"
+    ],
+    "publisher": "Westview Pr",
+    "publishedDate": "2004-02-03",
+    "description": "Medieval Art spans the period from the second to the fifteenth centuries with over 400 illustrations, over 90 in color, four maps, a chronological table, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0813341140"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780813341149"
+     }
+    ],
+    "pageCount": 416,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dQtvtHlkWLUAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dQtvtHlkWLUAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQtvtHlkWLUAC&printsec\u003dfrontcover&dq\u003dMedieval&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQtvtHlkWLUAC&dq\u003dMedieval&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "445CAAAAYAAJ",
+   "etag": "sCILurQdZLQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/445CAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Medieval Europe",
+    "authors": [
+     "Henry William Carless Davis"
+    ],
+    "publishedDate": "1911",
+    "description": "\u003cb\u003eMEDIEVAL\u003c/b\u003e EUROPE INTRODUCTION ALL divisions of history into periods are \u003cbr\u003e\r\nartificial in proportion as they are precise. In history there is, strictly \u003cbr\u003e\r\nspeaking, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PRNC:32101073814426"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Europe"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d445CAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d445CAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d445CAAAAYAAJ&printsec\u003dfrontcover&dq\u003dMedieval&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d445CAAAAYAAJ&dq\u003dMedieval&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Medieval_Europe.epub?id\u003d445CAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Medieval_Europe.pdf?id\u003d445CAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3SovtoydsQv3CeMe010HaMIPnH1Q&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7IGmdgU42jkC",
+   "etag": "4PwB08fOmdU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7IGmdgU42jkC",
+   "volumeInfo": {
+    "title": "Favorite Medieval Tales",
+    "authors": [
+     "Mary Pope Osborne",
+     "Troy Howell"
+    ],
+    "publisher": "Scholastic Paperbacks",
+    "publishedDate": "2002-05-01",
+    "description": "A collection of well-known tales from medieval Europe, including &quot;Beowulf,&quot; &quot;The Sword in the Stone,&quot; &quot;The Song of Roland,&quot; and &quot;The Island of the Lost Children ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0439141346"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780439141345"
+     }
+    ],
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d7IGmdgU42jkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d7IGmdgU42jkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7IGmdgU42jkC&printsec\u003dfrontcover&dq\u003dMedieval&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7IGmdgU42jkC&dq\u003dMedieval&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5Wlrnn8DIggC",
+   "etag": "4nwgAulOclg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5Wlrnn8DIggC",
+   "volumeInfo": {
+    "title": "The medieval prison",
+    "subtitle": "a social history",
+    "authors": [
+     "Guy Geltner"
+    ],
+    "publisher": "Princeton Univ Pr",
+    "publishedDate": "2008-07-21",
+    "description": "The Medieval Prison challenges this view by tracing the institution&#39;s emergence to a much earlier period beginning in the l &quot;This is a very valuable ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0691135339"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780691135335"
+     }
+    ],
+    "pageCount": 197,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d5Wlrnn8DIggC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d5Wlrnn8DIggC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5Wlrnn8DIggC&printsec\u003dfrontcover&dq\u003dMedieval&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5Wlrnn8DIggC&dq\u003dMedieval&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_medieval_prison-sample-epub.acsm?id\u003d5Wlrnn8DIggC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_medieval_prison-sample-pdf.acsm?id\u003d5Wlrnn8DIggC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1yBwQgAACAAJ",
+   "etag": "UlwN0Ep3NYY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1yBwQgAACAAJ",
+   "volumeInfo": {
+    "title": "Medieval music",
+    "authors": [
+     "Richard H. Hoppin"
+    ],
+    "publisher": "W W Norton & Co Inc",
+    "publishedDate": "1978",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0393090906"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780393090901"
+     }
+    ],
+    "pageCount": 566,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d1yBwQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d1yBwQgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1yBwQgAACAAJ&dq\u003dMedieval&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1yBwQgAACAAJ&dq\u003dMedieval&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Xx1rL67JPOAC",
+   "etag": "D7AmiBMaFAI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Xx1rL67JPOAC",
+   "volumeInfo": {
+    "title": "What is medieval history?",
+    "authors": [
+     "John Arnold"
+    ],
+    "publisher": "Polity Pr",
+    "publishedDate": "2008-03-04",
+    "description": "Throughout the book, readers are shown not only what medieval history is, but the cultural and political contexts in which medieval history has been written.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0745639321"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780745639321"
+     }
+    ],
+    "pageCount": 155,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dXx1rL67JPOAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dXx1rL67JPOAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXx1rL67JPOAC&printsec\u003dfrontcover&dq\u003dMedieval&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXx1rL67JPOAC&dq\u003dMedieval&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "U9QXGzFU_wsC",
+   "etag": "ylvRH9bNeYw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/U9QXGzFU_wsC",
+   "volumeInfo": {
+    "title": "Sexuality in medieval Europe",
+    "subtitle": "doing unto others",
+    "authors": [
+     "Ruth Mazo Karras"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2005",
+    "description": "The topic of sexuality in medieval Europe is a hugely debated area that is becoming more and more central to the study of the Middle Ages.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415289637"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415289634"
+     }
+    ],
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dU9QXGzFU_wsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dU9QXGzFU_wsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dU9QXGzFU_wsC&printsec\u003dfrontcover&dq\u003dMedieval&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dU9QXGzFU_wsC&dq\u003dMedieval&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "quCh9tAW1jcC",
+   "etag": "gAvgRr14LaE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/quCh9tAW1jcC",
+   "volumeInfo": {
+    "title": "Medieval religion and technology",
+    "subtitle": "collected essays",
+    "authors": [
+     "Lynn Townsend White"
+    ],
+    "publisher": "Univ of California Press",
+    "publishedDate": "1978",
+    "description": "1 Technology and Invention in the Middle Ages The history of technology and \u003cbr\u003e\r\ninvention, especially that of the earlier periods, has been left strangely \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520035666"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520035669"
+     }
+    ],
+    "pageCount": 360,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dquCh9tAW1jcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dquCh9tAW1jcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dquCh9tAW1jcC&printsec\u003dfrontcover&dq\u003dMedieval&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dquCh9tAW1jcC&dq\u003dMedieval&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 593
+}

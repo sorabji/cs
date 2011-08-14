@@ -1,0 +1,545 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "g81dRAAACAAJ",
+   "etag": "ee7v1Y9E2ag",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/g81dRAAACAAJ",
+   "volumeInfo": {
+    "title": "The Theater",
+    "authors": [
+     "Samuel Gover Winchester"
+    ],
+    "publishedDate": "2009-12",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1151558451"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781151558459"
+     }
+    ],
+    "pageCount": 88,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dg81dRAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dg81dRAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dg81dRAAACAAJ&dq\u003dTheater&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dg81dRAAACAAJ&dq\u003dTheater&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TJEXAAAAYAAJ",
+   "etag": "ObwH8SuQhuE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TJEXAAAAYAAJ",
+   "volumeInfo": {
+    "title": "The theater",
+    "authors": [
+     "William Wallace Everts"
+    ],
+    "publishedDate": "1866",
+    "description": "PROBLEMS OF THE CITY. No. I. THE \u003cb\u003eTHEATER\u003c/b\u003e. BY W W. EVERTS, DD Chicago : CHURCH &amp; \u003cbr\u003e\r\nGOODMAN, PUBLISHERS, SI La Salle Street. 1866. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044088293303"
+     }
+    ],
+    "pageCount": 49,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dTJEXAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dTJEXAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTJEXAAAAYAAJ&printsec\u003dfrontcover&dq\u003dTheater&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTJEXAAAAYAAJ&dq\u003dTheater&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/The_theater.epub?id\u003dTJEXAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_theater.pdf?id\u003dTJEXAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0FImbl4sDsBY8uACG3iK2G7TkRJQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NCFSPgAACAAJ",
+   "etag": "uZSfyewWCW8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NCFSPgAACAAJ",
+   "volumeInfo": {
+    "title": "Theater",
+    "subtitle": "The Lively Art",
+    "authors": [
+     "Edwin Wilson",
+     "Alvin Goldfarb"
+    ],
+    "publisher": "McGraw-Hill Humanities/Social Sciences/Languages",
+    "publishedDate": "2006-12-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "007351411X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780073514116"
+     }
+    ],
+    "pageCount": 415,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dNCFSPgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dNCFSPgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNCFSPgAACAAJ&dq\u003dTheater&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNCFSPgAACAAJ&dq\u003dTheater&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2YTgAAAAMAAJ",
+   "etag": "WP7Y4O5VIJk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2YTgAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Theater",
+    "authors": [
+     "Jacques Burdick"
+    ],
+    "publishedDate": "1974",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PSU:000045763205"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d2YTgAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d2YTgAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2YTgAAAAMAAJ&q\u003dTheater&dq\u003dTheater&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2YTgAAAAMAAJ&dq\u003dTheater&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mO3jUbMqRIwC",
+   "etag": "E57hOqdyHKE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mO3jUbMqRIwC",
+   "volumeInfo": {
+    "title": "Careers in technical theater",
+    "authors": [
+     "Mike Lawler"
+    ],
+    "publisher": "Allworth Pr",
+    "publishedDate": "2007-08-07",
+    "description": "Careers in Technical Theater explains more than twenty different careers from the perspective of successful theater artists.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1581154852"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781581154856"
+     }
+    ],
+    "pageCount": 275,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dmO3jUbMqRIwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dmO3jUbMqRIwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmO3jUbMqRIwC&printsec\u003dfrontcover&dq\u003dTheater&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmO3jUbMqRIwC&dq\u003dTheater&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dmO3jUbMqRIwC&dq\u003dTheater&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Careers_in_technical_theater-sample-pdf.acsm?id\u003dmO3jUbMqRIwC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jE9DBtemCMIC",
+   "etag": "1aPfLa3a2L8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jE9DBtemCMIC",
+   "volumeInfo": {
+    "title": "Technical theater for nontechnical people",
+    "authors": [
+     "Drew Campbell"
+    ],
+    "publisher": "Allworth Pr",
+    "publishedDate": "2004",
+    "description": "In addition to discussions on the more traditional elements of technical theater, this book gives equal weight to the new technologies that have become ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1581153449"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781581153446"
+     }
+    ],
+    "pageCount": 273,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "1.0.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003djE9DBtemCMIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003djE9DBtemCMIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djE9DBtemCMIC&printsec\u003dfrontcover&dq\u003dTheater&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djE9DBtemCMIC&dq\u003dTheater&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003djE9DBtemCMIC&dq\u003dTheater&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Technical_theater_for_nontechnical_peopl-sample-epub.acsm?id\u003djE9DBtemCMIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Technical_theater_for_nontechnical_peopl-sample-pdf.acsm?id\u003djE9DBtemCMIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bmf8CMzu3kIC",
+   "etag": "uRvp59rSniA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bmf8CMzu3kIC",
+   "volumeInfo": {
+    "title": "The theater and its double",
+    "authors": [
+     "Antonin Artaud"
+    ],
+    "publisher": "Grove Pr",
+    "publishedDate": "1994-01-07",
+    "description": "A collection of manifestos originally published in 1938, The Theater and Its Double is the fullest statement of the ideas of Antonin Artaud. “We cannot go on ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0802150306"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780802150301"
+     }
+    ],
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 31,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dbmf8CMzu3kIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dbmf8CMzu3kIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbmf8CMzu3kIC&printsec\u003dfrontcover&dq\u003dTheater&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbmf8CMzu3kIC&dq\u003dTheater&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_theater_and_its_double-sample-epub.acsm?id\u003dbmf8CMzu3kIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "g8ZbuK6AlqsC",
+   "etag": "rGCxznOGn94",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/g8ZbuK6AlqsC",
+   "volumeInfo": {
+    "title": "Theater of the oppressed",
+    "authors": [
+     "Augusto Boal"
+    ],
+    "publisher": "Pluto Press",
+    "publishedDate": "2000-03-01",
+    "description": "Art Imitates Nature The first difficulty that we face in order to understand \u003cbr\u003e\r\ncorrectly the workings of tragedy according to Aristotle stems from the very \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0745316573"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780745316574"
+     }
+    ],
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 13,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dg8ZbuK6AlqsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dg8ZbuK6AlqsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dg8ZbuK6AlqsC&printsec\u003dfrontcover&dq\u003dTheater&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dg8ZbuK6AlqsC&dq\u003dTheater&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WvVYeKkZZrgC",
+   "etag": "0LMJbcBLV1s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WvVYeKkZZrgC",
+   "volumeInfo": {
+    "title": "Theater",
+    "authors": [
+     "Jane Richards Mason"
+    ],
+    "publishedDate": "1995-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0896867927"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780896867925"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dWvVYeKkZZrgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dWvVYeKkZZrgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWvVYeKkZZrgC&q\u003dTheater&dq\u003dTheater&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWvVYeKkZZrgC&dq\u003dTheater&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YZ1myuKmjRkC",
+   "etag": "ra10qB3yjC0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YZ1myuKmjRkC",
+   "volumeInfo": {
+    "title": "Theater",
+    "subtitle": "",
+    "authors": [
+     "Andrea Gronemeyer"
+    ],
+    "publisher": "Barrons Educational Series Inc",
+    "publishedDate": "1996-09",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0812097742"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780812097740"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dYZ1myuKmjRkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dYZ1myuKmjRkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYZ1myuKmjRkC&q\u003dTheater&dq\u003dTheater&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYZ1myuKmjRkC&dq\u003dTheater&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 590
+}

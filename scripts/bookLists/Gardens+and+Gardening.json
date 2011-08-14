@@ -1,0 +1,432 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "iYzNAAAAMAAJ",
+   "etag": "K+xjowgevUU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iYzNAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Gardens and gardening",
+    "subtitle": "the Studio garden annual",
+    "authors": [
+     "Frank Alfred Mercer"
+    ],
+    "publishedDate": "1954",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015074659973"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Gardening"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003diYzNAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003diYzNAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003diYzNAAAAMAAJ&q\u003dGardens+and+Gardening&dq\u003dGardens+and+Gardening&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003diYzNAAAAMAAJ&dq\u003dGardens+and+Gardening&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UMYOAQAAMAAJ",
+   "etag": "B81vkR0JHfU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UMYOAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Gardens and gardening",
+    "authors": [
+     "Studio"
+    ],
+    "publishedDate": "1955",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PSU:000055578714"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Gardening"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dUMYOAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dUMYOAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUMYOAQAAMAAJ&q\u003dGardens+and+Gardening&dq\u003dGardens+and+Gardening&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUMYOAQAAMAAJ&dq\u003dGardens+and+Gardening&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ss3ntgAACAAJ",
+   "etag": "Usn+fSep+oA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ss3ntgAACAAJ",
+   "volumeInfo": {
+    "title": "Gardens and Gardening",
+    "subtitle": "the Studio Gardening Annual; Edited by F.A Mercer and Roy Hay. Growing Under Glass, Garden Maintenance and Equipment",
+    "authors": [
+     "F A. Mercer",
+     "Roy Hay"
+    ],
+    "publishedDate": "1955",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:655528773"
+     }
+    ],
+    "pageCount": 141,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSs3ntgAACAAJ&dq\u003dGardens+and+Gardening&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSs3ntgAACAAJ&dq\u003dGardens+and+Gardening&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HE_RSQAACAAJ",
+   "etag": "SPdfYJVYgF8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HE_RSQAACAAJ",
+   "volumeInfo": {
+    "title": "Gardens and gardening",
+    "subtitle": "1937",
+    "authors": [
+     "F. A. Mercer",
+     "Charles Geoffrey Holme"
+    ],
+    "publishedDate": "1937",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:34619982"
+     }
+    ],
+    "pageCount": 134,
+    "printType": "BOOK",
+    "categories": [
+     "Floriculture"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHE_RSQAACAAJ&dq\u003dGardens+and+Gardening&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHE_RSQAACAAJ&dq\u003dGardens+and+Gardening&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kIq4ZwEACAAJ",
+   "etag": "hEza+y0NYsE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kIq4ZwEACAAJ",
+   "volumeInfo": {
+    "title": "Gardens and gardening",
+    "subtitle": "1937 [edited by F. A. Mercer].",
+    "publishedDate": "1937",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:459480999"
+     }
+    ],
+    "pageCount": 134,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkIq4ZwEACAAJ&dq\u003dGardens+and+Gardening&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkIq4ZwEACAAJ&dq\u003dGardens+and+Gardening&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XVAiAAAACAAJ",
+   "etag": "CDPQPwlWt7c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XVAiAAAACAAJ",
+   "volumeInfo": {
+    "title": "Gardens and gardening",
+    "subtitle": "in Papal Rome",
+    "authors": [
+     "David R. Coffin"
+    ],
+    "publishedDate": "1991",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "060809109X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780608091099"
+     }
+    ],
+    "pageCount": 285,
+    "printType": "BOOK",
+    "categories": [
+     "Gardening"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXVAiAAAACAAJ&dq\u003dGardens+and+Gardening&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXVAiAAAACAAJ&dq\u003dGardens+and+Gardening&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WGioOAAACAAJ",
+   "etag": "8o49tJJoVRw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WGioOAAACAAJ",
+   "volumeInfo": {
+    "title": "Gardens and gardening",
+    "subtitle": "A list of books relating to gardens and gardening in the Lowell City Library",
+    "authors": [
+     "Lowell (Mass.). City School Library"
+    ],
+    "publishedDate": "1910*",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:39062940"
+     }
+    ],
+    "pageCount": 23,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWGioOAAACAAJ&dq\u003dGardens+and+Gardening&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWGioOAAACAAJ&dq\u003dGardens+and+Gardening&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WskfHQAACAAJ",
+   "etag": "e1glDmN9LjI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WskfHQAACAAJ",
+   "volumeInfo": {
+    "title": "Gardens and gardening",
+    "subtitle": "a selected list of books with annotations",
+    "authors": [
+     "Louisville Free Public Library"
+    ],
+    "publishedDate": "1913",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:13010496"
+     }
+    ],
+    "pageCount": 19,
+    "printType": "BOOK",
+    "categories": [
+     "Gardening"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWskfHQAACAAJ&dq\u003dGardens+and+Gardening&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWskfHQAACAAJ&dq\u003dGardens+and+Gardening&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4WMMtwAACAAJ",
+   "etag": "YqbZy5iDixw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4WMMtwAACAAJ",
+   "volumeInfo": {
+    "title": "On gardens and gardening",
+    "authors": [
+     "Lanning Roper"
+    ],
+    "publishedDate": "1969",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:72083976"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Gardening"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d4WMMtwAACAAJ&dq\u003dGardens+and+Gardening&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d4WMMtwAACAAJ&dq\u003dGardens+and+Gardening&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "px_vAQAACAAJ",
+   "etag": "rW1aJ9748nk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/px_vAQAACAAJ",
+   "volumeInfo": {
+    "title": "Gardens and Gardening L L",
+    "authors": [
+     "Gagg"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "1975-02-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0631063900"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780631063902"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpx_vAQAACAAJ&dq\u003dGardens+and+Gardening&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpx_vAQAACAAJ&dq\u003dGardens+and+Gardening&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 560
+}

@@ -1,0 +1,560 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "v2KvKcZLdlwC",
+   "etag": "WyOKuQfMu2A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/v2KvKcZLdlwC",
+   "volumeInfo": {
+    "title": "Horror",
+    "subtitle": "another 100 best books",
+    "authors": [
+     "Stephen Jones",
+     "Kim Newman",
+     "Peter Straub"
+    ],
+    "publisher": "Running Press",
+    "publishedDate": "2005-09-20",
+    "description": "A sequel to the original Bram Stoker Award-winning reference anthology features discussions with famous and up-and-coming authors about some of the horror genre ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0786715774"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786715770"
+     }
+    ],
+    "pageCount": 456,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 12,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dv2KvKcZLdlwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dv2KvKcZLdlwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dv2KvKcZLdlwC&printsec\u003dfrontcover&dq\u003dHorror&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dv2KvKcZLdlwC&dq\u003dHorror&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6no5OQAACAAJ",
+   "etag": "uYo0XfKM0+I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6no5OQAACAAJ",
+   "volumeInfo": {
+    "title": "Horror",
+    "subtitle": "the 100 best books",
+    "authors": [
+     "Stephen Jones",
+     "Kim Newman"
+    ],
+    "publisher": "Carroll & Graf Pub",
+    "publishedDate": "1998-05-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0786705523"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786705528"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d6no5OQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d6no5OQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6no5OQAACAAJ&dq\u003dHorror&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6no5OQAACAAJ&dq\u003dHorror&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yteAOUgveq8C",
+   "etag": "l+KaQJIrxwA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yteAOUgveq8C",
+   "volumeInfo": {
+    "title": "Horror",
+    "subtitle": "The Best of the Year, 2006 Edition",
+    "authors": [
+     "John Gregory Betancourt",
+     "Sean Wallace"
+    ],
+    "publisher": "Wildside Press LLC",
+    "publishedDate": "2006-04-15",
+    "description": "The best stories of the year: here is a collection of the best horror prose written in 2005, by some of the genre&#39;s greatest authors, and selected by two of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0809556480"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780809556489"
+     }
+    ],
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Comics & Graphic Novels"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dyteAOUgveq8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dyteAOUgveq8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyteAOUgveq8C&printsec\u003dfrontcover&dq\u003dHorror&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyteAOUgveq8C&dq\u003dHorror&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ODG2Qe7RjNwC",
+   "etag": "1TDhFYOUXIg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ODG2Qe7RjNwC",
+   "volumeInfo": {
+    "title": "Horror",
+    "authors": [
+     "Brigid Cherry"
+    ],
+    "publisher": "Taylor & Francis",
+    "publishedDate": "2009-04-06",
+    "description": "It is enjoyed by audiences everywhere, but also seen as a malign influence by others.In this Routledge Film Guidebook, audience researcher and film scholar ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415456673"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415456678"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dODG2Qe7RjNwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dODG2Qe7RjNwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dODG2Qe7RjNwC&printsec\u003dfrontcover&dq\u003dHorror&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dODG2Qe7RjNwC&dq\u003dHorror&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.17,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dODG2Qe7RjNwC&dq\u003dHorror&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Horror-sample-epub.acsm?id\u003dODG2Qe7RjNwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Horror-sample-pdf.acsm?id\u003dODG2Qe7RjNwC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FlLCvGojovAC",
+   "etag": "jueDxmNTY/0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FlLCvGojovAC",
+   "volumeInfo": {
+    "title": "Horror",
+    "subtitle": "A True Tale",
+    "authors": [
+     "Anonymous"
+    ],
+    "publisher": "Kessinger Publishing",
+    "publishedDate": "2004-06-30",
+    "description": "A strange story I have just been told, said he; &quot;here has been my bailiff to inform me of the loss of four of the choicest ewes out of that little flock of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1419124633"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781419124631"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dFlLCvGojovAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dFlLCvGojovAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFlLCvGojovAC&printsec\u003dfrontcover&dq\u003dHorror&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFlLCvGojovAC&dq\u003dHorror&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NGADV7J25ggC",
+   "etag": "XNtJI3LeT3Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NGADV7J25ggC",
+   "volumeInfo": {
+    "title": "The Amityville Horror",
+    "authors": [
+     "Jay Anson"
+    ],
+    "publisher": "Pocket Star",
+    "publishedDate": "2005-07-26",
+    "description": "The classic and terrifying story of one of the most famous supernatural events--the infamous possessed house on Long Island from which the Lutz family fled in ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1416507698"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781416507697"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 291,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dNGADV7J25ggC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dNGADV7J25ggC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNGADV7J25ggC&printsec\u003dfrontcover&dq\u003dHorror&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNGADV7J25ggC&dq\u003dHorror&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "o78JpqbCVJkC",
+   "etag": "DeG1NbjVlls",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o78JpqbCVJkC",
+   "volumeInfo": {
+    "title": "Horror",
+    "authors": [
+     "John Hamilton"
+    ],
+    "publisher": "ABDO & Daughters",
+    "publishedDate": "2009-01",
+    "description": "Describes how to write horror fiction, including formulating a plot, creating characters, organizing a work schedule, and getting it published.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1604535067"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781604535068"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003do78JpqbCVJkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003do78JpqbCVJkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003do78JpqbCVJkC&printsec\u003dfrontcover&dq\u003dHorror&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003do78JpqbCVJkC&dq\u003dHorror&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.66,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003do78JpqbCVJkC&dq\u003dHorror&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Horror-sample-epub.acsm?id\u003do78JpqbCVJkC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Horror-sample-pdf.acsm?id\u003do78JpqbCVJkC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XaYqAQAAIAAJ",
+   "etag": "jk8NLYCESok",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XaYqAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Horror",
+    "subtitle": "The Definitive Guide to the Cinema of Fear",
+    "authors": [
+     "James Marriott",
+     "Kim Newman"
+    ],
+    "publisher": "Andre Deutsch",
+    "publishedDate": "2008-10",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0233002014"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780233002019"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dXaYqAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dXaYqAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXaYqAQAAIAAJ&q\u003dHorror&dq\u003dHorror&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXaYqAQAAIAAJ&dq\u003dHorror&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "quMdAQAAIAAJ",
+   "etag": "VQ5fCtlwzr4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/quMdAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Horror",
+    "subtitle": "a biography",
+    "authors": [
+     "E. Michael Jones"
+    ],
+    "publisher": "Spence Pub",
+    "publishedDate": "2002-03",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105111963901"
+     }
+    ],
+    "pageCount": 298,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dquMdAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dquMdAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dquMdAQAAIAAJ&q\u003dHorror&dq\u003dHorror&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dquMdAQAAIAAJ&dq\u003dHorror&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3A4RAAAAYAAJ",
+   "etag": "R3EiaK/xMhE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3A4RAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Tales of mystery and horror",
+    "authors": [
+     "Maurice Level"
+    ],
+    "publishedDate": "1920",
+    "description": "RAVENOT, debt collector to the same bank for ten years, was a model employee. \u003cbr\u003e\r\nNever had there been the least cause to find fanlt with him. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HWKI5C"
+     }
+    ],
+    "pageCount": 303,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d3A4RAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d3A4RAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3A4RAAAAYAAJ&printsec\u003dfrontcover&dq\u003dHorror&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3A4RAAAAYAAJ&dq\u003dHorror&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Tales_of_mystery_and_horror.epub?id\u003d3A4RAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Tales_of_mystery_and_horror.pdf?id\u003d3A4RAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0rPpYter_9ANGpnHpuGFuC0jEsdA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 589
+}

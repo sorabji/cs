@@ -1,0 +1,591 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "m1iBmIVz2mkC",
+   "etag": "YPga7mV6WaY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/m1iBmIVz2mkC",
+   "volumeInfo": {
+    "title": "Finance",
+    "authors": [
+     "Angelico A. Groppelli",
+     "Ehsan Nikbakht"
+    ],
+    "publisher": "Barron's Educational Series",
+    "publishedDate": "2006-06-12",
+    "description": "Provides an overview of finance, including investing, capital budgeting, managing working capital, analyzing financial statements, and using financial software. ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0764134205"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780764134203"
+     }
+    ],
+    "pageCount": 612,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dm1iBmIVz2mkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dm1iBmIVz2mkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dm1iBmIVz2mkC&printsec\u003dfrontcover&dq\u003dFinance&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dm1iBmIVz2mkC&dq\u003dFinance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dm1iBmIVz2mkC&dq\u003dFinance&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Finance-sample-pdf.acsm?id\u003dm1iBmIVz2mkC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "t7VJVwsSIakC",
+   "etag": "zIR/ljrj51c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/t7VJVwsSIakC",
+   "volumeInfo": {
+    "title": "Finance",
+    "subtitle": "The Basics",
+    "authors": [
+     "Erik Banks"
+    ],
+    "publisher": "Taylor & Francis",
+    "publishedDate": "2010-12-31",
+    "description": "Finance: The Basics is a clear and practical introduction to the world of finance, allowing the reader to grasp relevant financial concepts and apply them to ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415573351"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415573351"
+     }
+    ],
+    "pageCount": 274,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dt7VJVwsSIakC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dt7VJVwsSIakC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dt7VJVwsSIakC&printsec\u003dfrontcover&dq\u003dFinance&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dt7VJVwsSIakC&dq\u003dFinance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dt7VJVwsSIakC&dq\u003dFinance&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Finance-sample-epub.acsm?id\u003dt7VJVwsSIakC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Finance-sample-pdf.acsm?id\u003dt7VJVwsSIakC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lOS_RwFAjBcC",
+   "etag": "0Zl7W68DceA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lOS_RwFAjBcC",
+   "volumeInfo": {
+    "title": "Barron's finance & investment handbook",
+    "authors": [
+     "John Downes",
+     "Jordan Elliot Goodman"
+    ],
+    "publisher": "Barron's Educational Series",
+    "publishedDate": "2003-03-01",
+    "description": ". . &quot;Look for Barron&#39;s Finance &amp; Investment Handbook . . . This is the most comprehensive reference guide I&#39;ve seen on investing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0764155547"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780764155543"
+     }
+    ],
+    "pageCount": 1220,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dlOS_RwFAjBcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dlOS_RwFAjBcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlOS_RwFAjBcC&printsec\u003dfrontcover&dq\u003dFinance&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlOS_RwFAjBcC&dq\u003dFinance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0tvupSkxr_cC",
+   "etag": "hUYcdEj9qRY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0tvupSkxr_cC",
+   "volumeInfo": {
+    "title": "Personal Finance For Dummies®",
+    "authors": [
+     "Eric Tyson",
+     "Eric Tyson, MBA"
+    ],
+    "publisher": "For Dummies",
+    "publishedDate": "2010-12-07",
+    "description": "Introduction. About This Book. Icons Used in This Book. Where to Go from Here. Chapter 1: Establishing and Achieving Your Financial Goals.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1118042999"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781118042991"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 30,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d0tvupSkxr_cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d0tvupSkxr_cC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0tvupSkxr_cC&printsec\u003dfrontcover&dq\u003dFinance&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0tvupSkxr_cC&dq\u003dFinance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Personal_Finance_For_Dummies-sample-epub.acsm?id\u003d0tvupSkxr_cC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "62_PNb_JAxkC",
+   "etag": "5+yX6cMjZ2I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/62_PNb_JAxkC",
+   "volumeInfo": {
+    "title": "Finance",
+    "subtitle": "a characteristics approach",
+    "authors": [
+     "David Blake"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2000",
+    "description": "This book brings together some of the latest research by leading exponents of the characteristics model and its application to finance.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415212901"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415212908"
+     }
+    ],
+    "pageCount": 131,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d62_PNb_JAxkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d62_PNb_JAxkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d62_PNb_JAxkC&printsec\u003dfrontcover&dq\u003dFinance&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d62_PNb_JAxkC&dq\u003dFinance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 133.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 106.4,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d62_PNb_JAxkC&dq\u003dFinance&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Finance-sample-epub.acsm?id\u003d62_PNb_JAxkC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Finance-sample-pdf.acsm?id\u003d62_PNb_JAxkC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Fu9TqszLXVQC",
+   "etag": "q44azR1hHRo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Fu9TqszLXVQC",
+   "volumeInfo": {
+    "title": "Corporate Finance Demystified 2/E",
+    "authors": [
+     "Troy Adair"
+    ],
+    "publisher": "McGraw-Hill Professional",
+    "publishedDate": "2011-01-07",
+    "description": "This self-teaching guide first explains the basicprinciples of corporate finance, including accountingstatements, cash flows, and ratio analysis.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0071749071"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071749077"
+     }
+    ],
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dFu9TqszLXVQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dFu9TqszLXVQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFu9TqszLXVQC&printsec\u003dfrontcover&dq\u003dFinance&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFu9TqszLXVQC&dq\u003dFinance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Corporate_Finance_Demystified_2_E-sample-epub.acsm?id\u003dFu9TqszLXVQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "f023R-cS_FIC",
+   "etag": "D6H4vmsIEvY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f023R-cS_FIC",
+   "volumeInfo": {
+    "title": "Finance",
+    "subtitle": "a fine art",
+    "authors": [
+     "Michel Fleuriet"
+    ],
+    "publisher": "John Wiley & Sons Inc",
+    "publishedDate": "2003-02-07",
+    "description": "In this book Michel Fleuriet elucidates on the delicate fusion of the art and the science of finance required by successful practitioners in the financial ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0470847670"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470847671"
+     }
+    ],
+    "pageCount": 290,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003df023R-cS_FIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003df023R-cS_FIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003df023R-cS_FIC&printsec\u003dfrontcover&dq\u003dFinance&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003df023R-cS_FIC&dq\u003dFinance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 59.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 59.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003df023R-cS_FIC&dq\u003dFinance&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Finance-sample-pdf.acsm?id\u003df023R-cS_FIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XC4fZPbT1SQC",
+   "etag": "+pE5L7zBx8g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XC4fZPbT1SQC",
+   "volumeInfo": {
+    "title": "Finance",
+    "authors": [
+     "Robert A. Jarrow"
+    ],
+    "publisher": "North Holland",
+    "publishedDate": "1995",
+    "description": "1995 Elsevier Science BV All rights reserved Chapter 1 Portfolio Theory GM \u003cbr\u003e\r\nConstantinides Graduate School of Business, University of Chicago, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "044489084X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780444890849"
+     }
+    ],
+    "pageCount": 1165,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dXC4fZPbT1SQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dXC4fZPbT1SQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXC4fZPbT1SQC&printsec\u003dfrontcover&dq\u003dFinance&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXC4fZPbT1SQC&dq\u003dFinance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GF_EO-ZxyM4C",
+   "etag": "0tLS84Z3PZQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GF_EO-ZxyM4C",
+   "volumeInfo": {
+    "title": "Principles of Finance",
+    "authors": [
+     "Scott Besley",
+     "Eugene F. Brigham"
+    ],
+    "publisher": "South-Western Pub",
+    "publishedDate": "2008-09-27",
+    "description": "Discover success in finance as you examine today&#39;s most relevant financial concepts in PRINCIPLES OF FINANCE, Fourth Edition, by leading authors Besley/Brigham.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0324655886"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780324655889"
+     }
+    ],
+    "pageCount": 770,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dGF_EO-ZxyM4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dGF_EO-ZxyM4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGF_EO-ZxyM4C&printsec\u003dfrontcover&dq\u003dFinance&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGF_EO-ZxyM4C&dq\u003dFinance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "R9jOAAAAIAAJ",
+   "etag": "Zdlq8zL3XQU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/R9jOAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Finance",
+    "subtitle": "an introduction to financial markets and institutions",
+    "authors": [
+     "Merle T. Welshans",
+     "Ronald W. Melicher",
+     "Carl Anton Dauten"
+    ],
+    "publisher": "South-Western Pub",
+    "publishedDate": "1980-06",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0538061405"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780538061407"
+     }
+    ],
+    "pageCount": 550,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dR9jOAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dR9jOAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dR9jOAAAAIAAJ&q\u003dFinance&dq\u003dFinance&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dR9jOAAAAIAAJ&dq\u003dFinance&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 595
+}

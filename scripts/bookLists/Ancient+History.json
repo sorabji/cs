@@ -1,0 +1,515 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "PCQOAAAAYAAJ",
+   "etag": "hfl+0P017AU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PCQOAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Ancient history",
+    "subtitle": "from the earliest times to the fall of the Western empire : comprising the history of Chaldæa, Assyria, Media, Babylonia, Lydia, Phœnicia, Syria, Judæa, Egypt, Carthage, Persia, Greece, Macedonia, Parthia, and Rome",
+    "authors": [
+     "George Rawlinson"
+    ],
+    "publishedDate": "1899",
+    "description": "BOOK 1 \u003cb\u003eHISTORY\u003c/b\u003e OF THE \u003cb\u003eANCIENT\u003c/b\u003e ASIATIC AND AFRICAN STATES AND KINGDOMS FROM THE \u003cbr\u003e\r\nEARLIEST TIMES TO THE FOUNDATION OF THE PERSIAN MONARCHY BY CYRUS THE GREAT. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433082410717"
+     }
+    ],
+    "pageCount": 488,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dPCQOAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dPCQOAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPCQOAAAAYAAJ&printsec\u003dfrontcover&dq\u003dAncient+History&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPCQOAAAAYAAJ&dq\u003dAncient+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Ancient_history.epub?id\u003dPCQOAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Ancient_history.pdf?id\u003dPCQOAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3hBntBpGs2NyKxEP9blMWhyBcthA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LqspAAAAYAAJ",
+   "etag": "9sWyLae5vp4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LqspAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Ancient history",
+    "authors": [
+     "Philip Van Ness Myers"
+    ],
+    "publishedDate": "1904",
+    "description": "\u003cb\u003eANCIENT HISTORY\u003c/b\u003e CHAPTER I GENERAL INTRODUCTION: PREHISTORIC TIMES 1. The \u003cbr\u003e\r\nAntiquity of Man. — We do not know when man first appeared upon the earth \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HNJX3F"
+     }
+    ],
+    "pageCount": 639,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dLqspAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dLqspAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLqspAAAAYAAJ&printsec\u003dfrontcover&dq\u003dAncient+History&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLqspAAAAYAAJ&dq\u003dAncient+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Ancient_history.pdf?id\u003dLqspAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0_PAbPNLrbXTT0am7RQ7IWSdcfFQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LSIOAAAAYAAJ",
+   "etag": "MRJrewe5u+o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LSIOAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Ancient history",
+    "subtitle": "from the creation to the fall of Rome, A.D. 476",
+    "authors": [
+     "Samuel Griswold Goodrich"
+    ],
+    "publishedDate": "1846",
+    "description": "AN A.NCIENT \u003cb\u003eHISTORY\u003c/b\u003e, FOR THE USE OF SCHOOLS. CHAPTER I. \u003cb\u003eHistory\u003c/b\u003e. — Tts Meaning \u003cbr\u003e\r\nand Uses. 1. \u003cb\u003eHisTOry\u003c/b\u003e is a record of past events. Its province is to present \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433071394864"
+     }
+    ],
+    "pageCount": 547,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dLSIOAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dLSIOAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dLSIOAAAAYAAJ&printsec\u003dfrontcover&dq\u003dAncient+History&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dLSIOAAAAYAAJ&dq\u003dAncient+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Ancient_history.pdf?id\u003dLSIOAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1eXH3zlfAtBcrPINgtg7s_6YPc8g&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_-U_-oYawxUC",
+   "etag": "liOINiGxMjY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_-U_-oYawxUC",
+   "volumeInfo": {
+    "title": "Ancient history",
+    "authors": [
+     "Sarah B. Pomeroy",
+     "Stanley Mayer Burstein"
+    ],
+    "publisher": "Markus Wiener Pub",
+    "publishedDate": "1986-08",
+    "description": "Raphael J. Sealey, University of California, Berkeley 217 The \u003cb\u003eHistory\u003c/b\u003e of \u003cb\u003eAncient\u003c/b\u003e \u003cbr\u003e\r\nAthenian Law. Raphael J. Sealey, University of California, Berkeley 223 \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0910129576"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780910129572"
+     }
+    ],
+    "pageCount": 330,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d_-U_-oYawxUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d_-U_-oYawxUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_-U_-oYawxUC&printsec\u003dfrontcover&dq\u003dAncient+History&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_-U_-oYawxUC&dq\u003dAncient+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yi5F15qDCN8C",
+   "etag": "KmXaiTn2lLQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yi5F15qDCN8C",
+   "volumeInfo": {
+    "title": "ANCIENT HISTORY, ILLUSTRATED BY COLORED MAPS, AND A CHRONOLOGICAL CHART. FOR THE USE OF FAMILIES AND SCHOOLS.",
+    "authors": [
+     "C; A. BLOSS."
+    ],
+    "publishedDate": "1867",
+    "description": "The \u003cb\u003ehistory\u003c/b\u003e of the First Assyrian Empire is comprised within a period of 1450 \u003cbr\u003e\r\nyears ; that of the Second, within a period of 210 years ; so that Assyria, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOMDLP:acb0335:0001.001"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dyi5F15qDCN8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dyi5F15qDCN8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyi5F15qDCN8C&printsec\u003dfrontcover&dq\u003dAncient+History&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyi5F15qDCN8C&dq\u003dAncient+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/ANCIENT_HISTORY_ILLUSTRATED_BY_COLORED_M.epub?id\u003dyi5F15qDCN8C&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/ANCIENT_HISTORY_ILLUSTRATED_BY_COLORED_M.pdf?id\u003dyi5F15qDCN8C&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0rRsP2PeriVNJGQQxOent5_vl2aA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gZcWAAAAYAAJ",
+   "etag": "zybaiVdEiXU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gZcWAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Ancient history for colleges and high schools",
+    "authors": [
+     "Philip Van Ness Myers",
+     "William Francis Allen"
+    ],
+    "publishedDate": "1890",
+    "description": "Divisions of History. — History is usually divided into three periods, — Ancient\u003cbr\u003e\r\n, Mediaeval, and Modern. \u003cb\u003eAncient History\u003c/b\u003e begins with the earliest nations of \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HN21N2"
+     }
+    ],
+    "pageCount": 369,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dgZcWAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dgZcWAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dgZcWAAAAYAAJ&printsec\u003dfrontcover&dq\u003dAncient+History&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dgZcWAAAAYAAJ&dq\u003dAncient+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Ancient_history_for_colleges_and_high_sc.epub?id\u003dgZcWAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Ancient_history_for_colleges_and_high_sc.pdf?id\u003dgZcWAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3oMfYNB3Nd4CuGIZoWt2Scqw20sA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZPkxAQAAIAAJ",
+   "etag": "1XYWapXYmK0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZPkxAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Ancient history",
+    "authors": [
+     "Hutton Webster"
+    ],
+    "publishedDate": "1913",
+    "description": "\u003cb\u003eANCIENT HISTORY\u003c/b\u003e CHAPTER I THE AGES BEFORE HISTORY References Modern Works. — \u003cbr\u003e\r\nMyres, Dawn of History, 13-28, &quot;The Peoples which have No History. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:$B751487"
+     }
+    ],
+    "pageCount": 665,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dZPkxAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dZPkxAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZPkxAQAAIAAJ&printsec\u003dfrontcover&dq\u003dAncient+History&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZPkxAQAAIAAJ&dq\u003dAncient+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Ancient_history.pdf?id\u003dZPkxAQAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0ZL5eMuQZBLXMVJx4kR120Yv7kmg&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "H1IZAAAAYAAJ",
+   "etag": "AEIYLdF+rfQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/H1IZAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Ancient history",
+    "subtitle": "exhibiting a summary view of the rise, progress, revolutions, decline, and fall, of the states and nations of antiquity",
+    "authors": [
+     "John Robinson"
+    ],
+    "publishedDate": "1837",
+    "description": "\u003cb\u003eANCIENT HISTORY\u003c/b\u003e From the Creation to the Confusion of Tongues. THE Sacred \u003cbr\u003e\r\nWritings give no particular description of the first creation of the heaven and \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PRNC:32101064228115"
+     }
+    ],
+    "pageCount": 601,
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dH1IZAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dH1IZAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dH1IZAAAAYAAJ&printsec\u003dfrontcover&dq\u003dAncient+History&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dH1IZAAAAYAAJ&dq\u003dAncient+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Ancient_history.epub?id\u003dH1IZAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Ancient_history.pdf?id\u003dH1IZAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2xsh0j7UYjlQHfYAKofqSnh2806g&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IUtXAAAAYAAJ",
+   "etag": "sChWt48ODL0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IUtXAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Ancient history",
+    "subtitle": "from the dispersion of the sons of Noe, to the battle of Actium and change of the Roman republic into an empire",
+    "authors": [
+     "Peter Fredet"
+    ],
+    "publishedDate": "1851",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X001866652"
+     }
+    ],
+    "pageCount": 504,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dIUtXAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dIUtXAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIUtXAAAAYAAJ&printsec\u003dfrontcover&dq\u003dAncient+History&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIUtXAAAAYAAJ&dq\u003dAncient+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/Ancient_history.epub?id\u003dIUtXAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Ancient_history.pdf?id\u003dIUtXAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U1pt5GoDqrQf4fIhmPzOU0jdUzOZA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QvmLvAEtRGAC",
+   "etag": "OiUUiW3DaFE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QvmLvAEtRGAC",
+   "volumeInfo": {
+    "title": "Ancient history",
+    "subtitle": "monuments and documents",
+    "authors": [
+     "Charles W. Hedrick"
+    ],
+    "publisher": "Wiley-Blackwell",
+    "publishedDate": "2006-01-25",
+    "description": "This book introduces students to the chief disciplines, methods and sources employed in &#39;doing&#39; ancient history, as opposed to &#39;reading&#39; it.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1405106581"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405106580"
+     }
+    ],
+    "pageCount": 174,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dQvmLvAEtRGAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dQvmLvAEtRGAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQvmLvAEtRGAC&printsec\u003dfrontcover&dq\u003dAncient+History&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQvmLvAEtRGAC&dq\u003dAncient+History&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 574
+}

@@ -1,0 +1,587 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "lZNZAAAAMAAJ",
+   "etag": "FP1wQU/qlS4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lZNZAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Disney",
+    "subtitle": "the Mouse betrayed : greed, corruption, and children at risk",
+    "authors": [
+     "Peter Schweizer",
+     "Rochelle Schweizer"
+    ],
+    "publisher": "Regnery Publishing",
+    "publishedDate": "1998-09-25",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015047485092"
+     }
+    ],
+    "pageCount": 374,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 13,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dlZNZAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dlZNZAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlZNZAAAAMAAJ&q\u003dDisney&dq\u003dDisney&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlZNZAAAAMAAJ&dq\u003dDisney&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1goTERg-s28C",
+   "etag": "2jRN04L8le0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1goTERg-s28C",
+   "volumeInfo": {
+    "title": "Understanding Disney",
+    "subtitle": "the manufacture of fantasy",
+    "authors": [
+     "Janet Wasko"
+    ],
+    "publisher": "Polity Pr",
+    "publishedDate": "2001-03-28",
+    "description": "In this major new book, Janet Wasko examines the processes by which the Disney company - one of the largest media and entertainment corporations in the world - ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0745614841"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780745614847"
+     }
+    ],
+    "pageCount": 261,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d1goTERg-s28C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d1goTERg-s28C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1goTERg-s28C&printsec\u003dfrontcover&dq\u003dDisney&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1goTERg-s28C&dq\u003dDisney&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YGtbYTyulb4C",
+   "etag": "NS6OyyMDF6E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YGtbYTyulb4C",
+   "volumeInfo": {
+    "title": "The Gospel according to Disney",
+    "subtitle": "faith, trust, and pixie dust",
+    "authors": [
+     "Mark I. Pinsky"
+    ],
+    "publisher": "Westminster John Knox Pr",
+    "publishedDate": "2004-07",
+    "description": "In this follow-up to his bestsellingThe Gospel According to The Simpsons: The Spiritual Life of the World&#39;s Most Animated Family, religion journalist Mark ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0664225918"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780664225919"
+     }
+    ],
+    "pageCount": 286,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 10,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dYGtbYTyulb4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dYGtbYTyulb4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYGtbYTyulb4C&printsec\u003dfrontcover&dq\u003dDisney&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYGtbYTyulb4C&dq\u003dDisney&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.56,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dYGtbYTyulb4C&dq\u003dDisney&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Gospel_according_to_Disney-sample-epub.acsm?id\u003dYGtbYTyulb4C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Gospel_according_to_Disney-sample-pdf.acsm?id\u003dYGtbYTyulb4C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HnBMWdps1-0C",
+   "etag": "r86WU3EoTxQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HnBMWdps1-0C",
+   "volumeInfo": {
+    "title": "The Unofficial Guide Walt Disney World 2011",
+    "authors": [
+     "Bob Sehlinger",
+     "Menasha Ridge",
+     "Len Testa"
+    ],
+    "publisher": "Wiley",
+    "publishedDate": "2010-08-23",
+    "description": "Five Great Features and Benefits offered ONLY by &quot;The Unofficial Guide&quot; Exclusively patented, field-tested touring plans that save as much as four hours of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "047061529X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470615294"
+     }
+    ],
+    "pageCount": 864,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 90,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dHnBMWdps1-0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dHnBMWdps1-0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dHnBMWdps1-0C&printsec\u003dfrontcover&dq\u003dDisney&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dHnBMWdps1-0C&dq\u003dDisney&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dHnBMWdps1-0C&dq\u003dDisney&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_Unofficial_Guide_Walt_Disney_World_2-sample-pdf.acsm?id\u003dHnBMWdps1-0C&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NMWnD5bys1kC",
+   "etag": "BkT/lCxp6qM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NMWnD5bys1kC",
+   "volumeInfo": {
+    "title": "The Disney Way",
+    "subtitle": "Harnessing the Management Secrets of Disney in Your Company",
+    "authors": [
+     "Bill Capodagli",
+     "Lynn Jackson"
+    ],
+    "publisher": "McGraw-Hill",
+    "publishedDate": "2001-08-30",
+    "description": "Praise for &quot;The Disney Way&quot;: &quot;If you&#39;ve ever wondered exactly how a cartoon rodent spawned a media empire\u00ad\u00adand whether your company could learn anything from ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "007137969X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071379694"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 10,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dNMWnD5bys1kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dNMWnD5bys1kC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNMWnD5bys1kC&printsec\u003dfrontcover&dq\u003dDisney&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNMWnD5bys1kC&dq\u003dDisney&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5JHrODsAdNwC",
+   "etag": "WaViDBUQqNY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5JHrODsAdNwC",
+   "volumeInfo": {
+    "title": "Walt Disney",
+    "subtitle": "the triumph of the American imagination",
+    "authors": [
+     "Neal Gabler"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "publishedDate": "2006-10-31",
+    "description": "A definitive portrait of a giant of twentieth-century American popular culture offers a meticulously researched study of the private life and public career of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "067943822X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780679438229"
+     }
+    ],
+    "pageCount": 851,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 103,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d5JHrODsAdNwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d5JHrODsAdNwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d5JHrODsAdNwC&printsec\u003dfrontcover&dq\u003dDisney&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d5JHrODsAdNwC&dq\u003dDisney&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d5JHrODsAdNwC&dq\u003dDisney&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Walt_Disney-sample-epub.acsm?id\u003d5JHrODsAdNwC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Walt_Disney-sample-pdf.acsm?id\u003d5JHrODsAdNwC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OQq2PwAACAAJ",
+   "etag": "Dnp149uleII",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OQq2PwAACAAJ",
+   "volumeInfo": {
+    "title": "Disney",
+    "subtitle": "The First 100 Years",
+    "authors": [
+     "Dave Smith",
+     "Steven Clark"
+    ],
+    "publisher": "Hyperion Books",
+    "publishedDate": "2002",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0786853808"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786853809"
+     }
+    ],
+    "pageCount": 214,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dOQq2PwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dOQq2PwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOQq2PwAACAAJ&dq\u003dDisney&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOQq2PwAACAAJ&dq\u003dDisney&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "buB3PwAACAAJ",
+   "etag": "OaEyNbCUsnY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/buB3PwAACAAJ",
+   "volumeInfo": {
+    "title": "Beauty and the Beast",
+    "authors": [
+     "DISNEY"
+    ],
+    "publisher": "Ladybird Books",
+    "publishedDate": "2003-05-29",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1844220354"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781844220359"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dbuB3PwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dbuB3PwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbuB3PwAACAAJ&dq\u003dDisney&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbuB3PwAACAAJ&dq\u003dDisney&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FOaQs0csokcC",
+   "etag": "Gsz9SCIwiY0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FOaQs0csokcC",
+   "volumeInfo": {
+    "title": "The Disney way fieldbook",
+    "subtitle": "how to implement Walt Disney's vision of \"Dream, believe, dare, do\" in your own company",
+    "authors": [
+     "Bill Capodagli",
+     "Lynn Jackson"
+    ],
+    "publisher": "McGraw-Hill Professional",
+    "publishedDate": "2000-08-28",
+    "description": "After reading this book, you will discover and believe in the magic of your people too!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0071361065"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780071361064"
+     }
+    ],
+    "pageCount": 408,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dFOaQs0csokcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dFOaQs0csokcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFOaQs0csokcC&printsec\u003dfrontcover&dq\u003dDisney&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFOaQs0csokcC&dq\u003dDisney&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZNYZD4iEWmcC",
+   "etag": "SMj+1hoMSfM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZNYZD4iEWmcC",
+   "volumeInfo": {
+    "title": "Disney Princess CD Storybook",
+    "authors": [
+     "Co Disney",
+     "Hinkler Books"
+    ],
+    "publisher": "Hinkler Books Pty Ltd",
+    "publishedDate": "2004-04-22",
+    "description": "A listen-and-read-along CD and hardcover book package includes and four Disney Princess stories, Beauty &amp; the Beast, The Little Mermaid, Cinderella, and Snow ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1865157546"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781865157542"
+     }
+    ],
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dZNYZD4iEWmcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dZNYZD4iEWmcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZNYZD4iEWmcC&printsec\u003dfrontcover&dq\u003dDisney&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZNYZD4iEWmcC&dq\u003dDisney&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 593
+}

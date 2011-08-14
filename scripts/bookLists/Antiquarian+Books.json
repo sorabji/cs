@@ -1,0 +1,434 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "bDbrAAAAMAAJ",
+   "etag": "ZTRI1ofSHd4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bDbrAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Antiquarian books",
+    "subtitle": "a companion for booksellers, librarians and collectors",
+    "authors": [
+     "Philippa Bernard",
+     "Leo Bernard",
+     "Angus O'Neill"
+    ],
+    "publisher": "Univ of Pennsylvania Pr",
+    "publishedDate": "1994-07-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015034425143"
+     }
+    ],
+    "pageCount": 461,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dbDbrAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dbDbrAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbDbrAAAAMAAJ&q\u003dAntiquarian+Books&dq\u003dAntiquarian+Books&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbDbrAAAAMAAJ&dq\u003dAntiquarian+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ncK6AAAAIAAJ",
+   "etag": "ToTJzJUDfIs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ncK6AAAAIAAJ",
+   "volumeInfo": {
+    "title": "Antiquarian books",
+    "subtitle": "an insider's account",
+    "authors": [
+     "Roy Harley Lewis"
+    ],
+    "publisher": "David and Charles",
+    "publishedDate": "1978",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B4200894"
+     }
+    ],
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dncK6AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dncK6AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dncK6AAAAIAAJ&q\u003dAntiquarian+Books&dq\u003dAntiquarian+Books&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dncK6AAAAIAAJ&dq\u003dAntiquarian+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nfozOAAACAAJ",
+   "etag": "uQ9aZw601GY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nfozOAAACAAJ",
+   "volumeInfo": {
+    "title": "Antiquarian books",
+    "authors": [
+     "Holland Bros., Birmingham"
+    ],
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:226935290"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnfozOAAACAAJ&dq\u003dAntiquarian+Books&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnfozOAAACAAJ&dq\u003dAntiquarian+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TpnYSAAACAAJ",
+   "etag": "+UVIo4y/oTw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TpnYSAAACAAJ",
+   "volumeInfo": {
+    "title": "Antiquarian books",
+    "authors": [
+     "Europeriodiques, Saint Cloud"
+    ],
+    "publishedDate": "1972",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:226941196"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dTpnYSAAACAAJ&dq\u003dAntiquarian+Books&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dTpnYSAAACAAJ&dq\u003dAntiquarian+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1AQQtwAACAAJ",
+   "etag": "wHcPVijLIRY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1AQQtwAACAAJ",
+   "volumeInfo": {
+    "title": "Antiquarian books",
+    "publishedDate": "2001*",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:254795789"
+     }
+    ],
+    "pageCount": 104,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d1AQQtwAACAAJ&dq\u003dAntiquarian+Books&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d1AQQtwAACAAJ&dq\u003dAntiquarian+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KCdVAAAAYAAJ",
+   "etag": "kav5Dvyda1I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KCdVAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Bibliotheca Cantiana, Or Antiquarian Kentish Books: Up to the year 1836",
+    "publishedDate": "1980-03",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X000930855"
+     }
+    ],
+    "pageCount": 360,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dKCdVAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dKCdVAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dKCdVAAAAYAAJ&q\u003dAntiquarian+Books&dq\u003dAntiquarian+Books&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dKCdVAAAAYAAJ&dq\u003dAntiquarian+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6WDgAAAAMAAJ",
+   "etag": "cCMae5v5pu4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6WDgAAAAMAAJ",
+   "volumeInfo": {
+    "title": "A Directory of dealers in secondhand and antiquarian books in the British Isles",
+    "publisher": "Sheppard Press",
+    "publishedDate": "1978",
+    "description": "Type and size of business. The size of the normal stock of second-hand (sec.) or \u003cbr\u003e\r\n\u003cb\u003eantiquarian\u003c/b\u003e (antiq.) \u003cb\u003ebooks\u003c/b\u003e; also whether the firm deals in new \u003cb\u003ebooks\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015081567631"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d6WDgAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d6WDgAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6WDgAAAAMAAJ&q\u003dAntiquarian+Books&dq\u003dAntiquarian+Books&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6WDgAAAAMAAJ&dq\u003dAntiquarian+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EmHzZgjLA_UC",
+   "etag": "h1aqv+kzhJo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EmHzZgjLA_UC",
+   "volumeInfo": {
+    "title": "Rare books and manuscript thefts",
+    "subtitle": "a security system for librarians, booksellers, and collectors",
+    "authors": [
+     "John Holmes Jenkins",
+     "Antiquarian Booksellers Association of America"
+    ],
+    "publishedDate": "1982",
+    "description": "\u003cb\u003e...\u003c/b\u003e sections, and whatnot— among wjhich is the \u003cb\u003eRare Books\u003c/b\u003e and Manuscripts \u003cbr\u003e\r\nSection (RBMS). \u003cb\u003e...\u003c/b\u003e with the antiquarian book trade, and with book collectors. \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015005164382"
+     }
+    ],
+    "pageCount": 28,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dEmHzZgjLA_UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dEmHzZgjLA_UC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEmHzZgjLA_UC&q\u003dAntiquarian+Books&dq\u003dAntiquarian+Books&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEmHzZgjLA_UC&dq\u003dAntiquarian+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7xDhAAAAMAAJ",
+   "etag": "aRsKWQbsjeY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7xDhAAAAMAAJ",
+   "volumeInfo": {
+    "title": "How to buy rare books",
+    "subtitle": "a practical guide to the antiquarian book market",
+    "authors": [
+     "William Rees-Mogg"
+    ],
+    "publisher": "Seven Hills Books",
+    "publishedDate": "1985-12",
+    "description": "As \u003cb\u003eantiquarian\u003c/b\u003e booksellers will tell you, it is not enough to be a collector of \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e I have found in my own life that collecting \u003cb\u003ebooks\u003c/b\u003e has been a consistent \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015010433988"
+     }
+    ],
+    "pageCount": 159,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d7xDhAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d7xDhAAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7xDhAAAAMAAJ&q\u003dAntiquarian+Books&dq\u003dAntiquarian+Books&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7xDhAAAAMAAJ&dq\u003dAntiquarian+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iJw7AQAAIAAJ",
+   "etag": "IO+AbIMhV2U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iJw7AQAAIAAJ",
+   "volumeInfo": {
+    "title": "Antiquarian book monthly",
+    "publishedDate": "2003-02",
+    "description": "Iiuerii.ition.il I e.igue of Antiquarian Booksellers ILAB-LILA Ligue \u003cbr\u003e\r\nInternationale de li Librtii* Ancienne ^5^t&gt;. fine and \u003cb\u003erare books\u003c/b\u003e, maps, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105113523927"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003diJw7AQAAIAAJ&q\u003dAntiquarian+Books&dq\u003dAntiquarian+Books&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003diJw7AQAAIAAJ&dq\u003dAntiquarian+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 520
+}

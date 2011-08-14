@@ -1,0 +1,542 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "DBa6WQ5XCowC",
+   "etag": "azb+8NcMCU0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DBa6WQ5XCowC",
+   "volumeInfo": {
+    "title": "The American presidents",
+    "authors": [
+     "Melvin I. Urofsky"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2000",
+    "description": "In this volume, the leading presidential historians in the United States offer insights into what makes a president great, mediocre, or--in the case of most of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0815321848"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780815321842"
+     }
+    ],
+    "pageCount": 530,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dDBa6WQ5XCowC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dDBa6WQ5XCowC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDBa6WQ5XCowC&printsec\u003dfrontcover&dq\u003dAmerican+Presidents&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDBa6WQ5XCowC&dq\u003dAmerican+Presidents&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 210.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 168.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dDBa6WQ5XCowC&dq\u003dAmerican+Presidents&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/The_American_presidents-sample-epub.acsm?id\u003dDBa6WQ5XCowC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/The_American_presidents-sample-pdf.acsm?id\u003dDBa6WQ5XCowC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NBjV3zCjPQsC",
+   "etag": "o/PM8H0sydc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NBjV3zCjPQsC",
+   "volumeInfo": {
+    "title": "The American presidents",
+    "authors": [
+     "Frank Northen Magill",
+     "John L. Loos",
+     "Tracy Irons-Georges"
+    ],
+    "publisher": "Salem Pr Inc",
+    "publishedDate": "2000",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0893562246"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780893562243"
+     }
+    ],
+    "pageCount": 813,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dNBjV3zCjPQsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dNBjV3zCjPQsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNBjV3zCjPQsC&q\u003dAmerican+Presidents&dq\u003dAmerican+Presidents&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNBjV3zCjPQsC&dq\u003dAmerican+Presidents&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-E72L8hZrskC",
+   "etag": "FUpxeMm/Gus",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-E72L8hZrskC",
+   "volumeInfo": {
+    "title": "The American presidents",
+    "subtitle": "heroic leadership from Kennedy to Clinton",
+    "authors": [
+     "Jon Roper"
+    ],
+    "publisher": "Edinburgh Univ Pr",
+    "publishedDate": "2000",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0748612262"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780748612260"
+     }
+    ],
+    "pageCount": 246,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d-E72L8hZrskC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d-E72L8hZrskC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-E72L8hZrskC&dq\u003dAmerican+Presidents&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-E72L8hZrskC&dq\u003dAmerican+Presidents&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Sd4GU3RhsUAC",
+   "etag": "HxdAa181oyI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Sd4GU3RhsUAC",
+   "volumeInfo": {
+    "title": "American presidents",
+    "subtitle": "farewell messages to the nation, 1796-2001",
+    "authors": [
+     "Gleaves Whitney"
+    ],
+    "publishedDate": "2003",
+    "description": "Collects presidential exaugural addresses from Washington to Clinton and includes a brief statement to introduce each message.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0739103938"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780739103937"
+     }
+    ],
+    "pageCount": 477,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dSd4GU3RhsUAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dSd4GU3RhsUAC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dSd4GU3RhsUAC&printsec\u003dfrontcover&dq\u003dAmerican+Presidents&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dSd4GU3RhsUAC&dq\u003dAmerican+Presidents&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 110.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 88.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dSd4GU3RhsUAC&dq\u003dAmerican+Presidents&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/American_presidents-sample-epub.acsm?id\u003dSd4GU3RhsUAC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/American_presidents-sample-pdf.acsm?id\u003dSd4GU3RhsUAC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "owGTFmknJEoC",
+   "etag": "gj3ErInNeBQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/owGTFmknJEoC",
+   "volumeInfo": {
+    "title": "The American Presidents",
+    "authors": [
+     "David C. Whitney"
+    ],
+    "publishedDate": "2005",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1582881677"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781582881676"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dowGTFmknJEoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dowGTFmknJEoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dowGTFmknJEoC&q\u003dAmerican+Presidents&dq\u003dAmerican+Presidents&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dowGTFmknJEoC&dq\u003dAmerican+Presidents&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nd0TkgAACAAJ",
+   "etag": "1N4MUXJSAs0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nd0TkgAACAAJ",
+   "volumeInfo": {
+    "title": "American Presidents",
+    "subtitle": "Their Individualities and Their Contributions to American Progress (1917)",
+    "authors": [
+     "Thomas Francis Moran"
+    ],
+    "publishedDate": "2010-09-10",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1164069616"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781164069614"
+     }
+    ],
+    "pageCount": 344,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dnd0TkgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dnd0TkgAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dnd0TkgAACAAJ&dq\u003dAmerican+Presidents&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dnd0TkgAACAAJ&dq\u003dAmerican+Presidents&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IJEyzcb2dMgC",
+   "etag": "K8r/cspLOSU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IJEyzcb2dMgC",
+   "volumeInfo": {
+    "title": "American Presidents Coloring Book",
+    "authors": [
+     "Peter F. Copeland",
+     "Cynthia Copeland"
+    ],
+    "publisher": "Dover Pubns",
+    "publishedDate": "2001-01-08",
+    "description": "Ready-to-color portraits of all 44 U.S. Presidents — from George Washington to Barack Obama — deftly portrayed against backdrops of significant events that ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0486413241"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486413242"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dIJEyzcb2dMgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dIJEyzcb2dMgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dIJEyzcb2dMgC&printsec\u003dfrontcover&dq\u003dAmerican+Presidents&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dIJEyzcb2dMgC&dq\u003dAmerican+Presidents&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kqCQNwAACAAJ",
+   "etag": "NRx76ZxlBP0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kqCQNwAACAAJ",
+   "volumeInfo": {
+    "title": "American Presidents",
+    "authors": [
+     "David Levine",
+     "Bill Moyers"
+    ],
+    "publishedDate": "2008-11",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1606991302"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781606991305"
+     }
+    ],
+    "pageCount": 127,
+    "printType": "BOOK",
+    "categories": [
+     "Comics & Graphic Novels"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dkqCQNwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dkqCQNwAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dkqCQNwAACAAJ&dq\u003dAmerican+Presidents&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dkqCQNwAACAAJ&dq\u003dAmerican+Presidents&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FYUMAQAAMAAJ",
+   "etag": "JVO+o3fwNU4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FYUMAQAAMAAJ",
+   "volumeInfo": {
+    "title": "American presidents",
+    "authors": [
+     "Robert P. Watson",
+     "Richard Yon"
+    ],
+    "publishedDate": "2006",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "WISC:89082490780"
+     }
+    ],
+    "pageCount": 996,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dFYUMAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dFYUMAQAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFYUMAQAAMAAJ&q\u003dAmerican+Presidents&dq\u003dAmerican+Presidents&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFYUMAQAAMAAJ&dq\u003dAmerican+Presidents&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lyh2AAAAMAAJ",
+   "etag": "cr7/3CDDypY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lyh2AAAAMAAJ",
+   "volumeInfo": {
+    "title": "American presidents",
+    "subtitle": "1933 - 2000",
+    "authors": [
+     "Lyle Emerson Nelson"
+    ],
+    "publishedDate": "2004",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0765680467"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780765680464"
+     }
+    ],
+    "pageCount": 239,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dlyh2AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dlyh2AAAAMAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlyh2AAAAMAAJ&q\u003dAmerican+Presidents&dq\u003dAmerican+Presidents&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlyh2AAAAMAAJ&dq\u003dAmerican+Presidents&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 556
+}

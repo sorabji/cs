@@ -1,0 +1,477 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "mXcQAQAAMAAJ",
+   "etag": "wHn6z3loFTU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mXcQAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Landmark Books",
+    "authors": [
+     "Colleen Carroll",
+     "James T. De Kay",
+     "Marvin Barrett",
+     "Barbara Cary",
+     "Joan Heilbroner"
+    ],
+    "publishedDate": "2006",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PSU:000061577534"
+     }
+    ],
+    "pageCount": 6,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmXcQAQAAMAAJ&q\u003dLandmark+Books&dq\u003dLandmark+Books&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmXcQAQAAMAAJ&dq\u003dLandmark+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oQFntwAACAAJ",
+   "etag": "tpPJ3VveSTE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oQFntwAACAAJ",
+   "volumeInfo": {
+    "title": "Landmark books",
+    "publishedDate": "1951",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:517990556"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003doQFntwAACAAJ&dq\u003dLandmark+Books&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003doQFntwAACAAJ&dq\u003dLandmark+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bprImywSVqoC",
+   "etag": "yjPTWJmDvo8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bprImywSVqoC",
+   "volumeInfo": {
+    "title": "Meet Martin Luther King, Jr.",
+    "authors": [
+     "James T. De Kay"
+    ],
+    "publisher": "Random House Books for Young Readers",
+    "publishedDate": "2001-01-02",
+    "description": "Hailed as the first historical series for kids, Landmark Books show us where we&#39;ve been and where we&#39;re going.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0375803955"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780375803956"
+     }
+    ],
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dbprImywSVqoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dbprImywSVqoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dbprImywSVqoC&printsec\u003dfrontcover&dq\u003dLandmark+Books&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dbprImywSVqoC&dq\u003dLandmark+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 4.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 4.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dbprImywSVqoC&dq\u003dLandmark+Books&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Meet_Martin_Luther_King_Jr-sample-epub.acsm?id\u003dbprImywSVqoC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pjt3ZGU61wIC",
+   "etag": "TJH21fPHSF4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pjt3ZGU61wIC",
+   "volumeInfo": {
+    "title": "The Landmark Thucydides",
+    "authors": [
+     "Robert B. Strassler",
+     "Victor Davis Hanson"
+    ],
+    "publisher": "Free Press",
+    "publishedDate": "2008-04-01",
+    "description": "However, this classic book has long presented obstacles to the uninitiated reader.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1416590870"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781416590873"
+     }
+    ],
+    "pageCount": 752,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 57,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dpjt3ZGU61wIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dpjt3ZGU61wIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dpjt3ZGU61wIC&printsec\u003dfrontcover&dq\u003dLandmark+Books&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dpjt3ZGU61wIC&dq\u003dLandmark+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GN89-brl2KYC",
+   "etag": "XEAm/8h9BsU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GN89-brl2KYC",
+   "volumeInfo": {
+    "title": "50 Success Classics",
+    "subtitle": "Winning Wisdom for Work and Life from 50 Landmark Books",
+    "authors": [
+     "Tom Butler-Bowdon"
+    ],
+    "publisher": "Nicholas Brealey Publishing",
+    "publishedDate": "2004-02-25",
+    "description": "Here is the first and only bite-sized guide to 50 of the most important and inspiring books that already have helped legions of readers unleash their potential ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1857883330"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781857883336"
+     }
+    ],
+    "pageCount": 315,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 10,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dGN89-brl2KYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dGN89-brl2KYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGN89-brl2KYC&printsec\u003dfrontcover&dq\u003dLandmark+Books&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGN89-brl2KYC&dq\u003dLandmark+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dGN89-brl2KYC&dq\u003dLandmark+Books&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/50_Success_Classics-sample-epub.acsm?id\u003dGN89-brl2KYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Dy0VcgAACAAJ",
+   "etag": "tT85bJSCTX4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Dy0VcgAACAAJ",
+   "volumeInfo": {
+    "title": "World landmark books",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:615051948"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDy0VcgAACAAJ&dq\u003dLandmark+Books&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDy0VcgAACAAJ&dq\u003dLandmark+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "z4FQAAAAYAAJ",
+   "etag": "NqiqdqfaAhg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/z4FQAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Instructor",
+    "publishedDate": "1968-02",
+    "description": "Free Teachers&#39; Guides AMERICAN LANDMARK-ENRICHMENT RECORDS Exciting, authentic \u003cbr\u003e\r\ndramatizations of historical events, based on \u003cb\u003eLandmark Books\u003c/b\u003e, published by \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "CORNELL:31924069810533"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dz4FQAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dz4FQAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dz4FQAAAAYAAJ&q\u003dLandmark+Books&dq\u003dLandmark+Books&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dz4FQAAAAYAAJ&dq\u003dLandmark+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AFruAAAAMAAJ",
+   "etag": "G3lfnMdaJdU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AFruAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Time",
+    "authors": [
+     "Briton Hadden",
+     "Henry Robinson Luce"
+    ],
+    "publishedDate": "1990-01-01",
+    "description": "A \u003cb\u003elandmark\u003c/b\u003e 423. A scholar tells omnibus collection of how myths have 41 of \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e\r\nSimply choose any three \u003cb\u003ebooks\u003c/b\u003e from this page; we&#39;ll bill you later for $3, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015075842768"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dAFruAAAAMAAJ&q\u003dLandmark+Books&dq\u003dLandmark+Books&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dAFruAAAAMAAJ&dq\u003dLandmark+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jNP8NwAACAAJ",
+   "etag": "M1Vndstl8l8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jNP8NwAACAAJ",
+   "volumeInfo": {
+    "title": "Landmark books in science",
+    "subtitle": "a study in first editions",
+    "authors": [
+     "John Jenson"
+    ],
+    "publishedDate": "1956",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:5715547"
+     }
+    ],
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djNP8NwAACAAJ&dq\u003dLandmark+Books&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djNP8NwAACAAJ&dq\u003dLandmark+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GqcGAQAAIAAJ",
+   "etag": "HUfZMJp5jm0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GqcGAQAAIAAJ",
+   "volumeInfo": {
+    "title": "The Atlantic",
+    "authors": [
+     "Cairns Collection of American Women Writers"
+    ],
+    "publishedDate": "1959",
+    "description": "With them he will receive the Allabout or \u003cb\u003eLandmark Book\u003c/b\u003e you select as the first \u003cbr\u003e\r\npurchase from the two listed below. Also included will be fifty handsome \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSC:32106019603106"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dGqcGAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dGqcGAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGqcGAQAAIAAJ&q\u003dLandmark+Books&dq\u003dLandmark+Books&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGqcGAQAAIAAJ&dq\u003dLandmark+Books&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 587
+}

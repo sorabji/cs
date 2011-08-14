@@ -1,0 +1,551 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "-FW7oDQNwV4C",
+   "etag": "y/zqnmwpnnE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-FW7oDQNwV4C",
+   "volumeInfo": {
+    "title": "The Series",
+    "subtitle": "an illustrated history of baseball's postseason showcase",
+    "authors": [
+     "Joe Hoppel",
+     "Craig Carter"
+    ],
+    "publisher": "Sporting News",
+    "publishedDate": "1992-11",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0892044446"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780892044443"
+     }
+    ],
+    "pageCount": 391,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d-FW7oDQNwV4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d-FW7oDQNwV4C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-FW7oDQNwV4C&q\u003dSeries&dq\u003dSeries&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-FW7oDQNwV4C&dq\u003dSeries&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_DcYu_EhVzUC",
+   "etag": "UCzG7uF9HtQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_DcYu_EhVzUC",
+   "volumeInfo": {
+    "title": "Time Series",
+    "subtitle": "Theory and Methods",
+    "authors": [
+     "Peter J. Brockwell",
+     "Richard A. Davis"
+    ],
+    "publisher": "Springer Verlag",
+    "publishedDate": "2009-04-28",
+    "description": "This paperback edition is a reprint of the 1991 edition.Time Series: Theory and Methods is a systematic account of linear time series models and their ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1441903194"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781441903198"
+     }
+    ],
+    "pageCount": 584,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003d_DcYu_EhVzUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003d_DcYu_EhVzUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_DcYu_EhVzUC&printsec\u003dfrontcover&dq\u003dSeries&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_DcYu_EhVzUC&dq\u003dSeries&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 59.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 47.36,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d_DcYu_EhVzUC&dq\u003dSeries&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Time_Series-sample-pdf.acsm?id\u003d_DcYu_EhVzUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UUCwlUAWl5gC",
+   "etag": "HW+nuMMgilY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UUCwlUAWl5gC",
+   "volumeInfo": {
+    "title": "I-Series",
+    "subtitle": "Microsoft Excel 2002, Introductory",
+    "authors": [
+     "Stephen Haag",
+     "James T. Perry"
+    ],
+    "publisher": "Career Education",
+    "publishedDate": "2002-01-23",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0072470321"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780072470321"
+     }
+    ],
+    "pageCount": 552,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "0.2.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dUUCwlUAWl5gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dUUCwlUAWl5gC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUUCwlUAWl5gC&q\u003dSeries&dq\u003dSeries&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUUCwlUAWl5gC&dq\u003dSeries&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "W9AxAjSiIaUC",
+   "etag": "wA9AOdTLREA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/W9AxAjSiIaUC",
+   "volumeInfo": {
+    "title": "Trigonometric series",
+    "authors": [
+     "Antoni Zygmund"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "2002",
+    "description": "Both volumes of classic text on trigonometric series, now with a foreword by Robert Fefferman.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521890535"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521890533"
+     }
+    ],
+    "pageCount": 747,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dW9AxAjSiIaUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dW9AxAjSiIaUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dW9AxAjSiIaUC&printsec\u003dfrontcover&dq\u003dSeries&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dW9AxAjSiIaUC&dq\u003dSeries&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7FTkxDvfnPMC",
+   "etag": "HXgNTQQxvYw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7FTkxDvfnPMC",
+   "volumeInfo": {
+    "title": "The Series",
+    "subtitle": "an illustrated history of baseball's postseason showcase",
+    "authors": [
+     "Sporting News"
+    ],
+    "publisher": "Sporting News Publishing Co.",
+    "publishedDate": "1991-11",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0892043962"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780892043965"
+     }
+    ],
+    "pageCount": 382,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003d7FTkxDvfnPMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003d7FTkxDvfnPMC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7FTkxDvfnPMC&q\u003dSeries&dq\u003dSeries&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7FTkxDvfnPMC&dq\u003dSeries&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B8_1UBmqVUoC",
+   "etag": "97VvxCpdIZ4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B8_1UBmqVUoC",
+   "volumeInfo": {
+    "title": "Time series analysis",
+    "authors": [
+     "James Douglas Hamilton"
+    ],
+    "publisher": "Princeton Univ Pr",
+    "publishedDate": "1994-01-11",
+    "description": "This book is intended to provide students, researchers, and forecasters with a definitive, self-contained survey of dynamic systems, econometrics, and time ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0691042896"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780691042893"
+     }
+    ],
+    "pageCount": 799,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 13,
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dB8_1UBmqVUoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dB8_1UBmqVUoC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dB8_1UBmqVUoC&printsec\u003dfrontcover&dq\u003dSeries&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dB8_1UBmqVUoC&dq\u003dSeries&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Time_series_analysis-sample-pdf.acsm?id\u003dB8_1UBmqVUoC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ecS5DKstwREC",
+   "etag": "sXFV7qWVLNg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ecS5DKstwREC",
+   "volumeInfo": {
+    "title": "Fourier series and orthogonal functions",
+    "authors": [
+     "Harry F. Davis"
+    ],
+    "publisher": "Dover Pubns",
+    "publishedDate": "1989-05-01",
+    "description": "This incisive text deftly combines both theory and pratical example to introduce and explore Fourier series and orthogonal functions and applications of the ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0486659739"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486659732"
+     }
+    ],
+    "pageCount": 403,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003decS5DKstwREC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003decS5DKstwREC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003decS5DKstwREC&printsec\u003dfrontcover&dq\u003dSeries&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003decS5DKstwREC&dq\u003dSeries&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0fRcUmyhUIQC",
+   "etag": "lxAviVyvixY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0fRcUmyhUIQC",
+   "volumeInfo": {
+    "title": "Time series analysis and its applications",
+    "authors": [
+     "Robert H. Shumway",
+     "David S. Stoffer"
+    ],
+    "publisher": "Springer Verlag",
+    "publishedDate": "2000",
+    "description": "Geared to people involved in statistics, medicine, engineering, and economics, this book offers a basic introduction to time series analysis, providing a ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0387989501"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780387989501"
+     }
+    ],
+    "pageCount": 549,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003d0fRcUmyhUIQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003d0fRcUmyhUIQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0fRcUmyhUIQC&printsec\u003dfrontcover&dq\u003dSeries&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0fRcUmyhUIQC&dq\u003dSeries&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Time_series_analysis_and_its_application-sample-pdf.acsm?id\u003d0fRcUmyhUIQC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Pv_Aa9d6ovsC",
+   "etag": "xQ+Lrv9McrE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Pv_Aa9d6ovsC",
+   "volumeInfo": {
+    "title": "Infinite sequences and series",
+    "authors": [
+     "Konrad Knopp"
+    ],
+    "publisher": "Dover Pubns",
+    "publishedDate": "1956-06-01",
+    "description": "Covers functions of real and complex variables, arbitrary and null sequences, convergence and divergence, Cauchy&#39;s limit theorem, tests for infinite series, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0486601536"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486601533"
+     }
+    ],
+    "pageCount": 186,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dPv_Aa9d6ovsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dPv_Aa9d6ovsC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPv_Aa9d6ovsC&printsec\u003dfrontcover&dq\u003dSeries&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPv_Aa9d6ovsC&dq\u003dSeries&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qLPxxeBzp84C",
+   "etag": "p3v/lcW7LgU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qLPxxeBzp84C",
+   "volumeInfo": {
+    "title": "Theory and application of infinite series",
+    "authors": [
+     "Konrad Knopp"
+    ],
+    "publisher": "Dover Pubns",
+    "publishedDate": "1990-03-01",
+    "description": "Unusually clear and interesting classic covers real numbers and sequences, foundations of the theory of infinite series and development of the theory (series of ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0486661652"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486661650"
+     }
+    ],
+    "pageCount": 563,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dqLPxxeBzp84C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dqLPxxeBzp84C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dqLPxxeBzp84C&printsec\u003dfrontcover&dq\u003dSeries&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dqLPxxeBzp84C&dq\u003dSeries&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 595
+}

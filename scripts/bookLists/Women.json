@@ -1,0 +1,561 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "PsOzAQAACAAJ",
+   "etag": "TihWx5aGnMc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PsOzAQAACAAJ",
+   "volumeInfo": {
+    "title": "Women",
+    "authors": [
+     "Annie Leibovitz"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "2000-11-09",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0224061372"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780224061377"
+     }
+    ],
+    "pageCount": 247,
+    "printType": "BOOK",
+    "categories": [
+     "Photography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 25,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dPsOzAQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dPsOzAQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dPsOzAQAACAAJ&dq\u003dWomen&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dPsOzAQAACAAJ&dq\u003dWomen&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2it03Dzk6dEC",
+   "etag": "H6edcVctdLA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2it03Dzk6dEC",
+   "volumeInfo": {
+    "title": "Women on top",
+    "subtitle": "how real life has changed women's sexual fantasies",
+    "authors": [
+     "Nancy Friday"
+    ],
+    "publisher": "Pocket",
+    "publishedDate": "1993-01-01",
+    "description": "Analyzes the sexual fantasies of more than one hundred and fifty women to show how women&#39;s attitudes have changed towards sex, their partners, and themselves",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0671648454"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780671648459"
+     }
+    ],
+    "pageCount": 559,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 17,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d2it03Dzk6dEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d2it03Dzk6dEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2it03Dzk6dEC&printsec\u003dfrontcover&dq\u003dWomen&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2it03Dzk6dEC&dq\u003dWomen&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BKMVAQAAIAAJ",
+   "etag": "YvZKBCRQSsk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BKMVAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Women",
+    "subtitle": "A Pictorial Archive from Nineteenth-Century Sources",
+    "authors": [
+     "Jim Harter"
+    ],
+    "publisher": "Dover Pubns",
+    "publishedDate": "1978-11-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105003259491"
+     }
+    ],
+    "pageCount": 120,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dBKMVAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dBKMVAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dBKMVAQAAIAAJ&q\u003dWomen&dq\u003dWomen&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dBKMVAQAAIAAJ&dq\u003dWomen&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3CogAQAAIAAJ",
+   "etag": "qThWTmAadjw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3CogAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Women",
+    "subtitle": "images and realities : a multicultural anthology",
+    "authors": [
+     "Amy Vita Kesselman",
+     "Lily D. McNair",
+     "Nancy Schniedewind"
+    ],
+    "publisher": "McGraw-Hill Humanities/Social Sciences/Languages",
+    "publishedDate": "2003",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0767420896"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780767420891"
+     }
+    ],
+    "pageCount": 629,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003d3CogAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003d3CogAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d3CogAQAAIAAJ&q\u003dWomen&dq\u003dWomen&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d3CogAQAAIAAJ&dq\u003dWomen&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0XCgX34Ew-YC",
+   "etag": "RLn8rhadU+8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0XCgX34Ew-YC",
+   "volumeInfo": {
+    "title": "Two Old Women",
+    "subtitle": "An Alaskan Legend of Betrayal, Courage, and Survival",
+    "authors": [
+     "Velma Wallis"
+    ],
+    "publisher": "Epicenter Pr",
+    "publishedDate": "2004-03-01",
+    "description": "Based on an Athabascan legend passed along from mother to daughter for many generations on the upper Yukon River in Alaska, this is the tragic and shocking ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0972494499"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780972494496"
+     }
+    ],
+    "pageCount": 148,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 281,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d0XCgX34Ew-YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d0XCgX34Ew-YC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0XCgX34Ew-YC&printsec\u003dfrontcover&dq\u003dWomen&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0XCgX34Ew-YC&dq\u003dWomen&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.36,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 8.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d0XCgX34Ew-YC&dq\u003dWomen&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Two_Old_Women-sample-epub.acsm?id\u003d0XCgX34Ew-YC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Two_Old_Women-sample-pdf.acsm?id\u003d0XCgX34Ew-YC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Q0xfkU0igu8C",
+   "etag": "Rc9gffIQHhM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Q0xfkU0igu8C",
+   "volumeInfo": {
+    "title": "Women in the New Testament",
+    "authors": [
+     "Mary Ann Getty-Sullivan"
+    ],
+    "publisher": "Liturgical Pr",
+    "publishedDate": "2001-07",
+    "description": "Emmanuel?This book shows how the stories of women are an integral part of the gospel and its meaning for us.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0814625460"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780814625460"
+     }
+    ],
+    "pageCount": 269,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dQ0xfkU0igu8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dQ0xfkU0igu8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQ0xfkU0igu8C&printsec\u003dfrontcover&dq\u003dWomen&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQ0xfkU0igu8C&dq\u003dWomen&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QMVWAAAAYAAJ",
+   "etag": "9F9Czo6S3Bs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QMVWAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Women",
+    "subtitle": "American women in their own words",
+    "authors": [
+     "Mark Baker"
+    ],
+    "publisher": "Pocket Books",
+    "publishedDate": "1991-04",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PSU:000049959147"
+     }
+    ],
+    "pageCount": 369,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id\u003dQMVWAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id\u003dQMVWAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dQMVWAAAAYAAJ&q\u003dWomen&dq\u003dWomen&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dQMVWAAAAYAAJ&dq\u003dWomen&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OUZGpHfAnjcC",
+   "etag": "5Lk/7I6Xw3I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OUZGpHfAnjcC",
+   "volumeInfo": {
+    "title": "Women & Money",
+    "subtitle": "Owning the Power to Control Your Destiny",
+    "authors": [
+     "Suze Orman"
+    ],
+    "publisher": "Spiegel & Grau",
+    "publishedDate": "2010-01-05",
+    "description": "In this groundbreaking book, Suze Orman, the nation&#39;s go-to expert on all things financial, investigates the complicated, dysfunctional relationship women have ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0812981316"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780812981315"
+     }
+    ],
+    "pageCount": 330,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 304,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dOUZGpHfAnjcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dOUZGpHfAnjcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOUZGpHfAnjcC&printsec\u003dfrontcover&dq\u003dWomen&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOUZGpHfAnjcC&dq\u003dWomen&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "V9S3keMnie8C",
+   "etag": "A6gPHQvxRvs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/V9S3keMnie8C",
+   "volumeInfo": {
+    "title": "Women's Bodies, Women's Wisdom (Revised Edition)",
+    "subtitle": "Creating Physical and Emotional Health and Healing",
+    "authors": [
+     "Christiane Northrup"
+    ],
+    "publisher": "Bantam",
+    "publishedDate": "2010-06-01",
+    "description": "Demonstrates the synergy of physical and spiritual healing through the use of herbal medicine and other alternative methods that complement a doctor&#39;s care.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0553807935"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780553807936"
+     }
+    ],
+    "pageCount": 931,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dV9S3keMnie8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dV9S3keMnie8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dV9S3keMnie8C&printsec\u003dfrontcover&dq\u003dWomen&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dV9S3keMnie8C&dq\u003dWomen&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jWnxX6StvS0C",
+   "etag": "T37ncNj9Uyw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jWnxX6StvS0C",
+   "volumeInfo": {
+    "title": "Women",
+    "authors": [
+     "Charles Bukowski"
+    ],
+    "publisher": "Ecco",
+    "publishedDate": "2007-02-15",
+    "description": "Tells the story of an ugly middle-aged man who has gone unloved for too long, but a change comes over him at the age of fifty as he begins more and more ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0061177598"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780061177590"
+     }
+    ],
+    "pageCount": 290,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 460,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003djWnxX6StvS0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003djWnxX6StvS0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djWnxX6StvS0C&pg\u003dPP1&dq\u003dWomen&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djWnxX6StvS0C&dq\u003dWomen&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003djWnxX6StvS0C&dq\u003dWomen&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Women-sample-epub.acsm?id\u003djWnxX6StvS0C&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 594
+}

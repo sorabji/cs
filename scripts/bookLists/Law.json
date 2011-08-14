@@ -1,0 +1,557 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "DZKE3-pV1AYC",
+   "etag": "Y0DgEzgUZXQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DZKE3-pV1AYC",
+   "volumeInfo": {
+    "title": "The Law",
+    "authors": [
+     "Frédéric Bastiat"
+    ],
+    "publishedDate": "2007-06-22",
+    "description": "THE LAW1 The \u003cb\u003elaw\u003c/b\u003e perverted! The \u003cb\u003elaw\u003c/b\u003e—and, in its wake, all the collective forces \u003cbr\u003e\r\nof the nation—the \u003cb\u003elaw\u003c/b\u003e, I say, not only diverted from its proper direction, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1933550147"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781933550145"
+     }
+    ],
+    "pageCount": 61,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 118,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dDZKE3-pV1AYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dDZKE3-pV1AYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dDZKE3-pV1AYC&pg\u003dPP1&dq\u003dLaw&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dDZKE3-pV1AYC&dq\u003dLaw&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 4.2,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 3.15,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dDZKE3-pV1AYC&dq\u003dLaw&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FYO1ryNh7wUC",
+   "etag": "vX0QyISQsds",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FYO1ryNh7wUC",
+   "volumeInfo": {
+    "title": "Law",
+    "subtitle": "key concepts in philosophy",
+    "authors": [
+     "David Ingram"
+    ],
+    "publisher": "Continuum Intl Pub Group",
+    "publishedDate": "2006",
+    "description": "Clear, concise and comprehensive, this is the ideal introduction to the philosophy of law for those studying it for the first time.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0826478220"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780826478221"
+     }
+    ],
+    "pageCount": 217,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dFYO1ryNh7wUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dFYO1ryNh7wUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dFYO1ryNh7wUC&printsec\u003dfrontcover&dq\u003dLaw&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dFYO1ryNh7wUC&dq\u003dLaw&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6OJf9CbgKTkC",
+   "etag": "/I7vnkCh9nA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6OJf9CbgKTkC",
+   "volumeInfo": {
+    "title": "The civil law tradition",
+    "subtitle": "an introduction to the legal systems of Europe and Latin America",
+    "authors": [
+     "John Henry Merryman",
+     "Rogelio Pérez-Perdomo"
+    ],
+    "publisher": "Stanford Univ Pr",
+    "publishedDate": "2007",
+    "description": "Designed for the general reader and students of law, this is a concise history and analysis of the civil law tradition, which is dominant in most of Europe, all ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0804755698"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780804755696"
+     }
+    ],
+    "pageCount": 173,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003d6OJf9CbgKTkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003d6OJf9CbgKTkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d6OJf9CbgKTkC&printsec\u003dfrontcover&dq\u003dLaw&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d6OJf9CbgKTkC&dq\u003dLaw&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "y8E9EbCUJIcC",
+   "etag": "Ou7TVWSAGOk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/y8E9EbCUJIcC",
+   "volumeInfo": {
+    "title": "Law of Attraction",
+    "subtitle": "The Science of Attracting More of What You Want and Less of What You Don't",
+    "authors": [
+     "Michael J. Losier"
+    ],
+    "publisher": "Wellness Central",
+    "publishedDate": "2007-06-11",
+    "description": "Presents a three-step program for using the Law of Attraction to assist with such things as attracting an ideal mate, increasing wealth, gaining more customers, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0446199745"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780446199742"
+     }
+    ],
+    "pageCount": 142,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 83,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dy8E9EbCUJIcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dy8E9EbCUJIcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dy8E9EbCUJIcC&printsec\u003dfrontcover&dq\u003dLaw&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dy8E9EbCUJIcC&dq\u003dLaw&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dy8E9EbCUJIcC&dq\u003dLaw&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Law_of_Attraction-sample-epub.acsm?id\u003dy8E9EbCUJIcC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dZc8AAAAIAAJ",
+   "etag": "p9Tt8dzp+nE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dZc8AAAAIAAJ",
+   "volumeInfo": {
+    "title": "The law",
+    "subtitle": "business or profession?",
+    "authors": [
+     "Julius Henry Cohen"
+    ],
+    "publishedDate": "1916",
+    "description": "THE \u003cb\u003eLAW\u003c/b\u003e — BUSINESS OR PROFESSION* BOOK I— BUSINESS? CHAPTER I When, a few \u003cbr\u003e\r\nFridays back, the newsboy handed him his \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105044017510"
+     }
+    ],
+    "pageCount": 415,
+    "printType": "BOOK",
+    "categories": [
+     "Lawyers"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003ddZc8AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003ddZc8AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003ddZc8AAAAIAAJ&printsec\u003dfrontcover&dq\u003dLaw&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003ddZc8AAAAIAAJ&dq\u003dLaw&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/The_law.epub?id\u003ddZc8AAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_law.pdf?id\u003ddZc8AAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U2Wi1ICWvhpOJd9Gt041aCSvL11Ew&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2cCvRL7L7foC",
+   "etag": "rvesfGsJ8rg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2cCvRL7L7foC",
+   "volumeInfo": {
+    "title": "Law",
+    "subtitle": "a personal view",
+    "authors": [
+     "Albert Armin Ehrenzweig"
+    ],
+    "publisher": "Kluwer Law International",
+    "publishedDate": "1977",
+    "description": "It is not different with a definition of &quot;\u003cb\u003elaw\u003c/b\u003e.&quot; \u003cb\u003eLaw\u003c/b\u003e has always been made, taught\u003cbr\u003e\r\n, fought, and remade in the name of justice. Yet, justice has remained \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9028604073"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789028604070"
+     }
+    ],
+    "pageCount": 163,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003d2cCvRL7L7foC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003d2cCvRL7L7foC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d2cCvRL7L7foC&printsec\u003dfrontcover&dq\u003dLaw&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d2cCvRL7L7foC&dq\u003dLaw&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Yf5queLIuH8C",
+   "etag": "27T+xvJoze0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Yf5queLIuH8C",
+   "volumeInfo": {
+    "title": "Environmental law",
+    "subtitle": "examples & explanations",
+    "authors": [
+     "Steven Ferrey"
+    ],
+    "publisher": "Aspen Law & Business",
+    "publishedDate": "2009-12-18",
+    "description": "Examples &amp; Explanations: Environmental Law, Fifth Edition, features: broad coverage that includes 20 areas of environmental law in 15 chapters, with consistent ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0735588732"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780735588738"
+     }
+    ],
+    "pageCount": 671,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dYf5queLIuH8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dYf5queLIuH8C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dYf5queLIuH8C&printsec\u003dfrontcover&dq\u003dLaw&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dYf5queLIuH8C&dq\u003dLaw&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xXouAAAAIAAJ",
+   "etag": "Rw9F7Oym9L8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xXouAAAAIAAJ",
+   "volumeInfo": {
+    "title": "The common law",
+    "authors": [
+     "Oliver Wendell Holmes"
+    ],
+    "publishedDate": "1909",
+    "description": "The object of this book is to present a general view of the Common \u003cb\u003eLaw\u003c/b\u003e. To \u003cbr\u003e\r\naccomplish the task, otheK tools are needed besides logic. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105061203688"
+     }
+    ],
+    "pageCount": 422,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003dxXouAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003dxXouAAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dxXouAAAAIAAJ&printsec\u003dfrontcover&dq\u003dLaw&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dxXouAAAAIAAJ&dq\u003dLaw&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/The_common_law.epub?id\u003dxXouAAAAIAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/The_common_law.pdf?id\u003dxXouAAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3lzy75mUtqvMMjx02a4mBIIIVPCA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XNMOAAAAQAAJ",
+   "etag": "6dnK+6p2Uzk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XNMOAAAAQAAJ",
+   "volumeInfo": {
+    "title": "The law",
+    "authors": [
+     "Jeremy Waldron"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1990-06-07",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415014271"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415014274"
+     }
+    ],
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dXNMOAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dXNMOAAAAQAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dXNMOAAAAQAAJ&dq\u003dLaw&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dXNMOAAAAQAAJ&dq\u003dLaw&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mleVxfhOUHIC",
+   "etag": "G0JWdDf2Q3k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mleVxfhOUHIC",
+   "volumeInfo": {
+    "title": "Introduction to Law",
+    "authors": [
+     "Beth Walston-Dunham"
+    ],
+    "publisher": "Delmar Pub",
+    "publishedDate": "2008-07-14",
+    "description": "This is followed by chapters that address each of the primary substantive areas of law.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "142831850X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781428318502"
+     }
+    ],
+    "pageCount": 602,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dmleVxfhOUHIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dmleVxfhOUHIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dmleVxfhOUHIC&printsec\u003dfrontcover&dq\u003dLaw&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dmleVxfhOUHIC&dq\u003dLaw&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 591
+}

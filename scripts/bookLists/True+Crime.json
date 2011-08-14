@@ -1,0 +1,544 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ZpKQR2l4ddUC",
+   "etag": "B3qqZ+V3N3Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZpKQR2l4ddUC",
+   "volumeInfo": {
+    "title": "True Crime",
+    "subtitle": "The Novel",
+    "authors": [
+     "Andrew Klavan"
+    ],
+    "publisher": "Random House, Inc.",
+    "publishedDate": "1997-08-11",
+    "description": "Reporter Steve Everett must race against time and will stop at nothing to prove that prisoner Frank Beachum is innocent of the crime for which he is about to be ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0440224039"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780440224037"
+     }
+    ],
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 17,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dZpKQR2l4ddUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dZpKQR2l4ddUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dZpKQR2l4ddUC&printsec\u003dfrontcover&dq\u003dTrue+Crime&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dZpKQR2l4ddUC&dq\u003dTrue+Crime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 6.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 6.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dZpKQR2l4ddUC&dq\u003dTrue+Crime&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/True_Crime-sample-epub.acsm?id\u003dZpKQR2l4ddUC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "23RXxMOu8SQC",
+   "etag": "/6SFxttRaWE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/23RXxMOu8SQC",
+   "volumeInfo": {
+    "title": "True crime",
+    "subtitle": "observations on violence and modernity",
+    "authors": [
+     "Mark Seltzer"
+    ],
+    "publisher": "CRC Press",
+    "publishedDate": "2007",
+    "description": "True Crime carries the argument of Serial Killers into a broader arena.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415977940"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415977944"
+     }
+    ],
+    "pageCount": 185,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003d23RXxMOu8SQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003d23RXxMOu8SQC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d23RXxMOu8SQC&printsec\u003dfrontcover&dq\u003dTrue+Crime&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d23RXxMOu8SQC&dq\u003dTrue+Crime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/True_crime-sample-epub.acsm?id\u003d23RXxMOu8SQC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "77oN1OTqPfgC",
+   "etag": "x9DEsCTLJ4U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/77oN1OTqPfgC",
+   "volumeInfo": {
+    "title": "Seventeen Real Girls, Real-Life Stories: True Crime",
+    "authors": [
+     "Seventeen Magazine"
+    ],
+    "publisher": "Hearst Books",
+    "publishedDate": "2007-06-01",
+    "description": "Tells true stories about girls involved in crime who overcame incredible odds, yielded to peer pressure, or acted heroically.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1588166481"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781588166487"
+     }
+    ],
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 11,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d77oN1OTqPfgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d77oN1OTqPfgC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d77oN1OTqPfgC&printsec\u003dfrontcover&dq\u003dTrue+Crime&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d77oN1OTqPfgC&dq\u003dTrue+Crime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jlUfAQAAIAAJ",
+   "etag": "gFB3e3CNqKM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jlUfAQAAIAAJ",
+   "volumeInfo": {
+    "title": "True crime",
+    "subtitle": "an American anthology",
+    "authors": [
+     "Harold Schechter"
+    ],
+    "publishedDate": "2008",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105131607314"
+     }
+    ],
+    "pageCount": 788,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 16,
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003djlUfAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003djlUfAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003djlUfAQAAIAAJ&q\u003dTrue+Crime&dq\u003dTrue+Crime&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003djlUfAQAAIAAJ&dq\u003dTrue+Crime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_skvHuaj9TwC",
+   "etag": "iONm5UAinKk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_skvHuaj9TwC",
+   "volumeInfo": {
+    "title": "You Belong to Me and Other True Crime Cases",
+    "authors": [
+     "Ann Rule"
+    ],
+    "publisher": "Pocket",
+    "publishedDate": "1994-09-01",
+    "description": "The author of The Stranger Beside Me presents a second collection of true-crime writings, including the story of Tim Harris, a Florida state trooper who hid ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0671793543"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780671793548"
+     }
+    ],
+    "pageCount": 480,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 18,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d_skvHuaj9TwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d_skvHuaj9TwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d_skvHuaj9TwC&printsec\u003dfrontcover&dq\u003dTrue+Crime&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d_skvHuaj9TwC&dq\u003dTrue+Crime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UuCRV0SsZdEC",
+   "etag": "EbQ6vHouzlE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UuCRV0SsZdEC",
+   "volumeInfo": {
+    "title": "True crime",
+    "authors": [
+     "Nick Yapp",
+     "Mark Fletcher"
+    ],
+    "publisher": "Parragon Inc",
+    "publishedDate": "2006-12",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "140548540X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405485401"
+     }
+    ],
+    "pageCount": 303,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dUuCRV0SsZdEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dUuCRV0SsZdEC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dUuCRV0SsZdEC&q\u003dTrue+Crime&dq\u003dTrue+Crime&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dUuCRV0SsZdEC&dq\u003dTrue+Crime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vLn6FEaT4NcC",
+   "etag": "RSlZVYQqM2I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vLn6FEaT4NcC",
+   "volumeInfo": {
+    "title": "True Crime Stories",
+    "authors": [
+     "Max Haines"
+    ],
+    "publisher": "Barnes & Noble Publishing",
+    "publishedDate": "2005",
+    "description": "Assorted Wives Throughout the checkered history of \u003cb\u003ecrime\u003c/b\u003e we often come across \u003cbr\u003e\r\ngentlemen who favour having more than one wife at a time. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0760762589"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780760762585"
+     }
+    ],
+    "pageCount": 330,
+    "printType": "BOOK",
+    "categories": [
+     "Murderers"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dvLn6FEaT4NcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dvLn6FEaT4NcC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dvLn6FEaT4NcC&printsec\u003dfrontcover&dq\u003dTrue+Crime&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dvLn6FEaT4NcC&dq\u003dTrue+Crime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tT6PQAAACAAJ",
+   "etag": "6tgPNmhvQCs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tT6PQAAACAAJ",
+   "volumeInfo": {
+    "title": "True Crime",
+    "subtitle": "The Infamous Villains of Modern History and Their Hideous Crimes",
+    "authors": [
+     "Martin Fido",
+     "David Southwell"
+    ],
+    "publisher": "Carlton Books Ltd",
+    "publishedDate": "2010-08-03",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1847325246"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781847325242"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dtT6PQAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dtT6PQAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dtT6PQAAACAAJ&dq\u003dTrue+Crime&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dtT6PQAAACAAJ&dq\u003dTrue+Crime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Y0A5qqmzAUIC",
+   "etag": "chOhewvH16s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Y0A5qqmzAUIC",
+   "volumeInfo": {
+    "title": "True Crime",
+    "subtitle": "Streets of L.A. Official Strategy Guide",
+    "authors": [
+     "Tim Bogenn"
+    ],
+    "publisher": "Bradygames",
+    "publishedDate": "2003-10-28",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0744002842"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780744002843"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Games"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dY0A5qqmzAUIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dY0A5qqmzAUIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dY0A5qqmzAUIC&q\u003dTrue+Crime&dq\u003dTrue+Crime&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dY0A5qqmzAUIC&dq\u003dTrue+Crime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MN8AAAAACAAJ",
+   "etag": "CH5xdi+gphE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MN8AAAAACAAJ",
+   "volumeInfo": {
+    "title": "True Crime",
+    "subtitle": "G-Men & Gansters - From Slum Gangs to the Mafia",
+    "authors": [
+     "Max Allan Collins",
+     "George Hagenauer"
+    ],
+    "publisher": "Diane Books Publishing Company",
+    "publishedDate": "1998-09",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "078815561X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780788155611"
+     }
+    ],
+    "pageCount": 61,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003dMN8AAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003dMN8AAAAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMN8AAAAACAAJ&dq\u003dTrue+Crime&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMN8AAAAACAAJ&dq\u003dTrue+Crime&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ],
+ "totalItems": 589
+}

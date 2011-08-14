@@ -1,0 +1,615 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "EjW6cCE4v1QC",
+   "etag": "3Cb2GzuTaTs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EjW6cCE4v1QC",
+   "volumeInfo": {
+    "title": "Animation",
+    "subtitle": "the whole story",
+    "authors": [
+     "Howard Beckerman"
+    ],
+    "publisher": "Allworth Pr",
+    "publishedDate": "2003-09-01",
+    "description": "This expert guide provides animation artists with all the tools and know-howhey need to get started.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1581153015"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781581153019"
+     }
+    ],
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dEjW6cCE4v1QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dEjW6cCE4v1QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEjW6cCE4v1QC&printsec\u003dfrontcover&dq\u003dAnimation&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEjW6cCE4v1QC&dq\u003dAnimation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.72,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dEjW6cCE4v1QC&dq\u003dAnimation&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Animation-sample-pdf.acsm?id\u003dEjW6cCE4v1QC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EgpLtpZDGCYC",
+   "etag": "UNbrNzW8ek0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EgpLtpZDGCYC",
+   "volumeInfo": {
+    "title": "Animation",
+    "subtitle": "the mechanics of motion",
+    "authors": [
+     "Chris Webster"
+    ],
+    "publisher": "Focal Press",
+    "publishedDate": "2005-08-18",
+    "description": "A guide to the fundamental principles of animation covers figurative animation, timing, acting, design, animals in motion, sound synchronization, and technical ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0240516664"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780240516660"
+     }
+    ],
+    "pageCount": 259,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dEgpLtpZDGCYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dEgpLtpZDGCYC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dEgpLtpZDGCYC&printsec\u003dfrontcover&dq\u003dAnimation&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dEgpLtpZDGCYC&dq\u003dAnimation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 52.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 42.36,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dEgpLtpZDGCYC&dq\u003dAnimation&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Animation-sample-epub.acsm?id\u003dEgpLtpZDGCYC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Animation-sample-pdf.acsm?id\u003dEgpLtpZDGCYC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Nj3hwD1Sk-QC",
+   "etag": "etZOS9lTeHs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Nj3hwD1Sk-QC",
+   "volumeInfo": {
+    "title": "Animation",
+    "subtitle": "genre and authorship",
+    "authors": [
+     "Paul Wells"
+    ],
+    "publisher": "Wallflower Press",
+    "publishedDate": "2002",
+    "description": "The book also includes interviews with Ray Harryhausen and Caroline Leaf, and a full &quot;timeline&quot; of the history of animation.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1903364205"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781903364208"
+     }
+    ],
+    "pageCount": 149,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dNj3hwD1Sk-QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dNj3hwD1Sk-QC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dNj3hwD1Sk-QC&printsec\u003dfrontcover&dq\u003dAnimation&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dNj3hwD1Sk-QC&dq\u003dAnimation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lP5uw516QXIC",
+   "etag": "UNEM8HkkUDQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lP5uw516QXIC",
+   "volumeInfo": {
+    "title": "Computer animation",
+    "subtitle": "algorithms and techniques",
+    "authors": [
+     "Rick Parent"
+    ],
+    "publisher": "Morgan Kaufmann Pub",
+    "publishedDate": "2002",
+    "description": "For programmers, this book provides a solid theoretical orientation and extensive practical instruction-information you can put to work in any development or ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1558605797"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781558605794"
+     }
+    ],
+    "pageCount": 527,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dlP5uw516QXIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dlP5uw516QXIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dlP5uw516QXIC&printsec\u003dfrontcover&dq\u003dAnimation&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dlP5uw516QXIC&dq\u003dAnimation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 86.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 69.56,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dlP5uw516QXIC&dq\u003dAnimation&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Computer_animation-sample-pdf.acsm?id\u003dlP5uw516QXIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9ELM51OKzA0C",
+   "etag": "MowVc0q8hhY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9ELM51OKzA0C",
+   "volumeInfo": {
+    "title": "Animation now!",
+    "authors": [
+     "Rida Queiroz",
+     "Julius Wiedemann"
+    ],
+    "publisher": "Taschen America Llc",
+    "publishedDate": "2004",
+    "description": "Arranged A-to-Z, this book profiles 80 of the world&#39;s most prominent artist/studios, including examples and descriptions of their work, as well a biographies, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3822825883"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783822825884"
+     }
+    ],
+    "pageCount": 573,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003d9ELM51OKzA0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003d9ELM51OKzA0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "un",
+    "previewLink": "http://books.google.com/books?id\u003d9ELM51OKzA0C&printsec\u003dfrontcover&dq\u003dAnimation&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d9ELM51OKzA0C&dq\u003dAnimation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "e4t7AQAACAAJ",
+   "etag": "ixvOtnKFWkc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/e4t7AQAACAAJ",
+   "volumeInfo": {
+    "title": "Animation",
+    "subtitle": "art & industry",
+    "authors": [
+     "Maureen Furniss"
+    ],
+    "publisher": "John Libbey & Co Ltd",
+    "publishedDate": "2009-05",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0861966805"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780861966806"
+     }
+    ],
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003de4t7AQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003de4t7AQAACAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003de4t7AQAACAAJ&dq\u003dAnimation&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003de4t7AQAACAAJ&dq\u003dAnimation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "D2C9AJLVKKUC",
+   "etag": "c3ShWVdOMp8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/D2C9AJLVKKUC",
+   "volumeInfo": {
+    "title": "Animation",
+    "subtitle": "form follows fun : look",
+    "authors": [
+     "Regina Dahmen-Ingenhoven"
+    ],
+    "publisher": "Birkhauser",
+    "publishedDate": "2004-08-10",
+    "description": "With a wealth of international examples ranging from the prototype Disneyland where Walt Disney&#39;s concepts of animation were congenially transformed into ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3764366311"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783764366315"
+     }
+    ],
+    "pageCount": 359,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id\u003dD2C9AJLVKKUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id\u003dD2C9AJLVKKUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dD2C9AJLVKKUC&printsec\u003dfrontcover&dq\u003dAnimation&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dD2C9AJLVKKUC&dq\u003dAnimation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 50.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 40.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dD2C9AJLVKKUC&dq\u003dAnimation&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Animation-sample-pdf.acsm?id\u003dD2C9AJLVKKUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OS5OOYNMjEIC",
+   "etag": "GQnZB8FhKLE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OS5OOYNMjEIC",
+   "volumeInfo": {
+    "title": "Your career in animation",
+    "subtitle": "how to survive and thrive",
+    "authors": [
+     "David B. Levy"
+    ],
+    "publisher": "Allworth Pr",
+    "publishedDate": "2006-05-01",
+    "description": "Great ideas for animators who are starting out or looking for their next job Packed with information and insights Perfect for film students and art students ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1581154453"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781581154450"
+     }
+    ],
+    "pageCount": 241,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id\u003dOS5OOYNMjEIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id\u003dOS5OOYNMjEIC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dOS5OOYNMjEIC&printsec\u003dfrontcover&dq\u003dAnimation&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dOS5OOYNMjEIC&dq\u003dAnimation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dOS5OOYNMjEIC&dq\u003dAnimation&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Your_career_in_animation-sample-epub.acsm?id\u003dOS5OOYNMjEIC&format\u003depub&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Your_career_in_animation-sample-pdf.acsm?id\u003dOS5OOYNMjEIC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WKp2Ki_HracC",
+   "etag": "3JeFfYCIQNE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WKp2Ki_HracC",
+   "volumeInfo": {
+    "title": "Character animation in 3D",
+    "subtitle": "use traditional drawing techniques to produce stunning CGI animation",
+    "authors": [
+     "Steve Roberts"
+    ],
+    "publisher": "Focal Press",
+    "publishedDate": "2004",
+    "description": "Providing a broad coverage this book will be relevant whatever 3D package you use, Softimage XSI, Maya, 3ds max or LightWave.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0240516656"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780240516653"
+     }
+    ],
+    "pageCount": 245,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dWKp2Ki_HracC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dWKp2Ki_HracC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dWKp2Ki_HracC&printsec\u003dfrontcover&dq\u003dAnimation&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dWKp2Ki_HracC&dq\u003dAnimation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 29.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003dWKp2Ki_HracC&dq\u003dAnimation&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Character_animation_in_3D-sample-pdf.acsm?id\u003dWKp2Ki_HracC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RTHoqHf6OKkC",
+   "etag": "royVfoKPHkU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RTHoqHf6OKkC",
+   "volumeInfo": {
+    "title": "Animation",
+    "subtitle": "A Handy Guide",
+    "authors": [
+     "Sheila Graber"
+    ],
+    "publisher": "A&C Black",
+    "publishedDate": "2011-03-15",
+    "description": "Accompanying DVD-ROM contains examples, an animation flick book program, and Web links.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1408102838"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781408102831"
+     }
+    ],
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id\u003dRTHoqHf6OKkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id\u003dRTHoqHf6OKkC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dRTHoqHf6OKkC&printsec\u003dfrontcover&dq\u003dAnimation&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dRTHoqHf6OKkC&dq\u003dAnimation&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Animation-sample-pdf.acsm?id\u003dRTHoqHf6OKkC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ],
+ "totalItems": 515
+}

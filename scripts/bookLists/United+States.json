@@ -1,0 +1,531 @@
+{
+ "kind": "books#volumes",
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "iXzP_iYzOZwC",
+   "etag": "dHntaCYgaqQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iXzP_iYzOZwC",
+   "volumeInfo": {
+    "title": "The United States",
+    "subtitle": "a history of the Republic",
+    "authors": [
+     "James West Davidson",
+     "Mark H. Lytle"
+    ],
+    "publisher": "Prentice Hall",
+    "publishedDate": "1981-01",
+    "description": "399 Urban and Rural Population, 1850-1900 423 Immigration to the \u003cb\u003eUnited States\u003c/b\u003e, \u003cbr\u003e\r\n1840-1900 428 Election of 1912 477 Immigration to the \u003cb\u003eUnited States\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0139379959"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780139379956"
+     }
+    ],
+    "pageCount": 799,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id\u003diXzP_iYzOZwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id\u003diXzP_iYzOZwC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003diXzP_iYzOZwC&q\u003dUnited+States&dq\u003dUnited+States&ie\u003dISO-8859-1&cd\u003d1&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003diXzP_iYzOZwC&dq\u003dUnited+States&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GdEUAAAAYAAJ",
+   "etag": "3OEPrweSvW0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GdEUAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Indian affairs",
+    "subtitle": "Laws and treaties",
+    "authors": [
+     "United States"
+    ],
+    "publishedDate": "1903",
+    "description": "Behalf of the \u003cb\u003eUnited States\u003c/b\u003e of North- America of the one Part, and Capt. \u003cb\u003e...\u003c/b\u003e And \u003cbr\u003e\r\nwhereas the \u003cb\u003eUnited States\u003c/b\u003e are engaged in a just and necessary \u003cb\u003eunited states\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HL4O29"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Indians of North America"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id\u003dGdEUAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id\u003dGdEUAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dGdEUAAAAYAAJ&pg\u003dPA1&dq\u003dUnited+States&ie\u003dISO-8859-1&cd\u003d2&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dGdEUAAAAYAAJ&dq\u003dUnited+States&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/Indian_affairs.pdf?id\u003dGdEUAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U36nTxvvVc2ZjTJYAuobHG5tU5erw&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0RE5AAAAIAAJ",
+   "etag": "v7E3ybzh1o0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0RE5AAAAIAAJ",
+   "volumeInfo": {
+    "title": "United States compiled statutes, annotated, 1916",
+    "authors": [
+     "United States"
+    ],
+    "publishedDate": "1916",
+    "description": "All persons within the jurisdiction of the \u003cb\u003eUnited States\u003c/b\u003e are entitled to the \u003cbr\u003e\r\nsame right to give evidence as are white citizens, by RS i 1977, post, J 3925. \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105063033505"
+     }
+    ],
+    "pageCount": 16099,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d0RE5AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d0RE5AAAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d0RE5AAAAIAAJ&pg\u003dPA2351&dq\u003dUnited+States&ie\u003dISO-8859-1&cd\u003d3&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d0RE5AAAAIAAJ&dq\u003dUnited+States&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/United_States_compiled_statutes_annotate.pdf?id\u003d0RE5AAAAIAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0LP493B_zKZhhqYSpJTYtdPCkC-A&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-50MqSK2I8IC",
+   "etag": "GqrgbL/cMv4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-50MqSK2I8IC",
+   "volumeInfo": {
+    "title": "United States congressional districts, 1883-1913",
+    "authors": [
+     "Stanley B. Parsons",
+     "Michael J. Dubin",
+     "Karen Toombs Parsons"
+    ],
+    "publisher": "Greenwood Pub Group",
+    "publishedDate": "1990-05-21",
+    "description": "This is the third volume in a multi-volume reference work that will present demographic data from the United States census for each congressional district from ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0313264821"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780313264825"
+     }
+    ],
+    "pageCount": 439,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id\u003d-50MqSK2I8IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id\u003d-50MqSK2I8IC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d-50MqSK2I8IC&printsec\u003dfrontcover&dq\u003dUnited+States&ie\u003dISO-8859-1&cd\u003d4&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d-50MqSK2I8IC&dq\u003dUnited+States&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 159.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 127.96,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d-50MqSK2I8IC&dq\u003dUnited+States&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/United_States_congressional_districts_18-sample-pdf.acsm?id\u003d-50MqSK2I8IC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "P2c-AAAAYAAJ",
+   "etag": "GUxIJoMvYhs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/P2c-AAAAYAAJ",
+   "volumeInfo": {
+    "title": "United States steel corporation",
+    "subtitle": "Hearings before the Committee on investigation of United States steel corporation. House of representatives. [In eight volumes]",
+    "authors": [
+     "United States. Congress. House. Committee on Investigation of United States Steel Corporation",
+     "Augustus Owsley Stanley",
+     "Farquhar J. MacRae",
+     "United States. Bureau of Corporations",
+     "United States. Congress. Senate. Committee on the Judiciary"
+    ],
+    "publishedDate": "1912",
+    "description": "HEARINGS REFORE THE COMMITTEE ON INVESTIGATION OF \u003cb\u003eUNITED STATES\u003c/b\u003e STEEL \u003cbr\u003e\r\nCORPORATION HOUSE OF REPRESENTATIVES (IN EIGHT VOLUMES) VOL. 5 HEARINGS 3STOS. \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HX7DZN"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dP2c-AAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dP2c-AAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dP2c-AAAAYAAJ&printsec\u003dfrontcover&dq\u003dUnited+States&ie\u003dISO-8859-1&cd\u003d5&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dP2c-AAAAYAAJ&dq\u003dUnited+States&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/United_States_steel_corporation.pdf?id\u003dP2c-AAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U0UhISgmOARbTTx-0gFS8nne6jn1g&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "knwSAAAAYAAJ",
+   "etag": "bdtWODfqpZM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/knwSAAAAYAAJ",
+   "volumeInfo": {
+    "title": "United States statutes concerning the registration of trade-marks",
+    "subtitle": "with the Rules of the Patent office relating thereto",
+    "authors": [
+     "United States"
+    ],
+    "publishedDate": "1920",
+    "description": "Be it enacted by the Senate and House of Representatives of the \u003cb\u003eUnited States\u003c/b\u003e of \u003cbr\u003e\r\nAmerica in Congress assembled, That the owner of a trademark used in \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HL5ND3"
+     }
+    ],
+    "pageCount": 46,
+    "printType": "BOOK",
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dknwSAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dknwSAAAAYAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dknwSAAAAYAAJ&pg\u003dPA5&dq\u003dUnited+States&ie\u003dISO-8859-1&cd\u003d6&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dknwSAAAAYAAJ&dq\u003dUnited+States&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "downloadLink": "http://books.google.com/books/download/United_States_statutes_concerning_the_re.epub?id\u003dknwSAAAAYAAJ&ie\u003dISO-8859-1&output\u003depub&source\u003dgbs_api"
+    },
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/United_States_statutes_concerning_the_re.pdf?id\u003dknwSAAAAYAAJ&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3C2YX5gGLC5rJkt1FRmNc4OrOJVA&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CEJHAQAAIAAJ",
+   "etag": "NT4dYFEQ7bA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CEJHAQAAIAAJ",
+   "volumeInfo": {
+    "title": "United States earthquakes, 1980",
+    "authors": [
+     "Geological Survey (U.S.)"
+    ],
+    "publishedDate": "1982",
+    "description": "\u003cb\u003eUnited States\u003c/b\u003e Earthquakes, 1980 Carl W. Stover, \u003cb\u003eUS\u003c/b\u003e Geological Survey Carl A. von \u003cbr\u003e\r\nHake, NOAA, Environmental Data and Information Service Introduction \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105210360850"
+     }
+    ],
+    "pageCount": 182,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id\u003dCEJHAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&source\u003dgbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id\u003dCEJHAQAAIAAJ&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dCEJHAQAAIAAJ&q\u003dUnited+States&dq\u003dUnited+States&ie\u003dISO-8859-1&cd\u003d7&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dCEJHAQAAIAAJ&dq\u003dUnited+States&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yt9NAmyxI40C",
+   "etag": "laWbSeIxPQY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yt9NAmyxI40C",
+   "volumeInfo": {
+    "title": "United States Coast Guard",
+    "authors": [
+     "Jack David"
+    ],
+    "publisher": "Torque",
+    "publishedDate": "2008-01",
+    "description": "Describes the history of the United States Coast Guard, the different vehicles and tools they utilize, and life in the Coast Guard.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1600141633"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781600141638"
+     }
+    ],
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id\u003dyt9NAmyxI40C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id\u003dyt9NAmyxI40C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dyt9NAmyxI40C&printsec\u003dfrontcover&dq\u003dUnited+States&ie\u003dISO-8859-1&cd\u003d8&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dyt9NAmyxI40C&dq\u003dUnited+States&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7fQCJKSY7sUC",
+   "etag": "Miy6luz3Oug",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7fQCJKSY7sUC",
+   "volumeInfo": {
+    "title": "Air University Review",
+    "authors": [
+     "Air University (U.S.)",
+     "United States. Dept. of the Air Force"
+    ],
+    "publisher": "Llmc",
+    "description": "The assumption of this analysis, however, is that the \u003cb\u003eUnited States\u003c/b\u003e and the \u003cbr\u003e\r\nSoviet Union \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eUnited States\u003c/b\u003e and the Soviet Union will remain adversaries, \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "GGKEY:P8GNQ6AX04N"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003d7fQCJKSY7sUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003d7fQCJKSY7sUC&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003d7fQCJKSY7sUC&pg\u003dPP1&dq\u003dUnited+States&ie\u003dISO-8859-1&cd\u003d9&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003d7fQCJKSY7sUC&dq\u003dUnited+States&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id\u003d7fQCJKSY7sUC&dq\u003dUnited+States&ie\u003dISO-8859-1&buy\u003d&source\u003dgbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Air_University_Review-sample-pdf.acsm?id\u003d7fQCJKSY7sUC&format\u003dpdf&output\u003dacs4_fulfillment_token&dl_type\u003dsample&source\u003dgbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MezX4rzolE0C",
+   "etag": "W5E31oKswdY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MezX4rzolE0C",
+   "volumeInfo": {
+    "title": "United States Supreme Court reports",
+    "authors": [
+     "United States. Supreme Court",
+     "Walter Malins Rose",
+     "Lawyers Co-operative Publishing Company",
+     "LEXIS Law Publishing"
+    ],
+    "publishedDate": "1901",
+    "description": "First series, books 1-43, includes &quot;Notes on U.S. reports&quot; by Walter Malins Rose.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015031932463"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Law reports, digests, etc"
+    ],
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id\u003dMezX4rzolE0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d5&edge\u003dcurl&source\u003dgbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id\u003dMezX4rzolE0C&printsec\u003dfrontcover&img\u003d1&zoom\u003d1&edge\u003dcurl&source\u003dgbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id\u003dMezX4rzolE0C&printsec\u003dfrontcover&dq\u003dUnited+States&ie\u003dISO-8859-1&cd\u003d10&source\u003dgbs_api",
+    "infoLink": "http://books.google.com/books?id\u003dMezX4rzolE0C&dq\u003dUnited+States&ie\u003dISO-8859-1&source\u003dgbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "pdf": {
+     "downloadLink": "http://books.google.com/books/download/United_States_Supreme_Court_reports.pdf?id\u003dMezX4rzolE0C&ie\u003dISO-8859-1&output\u003dpdf&sig\u003dACfU3U3Ev-rh2m5a9-0KmwoIU975_hEpfQ&source\u003dgbs_api"
+    },
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN"
+   }
+  }
+ ],
+ "totalItems": 512
+}
