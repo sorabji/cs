@@ -1,6 +1,7 @@
 using System;
 namespace Books
 {
+	[Serializable]
 	public class Book
 	{
 		private string title,author,isbn;
@@ -62,7 +63,7 @@ namespace Books
 		
 		public override string ToString ()
 		{
-			return string.Format ("[Book: title={0}\nauthor={1}\nisbn={2}\nlistPrice={3}]\nretailPrice={4}\n\n", 
+			return string.Format ("[Book: title={0}\nauthor={1}\nisbn={2}\nlistPrice={3}]\nretailPrice={4}]\n\n", 
 			                      title, author, isbn, listPrice.ToString("C"),retailPrice.ToString("C"));
 		}
 		
