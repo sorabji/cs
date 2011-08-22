@@ -76,27 +76,25 @@
             // 
             // radDelivery
             // 
-            this.radDelivery.AutoCheck = false;
             this.radDelivery.AutoSize = true;
             this.radDelivery.Location = new System.Drawing.Point(6, 42);
             this.radDelivery.Name = "radDelivery";
             this.radDelivery.Size = new System.Drawing.Size(63, 17);
             this.radDelivery.TabIndex = 3;
-            this.radDelivery.TabStop = true;
             this.radDelivery.Text = "Delivery";
             this.radDelivery.UseVisualStyleBackColor = true;
+            this.radDelivery.CheckedChanged += new System.EventHandler(this.radDelivery_CheckedChanged);
             // 
             // radTakeOut
             // 
-            this.radTakeOut.AutoCheck = false;
             this.radTakeOut.AutoSize = true;
             this.radTakeOut.Location = new System.Drawing.Point(6, 19);
             this.radTakeOut.Name = "radTakeOut";
             this.radTakeOut.Size = new System.Drawing.Size(70, 17);
             this.radTakeOut.TabIndex = 4;
-            this.radTakeOut.TabStop = true;
             this.radTakeOut.Text = "Take Out";
             this.radTakeOut.UseVisualStyleBackColor = true;
+            this.radTakeOut.CheckedChanged += new System.EventHandler(this.radTakeOut_CheckedChanged);
             // 
             // grpDeliverOptions
             // 
