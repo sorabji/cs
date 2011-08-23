@@ -11,8 +11,7 @@ namespace Exercise8
 {
     public partial class MainForm : Form
     {
-        Car[] cars;
-        Car c = new Car();
+        List<Car> cars;
         public MainForm()
         {
             InitializeComponent();
@@ -20,8 +19,13 @@ namespace Exercise8
 
         private void btnSubmit_Click(object sender, EventArgs e)
         {
-            new CarDetails(c).ShowDialog();
+            new CarDetails(cars[0]).ShowDialog();
             //lblInformation.Text = System.IO.Directory.GetCurrentDirectory();
+        }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+            cars = CarLib.CarHandler.GetCarList();
         }
     }
 }

@@ -59,6 +59,7 @@
             this.Controls.Add(this.btnSubmit);
             this.Name = "MainForm";
             this.Text = "Jim Bob\'s Used Cars";
+            this.Load += new System.EventHandler(this.MainForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -11,17 +11,25 @@ namespace Exercise8
 {
     public partial class CarDetails : Form
     {
-        Car c;
-        public CarDetails(Car c)
+        Car car;
+        public CarDetails(Car car)
         {
-            this.c = c;
+            this.car = car;
             InitializeComponent();
-            this.pictureBox1.BackgroundImage = new Bitmap("../../media\\pinto.jpg");
         }
 
         private void CarDetails_Load(object sender, EventArgs e)
         {
+            pictureBox1.Image = car.Image;
+            pictureBox1.Height = car.Image.Height;
+            pictureBox1.Width = car.Image.Width;
 
+            lblYear.Text = car.Year;
+            lblMake.Text = car.Make;
+            lblModel.Text = car.Model;
+            lblColor.Text = car.Color;
+
+            llblLink.Links.Add(0,0,"http://www.google.com/search?q=" + car.Query);
         }
 
         private void lblCarName_Click(object sender, EventArgs e)
@@ -33,6 +41,11 @@ namespace Exercise8
         {
             //this.DestroyHandle();
             this.Dispose();
+        }
+
+        private void llblLink_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start(e.Link.LinkData.ToString());
         }
 
 
