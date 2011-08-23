@@ -35,12 +35,14 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.lblHeading = new System.Windows.Forms.Label();
             this.lblInstructions = new System.Windows.Forms.Label();
+            this.btnExit = new System.Windows.Forms.Button();
+            this.lblError = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // btnSubmit
             // 
-            this.btnSubmit.Location = new System.Drawing.Point(367, 463);
+            this.btnSubmit.Location = new System.Drawing.Point(276, 463);
             this.btnSubmit.Name = "btnSubmit";
             this.btnSubmit.Size = new System.Drawing.Size(75, 23);
             this.btnSubmit.TabIndex = 0;
@@ -87,17 +89,40 @@
             // 
             this.lblInstructions.AutoSize = true;
             this.lblInstructions.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblInstructions.Location = new System.Drawing.Point(9, 359);
+            this.lblInstructions.Location = new System.Drawing.Point(9, 349);
             this.lblInstructions.Name = "lblInstructions";
             this.lblInstructions.Size = new System.Drawing.Size(220, 16);
             this.lblInstructions.TabIndex = 5;
             this.lblInstructions.Text = "Select a car to peep the deets!";
+            // 
+            // btnExit
+            // 
+            this.btnExit.Location = new System.Drawing.Point(367, 463);
+            this.btnExit.Name = "btnExit";
+            this.btnExit.Size = new System.Drawing.Size(75, 23);
+            this.btnExit.TabIndex = 6;
+            this.btnExit.Text = "Done";
+            this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
+            // 
+            // lblError
+            // 
+            this.lblError.AutoSize = true;
+            this.lblError.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblError.ForeColor = System.Drawing.Color.Red;
+            this.lblError.Location = new System.Drawing.Point(12, 375);
+            this.lblError.Name = "lblError";
+            this.lblError.Size = new System.Drawing.Size(47, 15);
+            this.lblError.TabIndex = 7;
+            this.lblError.Text = "label1";
             // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(454, 498);
+            this.Controls.Add(this.lblError);
+            this.Controls.Add(this.btnExit);
             this.Controls.Add(this.lblInstructions);
             this.Controls.Add(this.lblHeading);
             this.Controls.Add(this.pictureBox1);
@@ -121,6 +146,8 @@
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label lblHeading;
         private System.Windows.Forms.Label lblInstructions;
+        private System.Windows.Forms.Button btnExit;
+        private System.Windows.Forms.Label lblError;
     }
 }
 

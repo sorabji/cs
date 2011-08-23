@@ -40,11 +40,6 @@ namespace Exercise8
             {
                 this.query += item + "+";                
             }
-
-            foreach (String item in colors)
-            {
-                this.query += item + "+";                
-            }
         }
 
         public String Query

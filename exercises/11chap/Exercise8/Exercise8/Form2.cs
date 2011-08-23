@@ -22,7 +22,7 @@ namespace Exercise8
         {
             this.Text = car.Year + " " + car.Make;
             this.Size = new Size(car.Image.Width + 30,
-                car.Image.Height + 400);
+                car.Image.Height + 250);
 
             pictureBox1.Image = car.Image;
             pictureBox1.Height = car.Image.Height;
