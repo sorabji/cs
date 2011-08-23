@@ -21,6 +21,7 @@ namespace Exercise8
         private void btnSubmit_Click(object sender, EventArgs e)
         {
             new CarDetails(c).ShowDialog();
+            //lblInformation.Text = System.IO.Directory.GetCurrentDirectory();
         }
     }
 }

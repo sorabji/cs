@@ -16,6 +16,7 @@ namespace Exercise8
         {
             this.c = c;
             InitializeComponent();
+            this.pictureBox1.BackgroundImage = new Bitmap("../../media\\pinto.jpg");
         }
 
         private void CarDetails_Load(object sender, EventArgs e)
@@ -30,7 +31,10 @@ namespace Exercise8
 
         private void btnOk_Click(object sender, EventArgs e)
         {
-            this.DestroyHandle();
+            //this.DestroyHandle();
+            this.Dispose();
         }
+
+
     }
 }
