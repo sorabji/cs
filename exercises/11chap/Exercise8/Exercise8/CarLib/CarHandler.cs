@@ -17,8 +17,7 @@ namespace Exercise8.CarLib
         {
             List<Car> cars = new List<Car>();
             string[] tokens;
-            string query, 
-                   year,
+            string year,
                    make,
                    model,
                    color,
@@ -31,13 +30,12 @@ namespace Exercise8.CarLib
             while ((line = reader.ReadLine()) != null)
             {
                 tokens = line.Split(delim);
-                query = tokens[0];
-                year = tokens[1];
-                make = tokens[2];
-                model = tokens[3];
-                color = tokens[4];
-                image = System.Drawing.Image.FromFile(imagePathPrefix+tokens[5]);
-                cars.Add(new Car(query, year, make, model, color, image));
+                year = tokens[0];
+                make = tokens[1];
+                model = tokens[2];
+                color = tokens[3];
+                image = System.Drawing.Image.FromFile(imagePathPrefix+tokens[4]);
+                cars.Add(new Car(year, make, model, color, image));
             }
             reader.Close();
             carStream.Close();

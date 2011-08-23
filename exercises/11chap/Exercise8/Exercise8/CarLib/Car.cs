@@ -27,7 +27,24 @@ namespace Exercise8
 
             String[] makes = this.make.Split();
             String[] models = this.model.Split();
-            this.query = "";
+            String[] colors = this.color.Split();
+
+            this.query = this.year + "+";
+
+            foreach (String item in makes)
+            {
+                this.query += item + "+";                
+            }
+
+            foreach (String item in models)
+            {
+                this.query += item + "+";                
+            }
+
+            foreach (String item in colors)
+            {
+                this.query += item + "+";                
+            }
         }
 
         public String Query
@@ -64,6 +81,11 @@ namespace Exercise8
         {
             get { return image; }
             set { image = value; }
+        }
+
+        public override string ToString()
+        {
+            return "" + Year + " " + Make;
         }
     }
 }

@@ -19,13 +19,14 @@ namespace Exercise8
 
         private void btnSubmit_Click(object sender, EventArgs e)
         {
-            new CarDetails(cars[0]).ShowDialog();
-            //lblInformation.Text = System.IO.Directory.GetCurrentDirectory();
+            new CarDetails(cars[listBox.SelectedIndex]).ShowDialog();
+            listBox.SelectedIndex = -1;
         }
 
         private void MainForm_Load(object sender, EventArgs e)
         {
             cars = CarLib.CarHandler.GetCarList();
+            listBox.Items.AddRange(cars.ToArray());
         }
     }
 }

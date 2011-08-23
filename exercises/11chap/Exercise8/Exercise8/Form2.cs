@@ -20,6 +20,8 @@ namespace Exercise8
 
         private void CarDetails_Load(object sender, EventArgs e)
         {
+            this.Text = car.Year + " " + car.Make;
+
             pictureBox1.Image = car.Image;
             pictureBox1.Height = car.Image.Height;
             pictureBox1.Width = car.Image.Width;
